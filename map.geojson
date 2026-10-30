@@ -1,0 +1,394 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5660244,
+          46.7548885
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "name": "Arosa Lenzerheide",
+        "summary": "Ein Pilotprojekt soll im März starten, bei dem die Bahnen an Wochenenden und Feiertagen bereits um 7 Uhr in Betrieb genommen werden. Der Test ist als erster Schritt zur früheren Öffnung der Pisten geplant.",
+        "last_page_url": "https://alpinfans.com/viewtopic.php?t=66&start=100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0937739,
+          46.4023224
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:28 Uhr)",
+        "name": "Ski Civetta",
+        "summary": "Die neuen 10‑MGD Kabinen der Pian del Crep Seilbahn in Civetta stehen bereits in Reihe und zeigen damit einen konkreten Baufortschritt.",
+        "last_page_url": "https://www.funiforum.org/funiforum/node/290836/page3",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261026220037_IMG_6225.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1323186,
+          46.5685125
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:28 Uhr)",
+        "name": "Cortina d'Ampezzo",
+        "summary": "Eine neue Seilbahn ist auf den aktuellen Google‑Maps‑Satellitenbildern in Cortina d’Ampezzo sichtbar.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-in-cortina-dampezzo-misurina-passo-tre-croci-auronzo-di-cadore-monte-agudo.22700/page-24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8171312,
+          46.805189
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 10:30 Uhr)",
+        "name": "Davos Klosters",
+        "summary": "Im Skigebiet Parsenn (Davos Klosters) wird die bestehende Schiferbahn durch eine neue 10‑er‑Gondelbahn (D‑Line) zwischen Schifer und Weissfluhjoch ersetzt, mit einer Streckenlänge von ca. 5,3 km – die längste Einseilumlaufbahn der Alpen in einer Sektion.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-in-davos-klosters.686/page-129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6987026,
+          46.4489728
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 22:01 Uhr)",
+        "name": "Val di Fassa / Karerpass",
+        "summary": "In Canazei ist eine kuppelbare 6‑er‑Sesselbahn (Roseal‑Giumela) für die kommenden Jahre geplant, und die in Ciampac eingesetzte 4‑KSB‑Bahn soll nach der anstehenden 30‑Jahre‑Revision durch einen Neubau ersetzt werden.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-im-val-di-fassa-fassatal-karerpass-passo-di-costalunga.5791/page-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9143318,
+          46.69476
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 10:30 Uhr)",
+        "name": "Gerlitzen",
+        "summary": "Die neue Zehner‑Gondelbahn (Kanzelbahn II) auf der Gerlitzen wurde feierlich eröffnet; das 22 Millionen‑Euro‑Projekt hat eine Kapazität von bis zu 4000 Gästen pro Stunde.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-auf-der-gerlitzen.3461/page-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6648069,
+          47.0857251
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "name": "Hintertuxer Gletscher",
+        "summary": "Die neue schwarze Piste 13a an der Lärmstange 1 ist fertig gebaut. Sie ist bereits vor Ort vorhanden, obwohl sie noch nicht auf der Homepage zu sehen ist.",
+        "last_page_url": "https://alpinfans.com/viewtopic.php?t=1367&start=75",
+        "image_url": "https://alpinfans.com/download/file.php?id=125698&mode=view",
+        "older_news": [
+          {
+            "status": "This Week's News (25.10.2026 10:30 Uhr)",
+            "summary": "Die neue 10‑Personen‑Gondel „10EUB Tuxer Ferner“ ist seit dem 23.10.2026 in Betrieb.",
+            "last_page_url": "https://alpinfans.com/viewtopic.php?t=1367&start=75"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3972359,
+          47.3664103
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 22:01 Uhr)",
+        "name": "Kitzbühel / Kirchberg",
+        "summary": "Pengelstein 2 erhält im nächsten Jahr ein neues Förderseil.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-in-kitzbuhel-kirchberg-kitzski.33/page-215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.958311,
+          46.7387791
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:28 Uhr)",
+        "name": "Kronplatz / Plan de Corones",
+        "summary": "Die Kabinen der Kronplatz 1+2 Seilbahn sind heute komplett unbedeckt.",
+        "last_page_url": "https://www.funiforum.org/funiforum/node/270198/page10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.847838,
+          45.6285962
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (28.10.2026 12:53 Uhr)",
+        "name": "La Rosière / La Thuile",
+        "summary": "Auf der Webcam ist die neue 10‑er‑Gondelbahn Les Suches – Chaz Dura in Bewegung zu sehen.",
+        "last_page_url": "https://www.funiforum.org/funiforum/node/297995/page8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4562373,
+          45.4781616
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 10:30 Uhr)",
+        "name": "Le Grand Domaine",
+        "summary": "Die Kabinen für die TCD10 Combelouvière & TKE Pécy sind angekommen und werden in der oberen Bahnhofsstelle gelagert.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42968&st=60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6903664,
+          46.0068544
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:47 Uhr)",
+        "name": "Le Grand Massif",
+        "summary": "Ein Draglift (DMC) im Le Grand Massif soll durch einen leichten, schnellen 3‑Sitzer ersetzt werden.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2662&st=220",
+        "older_news": [
+          {
+            "status": "This Week's News (25.10.2026 22:01 Uhr)",
+            "summary": "Der Téléski des Crêtes im Carroz-Gebiet wird demontiert, um Platz für ein Anfängerareal zu schaffen.",
+            "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2662&st=220"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2682259,
+          45.2401623
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 10:30 Uhr)",
+        "name": "Les Sybelles",
+        "summary": "Die Gemeinde hat in Zusammenarbeit mit Les Sybelles die Wiedereröffnung der Skilift‑ bzw. Verbindungsstrecke (Liaison) im Skigebiet realisiert.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=547&st=1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7217996,
+          44.9311709
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "name": "Montgenèvre / Via Lattea",
+        "summary": "Die Erdarbeiten rund um die Station und an der Piste sind bereits weitgehend abgeschlossen.",
+        "last_page_url": "https://www.alpinforum.com/threads/5492/page-9",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmontgenevre.com%2Fwp-content%2Fuploads%2F2024%2F03%2FDJI_20240111102832_0383_D-scaled.jpg&hash=6729b363432c2bec9007b11a6077e490&return_error=1",
+        "older_news": [
+          {
+            "status": "This Week's News (28.10.2026 12:53 Uhr)",
+            "summary": "Erste Testfahrten mit der Chalvet‑EUB‑Bahn finden bereits statt, während an den Stationen noch Innenarbeiten ausstehen.",
+            "last_page_url": "https://www.alpinforum.com/threads/neues-in-via-lattea-sestriere-sauze-doulx-san-sicario-claviere-montgenevre.5492/page-9",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmontgenevre.com%2Fwp-content%2Fuploads%2F2024%2F03%2FDJI_20240111102832_0383_D-scaled.jpg&hash=6729b363432c2bec9007b11a6077e490&return_error=1"
+          },
+          {
+            "status": "This Week's News (25.10.2026 22:01 Uhr)",
+            "summary": "Im Oktober 2026 zeigen Fotos den fortgeschrittenen Bau der TCD10‑Liftanlagen Chalvet und Fournéous in Montgenèvre: Ankunft des Chalvet‑TCD, vorletzter Pylon, Leitungsstrecke zur Talstation, Kabinen sowie Aufbau der Talstation des Fournéous inklusive Eingangs‑ und Rettungsbereich.",
+            "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=60",
+            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/6ff6815b-e42c-4bec-bbcc-2fa4e8068984/14_1200.jpg"
+          },
+          {
+            "status": "This Week's News (25.10.2026 10:30 Uhr)",
+            "summary": "Die Bergstation der neuen Liftanlage in Montgenèvre ist bis auf Restarbeiten (wenige Erdarbeiten und Arbeiten am Häuschen) fertig, ebenso die Stützen. An der Talstation finden noch Betonarbeiten statt, bevor die Montage erfolgt; der Montage‑Trupp ist bereits dort. Der Seilzug soll voraussichtlich im Dezember montiert werden, danach folgen Einstell‑ und Abnahmearbeiten, die vermutlich erst im Januar abgeschlossen sind, sodass die Bahn voraussichtlich erst im Februar in Betrieb gehen kann.",
+            "last_page_url": "https://www.alpinforum.com/threads/neues-in-via-lattea-sestriere-sauze-doulx-san-sicario-claviere-montgenevre.5492/page-9"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3119292,
+          47.3708539
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 22:01 Uhr)",
+        "name": "Oberstdorf / Kleinwalsertal",
+        "summary": "Der Weg zum Sonngehren von der Station am Probsthaus wurde verbreitert und mit einer Holzwand versehen.",
+        "last_page_url": "https://www.alpinforum.com/threads/neues-in-oberstdorf-kleinwalsertal.1062/page-185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7049123,
+          45.5042986
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:28 Uhr)",
+        "name": "Paradiski / La Plagne",
+        "summary": "Für Paradiski/La Plagne sind für 2029 die neue Seilbahn Valléen und für 2030 die Télécabines der Coches und Belle Plagne geplant.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2982&st=480",
+        "older_news": [
+          {
+            "status": "This Week's News (25.10.2026 22:01 Uhr)",
+            "summary": "Die aktuelle Télécabine von Champagny im Paradiski/La Plagne soll durch eine neue TCD‑10 ersetzt werden, die voraussichtlich 2028 in Betrieb geht und am Zielort eine Anfängerfläche schafft.",
+            "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2982&st=480"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2726212,
+          46.811169
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "name": "Scuol–Motta Naluns",
+        "summary": "Im Kinderland von Scuol–Motta Naluns wurde ein Förderband ausgetauscht.",
+        "last_page_url": "https://www.alpinforum.com/threads/21219/page-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0072845,
+          46.9666319
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (26.10.2026 04:40 Uhr)",
+        "name": "Sölden",
+        "summary": "Die neue Talstation des Mutkogl-Lifts ist fertiggestellt und seit dem 25.10.2026 in Betrieb; ein neues Talstationsgebäude befindet sich nun nahe des Gletscherrands.",
+        "last_page_url": "https://alpinfans.com/viewtopic.php?t=297&start=50",
+        "image_url": "https://alpinfans.com/download/file.php?id=125473&mode=view",
+        "older_news": [
+          {
+            "status": "This Week's News (25.10.2026 22:01 Uhr)",
+            "summary": "Am Tiefenbachgletscher wird die Photovoltaikanlage bis Herbst auf 6,5 MW‑Peak ausgebaut, was etwa 35 % des Strombedarfs der Bergbahnen decken soll. Parallel entstehen vier moderne Energiezentralen, davon eine an der neuen Talstation des Mutkogl‑Lifts.",
+            "last_page_url": "https://www.alpinforum.com/threads/neues-in-solden.38575/page-281"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9295878,
+          44.6765415
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "name": "Superdévoluy",
+        "summary": "Der Kabelbetrieb der 10er‑Gondelbahn läuft seit dem 17. September und die 36 Gondelkabinen wurden am 23. September auf das Seil gesetzt. Die Anlage befindet sich derzeit in Testfahrten, darunter langsame und schnelle Läufe sowie Notbremsen, und soll voraussichtlich zum 12. Dezember eröffnet werden.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43171",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/e67c054c-7e17-4490-b867-e5bd76fde717/1_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5666055,
+          45.399064
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (25.10.2026 22:01 Uhr)",
+        "name": "Les Trois Vallées",
+        "summary": "Ein neuer medizinischer Pôle wird am Standort Courchevel 1850 gebaut und in einer Vorschau gezeigt.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=28422&st=1200",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/e3ea0574-c431-4da7-9b83-6612476d5135/5_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "status": "This Week's News (27.10.2026 03:28 Uhr)",
+        "name": "4 Vallées / Verbier",
+        "summary": "Ein neuer Téléski‑Doppel (TSD) soll 2026 die bestehenden Lifte Chottes, Meina und Greppon Blanc III in Verbier ersetzen.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=1274&st=1440"
+      }
+    }
+  ]
+}

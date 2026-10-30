@@ -1,0 +1,252 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #15251d;
+  background: #f4f7f4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+}
+
+.site-header {
+  z-index: 1000;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem clamp(1rem, 3vw, 2.5rem);
+  background: #ffffff;
+  border-bottom: 1px solid #d6dfd9;
+  box-shadow: 0 2px 12px rgb(21 37 29 / 10%);
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+}
+
+.site-header p {
+  margin: 0.25rem 0 0;
+  color: #526158;
+  font-size: 0.92rem;
+}
+
+.site-header nav {
+  display: flex;
+  flex-shrink: 0;
+  gap: 0.75rem;
+}
+
+.site-header a {
+  color: #116149;
+  font-size: 0.9rem;
+  font-weight: 650;
+  text-underline-offset: 0.18rem;
+}
+
+.map-shell {
+  position: relative;
+  min-height: 0;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  min-height: 28rem;
+}
+
+.map-message {
+  position: absolute;
+  z-index: 900;
+  top: 1rem;
+  left: 50%;
+  max-width: min(32rem, calc(100% - 2rem));
+  margin: 0;
+  padding: 0.7rem 1rem;
+  color: #263b30;
+  background: rgb(255 255 255 / 95%);
+  border: 1px solid #cad6ce;
+  border-radius: 0.65rem;
+  box-shadow: 0 4px 20px rgb(21 37 29 / 18%);
+  transform: translateX(-50%);
+}
+
+.map-message[data-kind="error"] {
+  color: #7d1f1f;
+  border-color: #d7a2a2;
+}
+
+.map-message[hidden] {
+  display: none;
+}
+
+.news-popup {
+  min-width: min(19rem, 70vw);
+  color: #15251d;
+}
+
+.news-popup--with-image {
+  width: min(38rem, 78vw);
+}
+
+.news-popup h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.08rem;
+}
+
+.news-popup__status {
+  margin: 0 0 0.65rem;
+  color: #526158;
+  font-size: 0.82rem;
+}
+
+.news-popup__status--breaking {
+  color: #9e2c24;
+}
+
+.news-popup__status--weekly {
+  color: #184f75;
+}
+
+.news-popup__summary {
+  margin: 0;
+  line-height: 1.45;
+  white-space: pre-wrap;
+  user-select: text;
+}
+
+.news-popup__content {
+  margin-bottom: 0.85rem;
+}
+
+.news-popup--with-image .news-popup__content {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(10rem, 16rem);
+  gap: 0.9rem;
+  align-items: start;
+}
+
+.news-popup__image {
+  display: block;
+  width: 100%;
+  max-height: 16rem;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #f4f7f4;
+  border: 1px solid #cad6ce;
+  border-radius: 0.5rem;
+}
+
+.news-popup__image[hidden] {
+  display: none;
+}
+
+.news-popup__pagination {
+  display: grid;
+  grid-template-columns: auto minmax(6rem, 1fr) auto;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0 0 0.75rem;
+}
+
+.news-popup__page-counter {
+  color: #526158;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.news-popup__pagination button {
+  padding: 0.4rem 0.6rem;
+  color: #184f75;
+  background: #ffffff;
+  border: 1px solid #7a9db4;
+  border-radius: 0.4rem;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 650;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.news-popup__pagination button:disabled {
+  color: #84918a;
+  background: #eef1ef;
+  border-color: #c9d0cc;
+  cursor: not-allowed;
+  opacity: 0.72;
+}
+
+.news-popup__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.news-popup__actions a,
+.news-popup__actions button {
+  padding: 0.45rem 0.65rem;
+  color: #ffffff;
+  background: #116149;
+  border: 1px solid #116149;
+  border-radius: 0.4rem;
+  font: inherit;
+  font-size: 0.83rem;
+  font-weight: 650;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.news-popup__actions button {
+  color: #116149;
+  background: #ffffff;
+}
+
+.news-popup__actions a:focus-visible,
+.news-popup__actions button:focus-visible,
+.news-popup__pagination button:focus-visible {
+  outline: 3px solid #9cd7c5;
+  outline-offset: 2px;
+}
+
+.news-popup__copy-status {
+  width: 100%;
+  min-height: 1.2em;
+  color: #526158;
+  font-size: 0.78rem;
+}
+
+@media (max-width: 44rem) {
+  body {
+    grid-template-rows: minmax(0, 1fr);
+  }
+
+  .site-header {
+    display: none;
+  }
+
+  #map {
+    min-height: 24rem;
+  }
+
+  .news-popup--with-image {
+    width: min(22rem, 76vw);
+  }
+
+  .news-popup--with-image .news-popup__content {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
