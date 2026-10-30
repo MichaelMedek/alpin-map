@@ -51,6 +51,10 @@ function collection({ kind, primaryImage, olderImage }) {
   };
 }
 
+function absoluteUrls({ value }) {
+  return [...new Set(value.match(/https:\/\/[^\s\"'<>;]+/g) ?? [])].sort();
+}
+
 for (const scenario of [
   { id: "breaking-normal-single", kind: "breaking", primaryImage: false, olderImage: null, intense: false },
   { id: "breaking-intense-single", kind: "breaking", primaryImage: true, olderImage: null, intense: true },
@@ -76,12 +80,106 @@ for (const scenario of [
   });
 }
 
-test("static bundle uses only sibling map data", async () => {
-  const script = await readFile(new URL("../map.js", import.meta.url), "utf8");
-  const index = await readFile(new URL("../index.html", import.meta.url), "utf8");
-  assert.match(script, /const MAP_URL = "\.\/map\.geojson";/);
-  assert.doesNotMatch(script, /raw\.githubusercontent\.com\/MichaelMedek\/alpin-api/);
-  assert.match(index, /connect-src 'self'/);
-  assert.match(index, /href="\.\/map\.geojson"/);
-  assert.doesNotMatch(index, /github\.com\/MichaelMedek\/alpin-api/);
+test("committed map data satisfies the production feature contract", async () => {
+  const source = JSON.parse(await readFile(new URL("../map.geojson", import.meta.url), "utf8"));
+  const features = validateFeatureCollection({ value: source });
+  const sourceNewsItems = source.features.flatMap((feature) => [
+    feature.properties,
+    ...(feature.properties.older_news ?? []),
+  ]);
+  const validatedNewsItems = features.flatMap((feature) => feature.newsItems);
+
+  assert.equal(features.length, source.features.length);
+  assert.deepEqual(
+    features.map((feature) => feature.name),
+    source.features.map((feature) => feature.properties.name),
+  );
+  assert.deepEqual(
+    features.map((feature) => feature.coordinates),
+    source.features.map((feature) => [feature.geometry.coordinates[1], feature.geometry.coordinates[0]]),
+  );
+  assert.deepEqual(
+    features.map((feature) => feature.newsItems.length),
+    source.features.map((feature) => 1 + (feature.properties.older_news?.length ?? 0)),
+  );
+  assert.deepEqual(
+    validatedNewsItems.map((newsItem) => newsItem.summary),
+    sourceNewsItems.map((newsItem) => newsItem.summary),
+  );
+  assert.deepEqual(
+    validatedNewsItems.map((newsItem) => newsItem.sourceUrl),
+    sourceNewsItems.map((newsItem) => new URL(newsItem.last_page_url).href),
+  );
+  assert.deepEqual(
+    validatedNewsItems.map((newsItem) => newsItem.imageUrl),
+    sourceNewsItems.map((newsItem) =>
+      Object.hasOwn(newsItem, "image_url") ? new URL(newsItem.image_url).href : null,
+    ),
+  );
+  assert.deepEqual(
+    validatedNewsItems.map((newsItem) => newsItem.status.text),
+    sourceNewsItems.map((newsItem) => newsItem.status.slice("<strong>".length, -"</strong>".length)),
+  );
+  assert.deepEqual(
+    validatedNewsItems.map((newsItem) => newsItem.status.kind),
+    sourceNewsItems.map((newsItem) =>
+      newsItem.status.startsWith("<strong>Breaking News (") ? "breaking" : "weekly",
+    ),
+  );
+});
+
+test("static bundle has the complete approved link inventory", async () => {
+  const [readme, index, styles, script, state] = await Promise.all([
+    readFile(new URL("../README.md", import.meta.url), "utf8"),
+    readFile(new URL("../index.html", import.meta.url), "utf8"),
+    readFile(new URL("../map.css", import.meta.url), "utf8"),
+    readFile(new URL("../map.js", import.meta.url), "utf8"),
+    readFile(new URL("../map_state.mjs", import.meta.url), "utf8"),
+  ]);
+
+  assert.deepEqual(
+    [...script.matchAll(/const MAP_URL = "([^"]+)";/g)].map((match) => match[1]),
+    ["./map.geojson"],
+  );
+  assert.deepEqual(
+    [...index.matchAll(/\shref="([^"]+)"/g)].map((match) => match[1]),
+    [
+      "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+      "./map.css",
+      "./map.geojson",
+    ],
+  );
+  assert.deepEqual(
+    [...index.matchAll(/\ssrc="([^"]+)"/g)].map((match) => match[1]),
+    ["https://unpkg.com/leaflet@1.9.4/dist/leaflet.js", "./map.js"],
+  );
+  assert.deepEqual(
+    [...index.matchAll(/http-equiv="Content-Security-Policy" content="([^"]+)"/g)].map((match) => match[1]),
+    [
+      "default-src 'none'; script-src 'self' https://unpkg.com; style-src 'self' https://unpkg.com; img-src data: https:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests",
+    ],
+  );
+  assert.deepEqual(
+    {
+      readme: absoluteUrls({ value: readme }),
+      index: absoluteUrls({ value: index }),
+      styles: absoluteUrls({ value: styles }),
+      script: absoluteUrls({ value: script }),
+      state: absoluteUrls({ value: state }),
+    },
+    {
+      readme: ["https://michaelmedek.github.io/alpin-map/"],
+      index: [
+        "https://unpkg.com",
+        "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+        "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+      ],
+      styles: [],
+      script: [
+        "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://www.openstreetmap.org/copyright",
+      ],
+      state: [],
+    },
+  );
 });
