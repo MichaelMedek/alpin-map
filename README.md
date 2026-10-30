@@ -1,2 +1,3 @@
-# alpin-map
-Show alpin news on a map
+# Alpine construction news map
+
+Public static viewer for current Alpine ski-resort construction and infrastructure summaries.
