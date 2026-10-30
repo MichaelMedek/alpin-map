@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "status": "<strong>This Week's News (29.10.2026 03:47 Uhr)</strong>",
         "name": "Arosa Lenzerheide",
         "summary": "Ein Pilotprojekt soll im März starten, bei dem die Bahnen an Wochenenden und Feiertagen bereits um 7 Uhr in Betrieb genommen werden. Der Test ist als erster Schritt zur früheren Öffnung der Pisten geplant.",
         "last_page_url": "https://alpinfans.com/viewtopic.php?t=66&start=100"
@@ -108,7 +108,7 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "status": "<strong>This Week's News (29.10.2026 03:47 Uhr)</strong>",
         "name": "Hintertuxer Gletscher",
         "summary": "Die neue schwarze Piste 13a an der Lärmstange 1 ist fertig gebaut. Sie ist bereits vor Ort vorhanden, obwohl sie noch nicht auf der Homepage zu sehen ist.",
         "last_page_url": "https://alpinfans.com/viewtopic.php?t=1367&start=75",
@@ -120,6 +120,22 @@
             "last_page_url": "https://alpinfans.com/viewtopic.php?t=1367&start=75"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9982088,
+          47.8016337
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (30.10.2026 02:41 Uhr)</strong>",
+        "name": "Kasberg / Grünau",
+        "summary": "Alle Pachtverträge sind unterschrieben, sodass der Skibetrieb am Kasberg/Grünau voraussichtlich am 5. Dezember 2026 starten kann, sofern ausreichend Schnee liegt. Damit ist die betriebliche Vorbereitung abgeschlossen.",
+        "last_page_url": "https://alpinfans.com/viewtopic.php?t=1054"
       }
     },
     {
@@ -148,10 +164,17 @@
         ]
       },
       "properties": {
-        "status": "<strong>This Week's News (27.10.2026 03:28 Uhr)</strong>",
+        "status": "<strong>Breaking News (30.10.2026 02:41 Uhr)</strong>",
         "name": "Kronplatz / Plan de Corones",
-        "summary": "Die Kabinen der Kronplatz 1+2 Seilbahn sind heute komplett unbedeckt.",
-        "last_page_url": "https://www.funiforum.org/funiforum/node/270198/page10"
+        "summary": "Am Abend lief die zweite Sektion mit allen Kabinen in Reihe, was auf einen Testbetrieb hindeutet. Ein offizieller Abschluss oder Inbetriebnahme wurde jedoch noch nicht bestätigt.",
+        "last_page_url": "https://www.funiforum.org/funiforum/node/270198/page24",
+        "older_news": [
+          {
+            "status": "<strong>This Week's News (27.10.2026 03:28 Uhr)</strong>",
+            "summary": "Die Kabinen der Kronplatz 1+2 Seilbahn sind heute komplett unbedeckt.",
+            "last_page_url": "https://www.funiforum.org/funiforum/node/270198/page10"
+          }
+        ]
       }
     },
     {
@@ -230,17 +253,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.935193850154844,
+          45.8532827638812
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (30.10.2026 02:41 Uhr)</strong>",
+        "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
+        "summary": "Die Bergstation der Champorcher‑EUB wurde neu gebaut und liegt jetzt etwas tiefer, wodurch die Gondelbahnen etwas kürzer sind. Die neuen Gondeln sind aufgearbeitete Sigma‑6‑er‑Gondeln.",
+        "last_page_url": "https://www.alpinforum.com/threads/5209/page-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.7217996,
           44.9311709
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "status": "<strong>Breaking News (30.10.2026 02:41 Uhr)</strong>",
         "name": "Montgenèvre / Via Lattea",
-        "summary": "Die Erdarbeiten rund um die Station und an der Piste sind bereits weitgehend abgeschlossen.",
-        "last_page_url": "https://www.alpinforum.com/threads/5492/page-9",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmontgenevre.com%2Fwp-content%2Fuploads%2F2024%2F03%2FDJI_20240111102832_0383_D-scaled.jpg&hash=6729b363432c2bec9007b11a6077e490&return_error=1",
+        "summary": "Der Abschnitt Fournéous läuft bereits mit 6 m/s und vier Kabinen; die vollständige Kabineninjektion ist unmittelbar bevorstehend. Der Abschnitt Chalvet soll in Kürze elektrisch in Betrieb genommen werden.",
+        "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=60",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7239608d-a0f5-440a-9f30-721f0123ea57/12_1200.jpg",
         "older_news": [
+          {
+            "status": "<strong>This Week's News (29.10.2026 03:47 Uhr)</strong>",
+            "summary": "Die Erdarbeiten rund um die Station und an der Piste sind bereits weitgehend abgeschlossen.",
+            "last_page_url": "https://www.alpinforum.com/threads/5492/page-9",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmontgenevre.com%2Fwp-content%2Fuploads%2F2024%2F03%2FDJI_20240111102832_0383_D-scaled.jpg&hash=6729b363432c2bec9007b11a6077e490&return_error=1"
+          },
           {
             "status": "<strong>This Week's News (28.10.2026 12:53 Uhr)</strong>",
             "summary": "Erste Testfahrten mit der Chalvet‑EUB‑Bahn finden bereits statt, während an den Stationen noch Innenarbeiten ausstehen.",
@@ -310,10 +355,26 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "status": "<strong>This Week's News (29.10.2026 03:47 Uhr)</strong>",
         "name": "Scuol–Motta Naluns",
         "summary": "Im Kinderland von Scuol–Motta Naluns wurde ein Förderband ausgetauscht.",
         "last_page_url": "https://www.alpinforum.com/threads/21219/page-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729763,
+          47.0495139
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (30.10.2026 02:41 Uhr)</strong>",
+        "name": "Serfaus-Fiss-Ladis",
+        "summary": "Seit Oktober 2026 ist der erste LS24‑Wyssen‑Sprengmast bei der Seilbahn Komperdell im Skigebiet Serfaus‑Liss‑Ladis installiert; zusammen mit sieben LS12‑ und einem LS6‑Mast sind insgesamt neun neue Sprengmasten bereit für den kommenden Winter.",
+        "last_page_url": "https://www.alpinforum.com/threads/3483/page-371"
       }
     },
     {
@@ -350,7 +411,7 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (29.10.2026 03:47 Uhr)</strong>",
+        "status": "<strong>This Week's News (29.10.2026 03:47 Uhr)</strong>",
         "name": "Superdévoluy",
         "summary": "Der Kabelbetrieb der 10er‑Gondelbahn läuft seit dem 17. September und die 36 Gondelkabinen wurden am 23. September auf das Seil gesetzt. Die Anlage befindet sich derzeit in Testfahrten, darunter langsame und schnelle Läufe sowie Notbremsen, und soll voraussichtlich zum 12. Dezember eröffnet werden.",
         "last_page_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43171",
