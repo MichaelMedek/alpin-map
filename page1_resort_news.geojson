@@ -33,49 +33,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0937739,
-          46.4023224
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "27.10.2026 03:28 Uhr",
-        "name": "Ski Civetta",
-        "headline": "Pian del Crep: Neue Kabinen bereit",
-        "summary": "Die neuen 10‑MGD Kabinen der Pian del Crep Seilbahn in Civetta stehen bereits in Reihe und zeigen damit einen konkreten Baufortschritt.",
-        "source_url": "https://www.funiforum.org/funiforum/node/290836/page3",
-        "image_url": "https://www.funiforum.org/immagini_forum/26/20261026220037_IMG_6225.jpeg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1323186,
-          46.5685125
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "27.10.2026 03:28 Uhr",
-        "name": "Cortina d'Ampezzo",
-        "headline": "Neue Seilbahn in Cortina sichtbar",
-        "summary": "Eine neue Seilbahn ist auf den aktuellen Google‑Maps‑Satellitenbildern in Cortina d’Ampezzo sichtbar.",
-        "source_url": "https://www.alpinforum.com/threads/22700/page-24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.1237609,
           45.0099949
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Les Deux Alpes",
         "headline": "Neubau der Gondelbahn Bellecombe und Sesselbahn-Rochade",
@@ -111,13 +74,31 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
+        "recency": "breaking",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Gerlitzen",
-        "headline": "Neue Kanzelbahn 2 im Testbetrieb",
-        "summary": "Die neue Kanzelbahn 2 auf der Gerlitzen zeigt sich im Baufortschritt beeindruckend und punktet vor allem mit hoher Geschwindigkeit; lediglich die LED-Beleuchtung an den Panelen der Bergstation sorgt für Diskussionen.",
+        "headline": "Neue Kanzelbahn 2 auf der Gerlitzen im Testbetrieb",
+        "summary": "Die neue Kanzelbahn 2 auf der Gerlitzen zeigt sich im fortgeschrittenen Testbetrieb; die Anlage beeindruckt durch eine hohe Fahrgeschwindigkeit und moderne Stationsarchitektur.",
         "source_url": "https://www.alpinforum.com/threads/3461/page-22",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F5268yPsv%2FIMG-9605.jpg&hash=ce7cbb3a1bdaaa253b010c14f40e57a5"
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F5268yPsv%2FIMG-9605.jpg&hash=ce7cbb3a1bdaaa253b010c14f40e57a5",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 12:42 Uhr",
+            "headline": "Neue Kanzelbahn 2 auf der Gerlitzen im Testbetrieb",
+            "summary": "Die neue Kanzelbahn 2 auf der Gerlitzen zeigt sich im Baufortschritt beeindruckend mit hoher Geschwindigkeit, während letzte Feinarbeiten laufen.",
+            "source_url": "https://www.alpinforum.com/threads/3461/page-22",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F5268yPsv%2FIMG-9605.jpg&hash=ce7cbb3a1bdaaa253b010c14f40e57a5"
+          },
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 00:26 Uhr",
+            "headline": "Neue Kanzelbahn 2 im Testbetrieb",
+            "summary": "Die neue Kanzelbahn 2 auf der Gerlitzen zeigt sich im Baufortschritt beeindruckend und punktet vor allem mit hoher Geschwindigkeit; lediglich die LED-Beleuchtung an den Panelen der Bergstation sorgt für Diskussionen.",
+            "source_url": "https://www.alpinforum.com/threads/3461/page-22",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F5268yPsv%2FIMG-9605.jpg&hash=ce7cbb3a1bdaaa253b010c14f40e57a5"
+          }
+        ]
       }
     },
     {
@@ -172,16 +153,7 @@
         "name": "Kronplatz / Plan de Corones",
         "headline": "Zweite Sektion im Testbetrieb",
         "summary": "Am Abend lief die zweite Sektion mit allen Kabinen in Reihe, was auf einen Testbetrieb hindeutet. Ein offizieller Abschluss oder Inbetriebnahme wurde jedoch noch nicht bestätigt.",
-        "source_url": "https://www.funiforum.org/funiforum/node/270198/page24",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "27.10.2026 03:28 Uhr",
-            "headline": "Kronplatz-Kabinen vollständig enthüllt",
-            "summary": "Die Kabinen der Kronplatz 1+2 Seilbahn sind heute komplett unbedeckt.",
-            "source_url": "https://www.funiforum.org/funiforum/node/270198/page10"
-          }
-        ]
+        "source_url": "https://www.funiforum.org/funiforum/node/270198/page24"
       }
     },
     {
@@ -194,14 +166,30 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
+        "recency": "breaking",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "La Rosière / La Thuile",
-        "headline": "Neue 10er-Gondelbahn Vedette im Espace San Bernardo",
-        "summary": "In La Thuile schreiten die Arbeiten an der neuen 10er-Gondelbahn Vedette voran, die als modernisiertes Highlight die bisherigen Lifte La Combe und Chaz Dura ersetzt und im Dezember eröffnen soll.",
+        "headline": "Neue 10er-Gondelbahn Vedette in La Thuile",
+        "summary": "In La Thuile schreiten die Arbeiten an der neuen 10er-Gondelbahn Vedette voran, deren Name an historische Militärstrukturen und die Schutzfunktion der Region angelehnt ist.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43303",
         "image_url": "https://hub-informativo.lathuile.net/file/sector/settore_les_suches_chaz_dura.png",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 12:42 Uhr",
+            "headline": "Neue 10er-Gondelbahn Vedette in La Thuile",
+            "summary": "In La Thuile schreiten die Arbeiten an der neuen 10er-Gondelbahn Vedette voran, deren Bergstation optisch an einen historischen Militärfort angelehnt ist.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43303",
+            "image_url": "https://hub-informativo.lathuile.net/file/sector/settore_les_suches_chaz_dura.png"
+          },
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 03:56 Uhr",
+            "headline": "Neue 10er-Gondelbahn Vedette im Espace San Bernardo",
+            "summary": "In La Thuile schreiten die Arbeiten an der neuen 10er-Gondelbahn Vedette voran, die als modernisiertes Highlight die bisherigen Lifte La Combe und Chaz Dura ersetzt und im Dezember eröffnen soll.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43303",
+            "image_url": "https://hub-informativo.lathuile.net/file/sector/settore_les_suches_chaz_dura.png"
+          },
           {
             "recency": "weekly",
             "timestamp": "28.10.2026 12:53 Uhr",
@@ -217,36 +205,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.6903664,
-          46.0068544
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "27.10.2026 03:47 Uhr",
-        "name": "Le Grand Massif",
-        "headline": "Le Grand Massif: Neuer 3er-Sessel",
-        "summary": "Ein Draglift (DMC) im Le Grand Massif soll durch einen leichten, schnellen 3‑Sitzer ersetzt werden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2662&st=220"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.8270157,
           46.2269942
         ]
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "31.10.2026 06:00 Uhr",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Madonna di Campiglio / Pinzolo / Folgàrida / Marilleva",
-        "headline": "Sessel-Transport und Vorbereitung der Abnahmen an der Sesselbahn Brenzi",
-        "summary": "In Folgarida wurden die Sessel der neuen 6er-Sesselbahn Brenzi zur Talstation transportiert. Die Abnahmen und Testläufe stehen kurz bevor.",
+        "headline": "Vorbereitungen und Probefahrten an der Sesselbahn Brenzi",
+        "summary": "In Folgarida laufen die finalen Abnahmen für die neue 6er-Sesselbahn Brenzi, während erste Testläufe und der Weitertransport von Material und Kabinen im Gange sind.",
         "source_url": "https://www.funiforum.org/funiforum/node/293995/page7",
-        "image_url": "https://www.funiforum.org/immagini_forum/26/20261030170120_20261030170120_seggioviabrenzi.jpg"
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261030170120_20261030170120_seggioviabrenzi.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 12:42 Uhr",
+            "headline": "Vorbereitungen an der Sesselbahn Brenzi",
+            "summary": "In Folgarida laufen die finalen Abnahmen und Vorbereitungen für den Betrieb der neuen 6er-Sesselbahn Brenzi.",
+            "source_url": "https://www.funiforum.org/funiforum/node/293995/page7",
+            "image_url": "https://www.funiforum.org/immagini_forum/26/20261030170120_20261030170120_seggioviabrenzi.jpg"
+          },
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 06:00 Uhr",
+            "headline": "Sessel-Transport und Vorbereitung der Abnahmen an der Sesselbahn Brenzi",
+            "summary": "In Folgarida wurden die Sessel der neuen 6er-Sesselbahn Brenzi zur Talstation transportiert. Die Abnahmen und Testläufe stehen kurz bevor.",
+            "source_url": "https://www.funiforum.org/funiforum/node/293995/page7",
+            "image_url": "https://www.funiforum.org/immagini_forum/26/20261030170120_20261030170120_seggioviabrenzi.jpg"
+          }
+        ]
       }
     },
     {
@@ -259,7 +247,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Megève / Évasion Mont-Blanc",
         "headline": "Neue Gondelbahn Jaillet und Sesselbahn Côte 2000 angekündigt",
@@ -295,14 +283,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "30.10.2026 02:41 Uhr",
+        "recency": "breaking",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Montgenèvre / Via Lattea",
-        "headline": "Fournéous läuft, Chalvet folgt bald",
-        "summary": "Der Abschnitt Fournéous läuft bereits mit 6 m/s und vier Kabinen; die vollständige Kabineninjektion ist unmittelbar bevorstehend. Der Abschnitt Chalvet soll in Kürze elektrisch in Betrieb genommen werden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=60",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7239608d-a0f5-440a-9f30-721f0123ea57/12_1200.jpg",
+        "headline": "Fortschritte bei den neuen Seilbahnanlagen in Montgenèvre",
+        "summary": "Die Erdarbeiten an den Stationen sind weit fortgeschritten; die neue Sektion Fournéous läuft im Testbetrieb und auch die Chalvet-Bahn steht kurz vor der finalen Inbetriebnahme.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=8745&st=11160",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "30.10.2026 02:41 Uhr",
+            "headline": "Fournéous läuft, Chalvet folgt bald",
+            "summary": "Der Abschnitt Fournéous läuft bereits mit 6 m/s und vier Kabinen; die vollständige Kabineninjektion ist unmittelbar bevorstehend. Der Abschnitt Chalvet soll in Kürze elektrisch in Betrieb genommen werden.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=60",
+            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7239608d-a0f5-440a-9f30-721f0123ea57/12_1200.jpg"
+          },
           {
             "recency": "weekly",
             "timestamp": "29.10.2026 03:47 Uhr",
@@ -332,31 +327,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
+        "recency": "breaking",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Oberstdorf / Kleinwalsertal",
-        "headline": "Seilzug und Pistenoptimierung",
-        "summary": "Am Fellhorn wurde der Seilzug erfolgreich durchgeführt, zudem läuft eine Pistenoptimierung im Bereich Bühlalpe, um den gewohnten Skibetrieb weiter zu verbessern.",
+        "headline": "Seilzug und Pistenoptimierung am Fellhorn",
+        "summary": "Am Fellhorn wurde der Seilzug erfolgreich durchgeführt und die Talabfahrt im Bereich oberhalb der Bühlalpe auf Raupenbreite planiert, um die Pistenpräparierung zu erleichtern.",
         "source_url": "https://www.alpinforum.com/threads/1062/page-186",
-        "image_url": "https://www.alpinforum.com/attachments/img_9927-webp.338244/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7049123,
-          45.5042986
+        "image_url": "https://www.alpinforum.com/attachments/img_9927-webp.338244/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 00:26 Uhr",
+            "headline": "Seilzug und Pistenoptimierung",
+            "summary": "Am Fellhorn wurde der Seilzug erfolgreich durchgeführt, zudem läuft eine Pistenoptimierung im Bereich Bühlalpe, um den gewohnten Skibetrieb weiter zu verbessern.",
+            "source_url": "https://www.alpinforum.com/threads/1062/page-186",
+            "image_url": "https://www.alpinforum.com/attachments/img_9927-webp.338244/"
+          }
         ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "27.10.2026 03:28 Uhr",
-        "name": "Paradiski / La Plagne",
-        "headline": "Paradiski plant neue Seilbahnen",
-        "summary": "Für Paradiski/La Plagne sind für 2029 die neue Seilbahn Valléen und für 2030 die Télécabines der Coches und Belle Plagne geplant.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=2982&st=480"
       }
     },
     {
@@ -369,7 +356,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Portes du Soleil",
         "headline": "Neue Sesselbahn am Pointe de Nyon und Gondelbahn am Mont Chéry",
@@ -387,13 +374,27 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
+        "recency": "breaking",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
-        "headline": "Ausbau der Beschneiung und neue Speicherteiche",
-        "summary": "Im Skicircus wurde der Skiweg Reckmoos Süd im unteren Bereich mit einer neuen Beschneiungsanlage ausgestattet, während in Leogang die Arbeiten am neuen Speicherteich Asitz III voranschreiten.",
-        "source_url": "https://www.alpinforum.com/threads/792/page-319",
+        "headline": "Ausbau der Beschneiung in Fieberbrunn",
+        "summary": "Im Skicircus wurden die Sommermonate genutzt, um die Beschneiungskapazitäten zu verbessern. Im unteren Bereich des Skiwegs Reckmoos Süd wurde eine neue Anlage installiert und alte Schneeerzeuger an anderer Stelle ersetzt.",
+        "source_url": "https://www.alpinforum.com/threads/72682/",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 12:42 Uhr",
+            "headline": "Ausbau der Beschneiung und neue Speicherteiche in Fieberbrunn",
+            "summary": "Im Skicircus wurden im Sommer die Beschneiungskapazitäten fokussiert auf den Bereich Reckmoos Nord modernisiert und neue Schneeerzeuger installiert.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=159&start=75"
+          },
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 03:56 Uhr",
+            "headline": "Ausbau der Beschneiung und neue Speicherteiche",
+            "summary": "Im Skicircus wurde der Skiweg Reckmoos Süd im unteren Bereich mit einer neuen Beschneiungsanlage ausgestattet, während in Leogang die Arbeiten am neuen Speicherteich Asitz III voranschreiten.",
+            "source_url": "https://www.alpinforum.com/threads/792/page-319"
+          },
           {
             "recency": "weekly",
             "timestamp": "31.10.2026 00:26 Uhr",
@@ -416,11 +417,20 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "31.10.2026 06:00 Uhr",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Schöneben–Haideralm / Reschenpass",
         "headline": "Gelbe Kabinen für die neue Gondelbahn Reschen Piz-Schöneben",
-        "summary": "Beim Neubau der 10er-Gondelbahn Reschen Piz-Schöneben sind die gelben Kabinen an den Stationen eingetroffen.",
-        "source_url": "https://www.funiforum.org/funiforum/node/315313/page4"
+        "summary": "Bei der Modernisierung und dem Neubau der 10er-Gondelbahn Reschen Piz-Schöneben stechen die neuen, gelben Kabinen optisch hervor.",
+        "source_url": "https://www.funiforum.org/funiforum/node/315313/page4",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 06:00 Uhr",
+            "headline": "Gelbe Kabinen für die neue Gondelbahn Reschen Piz-Schöneben",
+            "summary": "Beim Neubau der 10er-Gondelbahn Reschen Piz-Schöneben sind die gelben Kabinen an den Stationen eingetroffen.",
+            "source_url": "https://www.funiforum.org/funiforum/node/315313/page4"
+          }
+        ]
       }
     },
     {
@@ -469,7 +479,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Ski Arlberg",
         "headline": "Massiver Ausbau der Beschneiung am Kriegerhorn und Steinmähder",
@@ -506,7 +516,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Val Cenis",
         "headline": "Projekt Vanoise Expérience und neue Pistenraupen",
@@ -520,37 +530,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.276507,
-          46.1003545
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "27.10.2026 03:28 Uhr",
-        "name": "4 Vallées / Verbier",
-        "headline": "Verbier ersetzt drei Lifte",
-        "summary": "Ein neuer Téléski‑Doppel (TSD) soll 2026 die bestehenden Lifte Chottes, Meina und Greppon Blanc III in Verbier ersetzen.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=1274&st=1440"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
         "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
+        "timestamp": "31.10.2026 12:42 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Fortschritt am neuen Sessellift Patrullarve",
-        "summary": "Der Bau der neuen 6er-Sesselbahn Patrullarve in Zermatt zeigt sich kurz vor dem Abschluss. Die Bergstation, das integrierte Garagierungsgebäude sowie die Steuerungsanlage sind weitgehend fertiggestellt.",
+        "headline": "Fortschritt am neuen Sessellift Patrullarve in Zermatt",
+        "summary": "Der Bau der neuen 6er-Sesselbahn Patrullarve zeigt sich kurz vor dem Abschluss, wobei die blaue Farbgebung mit roten Panzern der Klemmfeder optisch harmoniert.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43229",
-        "image_url": "https://www.remontees-mecaniques.net/forums/uploads/1788379331/gallery_8652_8884_992909.jpg",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 03:56 Uhr",
+            "headline": "Fortschritt am neuen Sessellift Patrullarve",
+            "summary": "Der Bau der neuen 6er-Sesselbahn Patrullarve in Zermatt zeigt sich kurz vor dem Abschluss. Die Bergstation, das integrierte Garagierungsgebäude sowie die Steuerungsanlage sind weitgehend fertiggestellt.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43229",
+            "image_url": "https://www.remontees-mecaniques.net/forums/uploads/1788379331/gallery_8652_8884_992909.jpg"
+          },
           {
             "recency": "weekly",
             "timestamp": "31.10.2026 00:26 Uhr",
