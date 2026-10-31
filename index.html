@@ -3,25 +3,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Interactive map of current Alpine ski-resort construction and infrastructure news.">
+    <meta name="description" content="A daily Alpine ski briefing: resort construction news, snow and mountain conditions, a report of the day, and tips and debates from the forums.">
     <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://unpkg.com; style-src 'self' https://unpkg.com; img-src data: https:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
-    <title>Alpine construction news</title>
+    <title>Alpine ski briefing</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="anonymous">
     <link rel="stylesheet" href="./map.css">
   </head>
   <body>
     <header class="site-header">
-      <div>
-        <h1>Alpine construction news</h1>
-        <p>Recent ski-resort construction and infrastructure progress.</p>
+      <div class="site-header__intro">
+        <p class="site-header__eyebrow">Alpine ski briefing</p>
+        <h1 id="page-title">Resort news</h1>
+        <p id="page-subtitle" class="site-header__subtitle">Loading the latest briefing…</p>
       </div>
-      <nav aria-label="Map resources">
-        <a href="./map.geojson" target="_blank" rel="noopener noreferrer">GeoJSON source</a>
+      <nav class="site-nav" aria-label="Briefing pages">
+        <a href="#/resort-news" data-route="resort-news">Resort news</a>
+        <a href="#/snow" data-route="snow">Snow &amp; conditions</a>
+        <a href="#/report" data-route="report">Report of the day</a>
+        <a href="#/tips" data-route="tips">Tips &amp; debates</a>
       </nav>
     </header>
-    <main class="map-shell">
-      <div id="map" role="region" aria-label="Interactive Alpine news map"></div>
-      <p id="map-message" class="map-message" role="status">Loading the latest map…</p>
+    <main class="view-shell">
+      <div id="map" class="map-view" role="region" aria-label="Interactive Alpine briefing map" hidden></div>
+      <section id="doc" class="doc-view" aria-label="Briefing content" hidden></section>
+      <p id="view-message" class="view-message" role="status" hidden>Loading the latest briefing…</p>
     </main>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="anonymous"></script>
     <script type="module" src="./map.js"></script>

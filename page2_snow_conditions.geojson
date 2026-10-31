@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6648069,
+          47.0857251
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "name": "Hintertuxer Gletscher",
+        "headline": "Guter Schnee, aber erste Felsfelder",
+        "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
+        "source_url": "https://www.alpinforum.com/threads/72464/page-5",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0072845,
+          46.9666319
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "name": "Sölden",
+        "headline": "Eisige Pisten und technischer Zwischenfall",
+        "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb zeitweise wegen Antriebsproblemen einstellen.",
+        "source_url": "https://www.alpinforum.com/threads/72461/page-8",
+        "image_url": "https://www.alpinforum.com/attachments/img_9844-webp.338251/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1172229,
+          46.9918843
+        ]
+      },
+      "properties": {
+        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "name": "Stubaier Gletscher",
+        "headline": "Hervorragender Saisonauftakt",
+        "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
+        "source_url": "https://www.alpinforum.com/threads/72446/page-4",
+        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
+      }
+    }
+  ]
+}

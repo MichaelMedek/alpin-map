@@ -2,6 +2,9 @@ const BREAKING_PREFIX = "<strong>Breaking News (";
 const BREAKING_SUFFIX = ")</strong>";
 const WEEKLY_PREFIX = "<strong>This Week's News (";
 const WEEKLY_SUFFIX = ")</strong>";
+const REPORT_IMAGE_LIMIT = 4;
+const TIP_COUNT = 3;
+const CONTROVERSIAL_COUNT = 3;
 
 function requireObject({ value, context }) {
   if (typeof value === "object" && value !== null && Array.isArray(value) === false) {
@@ -45,6 +48,23 @@ function requireCoordinates({ value, context }) {
   }
 }
 
+function requireArrayOfLength({ value, length, context }) {
+  if (Array.isArray(value) && value.length === length) {
+    return value;
+  } else {
+    throw new RangeError(context + " must contain exactly " + length + " items.");
+  }
+}
+
+function requireTextList({ value, context }) {
+  if (Array.isArray(value) && value.length > 0) {
+    // Validate every entry so one blank argument cannot slip into a rendered pro/contra column.
+    return value.map((entry, index) => requireText({ value: entry, context: context + " " + index }));
+  } else {
+    throw new TypeError(context + " must be a non-empty array.");
+  }
+}
+
 export function statusDetails({ value }) {
   const status = requireText({ value: value, context: "News status" });
   if (status.startsWith(BREAKING_PREFIX) && status.endsWith(BREAKING_SUFFIX)) {
@@ -66,8 +86,9 @@ export function validateNewsItem({ value, context }) {
     ? requireHttpUrl({ value: item.image_url, context: context + " image_url" })
     : null;
   return {
+    headline: requireText({ value: item.headline, context: context + " headline" }),
     imageUrl: imageUrl,
-    sourceUrl: requireHttpUrl({ value: item.last_page_url, context: context + " last_page_url" }),
+    sourceUrl: requireHttpUrl({ value: item.source_url, context: context + " source_url" }),
     status: statusDetails({ value: item.status }),
     summary: requireText({ value: item.summary, context: context + " summary" }),
   };
@@ -114,6 +135,55 @@ export function validateFeatureCollection({ value }) {
   } else {
     throw new TypeError("Map data features must be an array.");
   }
+}
+
+export function validateReport({ value }) {
+  const report = requireObject({ value: value, context: "Report" });
+  const imageUrls = [];
+  if (Object.hasOwn(report, "image_urls")) {
+    if (Array.isArray(report.image_urls) === false) {
+      throw new TypeError("Report image_urls must be an array.");
+    } else if (report.image_urls.length > REPORT_IMAGE_LIMIT) {
+      throw new RangeError("Report image_urls must contain at most " + REPORT_IMAGE_LIMIT + " images.");
+    }
+    // Resolve each image to a validated absolute URL so a malformed entry fails the whole page.
+    for (const [imageIndex, imageUrl] of report.image_urls.entries()) {
+      imageUrls.push(requireHttpUrl({ value: imageUrl, context: "Report image_urls " + imageIndex }));
+    }
+  }
+  return {
+    headline: requireText({ value: report.headline, context: "Report headline" }),
+    summary: requireText({ value: report.summary, context: "Report summary" }),
+    sourceUrl: requireHttpUrl({ value: report.source_url, context: "Report source_url" }),
+    imageUrls: imageUrls,
+  };
+}
+
+export function validateTips({ value }) {
+  const payload = requireObject({ value: value, context: "Tips" });
+  const tips = requireArrayOfLength({ value: payload.tips, length: TIP_COUNT, context: "Tips tips" }).map((tip, index) => {
+    const entry = requireObject({ value: tip, context: "Tip " + index });
+    return {
+      headline: requireText({ value: entry.headline, context: "Tip " + index + " headline" }),
+      summary: requireText({ value: entry.summary, context: "Tip " + index + " summary" }),
+      sourceUrl: Object.hasOwn(entry, "source_url")
+        ? requireHttpUrl({ value: entry.source_url, context: "Tip " + index + " source_url" })
+        : null,
+    };
+  });
+  const controversial = requireArrayOfLength({
+    value: payload.controversial,
+    length: CONTROVERSIAL_COUNT,
+    context: "Tips controversial",
+  }).map((row, index) => {
+    const entry = requireObject({ value: row, context: "Controversial " + index });
+    return {
+      headline: requireText({ value: entry.headline, context: "Controversial " + index + " headline" }),
+      pro: requireTextList({ value: entry.pro, context: "Controversial " + index + " pro" }),
+      contra: requireTextList({ value: entry.contra, context: "Controversial " + index + " contra" }),
+    };
+  });
+  return { tips: tips, controversial: controversial };
 }
 
 export function markerStyle({ kind, hasImage }) {
