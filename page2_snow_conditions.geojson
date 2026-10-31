@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Arosa Lenzerheide",
         "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
@@ -66,39 +66,13 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 00:26 Uhr",
         "name": "Hintertuxer Gletscher",
-        "headline": "Guter Schnee und sonnige Verhältnisse am Hintertuxer Gletscher",
-        "summary": "Bei strahlendem Sonnenschein herrschen am Hintertuxer Gletscher gute Bedingungen, allerdings führt der Gletscherrückgang stellenweise zu ersten freiliegenden Felsfeldern und eisigen Abschnitten im Frühlingswand-Hang.",
+        "headline": "Guter Schnee, aber erste Felsfelder",
+        "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
         "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 12:42 Uhr",
-            "headline": "Guter Schnee, aber rasch schmelzendes Eis am Hintertuxer Gletscher",
-            "summary": "Bei strahlendem Sonnenschein herrschen am Hintertuxer Gletscher gute Bedingungen, allerdings zeigt sich an frequentierten Stellen wie dem Gefrorene Wand Hang bereits Eis.",
-            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-            "image_url": "https://media.hitparade.ch/73e376aa54c158b9d7039fdd25058a32a3ad9c99/687474703a2f2f7777772e6b616c64696e692e64652f7475782f48696e7465727475785f3330313032362d332e6a7067"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 03:56 Uhr",
-            "headline": "Traumhaftes Wetter, aber rasch schmelzendes Eis",
-            "summary": "Bei strahlendem Sonnenschein herrschen am Hintertuxer Gletscher gute Bedingungen, allerdings zeigt sich an frequentierten Stellen zunehmend Eis und der Gletscherrückgang macht sich bemerkbar.",
-            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-            "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 00:26 Uhr",
-            "headline": "Guter Schnee, aber erste Felsfelder",
-            "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
-            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-            "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
-          }
-        ]
+        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
       }
     },
     {
@@ -111,7 +85,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Jungfrau Region",
         "headline": "Harte Pisten und fantastisches Wetter in der Jungfrauregion",
@@ -125,28 +99,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.7045488,
+          46.8541825
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 17:57 Uhr",
+        "name": "Kaunertaler Gletscher",
+        "headline": "Top-Präparation und entspannter Andrang am Kaunertaler Gletscher",
+        "summary": "Der Kaunertaler Gletscher überzeugt mit hervorragend gepflegten Pisten und ruhigem Betrieb. Abgesehen von wenigen gut sichtbaren Steinen am Ausstieg der Falginjochbahn bieten Karlesjoch und Falginjoch beste Bedingungen, während das Nörderjoch noch auf Schnee wartet.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=50",
+        "image_url": "https://media.alpinfans.com/live/59/20261031-150347-cbcdb7ed_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756534,
+          47.27388
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 17:57 Uhr",
+        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
+        "headline": "Gute Mischung aus Pulver- und Maschinenschnee am Kitzsteinhorn",
+        "summary": "Am Kitzsteinhorn präsentieren sich die geöffneten Hänge deutlich breiter als in der Vorwoche. Bei regem Ferienbetrieb herrscht griffiger Schnee, nachmittags gibt es einzelne glatte Stellen sowie vereinzelte Steine im Sonnenkar. Die Halfpipe ist bereits geöffnet.",
+        "source_url": "https://www.alpinforum.com/threads/72419/page-3",
+        "image_url": "https://www.alpinforum.com/attachments/20261031_084242-webp.338274/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8776109,
           46.9096745
         ]
       },
       "properties": {
-        "recency": "breaking",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 06:00 Uhr",
         "name": "Pitztaler Gletscher",
-        "headline": "Intensive Beschneiung auf dem Pitztaler Gletscher",
-        "summary": "Am Pitztaler Gletscher laufen die Schneekanonen auf Hochtouren. Die oberen Pisten am Wildspitz und Gletschersee zeigen sich griffig und steinfrei, während tiefer gelegene Abschnitte erste eisfreie Stellen aufweisen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=150",
-        "image_url": "https://alpinfans.com/download/file.php?id=125721&mode=view",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 06:00 Uhr",
-            "headline": "Intensive Beschneiung auf dem Gletscher gestartet",
-            "summary": "Am Pitztaler Gletscher laufen die Beschneiungsanlagen auf Hochtouren, um zusätzliche Pistenkilometer für den Herbstskibetrieb und Trainingsgruppen vorzubereiten.",
-            "source_url": "https://www.alpinforum.com/threads/72462/page-3",
-            "image_url": "https://www.alpinforum.com/attachments/img_20261029_085555-webp.338248/"
-          }
-        ]
+        "headline": "Intensive Beschneiung auf dem Gletscher gestartet",
+        "summary": "Am Pitztaler Gletscher laufen die Beschneiungsanlagen auf Hochtouren, um zusätzliche Pistenkilometer für den Herbstskibetrieb und Trainingsgruppen vorzubereiten.",
+        "source_url": "https://www.alpinforum.com/threads/72462/page-3",
+        "image_url": "https://www.alpinforum.com/attachments/img_20261029_085555-webp.338248/"
       }
     },
     {
@@ -159,23 +161,13 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 12:42 Uhr",
         "name": "Saastal",
-        "headline": "Perfekter Pulverschnee im Saastal",
-        "summary": "In Saas-Fee präsentieren sich die Pisten bis zum Gletscherband in einem pulvrig-griffigen Zustand. Der Andrang hält sich trotz schöner Bedingungen in Grenzen.",
+        "headline": "Perfekter Pulverschnee und entspannter Andrang im Saastal",
+        "summary": "In Saas-Fee präsentieren sich die Pisten bis hin zum Gletscherband in einem perfekten, pulvrig-griffigen Zustand bei guten Platzverhältnissen für das Publikum.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3907",
-        "image_url": "https://media.alpinfans.com/live/182/20261031-144325-3ecc27b9_l.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 12:42 Uhr",
-            "headline": "Perfekter Pulverschnee und entspannter Andrang im Saastal",
-            "summary": "In Saas-Fee präsentieren sich die Pisten bis hin zum Gletscherband in einem perfekten, pulvrig-griffigen Zustand bei guten Platzverhältnissen für das Publikum.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3907",
-            "image_url": "https://media.alpinfans.com/live/182/20261031-123922-355f4ec6_l.jpg"
-          }
-        ]
+        "image_url": "https://media.alpinfans.com/live/182/20261031-123922-355f4ec6_l.jpg"
       }
     },
     {
@@ -189,22 +181,12 @@
       },
       "properties": {
         "recency": "weekly",
-        "timestamp": "31.10.2026 12:42 Uhr",
+        "timestamp": "31.10.2026 00:26 Uhr",
         "name": "Sölden",
-        "headline": "Eisige Pisten und technischer Zwischenfall in Sölden",
-        "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb kurzzeitig wegen Antriebsproblemen an der Mittelstation einstellen.",
-        "source_url": "https://www.alpinforum.com/threads/72461/page-9",
-        "image_url": "https://www.alpinforum.com/attachments/img_9844-webp.338251/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 00:26 Uhr",
-            "headline": "Eisige Pisten und technischer Zwischenfall",
-            "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb zeitweise wegen Antriebsproblemen einstellen.",
-            "source_url": "https://www.alpinforum.com/threads/72461/page-8",
-            "image_url": "https://www.alpinforum.com/attachments/img_9844-webp.338251/"
-          }
-        ]
+        "headline": "Eisige Pisten und technischer Zwischenfall",
+        "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb zeitweise wegen Antriebsproblemen einstellen.",
+        "source_url": "https://www.alpinforum.com/threads/72461/page-8",
+        "image_url": "https://www.alpinforum.com/attachments/img_9844-webp.338251/"
       }
     },
     {
@@ -217,39 +199,32 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 00:26 Uhr",
         "name": "Stubaier Gletscher",
-        "headline": "Hervorragender Saisonauftakt am Stubaier Gletscher",
-        "summary": "Der Stubaier Gletscher bietet gute Bedingungen am Eisjoch und Rotadl. Vereinzelt zeigen sich an exponierten Stellen kleine Steine, der überwiegende Teil der geöffneten Pisten präsentiert sich jedoch griffig.",
+        "headline": "Hervorragender Saisonauftakt",
+        "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
         "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 12:42 Uhr",
-            "headline": "Hervorragender Saisonauftakt am Stubaier Gletscher",
-            "summary": "Der Stubaier Gletscher bietet am Eisjoch und Rotadl griffige Pistenverhältnisse, während in den tieferen Abschnitten und an einigen Übergängen erste Steine zu beachten sind.",
-            "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-            "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 03:56 Uhr",
-            "headline": "Guter Saisonstart mit griffigem Schnee",
-            "summary": "Der Stubaier Gletscher präsentiert sich mit griffigem Schnee und tollen Bedingungen an den geöffneten Hängen wie am Eisjoch, wenngleich an einigen exponierten Stellen kleine Steine und vereiste Passagen vorkommen.",
-            "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-            "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 00:26 Uhr",
-            "headline": "Hervorragender Saisonauftakt",
-            "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
-            "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-            "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
-          }
+        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7163465,
+          45.9609858
         ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 17:57 Uhr",
+        "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
+        "headline": "Gletscherschwund und Blankeis auf den Pisten in Zermatt",
+        "summary": "Am Matterhorn-Gletscher zeigt sich die Schneelage zum Herbstausklang unterdurchschnittlich. Am Furggsattel und Klein Matterhorn tritt vielerorts das Gletschereis zutage; nach Felsbewegungen steht am Furggsattel aktuell nur eine Piste zur Verfügung.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=75",
+        "image_url": "https://alpinfans.com/download/file.php?id=125950&mode=view"
       }
     }
   ]
