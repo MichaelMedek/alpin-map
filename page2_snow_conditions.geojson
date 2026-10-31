@@ -6,17 +6,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.8171312,
+          46.805189
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 06:00 Uhr",
+        "name": "Davos Klosters",
+        "headline": "Vorbereitungen für Saisonstart auf Parsenn am 13. November",
+        "summary": "Auf Parsenn laufen die Schneeerzeuger bei tiefen Temperaturen auf Hochtouren. Die offizielle Eröffnung ist für den 13. November angesetzt.",
+        "source_url": "https://www.alpinforum.com/threads/72642/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4810866,
+          46.025975
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 06:00 Uhr",
+        "name": "Espace Dent Blanche",
+        "headline": "Herbstlicher Blick auf die noch schneefreien Hanglagen in Arolla",
+        "summary": "Aktuelle Aufnahmen von der Tza-Hütte zeigen die Pisten von Arolla im Spätherbst vor dem Einsetzen der ersten ergiebigen Schneefälle.",
+        "source_url": "https://www.alpinforum.com/threads/72574/",
+        "image_url": "https://www.alpinforum.com/attachments/0517e6da-7731-4060-8c6f-66f02e4bc083-webp.338247/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.6648069,
           47.0857251
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 03:56 Uhr",
         "name": "Hintertuxer Gletscher",
-        "headline": "Guter Schnee, aber erste Felsfelder",
-        "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
+        "headline": "Traumhaftes Wetter, aber rasch schmelzendes Eis",
+        "summary": "Bei strahlendem Sonnenschein herrschen am Hintertuxer Gletscher gute Bedingungen, allerdings zeigt sich an frequentierten Stellen zunehmend Eis und der Gletscherrückgang macht sich bemerkbar.",
         "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
+        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 00:26 Uhr",
+            "headline": "Guter Schnee, aber erste Felsfelder",
+            "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
+            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8776109,
+          46.9096745
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "31.10.2026 06:00 Uhr",
+        "name": "Pitztaler Gletscher",
+        "headline": "Intensive Beschneiung auf dem Gletscher gestartet",
+        "summary": "Am Pitztaler Gletscher laufen die Beschneiungsanlagen auf Hochtouren, um zusätzliche Pistenkilometer für den Herbstskibetrieb und Trainingsgruppen vorzubereiten.",
+        "source_url": "https://www.alpinforum.com/threads/72462/page-3",
+        "image_url": "https://www.alpinforum.com/attachments/img_20261029_085555-webp.338248/"
       }
     },
     {
@@ -29,7 +96,8 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 00:26 Uhr",
         "name": "Sölden",
         "headline": "Eisige Pisten und technischer Zwischenfall",
         "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb zeitweise wegen Antriebsproblemen einstellen.",
@@ -47,12 +115,23 @@
         ]
       },
       "properties": {
-        "status": "<strong>Breaking News (31.10.2026 00:26 Uhr)</strong>",
+        "recency": "weekly",
+        "timestamp": "31.10.2026 03:56 Uhr",
         "name": "Stubaier Gletscher",
-        "headline": "Hervorragender Saisonauftakt",
-        "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
+        "headline": "Guter Saisonstart mit griffigem Schnee",
+        "summary": "Der Stubaier Gletscher präsentiert sich mit griffigem Schnee und tollen Bedingungen an den geöffneten Hängen wie am Eisjoch, wenngleich an einigen exponierten Stellen kleine Steine und vereiste Passagen vorkommen.",
         "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
+        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 00:26 Uhr",
+            "headline": "Hervorragender Saisonauftakt",
+            "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
+            "source_url": "https://www.alpinforum.com/threads/72446/page-4",
+            "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
+          }
+        ]
       }
     }
   ]

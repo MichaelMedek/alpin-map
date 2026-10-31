@@ -1,7 +1,3 @@
-const BREAKING_PREFIX = "<strong>Breaking News (";
-const BREAKING_SUFFIX = ")</strong>";
-const WEEKLY_PREFIX = "<strong>This Week's News (";
-const WEEKLY_SUFFIX = ")</strong>";
 const REPORT_IMAGE_LIMIT = 4;
 const TIP_COUNT = 3;
 const CONTROVERSIAL_COUNT = 3;
@@ -32,6 +28,15 @@ function requireHttpUrl({ value, context }) {
   }
 }
 
+function requireRecency({ value, context }) {
+  // The two visible map states are a closed set; the producer emits only these as plain data, never markup.
+  if (value === "breaking" || value === "weekly") {
+    return value;
+  } else {
+    throw new TypeError(context + " must be 'breaking' or 'weekly'.");
+  }
+}
+
 function requireCoordinates({ value, context }) {
   if (Array.isArray(value) && value.length === 2) {
     const longitude = value[0];
@@ -56,6 +61,14 @@ function requireArrayOfLength({ value, length, context }) {
   }
 }
 
+function requireNonEmptyArray({ value, context }) {
+  if (Array.isArray(value) && value.length > 0) {
+    return value;
+  } else {
+    throw new TypeError(context + " must be a non-empty array.");
+  }
+}
+
 function requireTextList({ value, context }) {
   if (Array.isArray(value) && value.length > 0) {
     // Validate every entry so one blank argument cannot slip into a rendered pro/contra column.
@@ -65,19 +78,34 @@ function requireTextList({ value, context }) {
   }
 }
 
-export function statusDetails({ value }) {
-  const status = requireText({ value: value, context: "News status" });
-  if (status.startsWith(BREAKING_PREFIX) && status.endsWith(BREAKING_SUFFIX)) {
-    const timestamp = status.slice(BREAKING_PREFIX.length, -BREAKING_SUFFIX.length);
-    const text = requireText({ value: timestamp, context: "Breaking-news timestamp" });
-    return { kind: "breaking", text: "Breaking News (" + text + ")" };
-  } else if (status.startsWith(WEEKLY_PREFIX) && status.endsWith(WEEKLY_SUFFIX)) {
-    const timestamp = status.slice(WEEKLY_PREFIX.length, -WEEKLY_SUFFIX.length);
-    const text = requireText({ value: timestamp, context: "Weekly-news timestamp" });
-    return { kind: "weekly", text: "This Week's News (" + text + ")" };
+export function statusLabel({ recency }) {
+  // The label text is presentation, owned by the viewer; the producer only emits the recency token.
+  if (recency === "breaking") {
+    return "Breaking News";
+  } else if (recency === "weekly") {
+    return "This Week's News";
   } else {
-    throw new TypeError("Unsupported map status: " + status);
+    throw new RangeError("Unsupported recency: " + recency);
   }
+}
+
+export function formatRunTimestamp({ value }) {
+  // The producer stores the run instant as ISO-8601 UTC; the header shows it in the same Europe/Berlin
+  // wall-clock and "Uhr" convention the per-pin timestamps already use, so all displayed times agree.
+  const iso = requireText({ value: value, context: "Run timestamp" });
+  const instant = new Date(iso);
+  if (Number.isNaN(instant.getTime())) {
+    throw new TypeError("Run timestamp must be an ISO-8601 instant.");
+  }
+  const formatted = new Intl.DateTimeFormat("de-DE", {
+    timeZone: "Europe/Berlin",
+    day: "2-digit",
+    month: "2-digit",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(instant);
+  return formatted.replace(", ", " ") + " Uhr";
 }
 
 export function validateNewsItem({ value, context }) {
@@ -86,10 +114,11 @@ export function validateNewsItem({ value, context }) {
     ? requireHttpUrl({ value: item.image_url, context: context + " image_url" })
     : null;
   return {
+    recency: requireRecency({ value: item.recency, context: context + " recency" }),
+    timestamp: requireText({ value: item.timestamp, context: context + " timestamp" }),
     headline: requireText({ value: item.headline, context: context + " headline" }),
     imageUrl: imageUrl,
     sourceUrl: requireHttpUrl({ value: item.source_url, context: context + " source_url" }),
-    status: statusDetails({ value: item.status }),
     summary: requireText({ value: item.summary, context: context + " summary" }),
   };
 }
@@ -159,31 +188,42 @@ export function validateReport({ value }) {
   };
 }
 
-export function validateTips({ value }) {
-  const payload = requireObject({ value: value, context: "Tips" });
-  const tips = requireArrayOfLength({ value: payload.tips, length: TIP_COUNT, context: "Tips tips" }).map((tip, index) => {
-    const entry = requireObject({ value: tip, context: "Tip " + index });
-    return {
-      headline: requireText({ value: entry.headline, context: "Tip " + index + " headline" }),
-      summary: requireText({ value: entry.summary, context: "Tip " + index + " summary" }),
-      sourceUrl: Object.hasOwn(entry, "source_url")
-        ? requireHttpUrl({ value: entry.source_url, context: "Tip " + index + " source_url" })
-        : null,
-    };
-  });
-  const controversial = requireArrayOfLength({
-    value: payload.controversial,
-    length: CONTROVERSIAL_COUNT,
-    context: "Tips controversial",
-  }).map((row, index) => {
-    const entry = requireObject({ value: row, context: "Controversial " + index });
-    return {
-      headline: requireText({ value: entry.headline, context: "Controversial " + index + " headline" }),
-      pro: requireTextList({ value: entry.pro, context: "Controversial " + index + " pro" }),
-      contra: requireTextList({ value: entry.contra, context: "Controversial " + index + " contra" }),
-    };
-  });
-  return { tips: tips, controversial: controversial };
+function validateTip({ value, index }) {
+  const tip = requireObject({ value: value, context: "Tip " + index });
+  return {
+    headline: requireText({ value: tip.headline, context: "Tip " + index + " headline" }),
+    summary: requireText({ value: tip.summary, context: "Tip " + index + " summary" }),
+    sourceUrl: requireHttpUrl({ value: tip.source_url, context: "Tip " + index + " source_url" }),
+  };
+}
+
+function validateControversial({ value, index }) {
+  const subject = requireObject({ value: value, context: "Controversial " + index });
+  return {
+    headline: requireText({ value: subject.headline, context: "Controversial " + index + " headline" }),
+    pro: requireTextList({ value: subject.pro, context: "Controversial " + index + " pro" }),
+    contra: requireTextList({ value: subject.contra, context: "Controversial " + index + " contra" }),
+    sourceUrl: requireHttpUrl({ value: subject.source_url, context: "Controversial " + index + " source_url" }),
+  };
+}
+
+export function validateBriefing({ value }) {
+  const payload = requireObject({ value: value, context: "Briefing" });
+  return {
+    generatedAt: requireText({ value: payload.generated_at, context: "Briefing generated_at" }),
+    // A daily run carries exactly one report, but the field is a non-empty array validated per element.
+    reports: requireNonEmptyArray({ value: payload.reports, context: "Briefing reports" }).map((report) =>
+      validateReport({ value: report }),
+    ),
+    tips: requireArrayOfLength({ value: payload.tips, length: TIP_COUNT, context: "Briefing tips" }).map((tip, index) =>
+      validateTip({ value: tip, index: index }),
+    ),
+    controversial: requireArrayOfLength({
+      value: payload.controversial,
+      length: CONTROVERSIAL_COUNT,
+      context: "Briefing controversial",
+    }).map((subject, index) => validateControversial({ value: subject, index: index })),
+  };
 }
 
 export function markerStyle({ kind, hasImage }) {
@@ -202,14 +242,14 @@ export function markerStyle({ kind, hasImage }) {
 
 export function markerHasCategoryImage({ newsItems }) {
   const primaryNews = newsItems[0];
-  if (primaryNews.status.kind === "breaking") {
+  if (primaryNews.recency === "breaking") {
     // A red marker represents only the age-zero event, so weekly-page images cannot intensify it.
     return primaryNews.imageUrl !== null;
-  } else if (primaryNews.status.kind === "weekly") {
+  } else if (primaryNews.recency === "weekly") {
     // A blue marker represents the complete weekly carousel, so any weekly-page image intensifies it.
-    return newsItems.some((newsItem) => newsItem.status.kind === "weekly" && newsItem.imageUrl !== null);
+    return newsItems.some((newsItem) => newsItem.recency === "weekly" && newsItem.imageUrl !== null);
   } else {
-    throw new RangeError("Unsupported marker status kind: " + primaryNews.status.kind);
+    throw new RangeError("Unsupported marker recency: " + primaryNews.recency);
   }
 }
 

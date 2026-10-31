@@ -3,13 +3,14 @@ import test from "node:test";
 import { readFile } from "node:fs/promises";
 
 import {
+  formatRunTimestamp,
   markerHasCategoryImage,
   markerStyle,
   newsPageState,
+  statusLabel,
+  validateBriefing,
   validateFeatureCollection,
   validateNewsItem,
-  validateReport,
-  validateTips,
 } from "../map_state.mjs";
 
 const imageUrl = "https://example.com/news.jpg";
@@ -22,9 +23,10 @@ const expectedStyles = {
   "weekly-true": { color: "#053f73", fillColor: "#0788df", fillOpacity: 0.96, radius: 9, weight: 3 },
 };
 
-function item({ kind, withImage }) {
+function item({ recency, withImage }) {
   const value = {
-    status: kind === "breaking" ? "<strong>Breaking News (30.10.2026 04:15 Uhr)</strong>" : "<strong>This Week's News (29.10.2026 04:15 Uhr)</strong>",
+    recency: recency,
+    timestamp: recency === "breaking" ? "31.10.2026 00:26 Uhr" : "29.10.2026 03:47 Uhr",
     headline: "Test headline",
     summary: "Test construction progress.",
     source_url: sourceUrl,
@@ -35,13 +37,13 @@ function item({ kind, withImage }) {
   return value;
 }
 
-function collection({ kind, primaryImage, olderImage }) {
+function collection({ recency, primaryImage, olderImage }) {
   const properties = {
     name: "Test resort",
-    ...item({ kind: kind, withImage: primaryImage }),
+    ...item({ recency: recency, withImage: primaryImage }),
   };
   if (olderImage !== null) {
-    properties.older_news = [item({ kind: "weekly", withImage: olderImage })];
+    properties.older_news = [item({ recency: "weekly", withImage: olderImage })];
   }
   return {
     type: "FeatureCollection",
@@ -64,38 +66,58 @@ function flattenSourceNews({ collection }) {
   return collection.features.flatMap((feature) => [feature.properties, ...(feature.properties.older_news ?? [])]);
 }
 
-// The marker colour and "intense" dot are the only signal a user gets before opening a popup, so the
-// status-kind x image mapping must hold for every combination the two map layers can emit; a drift here
-// silently mislabels breaking vs weekly news on the map. One body covers the closed 2x2x(single|carousel) matrix.
+// The marker colour and "intense" dot are the only signal before a popup opens, so the recency x image
+// mapping must hold for every combination the two map layers emit; a drift here silently mislabels breaking
+// vs weekly on the map. One body covers the closed 2x2x(single|carousel) matrix, now keyed on the data recency.
 for (const scenario of [
-  { id: "breaking-normal-single", kind: "breaking", primaryImage: false, olderImage: null, intense: false },
-  { id: "breaking-intense-single", kind: "breaking", primaryImage: true, olderImage: null, intense: true },
-  { id: "breaking-normal-carousel", kind: "breaking", primaryImage: false, olderImage: true, intense: false },
-  { id: "breaking-intense-carousel", kind: "breaking", primaryImage: true, olderImage: false, intense: true },
-  { id: "weekly-normal-single", kind: "weekly", primaryImage: false, olderImage: null, intense: false },
-  { id: "weekly-intense-single", kind: "weekly", primaryImage: true, olderImage: null, intense: true },
-  { id: "weekly-normal-carousel", kind: "weekly", primaryImage: false, olderImage: false, intense: false },
-  { id: "weekly-intense-carousel", kind: "weekly", primaryImage: false, olderImage: true, intense: true },
+  { id: "breaking-normal-single", recency: "breaking", primaryImage: false, olderImage: null, intense: false },
+  { id: "breaking-intense-single", recency: "breaking", primaryImage: true, olderImage: null, intense: true },
+  { id: "breaking-normal-carousel", recency: "breaking", primaryImage: false, olderImage: true, intense: false },
+  { id: "breaking-intense-carousel", recency: "breaking", primaryImage: true, olderImage: false, intense: true },
+  { id: "weekly-normal-single", recency: "weekly", primaryImage: false, olderImage: null, intense: false },
+  { id: "weekly-intense-single", recency: "weekly", primaryImage: true, olderImage: null, intense: true },
+  { id: "weekly-normal-carousel", recency: "weekly", primaryImage: false, olderImage: false, intense: false },
+  { id: "weekly-intense-carousel", recency: "weekly", primaryImage: false, olderImage: true, intense: true },
 ]) {
   test(scenario.id, () => {
     const feature = validateFeatureCollection({
-      value: collection({ kind: scenario.kind, primaryImage: scenario.primaryImage, olderImage: scenario.olderImage }),
+      value: collection({ recency: scenario.recency, primaryImage: scenario.primaryImage, olderImage: scenario.olderImage }),
     })[0];
     const hasImage = markerHasCategoryImage({ newsItems: feature.newsItems });
     assert.equal(hasImage, scenario.intense);
     assert.deepEqual(
-      markerStyle({ kind: scenario.kind, hasImage: hasImage }),
-      expectedStyles[scenario.kind + "-" + scenario.intense],
+      markerStyle({ kind: scenario.recency, hasImage: hasImage }),
+      expectedStyles[scenario.recency + "-" + scenario.intense],
     );
     const first = newsPageState({ newsItems: feature.newsItems, activeIndex: 0 });
     assert.equal(first.pageCounterText, scenario.olderImage === null ? "Page 1 of 1" : "Page 1 of 2");
   });
 }
 
-// Pages 1 and 2 are published by the backend and are byte-for-byte the same shape; one parametrised body
-// asserts both committed layers so an asymmetry (a field only one layer carries) cannot pass review. This
-// guards the live backend->viewer contract: the renamed source_url, the new per-item headline, the lat/lon
-// swap, and the preserved newest-to-oldest older_news order must survive validation exactly as served.
+// The label text ("Breaking News" / "This Week's News") is a viewer concern now that the data carries only a
+// recency token; this guards that both recencies map to a label and anything else is rejected, so a producer
+// that ever emitted a formatted status again (the exact bug this migration removed) cannot pass silently.
+test("statusLabel maps each recency and rejects anything else", () => {
+  assert.equal(statusLabel({ recency: "breaking" }), "Breaking News");
+  assert.equal(statusLabel({ recency: "weekly" }), "This Week's News");
+  assert.throws(() => statusLabel({ recency: "<strong>Breaking News</strong>" }));
+  assert.throws(() => statusLabel({ recency: "outdated" }));
+});
+
+// The header date is the one place a UTC instant becomes human text; this pins the UTC->Europe/Berlin
+// conversion (Oct 31 is already winter time, UTC+1) and the "Uhr" convention that matches the per-pin
+// timestamps, and rejects a non-ISO value so a broken metadata field shows nothing rather than "Invalid Date".
+test("formatRunTimestamp renders the run instant in Europe/Berlin wall-clock", () => {
+  assert.equal(formatRunTimestamp({ value: "2026-10-31T02:56:00Z" }), "31.10.2026 03:56 Uhr");
+  // A summer instant lands on UTC+2, proving the offset is derived, not hard-coded.
+  assert.equal(formatRunTimestamp({ value: "2026-07-01T10:00:00Z" }), "01.07.2026 12:00 Uhr");
+  assert.throws(() => formatRunTimestamp({ value: "not-a-timestamp" }));
+});
+
+// Pages 1 and 2 are published by the backend and are the same shape; one parametrised body asserts both so an
+// asymmetry cannot pass. It guards the live backend->viewer contract AND the migration's core rule that the
+// data carries no formatting: recency is a bare token, the timestamp holds no markup, and headline/source_url
+// plus the newest-to-oldest older_news order survive validation exactly as served.
 for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions.geojson"]) {
   test("committed map data satisfies the feature contract: " + mapFile, async () => {
     const source = JSON.parse(await readFile(new URL(mapFile, import.meta.url), "utf8"));
@@ -117,13 +139,18 @@ for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions
       features.map((feature) => feature.newsItems.length),
       source.features.map((feature) => 1 + (feature.properties.older_news?.length ?? 0)),
     );
+    for (const newsItem of validatedNewsItems) {
+      // The producer emits only data: a bare recency token and a timestamp free of any HTML.
+      assert.ok(newsItem.recency === "breaking" || newsItem.recency === "weekly");
+      assert.ok(newsItem.timestamp.includes("<") === false, "timestamp must carry no markup");
+    }
     assert.deepEqual(
       validatedNewsItems.map((newsItem) => newsItem.headline),
       sourceNewsItems.map((newsItem) => newsItem.headline),
     );
     assert.deepEqual(
-      validatedNewsItems.map((newsItem) => newsItem.summary),
-      sourceNewsItems.map((newsItem) => newsItem.summary),
+      validatedNewsItems.map((newsItem) => newsItem.recency),
+      sourceNewsItems.map((newsItem) => newsItem.recency),
     );
     assert.deepEqual(
       validatedNewsItems.map((newsItem) => newsItem.sourceUrl),
@@ -133,77 +160,63 @@ for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions
       validatedNewsItems.map((newsItem) => newsItem.imageUrl),
       sourceNewsItems.map((newsItem) => (Object.hasOwn(newsItem, "image_url") ? new URL(newsItem.image_url).href : null)),
     );
-    assert.deepEqual(
-      validatedNewsItems.map((newsItem) => newsItem.status.text),
-      sourceNewsItems.map((newsItem) => newsItem.status.slice("<strong>".length, -"</strong>".length)),
-    );
-    assert.deepEqual(
-      validatedNewsItems.map((newsItem) => newsItem.status.kind),
-      sourceNewsItems.map((newsItem) => (newsItem.status.startsWith("<strong>Breaking News (") ? "breaking" : "weekly")),
-    );
   });
 }
 
-// Page 3 has no map and no schema enforcement anywhere else, so this is the only guard that the committed
-// report parses, keeps its source link, and never exceeds the four-image gallery the layout is built for.
-test("committed report data satisfies the report contract", async () => {
-  const source = JSON.parse(await readFile(new URL("../page3_report.json", import.meta.url), "utf8"));
-  const report = validateReport({ value: source });
-  assert.equal(report.headline, source.headline);
-  assert.equal(report.summary, source.summary);
-  assert.equal(report.sourceUrl, new URL(source.source_url).href);
-  assert.ok(report.imageUrls.length <= 4, "the report gallery renders at most four images");
-  assert.deepEqual(
-    report.imageUrls,
-    (source.image_urls ?? []).map((url) => new URL(url).href),
-  );
-});
+// The collapsed page 3 is the whole non-map viewer and the sole home of the run timestamp, so this guards that
+// the committed file parses, its generated_at is a real instant the header can format, the gallery stays within
+// four images, and the fixed 3-tips / 3-debates layout is actually satisfied with non-empty argument columns.
+test("committed briefing data satisfies the collapsed page contract", async () => {
+  const source = JSON.parse(await readFile(new URL("../page3_briefing.json", import.meta.url), "utf8"));
+  const briefing = validateBriefing({ value: source });
 
-// Page 4's layout hard-wires three stacked tips and three pro/contra debates; this guards that the committed
-// file actually carries exactly those counts with non-empty argument columns, so the panels never render blank.
-test("committed tips data satisfies the tips contract", async () => {
-  const source = JSON.parse(await readFile(new URL("../page4_tips.json", import.meta.url), "utf8"));
-  const payload = validateTips({ value: source });
-  assert.equal(payload.tips.length, 3);
-  assert.equal(payload.controversial.length, 3);
-  assert.deepEqual(
-    payload.tips.map((tip) => tip.headline),
-    source.tips.map((tip) => tip.headline),
-  );
-  for (const debate of payload.controversial) {
+  assert.equal(briefing.generatedAt, source.generated_at);
+  assert.doesNotThrow(() => formatRunTimestamp({ value: briefing.generatedAt }));
+  assert.ok(briefing.reports.length >= 1, "a daily run carries at least one report");
+  assert.ok(briefing.reports[0].imageUrls.length <= 4, "the report gallery renders at most four images");
+  assert.equal(briefing.reports[0].sourceUrl, new URL(source.reports[0].source_url).href);
+  assert.equal(briefing.tips.length, 3);
+  assert.equal(briefing.controversial.length, 3);
+  for (const debate of briefing.controversial) {
     assert.ok(debate.pro.length > 0, "every debate needs at least one pro argument");
     assert.ok(debate.contra.length > 0, "every debate needs at least one contra argument");
   }
 });
 
-// The migration's first rule is "no forbidden fallback": malformed or hallucinated model output must fail
-// hard, never render partially. These cases pin the exact boundaries the validators must reject — each one
-// is a shape the backend could realistically emit on a bad run, so the throw is the safety contract itself.
+// The migration's first rule is "no forbidden fallback": malformed or hallucinated output must fail hard, never
+// render partially. Each case is a shape the backend could realistically emit on a bad run, so the throw is the
+// safety contract. The recency and mandatory-source_url cases pin exactly the new fields this migration introduced.
 test("validators reject malformed page data instead of rendering it", () => {
-  // A link the model fabricated as a bare key or non-URL must not reach an anchor href.
-  assert.throws(() => validateNewsItem({ value: { status: "<strong>Breaking News (x)</strong>", headline: "h", summary: "s", source_url: "not-a-url" }, context: "case" }));
-  // The new per-item headline is required everywhere display titles are shown.
-  assert.throws(() => validateNewsItem({ value: { status: "<strong>Breaking News (x)</strong>", summary: "s", source_url: sourceUrl }, context: "case" }));
+  const base = { recency: "breaking", timestamp: "31.10.2026 00:26 Uhr", headline: "h", summary: "s", source_url: sourceUrl };
+  // A formatted status string where a bare recency token is required is the exact pre-migration bug; reject it.
+  assert.throws(() => validateNewsItem({ value: { ...base, recency: "<strong>Breaking News</strong>" }, context: "case" }));
+  // A fabricated or non-URL source must never reach an anchor href.
+  assert.throws(() => validateNewsItem({ value: { ...base, source_url: "not-a-url" }, context: "case" }));
+  // The per-item timestamp is required for both the pin label and the popup status line.
+  assert.throws(() => validateNewsItem({ value: { recency: "weekly", headline: "h", summary: "s", source_url: sourceUrl }, context: "case" }));
+  const report = { headline: "h", summary: "s", source_url: sourceUrl, image_urls: [] };
+  // Every valid tip and debate now carries a mandatory source_url, so the valid shapes include it.
+  const tip = { headline: "h", summary: "s", source_url: sourceUrl };
+  const tips = [tip, tip, tip];
+  const debate = { headline: "h", pro: ["a"], contra: ["b"], source_url: sourceUrl };
+  const controversial = [debate, debate, debate];
   // A fifth report image would overflow the four-slot gallery, so it is rejected rather than clipped silently.
-  assert.throws(() => validateReport({ value: { headline: "h", summary: "s", source_url: sourceUrl, image_urls: [imageUrl, imageUrl, imageUrl, imageUrl, imageUrl] } }));
-  assert.throws(() => validateReport({ value: { headline: "h", summary: "s" } }));
-  // Page 4 is a fixed 3x3 layout; the wrong count must fail rather than leave a panel empty or orphaned.
-  assert.throws(() => validateTips({ value: { tips: [], controversial: [{ headline: "h", pro: ["a"], contra: ["b"] }, { headline: "h", pro: ["a"], contra: ["b"] }, { headline: "h", pro: ["a"], contra: ["b"] }] } }));
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [{ ...report, image_urls: [imageUrl, imageUrl, imageUrl, imageUrl, imageUrl] }], tips: tips, controversial: controversial } }));
+  // The fixed 3x3 layout must fail on the wrong count rather than leave a panel empty or orphaned.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips.slice(0, 2), controversial: controversial } }));
   // A debate with no counter-arguments would render a one-sided row, defeating the pro/contra framing.
-  assert.throws(() =>
-    validateTips({
-      value: {
-        tips: [{ headline: "h", summary: "s" }, { headline: "h", summary: "s" }, { headline: "h", summary: "s" }],
-        controversial: [{ headline: "h", pro: ["a"], contra: [] }, { headline: "h", pro: ["a"], contra: ["b"] }, { headline: "h", pro: ["a"], contra: ["b"] }],
-      },
-    }),
-  );
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [{ ...debate, contra: [] }, debate, debate] } }));
+  // A tip source_url is now mandatory; a missing one must fail rather than render a tip without its link.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: [{ headline: "h", summary: "s" }, tip, tip], controversial: controversial } }));
+  // A debate source_url is now mandatory; a missing discussion link must fail rather than render without it.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [{ headline: "h", pro: ["a"], contra: ["b"] }, debate, debate] } }));
+  // A present source_url must still be a real URL, not a leftover key or junk string.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [{ ...debate, source_url: "page_abc" }, debate, debate] } }));
 });
 
-// The viewer is a static, CSP-locked bundle; this inventory is the review gate on its entire outbound
-// surface. It pins the four same-origin data files the app fetches, the exact script/style/CSP allowlist,
-// and the complete set of absolute hosts, so a new remote dependency or a stray map.geojson reference
-// cannot slip in unreviewed.
+// The viewer is a static, CSP-locked bundle; this inventory is the review gate on its entire outbound surface.
+// It pins the three same-origin data files the app fetches, the exact script/style/CSP allowlist, and every
+// absolute host, so a new remote dependency, a leftover page4, or a stray map.geojson cannot slip in unreviewed.
 test("static bundle has the complete approved link inventory", async () => {
   const [readme, index, styles, script, state] = await Promise.all([
     readFile(new URL("../README.md", import.meta.url), "utf8"),
@@ -215,7 +228,7 @@ test("static bundle has the complete approved link inventory", async () => {
 
   assert.deepEqual(
     [...new Set([...script.matchAll(/"(\.\/page[^"]+)"/g)].map((match) => match[1]))].sort(),
-    ["./page1_resort_news.geojson", "./page2_snow_conditions.geojson", "./page3_report.json", "./page4_tips.json"],
+    ["./page1_resort_news.geojson", "./page2_snow_conditions.geojson", "./page3_briefing.json"],
   );
   assert.deepEqual(
     [...index.matchAll(/\shref="([^"]+)"/g)].map((match) => match[1]),
@@ -226,6 +239,7 @@ test("static bundle has the complete approved link inventory", async () => {
       "#/snow",
       "#/report",
       "#/tips",
+      "#/debates",
     ],
   );
   assert.deepEqual(

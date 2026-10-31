@@ -1,18 +1,21 @@
 import {
+  formatRunTimestamp,
   markerHasCategoryImage,
   markerStyle,
   newsPageState,
+  statusLabel,
+  validateBriefing,
   validateFeatureCollection,
-  validateReport,
-  validateTips,
 } from "./map_state.mjs";
 
 const DEFAULT_CENTER = [46.8, 10.2];
 const DEFAULT_ZOOM = 5;
 const DEFAULT_ROUTE = "resort-news";
+const BRIEFING_URL = "./page3_briefing.json";
 
-// One registry drives the nav chrome and the dispatch below; the two map routes share render(),
-// so resort-news and snow stay byte-for-byte symmetric and differ only by data url and labels.
+// One registry drives the nav chrome and dispatch; the two map routes share renderMapFeatures(), so
+// resort-news and snow stay byte-for-byte symmetric and differ only by data url and labels, while the
+// three doc routes each render exactly one section of the shared briefing.
 const ROUTES = {
   "resort-news": {
     title: "Resort news",
@@ -28,31 +31,53 @@ const ROUTES = {
   },
   report: {
     title: "Report of the day",
-    subtitle: "One standout trip report, retold.",
+    subtitle: "The forum story of the day.",
     view: "doc",
-    url: "./page3_report.json",
     render: renderReport,
   },
   tips: {
-    title: "Tips & debates",
-    subtitle: "Three practical tips and three hot debates from the forums.",
+    title: "Tips",
+    subtitle: "Three practical tips from the forums.",
     view: "doc",
-    url: "./page4_tips.json",
     render: renderTips,
+  },
+  debates: {
+    title: "Debates",
+    subtitle: "Three pro and contra debates from the forums.",
+    view: "doc",
+    render: renderDebates,
   },
 };
 
 const mapElement = document.getElementById("map");
 const docElement = document.getElementById("doc");
 const messageElement = document.getElementById("view-message");
+const runTimestampElement = document.getElementById("run-timestamp");
 
 let map = null;
 let markerGroup = null;
 let activeRoute = null;
+let briefingPromise = null;
+
+function loadBriefing() {
+  // Fetch and validate page 3 at most once: the header date (every page) and the briefing view share it,
+  // so there is a single source of truth and a single network request for the collapsed page.
+  if (briefingPromise === null) {
+    briefingPromise = fetch(BRIEFING_URL + "?loaded=" + Date.now(), { cache: "no-store" })
+      .then((response) => {
+        if (response.ok === false) {
+          throw new Error("Request for " + BRIEFING_URL + " failed with HTTP " + response.status + ".");
+        }
+        return response.json();
+      })
+      .then((payload) => validateBriefing({ value: payload }));
+  }
+  return briefingPromise;
+}
 
 function ensureMap() {
-  // Create the Leaflet map once and reuse it across both map routes; a hidden container keeps the
-  // single instance cheap and avoids leaking tile layers when the user switches pages repeatedly.
+  // Create the Leaflet map once and reuse it across both map routes; a hidden container keeps the single
+  // instance cheap and avoids leaking tile layers when the user switches pages repeatedly.
   if (map === null) {
     map = L.map(mapElement, { minZoom: 4 }).setView(DEFAULT_CENTER, DEFAULT_ZOOM);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -76,25 +101,13 @@ function linkElement({ href, text, className }) {
   return link;
 }
 
-function newsImageElement({ onContentChange }) {
-  const image = document.createElement("img");
-  image.className = "news-popup__image";
-  image.loading = "lazy";
-  image.decoding = "async";
-  image.referrerPolicy = "no-referrer";
-  image.hidden = true;
-  if (typeof onContentChange === "function") {
-    image.addEventListener("load", onContentChange);
-  }
-  return image;
-}
-
 function popupElement({ feature, onContentChange }) {
   if (typeof onContentChange !== "function") {
     throw new TypeError("onContentChange must be a function.");
   }
 
   let activeIndex = 0;
+  // The popup is pinned to one large size with a reserved image slot, so paging the carousel never reflows it.
   const popup = document.createElement("article");
   popup.className = "news-popup";
 
@@ -118,8 +131,21 @@ function popupElement({ feature, onContentChange }) {
   const summary = document.createElement("p");
   summary.className = "news-popup__summary";
 
-  const image = newsImageElement({ onContentChange: onContentChange });
-  content.append(summary, image);
+  // The image slot is always present at a fixed size; a real photo or a muted placeholder keeps the layout steady.
+  const imageSlot = document.createElement("div");
+  imageSlot.className = "news-popup__image-slot";
+  const image = document.createElement("img");
+  image.className = "news-popup__image";
+  image.loading = "lazy";
+  image.decoding = "async";
+  image.referrerPolicy = "no-referrer";
+  image.hidden = true;
+  image.addEventListener("load", onContentChange);
+  const placeholder = document.createElement("div");
+  placeholder.className = "news-popup__image-placeholder";
+  placeholder.setAttribute("aria-hidden", "true");
+  imageSlot.append(image, placeholder);
+  content.append(summary, imageSlot);
   popup.append(content);
 
   const pagination = document.createElement("div");
@@ -146,55 +172,30 @@ function popupElement({ feature, onContentChange }) {
   actions.className = "news-popup__actions";
   const sourceLink = linkElement({ href: feature.newsItems[0].sourceUrl, text: "Open source forum page", className: null });
   actions.append(sourceLink);
-
-  const copyStatus = document.createElement("span");
-  copyStatus.className = "news-popup__copy-status";
-  copyStatus.setAttribute("aria-live", "polite");
-
-  const copyButton = document.createElement("button");
-  copyButton.type = "button";
-  copyButton.textContent = "Copy forum link";
-  async function copyForumLink() {
-    try {
-      await navigator.clipboard.writeText(feature.newsItems[activeIndex].sourceUrl);
-      copyStatus.textContent = "Forum link copied.";
-    } catch (error) {
-      copyStatus.textContent = "Copying failed; open the link and copy its address from the browser.";
-      console.error("Could not copy the forum link.", error);
-    }
-  }
-  copyButton.addEventListener("click", copyForumLink);
-  actions.append(copyButton, copyStatus);
   popup.append(actions);
 
   function renderNewsItem() {
     const pageState = newsPageState({ newsItems: feature.newsItems, activeIndex: activeIndex });
     const newsItem = pageState.newsItem;
     title.textContent = newsItem.headline;
-    status.className = "news-popup__status news-popup__status--" + newsItem.status.kind;
-    if (newsItem.status.kind === "breaking") {
-      const strong = document.createElement("strong");
-      strong.textContent = newsItem.status.text;
-      status.replaceChildren(strong);
-    } else if (newsItem.status.kind === "weekly") {
-      status.textContent = newsItem.status.text;
-    } else {
-      throw new RangeError("Unsupported status kind: " + newsItem.status.kind);
-    }
+    // Breaking (red) and weekly (blue) are both bold; the label text and emphasis are applied here, not in the data.
+    status.className = "news-popup__status news-popup__status--" + newsItem.recency;
+    const strong = document.createElement("strong");
+    strong.textContent = statusLabel({ recency: newsItem.recency }) + " (" + newsItem.timestamp + ")";
+    status.replaceChildren(strong);
 
     summary.textContent = newsItem.summary;
     sourceLink.href = newsItem.sourceUrl;
-    copyStatus.textContent = "";
     if (newsItem.imageUrl === null) {
       image.hidden = true;
       image.removeAttribute("src");
       image.alt = "";
-      popup.classList.remove("news-popup--with-image");
+      placeholder.hidden = false;
     } else if (typeof newsItem.imageUrl === "string") {
       image.hidden = false;
       image.src = newsItem.imageUrl;
       image.alt = "Selected forum image for " + feature.name + ".";
-      popup.classList.add("news-popup--with-image");
+      placeholder.hidden = true;
     } else {
       throw new TypeError("Validated news image URL must be text or null.");
     }
@@ -233,7 +234,7 @@ function renderMapFeatures({ features }) {
     const primaryNews = feature.newsItems[0];
     const marker = L.circleMarker(
       feature.coordinates,
-      markerStyle({ kind: primaryNews.status.kind, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) }),
+      markerStyle({ kind: primaryNews.recency, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) }),
     );
     let popupBound = false;
     function updatePopupPosition() {
@@ -242,22 +243,30 @@ function renderMapFeatures({ features }) {
       }
     }
     const popup = popupElement({ feature: feature, onContentChange: updatePopupPosition });
-    marker.bindTooltip(feature.name + ": " + primaryNews.status.text);
-    marker.bindPopup(popup, { maxWidth: 660 });
+    marker.bindTooltip(feature.name + ": " + statusLabel({ recency: primaryNews.recency }) + " (" + primaryNews.timestamp + ")");
+    marker.bindPopup(popup, { maxWidth: 760 });
     popupBound = true;
     group.addLayer(marker);
   }
   leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: 10, padding: [24, 24] });
 }
 
-function reportElement({ report }) {
+function reportSection({ report }) {
+  const section = document.createElement("section");
+  section.className = "doc-section";
+
+  const heading = document.createElement("h2");
+  heading.className = "doc-section__heading";
+  heading.textContent = "Report of the day";
+  section.append(heading);
+
   const article = document.createElement("article");
   article.className = "report";
 
-  const heading = document.createElement("h2");
-  heading.className = "report__headline";
-  heading.textContent = report.headline;
-  article.append(heading);
+  const reportHeadline = document.createElement("h3");
+  reportHeadline.className = "report__headline";
+  reportHeadline.textContent = report.headline;
+  article.append(reportHeadline);
 
   const summary = document.createElement("p");
   summary.className = "report__summary";
@@ -285,12 +294,8 @@ function reportElement({ report }) {
   actions.className = "report__actions";
   actions.append(linkElement({ href: report.sourceUrl, text: "Open source forum page", className: "button-link" }));
   article.append(actions);
-  return article;
-}
-
-function renderReport({ value }) {
-  const report = validateReport({ value: value });
-  docElement.replaceChildren(reportElement({ report: report }));
+  section.append(article);
+  return section;
 }
 
 function tipsSection({ tips }) {
@@ -304,7 +309,7 @@ function tipsSection({ tips }) {
 
   const list = document.createElement("div");
   list.className = "tips";
-  // Three stacked tip panels; the source link is optional per the page-4 contract.
+  // Three stacked tip panels; the source link is mandatory, so every tip renders one.
   for (const tip of tips) {
     const panel = document.createElement("article");
     panel.className = "tip";
@@ -319,9 +324,8 @@ function tipsSection({ tips }) {
     tipSummary.textContent = tip.summary;
     panel.append(tipSummary);
 
-    if (tip.sourceUrl !== null) {
-      panel.append(linkElement({ href: tip.sourceUrl, text: "Open source forum page", className: "button-link" }));
-    }
+    // The source link is mandatory on every tip, so it is rendered unconditionally.
+    panel.append(linkElement({ href: tip.sourceUrl, text: "Open source forum page", className: "button-link" }));
     list.append(panel);
   }
   section.append(list);
@@ -360,7 +364,7 @@ function controversialSection({ controversial }) {
 
   const list = document.createElement("div");
   list.className = "debates";
-  // Three debate rows; pro renders blue on the left, contra red on the right, per the page-4 contract.
+  // Three debate rows; pro renders blue on the left, contra red on the right, with the discussion link.
   for (const debate of controversial) {
     const row = document.createElement("article");
     row.className = "debate";
@@ -377,15 +381,29 @@ function controversialSection({ controversial }) {
       debateColumn({ heading: "Against", side: "contra", arguments_: debate.contra }),
     );
     row.append(columns);
+
+    // The discussion thread is mandatory, so every debate renders its discussion link.
+    const actions = document.createElement("div");
+    actions.className = "debate__actions";
+    actions.append(linkElement({ href: debate.sourceUrl, text: "Open discussion", className: "button-link" }));
+    row.append(actions);
     list.append(row);
   }
   section.append(list);
   return section;
 }
 
-function renderTips({ value }) {
-  const payload = validateTips({ value: value });
-  docElement.replaceChildren(tipsSection({ tips: payload.tips }), controversialSection({ controversial: payload.controversial }));
+function renderReport({ briefing }) {
+  // A daily run carries exactly one report, but reports is an array; render one section per report.
+  docElement.replaceChildren(...briefing.reports.map((report) => reportSection({ report: report })));
+}
+
+function renderTips({ briefing }) {
+  docElement.replaceChildren(tipsSection({ tips: briefing.tips }));
+}
+
+function renderDebates({ briefing }) {
+  docElement.replaceChildren(controversialSection({ controversial: briefing.controversial }));
 }
 
 function showMessage({ text, kind }) {
@@ -425,37 +443,51 @@ function setChrome({ routeName, route }) {
   }
 }
 
-async function activateRoute({ routeName, route }) {
-  showView({ view: route.view });
+async function activateMapRoute({ route }) {
+  showView({ view: "map" });
   showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
   try {
     const response = await fetch(route.url + "?loaded=" + Date.now(), { cache: "no-store" });
     if (response.ok === false) {
       throw new Error("Request for " + route.url + " failed with HTTP " + response.status + ".");
     }
-    const payload = await response.json();
-    if (route.view === "map") {
-      const features = validateFeatureCollection({ value: payload });
-      if (features.length > 0) {
-        renderMapFeatures({ features: features });
-        map.invalidateSize();
-        hideMessage();
-      } else {
-        ensureMap().markerGroup.clearLayers();
-        showMessage({ text: "There is no news in the retained run window for this page.", kind: "empty" });
-      }
-    } else if (route.view === "doc") {
-      route.render({ value: payload });
+    const features = validateFeatureCollection({ value: await response.json() });
+    if (features.length > 0) {
+      renderMapFeatures({ features: features });
+      map.invalidateSize();
       hideMessage();
     } else {
-      throw new RangeError("Unsupported view: " + route.view);
+      ensureMap().markerGroup.clearLayers();
+      showMessage({ text: "There is no news in the retained run window for this page.", kind: "empty" });
     }
   } catch (error) {
-    if (route.view === "doc") {
-      docElement.replaceChildren();
-    }
     showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
     console.error("Could not load the " + route.title + " page.", error);
+  }
+}
+
+async function activateBriefingRoute({ route }) {
+  showView({ view: "doc" });
+  showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
+  try {
+    const briefing = await loadBriefing();
+    route.render({ briefing: briefing });
+    hideMessage();
+  } catch (error) {
+    docElement.replaceChildren();
+    showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
+    console.error("Could not load the " + route.title + " page.", error);
+  }
+}
+
+function activateRoute({ route }) {
+  // The view kind is a closed set; a map route renders Leaflet, a doc route renders the collapsed briefing.
+  if (route.view === "map") {
+    return activateMapRoute({ route: route });
+  } else if (route.view === "doc") {
+    return activateBriefingRoute({ route: route });
+  } else {
+    throw new RangeError("Unsupported view: " + route.view);
   }
 }
 
@@ -475,9 +507,21 @@ function handleRoute() {
   setChrome({ routeName: routeName, route: route });
   if (routeName !== activeRoute) {
     activeRoute = routeName;
-    activateRoute({ routeName: routeName, route: route });
+    activateRoute({ route: route });
+  }
+}
+
+async function initRunTimestamp() {
+  // The latest-run instant lives only in page 3; show it in the header on every page as a single source of truth.
+  try {
+    const briefing = await loadBriefing();
+    runTimestampElement.textContent = "Latest run: " + formatRunTimestamp({ value: briefing.generatedAt });
+  } catch (error) {
+    runTimestampElement.textContent = "";
+    console.error("Could not read the latest run time.", error);
   }
 }
 
 window.addEventListener("hashchange", handleRoute);
+initRunTimestamp();
 handleRoute();
