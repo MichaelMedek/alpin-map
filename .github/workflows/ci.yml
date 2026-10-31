@@ -26,6 +26,7 @@ jobs:
           node --check map.js
           node --check map_state.mjs
           node --check tests/map_state.test.mjs
+          node --check tests/viewer.test.mjs
 
-      - name: Test static map behavior and committed data
-        run: node --test tests/map_state.test.mjs
+      - name: Test static map behavior, viewer rendering, and committed data
+        run: node --test tests/map_state.test.mjs tests/viewer.test.mjs

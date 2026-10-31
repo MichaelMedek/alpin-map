@@ -491,7 +491,9 @@ function weeklyInlineNodes({ text }) {
   // Parse the two inline forms our weekly markdown uses — **bold** and [label](url) — into safe DOM nodes
   // (textContent and createElement only, never innerHTML); any other run of characters stays literal text.
   const nodes = [];
-  const pattern = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)]+)\)/g;
+  // The link label can contain inner brackets (e.g. "Alpinforum [1]"), so match it non-greedily up to the
+  // "](" that starts the URL rather than up to the first "]".
+  const pattern = /\*\*([^*]+)\*\*|\[(.+?)\]\(([^)]+)\)/g;
   let lastIndex = 0;
   let match = pattern.exec(text);
   while (match !== null) {
@@ -652,6 +654,12 @@ async function initRunTimestamp() {
   }
 }
 
-window.addEventListener("hashchange", handleRoute);
-initRunTimestamp();
-handleRoute();
+// Browser bootstrap. Skipped under the Node render test, which imports renderWeekly and drives it directly so
+// the suite actually loads and exercises this file instead of only validating data.
+if (globalThis.__ALPIN_VIEWER_TEST__ !== true) {
+  window.addEventListener("hashchange", handleRoute);
+  initRunTimestamp();
+  handleRoute();
+}
+
+export { renderWeekly };
