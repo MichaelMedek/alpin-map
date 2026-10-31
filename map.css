@@ -425,18 +425,28 @@ body {
   display: none;
 }
 
-/* A muted alpine placeholder keeps the image column intentionally occupied when a news page has no photo. */
+/* A friendly alpine placeholder keeps the image column intentionally occupied — a visible icon plus a short
+   caption — when a news page has no photo, so the empty slot never looks like a failed or pending image load. */
 .news-popup__image-placeholder {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem;
+  text-align: center;
   background: linear-gradient(160deg, #eef3f7, #e3ebe5);
-  color: #b4c1c6;
-  font-size: 2.4rem;
 }
 
-.news-popup__image-placeholder::after {
-  content: "🏔";
+.news-popup__image-placeholder-icon {
+  font-size: 2.6rem;
+  line-height: 1;
+}
+
+.news-popup__image-placeholder-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #6c7f74;
 }
 
 .news-popup__pagination {

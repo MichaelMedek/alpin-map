@@ -151,6 +151,21 @@ function popupElement({ feature, onContentChange }) {
   const placeholder = document.createElement("div");
   placeholder.className = "news-popup__image-placeholder";
   placeholder.setAttribute("aria-hidden", "true");
+  // A visible, friendly icon plus explicit text so an absent photo reads as intentional, not a failed load.
+  const placeholderIcon = document.createElement("span");
+  placeholderIcon.className = "news-popup__image-placeholder-icon";
+  placeholderIcon.textContent = "🏔️";
+  const placeholderText = document.createElement("span");
+  placeholderText.className = "news-popup__image-placeholder-text";
+  placeholderText.textContent = "No photo for this update";
+  placeholder.append(placeholderIcon, placeholderText);
+  // A present URL that fails to load (a dead or blocked forum image) also falls back to the placeholder,
+  // so a broken image icon never replaces it; renderNewsItem resets this state on every page.
+  image.addEventListener("error", () => {
+    image.hidden = true;
+    placeholder.hidden = false;
+    onContentChange();
+  });
   imageSlot.append(image, placeholder);
   content.append(summary, imageSlot);
   popup.append(content);
