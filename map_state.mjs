@@ -1,4 +1,4 @@
-const REPORT_IMAGE_LIMIT = 4;
+const REPORT_IMAGE_LIMIT = 6;
 const TIP_COUNT = 3;
 const CONTROVERSIAL_COUNT = 3;
 

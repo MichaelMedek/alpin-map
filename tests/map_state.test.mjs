@@ -173,7 +173,7 @@ test("committed briefing data satisfies the collapsed page contract", async () =
   assert.equal(briefing.generatedAt, source.generated_at);
   assert.doesNotThrow(() => formatRunTimestamp({ value: briefing.generatedAt }));
   assert.ok(briefing.reports.length >= 1, "a daily run carries at least one report");
-  assert.ok(briefing.reports[0].imageUrls.length <= 4, "the report gallery renders at most four images");
+  assert.ok(briefing.reports[0].imageUrls.length <= 6, "the report gallery renders at most six images");
   assert.equal(briefing.reports[0].sourceUrl, new URL(source.reports[0].source_url).href);
   assert.equal(briefing.tips.length, 3);
   assert.equal(briefing.controversial.length, 3);
@@ -200,8 +200,8 @@ test("validators reject malformed page data instead of rendering it", () => {
   const tips = [tip, tip, tip];
   const debate = { headline: "h", pro: ["a"], contra: ["b"], source_url: sourceUrl };
   const controversial = [debate, debate, debate];
-  // A fifth report image would overflow the four-slot gallery, so it is rejected rather than clipped silently.
-  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [{ ...report, image_urls: [imageUrl, imageUrl, imageUrl, imageUrl, imageUrl] }], tips: tips, controversial: controversial } }));
+  // A seventh report image would overflow the six-slot gallery, so it is rejected rather than clipped silently.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [{ ...report, image_urls: [imageUrl, imageUrl, imageUrl, imageUrl, imageUrl, imageUrl, imageUrl] }], tips: tips, controversial: controversial } }));
   // The fixed 3x3 layout must fail on the wrong count rather than leave a panel empty or orphaned.
   assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips.slice(0, 2), controversial: controversial } }));
   // A debate with no counter-arguments would render a one-sided row, defeating the pro/contra framing.
