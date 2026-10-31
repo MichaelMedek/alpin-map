@@ -1,5 +1,7 @@
 # Alpin Briefing der Woche
 
+Woche vom 31.10.2026 15:01 Uhr
+
 <img src="https://i.imgur.com/USWbTCC.jpg" alt="Titelbild der Woche" style="max-width: 100%; height: auto;"><br>
 *Auf dem Bild zu sehen ist eine grüne Wiese auf der Seiser Alm mit einer leichten Steigung und dem massiven Bergmassiv im Hintergrund unter wolkigem Himmel. Das Foto gehört zum Wanderbericht über die herbstliche Tour auf der Seiser Alm in dieser Woche.*
 
