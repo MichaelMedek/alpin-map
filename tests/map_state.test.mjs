@@ -215,8 +215,9 @@ test("validators reject malformed page data instead of rendering it", () => {
 });
 
 // The viewer is a static, CSP-locked bundle; this inventory is the review gate on its entire outbound surface.
-// It pins the three same-origin data files the app fetches, the exact script/style/CSP allowlist, and every
-// absolute host, so a new remote dependency, a leftover page4, or a stray map.geojson cannot slip in unreviewed.
+// It pins the four same-origin data files the app fetches (the three daily pages plus the weekly markdown), the
+// exact script/style/CSP allowlist, and every absolute host, so a new remote dependency or a stray file cannot
+// slip in unreviewed.
 test("static bundle has the complete approved link inventory", async () => {
   const [readme, index, styles, script, state] = await Promise.all([
     readFile(new URL("../README.md", import.meta.url), "utf8"),
@@ -227,8 +228,8 @@ test("static bundle has the complete approved link inventory", async () => {
   ]);
 
   assert.deepEqual(
-    [...new Set([...script.matchAll(/"(\.\/page[^"]+)"/g)].map((match) => match[1]))].sort(),
-    ["./page1_resort_news.geojson", "./page2_snow_conditions.geojson", "./page3_briefing.json"],
+    [...new Set([...script.matchAll(/"(\.\/[\w-]+\.(?:geojson|json|md))"/g)].map((match) => match[1]))].sort(),
+    ["./page1_resort_news.geojson", "./page2_snow_conditions.geojson", "./page3_briefing.json", "./weekly_briefing.md"],
   );
   assert.deepEqual(
     [...index.matchAll(/\shref="([^"]+)"/g)].map((match) => match[1]),
@@ -240,6 +241,7 @@ test("static bundle has the complete approved link inventory", async () => {
       "#/report",
       "#/tips",
       "#/debates",
+      "#/weekly",
     ],
   );
   assert.deepEqual(

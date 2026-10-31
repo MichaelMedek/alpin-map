@@ -12,6 +12,7 @@ const DEFAULT_CENTER = [46.8, 10.2];
 const DEFAULT_ZOOM = 5;
 const DEFAULT_ROUTE = "resort-news";
 const BRIEFING_URL = "./page3_briefing.json";
+const WEEKLY_URL = "./weekly_briefing.md";
 
 // One registry drives the nav chrome and dispatch; the two map routes share renderMapFeatures(), so
 // resort-news and snow stay byte-for-byte symmetric and differ only by data url and labels, while the
@@ -46,6 +47,12 @@ const ROUTES = {
     subtitle: "Three pro and contra debates from the forums.",
     view: "doc",
     render: renderDebates,
+  },
+  weekly: {
+    title: "Weekly briefing",
+    subtitle: "The editor's condensed briefing of the week; updates weekly, not daily.",
+    view: "weekly",
+    url: WEEKLY_URL,
   },
 };
 
@@ -480,12 +487,135 @@ async function activateBriefingRoute({ route }) {
   }
 }
 
+function weeklyInlineNodes({ text }) {
+  // Parse the two inline forms our weekly markdown uses — **bold** and [label](url) — into safe DOM nodes
+  // (textContent and createElement only, never innerHTML); any other run of characters stays literal text.
+  const nodes = [];
+  const pattern = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)]+)\)/g;
+  let lastIndex = 0;
+  let match = pattern.exec(text);
+  while (match !== null) {
+    if (match.index > lastIndex) {
+      nodes.push(document.createTextNode(text.slice(lastIndex, match.index)));
+    }
+    // Group 1 is a bold run; otherwise groups 2/3 are a link's label and href.
+    if (match[1] !== undefined) {
+      const strong = document.createElement("strong");
+      strong.textContent = match[1];
+      nodes.push(strong);
+    } else {
+      nodes.push(linkElement({ href: match[3], text: match[2], className: null }));
+    }
+    lastIndex = pattern.lastIndex;
+    match = pattern.exec(text);
+  }
+  if (lastIndex < text.length) {
+    nodes.push(document.createTextNode(text.slice(lastIndex)));
+  }
+  return nodes;
+}
+
+function renderWeekly({ markdown }) {
+  // Render the published weekly briefing markdown line by line into safe DOM: a cover image, its caption, the
+  // five section headings, and their bullet lists. The producer owns this exact shape, so a small line scanner
+  // is enough and avoids pulling in a markdown dependency.
+  const section = document.createElement("section");
+  section.className = "doc-section weekly";
+  let list = null;
+  function closeList() {
+    // Consecutive "- " bullets accumulate into one <ul>; any other line flushes and appends it first.
+    if (list !== null) {
+      section.append(list);
+      list = null;
+    }
+  }
+  for (const rawLine of markdown.split("\n")) {
+    const line = rawLine.trim();
+    // Blank lines and the markdown H1 are skipped: the header chrome already shows the page title.
+    if (line === "" || line.startsWith("# ")) {
+      continue;
+    }
+    // The email's promo paragraph links back to this very site, so the viewer drops it (it is here already).
+    if (line.includes("michaelmedek.github.io/alpin-map")) {
+      continue;
+    }
+    if (line.startsWith("<img")) {
+      // The one raw <img> line carries the cover; read its src/alt and build a fresh element (no innerHTML).
+      closeList();
+      const srcMatch = line.match(/src="([^"]*)"/);
+      if (srcMatch !== null) {
+        const image = document.createElement("img");
+        image.className = "weekly__cover";
+        image.loading = "lazy";
+        image.decoding = "async";
+        image.referrerPolicy = "no-referrer";
+        image.src = srcMatch[1];
+        const altMatch = line.match(/alt="([^"]*)"/);
+        image.alt = altMatch === null ? "Weekly briefing cover image." : altMatch[1];
+        section.append(image);
+      }
+    } else if (line.startsWith("## ")) {
+      closeList();
+      const heading = document.createElement("h2");
+      heading.className = "weekly__heading";
+      heading.textContent = line.slice(3).trim();
+      section.append(heading);
+    } else if (line.startsWith("- ")) {
+      if (list === null) {
+        list = document.createElement("ul");
+        list.className = "weekly__list";
+      }
+      const item = document.createElement("li");
+      item.append(...weeklyInlineNodes({ text: line.slice(2) }));
+      list.append(item);
+    } else if (line.length > 2 && line.startsWith("*") && line.endsWith("*")) {
+      closeList();
+      const caption = document.createElement("p");
+      caption.className = "weekly__caption";
+      const emphasis = document.createElement("em");
+      emphasis.textContent = line.slice(1, -1);
+      caption.append(emphasis);
+      section.append(caption);
+    } else {
+      // Any remaining line (the live-map promo) is a paragraph that may carry inline bold and a link.
+      closeList();
+      const paragraph = document.createElement("p");
+      paragraph.className = "weekly__text";
+      paragraph.append(...weeklyInlineNodes({ text: line }));
+      section.append(paragraph);
+    }
+  }
+  closeList();
+  return section;
+}
+
+async function activateWeeklyRoute({ route }) {
+  // The weekly briefing is published as markdown, not JSON, so fetch it as text and render it into the doc view.
+  showView({ view: "doc" });
+  showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
+  try {
+    const response = await fetch(route.url + "?loaded=" + Date.now(), { cache: "no-store" });
+    if (response.ok === false) {
+      throw new Error("Request for " + route.url + " failed with HTTP " + response.status + ".");
+    }
+    docElement.replaceChildren(renderWeekly({ markdown: await response.text() }));
+    hideMessage();
+  } catch (error) {
+    docElement.replaceChildren();
+    showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
+    console.error("Could not load the " + route.title + " page.", error);
+  }
+}
+
 function activateRoute({ route }) {
-  // The view kind is a closed set; a map route renders Leaflet, a doc route renders the collapsed briefing.
+  // The view kind is a closed set: a map route renders Leaflet, a doc route renders the collapsed daily
+  // briefing, and the weekly route renders the published weekly markdown.
   if (route.view === "map") {
     return activateMapRoute({ route: route });
   } else if (route.view === "doc") {
     return activateBriefingRoute({ route: route });
+  } else if (route.view === "weekly") {
+    return activateWeeklyRoute({ route: route });
   } else {
     throw new RangeError("Unsupported view: " + route.view);
   }
