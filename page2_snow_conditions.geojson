@@ -104,7 +104,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Kaunertaler Gletscher",
         "headline": "Top-Präparation und entspannter Andrang am Kaunertaler Gletscher",
@@ -123,7 +123,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Kitzsteinhorn/Maiskogel – Kaprun",
         "headline": "Gute Mischung aus Pulver- und Maschinenschnee am Kitzsteinhorn",
@@ -213,12 +213,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.8764531,
+          46.9131659
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 02:02 Uhr",
+        "name": "Turracher Höhe",
+        "headline": "Turracher Höhe startet mit Vollbeschneiung auf Ost- und Westseite",
+        "summary": "Auf der Turracher Höhe herrschen passende Minustemperaturen: Die Schneekanonen wurden auf voller Breite in Betrieb genommen, um ein erstes Schneedepot auf den Hängen anzulegen.",
+        "source_url": "https://www.alpinforum.com/threads/3427/page-211",
+        "image_url": "https://www.foto-webcam.eu/webcam/turrach-ost/current/720.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Gletscherschwund und Blankeis auf den Pisten in Zermatt",

@@ -11,30 +11,12 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Adelboden-Lenk",
         "headline": "Lenk treibt Verbindungspläne nach Crans-Montana und Neubauten voran",
         "summary": "Die Bergbahnen Adelboden-Lenk blicken auf ein solides Geschäftsjahr 2025/26 zurück. Die Machbarkeitsstudie für die Seilbahnverbindung Lenk-Crans-Montana steht kurz vor der Veröffentlichung; zudem laufen Planungen für ein Bergrestaurant am Metschstand und ein Skidata-Upgrade für 2027.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.5660244,
-          46.7548885
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "29.10.2026 03:47 Uhr",
-        "name": "Arosa Lenzerheide",
-        "headline": "Pilotprojekt: Bahnen ab 7 Uhr",
-        "summary": "Ein Pilotprojekt soll im März starten, bei dem die Bahnen an Wochenenden und Feiertagen bereits um 7 Uhr in Betrieb genommen werden. Der Test ist als erster Schritt zur früheren Öffnung der Pisten geplant.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=66&start=100"
       }
     },
     {
@@ -83,7 +65,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Gerlitzen",
         "headline": "Neue Kanzelbahn 2 auf der Gerlitzen fertiggestellt",
@@ -102,7 +84,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Harz / Wurmberg",
         "headline": "Modernisierung der Beschneiung am Wurmberg abgeschlossen",
@@ -127,6 +109,24 @@
         "headline": "Kasberg: Skibetrieb startet 5. Dezember",
         "summary": "Alle Pachtverträge sind unterschrieben, sodass der Skibetrieb am Kasberg/Grünau voraussichtlich am 5. Dezember 2026 starten kann, sofern ausreichend Schnee liegt. Damit ist die betriebliche Vorbereitung abgeschlossen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=1054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0571311,
+          47.0773706
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 02:02 Uhr",
+        "name": "Kreischberg",
+        "headline": "Neuer Rosenkranz-Sessellift am Kreischberg wird stärkste Sesselbahn der Steiermark",
+        "summary": "Am Kreischberg wird mit der neuen 8er-Sesselbahn Rosenkranz ein Meilenstein bei der Förderleistung gesetzt: Mit einer Kapazität von 4.000 Personen pro Stunde übertrifft die Bahn den bisherigen Spitzenreiter Kaiblinggrat (3.600 P/h) deutlich und wird zur leistungsstärksten Sesselbahn der gesamten Steiermark.",
+        "source_url": "https://www.alpinforum.com/threads/23492/page-11"
       }
     },
     {
@@ -213,7 +213,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Montgenèvre / Via Lattea",
         "headline": "Sumpfiger Baugrund verzögert Sessellift-Neubau Colletto Verde",
@@ -226,12 +226,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.3119292,
+          47.3708539
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 02:02 Uhr",
+        "name": "Oberstdorf / Kleinwalsertal",
+        "headline": "Neue Busanbindung zur modernisierten Walmendingerhornbahn in Mittelberg",
+        "summary": "Die Gemeinde Mittelberg richtet einen Pilotbetrieb für den Walserbus ein, der Skifahrer künftig direkt an die neu errichtete Talstation der Walmendingerhornbahn befördert, um den Parkplatzmangel zu entschärfen und die Zubringerfunktion zu optimieren.",
+        "source_url": "https://www.alpinforum.com/threads/1062/page-186",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fimages.mgpd.de%2Fimg%2F103343397%2Fcrop%2Fc16_9-w1200%2F668795976%2F304756605%2Fwalserbus.jpg&hash=ced32fcbb17fdb170d6c1e79fe1a78d1&return_error=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.2881895,
           47.0097538
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "31.10.2026 17:57 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Neue Pistenüberführung im Paznauntal errichtet",
@@ -300,24 +319,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.2726212,
-          46.811169
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "29.10.2026 03:47 Uhr",
-        "name": "Scuol–Motta Naluns",
-        "headline": "Scuol: Förderband im Kinderland getauscht",
-        "summary": "Im Kinderland von Scuol–Motta Naluns wurde ein Förderband ausgetauscht.",
-        "source_url": "https://www.alpinforum.com/threads/21219/page-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.5729763,
           47.0495139
         ]
@@ -354,18 +355,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9295878,
-          44.6765415
+          11.1172229,
+          46.9918843
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "29.10.2026 03:47 Uhr",
-        "name": "Superdévoluy",
-        "headline": "10er-Gondel vor Eröffnung am 12. Dezember",
-        "summary": "Der Kabelbetrieb der 10er‑Gondelbahn läuft seit dem 17. September und die 36 Gondelkabinen wurden am 23. September auf das Seil gesetzt. Die Anlage befindet sich derzeit in Testfahrten, darunter langsame und schnelle Läufe sowie Notbremsen, und soll voraussichtlich zum 12. Dezember eröffnet werden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43171",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/e67c054c-7e17-4490-b867-e5bd76fde717/1_1200.jpg"
+        "recency": "breaking",
+        "timestamp": "01.11.2026 02:02 Uhr",
+        "name": "Stubaier Gletscher",
+        "headline": "Geländeanpassungen und erfolgreicher Refit der Eisjochbahn am Stubaier Gletscher",
+        "summary": "Am Stubaier Gletscher laufen weiterhin umfangreiche Baggerarbeiten zur Trassensicherung an der Zufahrt zur Wildspitze, in der oberen Fernau sowie an der Daunscharte. An der Eisjochbahn wurde die Geländemulde weitgehend verfüllt und die Bergstation erfolgreich entschärft.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=100",
+        "image_url": "https://alpinfans.com/download/file.php?id=125963&mode=view"
       }
     },
     {

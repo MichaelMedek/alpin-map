@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T16:57:00Z",
+  "generated_at": "2026-11-01T01:02:00Z",
   "reports": [
     {
-      "headline": "Nostalgie über den Schluchten des Drac: Mit dem Petit Train de La Mure",
-      "summary": "Eine faszinierende Entdeckungsreise bietet der restaurierte Panoramazug Le Petit Train de La Mure südlich von Grenoble. Die 1888 ursprünglich für den Steinkohletransport erbaute Gebirgsbahn führt über 30 Kilometer, 18 Tunnel und spektakuläre Viadukte hoch über die Schluchten der Dauphiné. Die 2021 nach einem Felssturz wiedereröffnete Schmalspurbahn endet an einem spektakulären Aussichtspunkt über dem türkisfarbenen Lac de Monteynard, wo sich herbstliche Ruhe und historische Eisenbahntechnik perfekt verbinden.",
+      "headline": "Auf schmaler Spur über den Abgrund: Entdeckungsreise mit der historischen Schmalspurbahn La Mure",
+      "summary": "Ein nostalgischer Ausflug abseits des Massentourismus führt in die Bergwelt südlich von Grenoble: Mit dem 'Petit Train de La Mure' geht es auf einer spektakulären Trasse hoch über dem türkisfarbenen Lac de Monteynard entlang schroffer Felswände. Die 1888 erbaute Bahn war einst eine Pioniertat für den Anthrazitkohle-Abbau und zählte zu den ersten mit Hochspannung betriebenen Strecken weltweit. Nach einem schweren Felssturz im Jahr 2010 wurde die Linie aufwendig renoviert und führt heute über kühne Viadukte und Tunnel direkt zu einem Aussichtspunkt mit Panoramablick auf die Schluchten des Drac und das Vercors-Massiv. Bei frischer Herbstluft und moderaten Einkehrpreisen am Zielbahnhof bietet die knapp einstündige Bahnfahrt ein entschleunigendes und geschichtsträchtiges Bergerlebnis für Bahn- und Alpenliebhaber.",
       "source_url": "https://alpinfans.com/viewtopic.php?t=4258",
       "image_urls": [
         "https://alpinfans.com/download/file.php?id=125948&mode=view",
@@ -17,57 +17,51 @@
   ],
   "tips": [
     {
-      "headline": "Bargeld-Pflicht im Belchenhaus einplanen",
-      "summary": "Wer den Belchen im Südschwarzwald besucht, sollte unbedingt Bargeld mitführen: Im großen Gipfel-Gasthaus ist keine Kartenzahlung möglich. Bei Engpässen kann jedoch das Personal an der Talstation der Belchenbahn aushelfen.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4256"
-    },
-    {
-      "headline": "Optimale Familien-Treffpunkte im Hochzillertal",
-      "summary": "Für Skitage mit Nicht-Skifahrern empfiehlt sich im Hochzillertal die Bergstation Kaltenbach: Direkt an der Gondel liegen die Skischulsammelplätze und Restaurants, sodass gemeinsame Pausen ohne lange Wege gelingen. Für Kleinkinder ab 3 Monaten gibt es zudem den Zwergerl Club.",
+      "headline": "Familientipp Zillertal: Bergrestaurants und Kinderländer für Fußgänger",
+      "summary": "Für Familien mit nicht-skifahrenden Großeltern eignet sich Kaltenbach im Hochzillertal besonders gut: Mit der Gondel gelangt man direkt zur Bergstation, wo sich die Kinderländer der Skischulen und das Restaurant Mountainview auf einer Ebene befinden. Für Kleinkinder ab 3 Monaten bietet der Gästekindergarten Zwergerl Club Betreuung, falls Skikurse erst ab 4 Jahren belegt werden können.",
       "source_url": "https://www.alpinforum.com/threads/72682/"
     },
     {
-      "headline": "Deckschäden an Skischaufeln rechtzeitig versiegeln",
-      "summary": "Absplitterungen an der Skioberseite sollten vor Winterbeginn mit flexiblem 2-Komponenten-Epoxidkleber versiegelt werden. Dadurch wird verhindert, dass eindringendes Schmelzwasser bei Frost die Schichten weiter aufsprengt.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4252"
+      "headline": "Sonnenskilauf auf der Turracher Höhe: Hangexposition und Öffnungszeiten im Frühjahr",
+      "summary": "Wer im April auf die Turracher Höhe reist, profitiert von schlagkräftiger Beschneiung bis Mitte April. Wichtig für die Tagesplanung: Die reinen Südhänge schließen teils früher im April, während Kornock und Schafalm meist bis zum Saisonschluss geöffnet bleiben, wobei sich wegen rascher Buckelbildung frühes Starten am Vormittag auszahlt.",
+      "source_url": "https://www.alpinforum.com/threads/72685/"
+    },
+    {
+      "headline": "Alpinfans SkiTracker: Pistenkarten-Overlay für unbefahrene Hänge",
+      "summary": "In der neuen Version 1.1.0 der SkiTracker-App lassen sich die eigenen getrackten Skitage direkt auf der Pisten- und Liftkarte einblenden. Beim Heranzoomen wird sofort sichtbar, welche Abfahrten und Lifte im Skigebiet noch unbefahren sind.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=4235&start=25"
     }
   ],
   "controversial": [
     {
-      "headline": "Skipass-Preisniveau: Schließt Österreich zur Schweiz auf?",
+      "headline": "Drastische Preiserhöhungen bei kleinen Familienskigebieten am Hocheck",
       "pro": [
-        "Massive Investitionen in moderne Liftanlagen und lückenlose Beschneiung rechtfertigen die Tarife für hohe Schneesicherheit.",
-        "In Frankreich und kleineren Regionen bleiben bezahlbare Angebote für preisbewusste Wintersportler bestehen."
+        "Gestiegene Energiekosten, Personalaufwand und Investitionen in neue Schneekanonen zwingen auch kleine Gebiete zur Preisanpassung, um den wirtschaftlichen Fortbestand zu sichern."
       ],
       "contra": [
-        "Im unteren Preissegment ist Skifahren in Österreich inzwischen stellenweise teurer als in vergleichbaren Schweizer Gebieten.",
-        "Stetige Teuerungen machen den Wintersport für Familien und Durchschnittsverdiener zunehmend unerschwinglich."
+        "Preissprünge von über 10 % beim Tagesticket auf 38 Euro und fast 20 % beim Flutlicht ohne spürbare Komfortverbesserungen überfordern Familien und vergraulen die lokale Kundschaft."
       ],
-      "source_url": "https://www.alpinforum.com/threads/72176/page-4"
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3884"
     },
     {
-      "headline": "Zukunft der Bergbahnen Brambrüesch nach Kreditabsage",
+      "headline": "Zukunft von Tschiertschen: Pendelbahn-Verbindung nach Arosa versus Ausrichtung auf Chur",
       "pro": [
-        "Der starke Sommer und positive operative Zahlen belegen den hohen Wert als stadtnahes Naherholungsgebiet für Chur.",
-        "Aktionen wie das Uffa-Jahresabonnement sichern eine treue lokale Kundenbasis."
+        "Eine Pendelbahn-Verbindung nach Arosa böte Tschiertschen eine langfristig rentable, nachhaltige Zukunft mit Anbindung an eine florierende Großraumdestination unter erfahrener Führung."
       ],
       "contra": [
-        "Die alternde 4er-Gondelbahn droht ohne Neukonzept zu einer finanziellen Dauerbelastung zu werden.",
-        "Gegenüber benachbarten Top-Gebieten in Graubünden fehlt es dem Stadtberg an sportlicher Anziehungskraft."
+        "Kritiker befürchten Identitätsverlust durch Großinvestoren und bedauern, dass nach dem Scheitern der Brambrüesch-Direktverbindung in Chur wertvolle Fördergelder und Synergien ungenutzt blieben."
       ],
-      "source_url": "https://www.alpinforum.com/threads/13511/page-17"
+      "source_url": "https://www.alpinforum.com/threads/58134/page-8"
     },
     {
-      "headline": "Einschränkungen für organisierte Fahrten am Timmelsjoch",
+      "headline": "Wandel in Damüls-Mellau: Moderner Großraumkomfort versus Hüttengemütlichkeit",
       "pro": [
-        "Reglementierungen reduzieren übermäßige Lärm- und Abgasbelastung durch große Fahrzeuggruppen auf der Passstraße.",
-        "Weniger Kolonnenverkehr erhöht die Verkehrssicherheit für Ausflügler, Radfahrer und Wanderer."
+        "Moderne Hochleistungssesselbahnen und neue Hotelresorts werten die Infrastruktur auf, verkürzen Wartezeiten und sichern den internationalen Qualitätsstandard."
       ],
       "contra": [
-        "Traditionelle Ausfahrten und Clubtreffen von Oldtimer- und Motorsportvereinen werden pauschal kriminalisiert.",
-        "Bürokratische Genehmigungshürden schränken die Attraktivität der berühmten Panoramastraße ein."
+        "Traditionelle Gäste beklagen den Verlust des urigen Charmes durch Überfüllung, verbaute Hänge sowie Service-Rückschritte wie gestrichenes Hütten-WLAN und unvollständige Markierungen im Pistenplan."
       ],
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4255"
+      "source_url": "https://www.alpinforum.com/threads/2779/page-78"
     }
   ]
 }
