@@ -543,3 +543,91 @@ body {
     width: 100%;
   }
 }
+
+/* Click-to-enlarge affordance on the two thumbnail kinds (report gallery and popup photo). */
+.report__image,
+.news-popup__image {
+  cursor: zoom-in;
+}
+
+.report__image:focus-visible,
+.news-popup__image:focus-visible {
+  outline: 3px solid #0788df;
+  outline-offset: 2px;
+}
+
+/* The lightbox is a native modal <dialog> promoted to the top layer; it fills the viewport as a transparent
+   flex container that centres one forum image at a readable, viewport-capped size (object-fit contain, so
+   nothing is cropped on phone or laptop), with the dark page dimming painted on its ::backdrop. */
+body.lightbox-open {
+  overflow: hidden;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  margin: 0;
+  padding: 1.5rem;
+  border: none;
+  background: transparent;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox[open] {
+  display: flex;
+}
+
+.lightbox::backdrop {
+  background: rgba(8, 18, 12, 0.88);
+}
+
+.lightbox__image {
+  max-width: min(94vw, 1400px);
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0.6rem;
+  box-shadow: 0 1.2rem 3rem rgba(0, 0, 0, 0.55);
+  cursor: default;
+}
+
+.lightbox__close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 2.75rem;
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: #0b140e;
+  background: #ffffff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0.3rem 0.9rem rgba(0, 0, 0, 0.4);
+}
+
+.lightbox__close:focus-visible {
+  outline: 3px solid #0788df;
+  outline-offset: 2px;
+}
+
+@media (max-width: 44rem) {
+  .lightbox {
+    padding: 0.75rem;
+  }
+
+  .lightbox__image {
+    max-width: 96vw;
+    max-height: 86vh;
+  }
+}

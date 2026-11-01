@@ -14,46 +14,16 @@ const DEFAULT_ROUTE = "resort-news";
 const BRIEFING_URL = "./page3_briefing.json";
 const WEEKLY_URL = "./weekly_briefing.md";
 
-// One registry drives the nav chrome and dispatch; the two map routes share renderMapFeatures(), so
-// resort-news and snow stay byte-for-byte symmetric and differ only by data url and labels, while the
-// three doc routes each render exactly one section of the shared briefing.
+// One registry drives the nav chrome and dispatch; the two map routes share renderMapFeatures() (symmetric,
+// differing only by data url and labels), the three doc routes each render one section of the shared briefing,
+// and the weekly route renders the published markdown.
 const ROUTES = {
-  "resort-news": {
-    title: "Resort news",
-    subtitle: "Construction and infrastructure progress across the Alps.",
-    view: "map",
-    url: "./page1_resort_news.geojson",
-  },
-  snow: {
-    title: "Snow & conditions",
-    subtitle: "Current snow, slope and mountain conditions.",
-    view: "map",
-    url: "./page2_snow_conditions.geojson",
-  },
-  report: {
-    title: "Report of the day",
-    subtitle: "The forum story of the day.",
-    view: "doc",
-    render: renderReport,
-  },
-  tips: {
-    title: "Tips",
-    subtitle: "Practical tips from the forums.",
-    view: "doc",
-    render: renderTips,
-  },
-  debates: {
-    title: "Debates",
-    subtitle: "Pro and contra debates from the forums.",
-    view: "doc",
-    render: renderDebates,
-  },
-  weekly: {
-    title: "Weekly briefing",
-    subtitle: "The editor's condensed briefing of the week; updates weekly, not daily.",
-    view: "weekly",
-    url: WEEKLY_URL,
-  },
+  "resort-news": { title: "Resort news", subtitle: "Construction and infrastructure progress across the Alps.", view: "map", url: "./page1_resort_news.geojson" },
+  snow: { title: "Snow & conditions", subtitle: "Current snow, slope and mountain conditions.", view: "map", url: "./page2_snow_conditions.geojson" },
+  report: { title: "Report of the day", subtitle: "The forum story of the day.", view: "doc", render: renderReport },
+  tips: { title: "Tips", subtitle: "Practical tips from the forums.", view: "doc", render: renderTips },
+  debates: { title: "Debates", subtitle: "Pro and contra debates from the forums.", view: "doc", render: renderDebates },
+  weekly: { title: "Weekly briefing", subtitle: "The editor's condensed briefing of the week; updates weekly, not daily.", view: "weekly", url: WEEKLY_URL },
 };
 
 const mapElement = document.getElementById("map");
@@ -65,26 +35,51 @@ let map = null;
 let markerGroup = null;
 let activeRoute = null;
 let briefingPromise = null;
+let lightbox = null;
+
+// A tiny declarative element builder — the single helper that removes this file's create-assign-append
+// repetition. `class`/`text` map to the matching DOM property, `on` registers listeners, hyphenated keys and
+// `role` become attributes, everything else is a direct property (src, href, hidden…). It builds only through
+// createElement/append/textContent, never innerHTML, so the strict CSP holds.
+function el(tag, props = {}, ...children) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(props)) {
+    if (value === null || value === undefined) continue;
+    if (key === "class") node.className = value;
+    else if (key === "text") node.textContent = value;
+    else if (key === "on") for (const [type, handler] of Object.entries(value)) node.addEventListener(type, handler);
+    else if (key === "role" || key.includes("-")) node.setAttribute(key, value);
+    else node[key] = value;
+  }
+  for (const child of children) if (child !== null && child !== undefined) node.append(child);
+  return node;
+}
+
+function linkElement({ href, text, className }) {
+  return el("a", { href, text, target: "_blank", rel: "noopener noreferrer", class: className });
+}
+
+async function fetchNoStore(url) {
+  // A cache-busting no-store GET shared by every data route; a non-2xx is surfaced rather than rendered.
+  const response = await fetch(url + "?loaded=" + Date.now(), { cache: "no-store" });
+  if (response.ok === false) throw new Error("Request for " + url + " failed with HTTP " + response.status + ".");
+  return response;
+}
 
 function loadBriefing() {
-  // Fetch and validate page 3 at most once: the header date (every page) and the briefing view share it,
-  // so there is a single source of truth and a single network request for the collapsed page.
+  // Fetch and validate page 3 at most once: the header date (every page) and the briefing view share it, so
+  // there is a single source of truth and a single request for the collapsed page.
   if (briefingPromise === null) {
-    briefingPromise = fetch(BRIEFING_URL + "?loaded=" + Date.now(), { cache: "no-store" })
-      .then((response) => {
-        if (response.ok === false) {
-          throw new Error("Request for " + BRIEFING_URL + " failed with HTTP " + response.status + ".");
-        }
-        return response.json();
-      })
+    briefingPromise = fetchNoStore(BRIEFING_URL)
+      .then((response) => response.json())
       .then((payload) => validateBriefing({ value: payload }));
   }
   return briefingPromise;
 }
 
 function ensureMap() {
-  // Create the Leaflet map once and reuse it across both map routes; a hidden container keeps the single
-  // instance cheap and avoids leaking tile layers when the user switches pages repeatedly.
+  // Create the Leaflet map once and reuse it across both map routes; toggling the container's hidden keeps the
+  // single instance cheap and avoids leaking tile layers when the user switches pages repeatedly.
   if (map === null) {
     map = L.map(mapElement, { minZoom: 4 }).setView(DEFAULT_CENTER, DEFAULT_ZOOM);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -93,119 +88,87 @@ function ensureMap() {
     }).addTo(map);
     markerGroup = L.featureGroup().addTo(map);
   }
-  return { map: map, markerGroup: markerGroup };
+  return { map, markerGroup };
 }
 
-function linkElement({ href, text, className }) {
-  const link = document.createElement("a");
-  link.href = href;
-  link.textContent = text;
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  if (className !== null) {
-    link.className = className;
-  }
-  return link;
+// --- Click-to-enlarge lightbox (native <dialog> modal) ------------------------------------------
+// showModal() gives focus trapping, Escape, background inertness and focus-return for free; only backdrop
+// light-dismiss and the body-scroll lock are ours. Only one overlay exists at a time.
+function closeLightbox() {
+  if (lightbox !== null) lightbox.close();
+}
+
+function openLightbox({ src, alt }) {
+  closeLightbox();
+  // A click on the image must not reach the backdrop, so viewing it never closes the overlay.
+  const image = el("img", { class: "lightbox__image", src, alt, decoding: "async", referrerPolicy: "no-referrer", on: { click: (event) => event.stopPropagation() } });
+  const closeButton = el("button", { type: "button", class: "lightbox__close", "aria-label": "Close enlarged image", text: "×", autofocus: true, on: { click: closeLightbox } });
+  lightbox = el("dialog", {
+    class: "lightbox",
+    "aria-label": "Enlarged image",
+    on: {
+      // A click on the dialog itself (outside the image) is a light dismiss; close() fires "close" below.
+      click: (event) => { if (event.target === lightbox) lightbox.close(); },
+      close: () => { lightbox.remove(); document.body.classList.remove("lightbox-open"); lightbox = null; },
+    },
+  }, image, closeButton);
+  document.body.append(lightbox);
+  document.body.classList.add("lightbox-open");
+  lightbox.showModal();
+  return lightbox;
+}
+
+function makeImageZoomable({ image }) {
+  // Turn a thumbnail into a pointer- and keyboard-operable control; read src at activation time so a popup
+  // image whose src changes as the carousel pages stays correct, and ignore the hidden (no-photo) slot.
+  image.setAttribute("role", "button");
+  image.tabIndex = 0;
+  const open = () => {
+    if (image.hidden !== true && typeof image.src === "string" && image.src.length > 0) openLightbox({ src: image.src, alt: image.alt });
+  };
+  image.addEventListener("click", open);
+  image.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") { event.preventDefault(); open(); }
+  });
 }
 
 function popupElement({ feature, onContentChange }) {
-  if (typeof onContentChange !== "function") {
-    throw new TypeError("onContentChange must be a function.");
-  }
-
+  if (typeof onContentChange !== "function") throw new TypeError("onContentChange must be a function.");
   let activeIndex = 0;
-  // The popup is pinned to one large size with a reserved image slot, so paging the carousel never reflows it.
-  const popup = document.createElement("article");
-  popup.className = "news-popup";
-
-  // The resort name is constant across the carousel, so it is the eyebrow; the per-page headline is the title.
-  const kicker = document.createElement("p");
-  kicker.className = "news-popup__kicker";
-  kicker.textContent = feature.name;
-  popup.append(kicker);
-
-  const title = document.createElement("h2");
-  popup.append(title);
-
-  const status = document.createElement("p");
-  status.setAttribute("aria-live", "polite");
-  status.setAttribute("aria-atomic", "true");
-  popup.append(status);
-
-  const content = document.createElement("div");
-  content.className = "news-popup__content";
-
-  const summary = document.createElement("p");
-  summary.className = "news-popup__summary";
-
-  // The image slot is always present at a fixed size; a real photo or a muted placeholder keeps the layout steady.
-  const imageSlot = document.createElement("div");
-  imageSlot.className = "news-popup__image-slot";
-  const image = document.createElement("img");
-  image.className = "news-popup__image";
-  image.loading = "lazy";
-  image.decoding = "async";
-  image.referrerPolicy = "no-referrer";
-  image.hidden = true;
-  image.addEventListener("load", onContentChange);
-  const placeholder = document.createElement("div");
-  placeholder.className = "news-popup__image-placeholder";
-  placeholder.setAttribute("aria-hidden", "true");
-  // A visible, friendly icon plus explicit text so an absent photo reads as intentional, not a failed load.
-  const placeholderIcon = document.createElement("span");
-  placeholderIcon.className = "news-popup__image-placeholder-icon";
-  placeholderIcon.textContent = "🏔️";
-  const placeholderText = document.createElement("span");
-  placeholderText.className = "news-popup__image-placeholder-text";
-  placeholderText.textContent = "No photo for this update";
-  placeholder.append(placeholderIcon, placeholderText);
-  // A present URL that fails to load (a dead or blocked forum image) also falls back to the placeholder,
-  // so a broken image icon never replaces it; renderNewsItem resets this state on every page.
-  image.addEventListener("error", () => {
-    image.hidden = true;
-    placeholder.hidden = false;
-    onContentChange();
-  });
-  imageSlot.append(image, placeholder);
-  content.append(summary, imageSlot);
-  popup.append(content);
-
-  const pagination = document.createElement("div");
-  pagination.className = "news-popup__pagination";
-
-  const previousButton = document.createElement("button");
-  previousButton.type = "button";
-  previousButton.textContent = "Previous";
-  previousButton.setAttribute("aria-label", "Show newer news");
-
-  const pageCounter = document.createElement("span");
-  pageCounter.className = "news-popup__page-counter";
-  pageCounter.setAttribute("aria-live", "polite");
-  pageCounter.setAttribute("aria-atomic", "true");
-
-  const nextButton = document.createElement("button");
-  nextButton.type = "button";
-  nextButton.textContent = "Next";
-  nextButton.setAttribute("aria-label", "Show older news");
-  pagination.append(previousButton, pageCounter, nextButton);
-  popup.append(pagination);
-
-  const actions = document.createElement("div");
-  actions.className = "news-popup__actions";
+  // The mutable nodes the carousel rewrites on every page; everything else is built once in the tree below.
+  const title = el("h2");
+  const status = el("p", { "aria-live": "polite", "aria-atomic": "true" });
+  const summary = el("p", { class: "news-popup__summary" });
+  const placeholder = el("div", { class: "news-popup__image-placeholder", "aria-hidden": "true" },
+    el("span", { class: "news-popup__image-placeholder-icon", text: "🏔️" }),
+    el("span", { class: "news-popup__image-placeholder-text", text: "No photo for this update" }));
+  // A dead or blocked forum image falls back to the placeholder, so a broken-image icon never appears.
+  const image = el("img", { class: "news-popup__image", loading: "lazy", decoding: "async", referrerPolicy: "no-referrer", hidden: true,
+    on: { load: onContentChange, error: () => { image.hidden = true; placeholder.hidden = false; onContentChange(); } } });
+  makeImageZoomable({ image });
+  const pageCounter = el("span", { class: "news-popup__page-counter", "aria-live": "polite", "aria-atomic": "true" });
+  const previousButton = el("button", { type: "button", text: "Previous", "aria-label": "Show newer news",
+    on: { click: () => { if (activeIndex > 0) { activeIndex -= 1; renderNewsItem(); } } } });
+  const nextButton = el("button", { type: "button", text: "Next", "aria-label": "Show older news",
+    on: { click: () => { if (activeIndex < feature.newsItems.length - 1) { activeIndex += 1; renderNewsItem(); } } } });
   const sourceLink = linkElement({ href: feature.newsItems[0].sourceUrl, text: "Open source forum page", className: null });
-  actions.append(sourceLink);
-  popup.append(actions);
+
+  // The content is always two columns with a reserved image slot, so paging the carousel never reflows it.
+  const popup = el("article", { class: "news-popup" },
+    el("p", { class: "news-popup__kicker", text: feature.name }),
+    title,
+    status,
+    el("div", { class: "news-popup__content" }, summary, el("div", { class: "news-popup__image-slot" }, image, placeholder)),
+    el("div", { class: "news-popup__pagination" }, previousButton, pageCounter, nextButton),
+    el("div", { class: "news-popup__actions" }, sourceLink));
 
   function renderNewsItem() {
-    const pageState = newsPageState({ newsItems: feature.newsItems, activeIndex: activeIndex });
+    const pageState = newsPageState({ newsItems: feature.newsItems, activeIndex });
     const newsItem = pageState.newsItem;
     title.textContent = newsItem.headline;
     // Breaking (red) and weekly (blue) are both bold; the label text and emphasis are applied here, not in the data.
     status.className = "news-popup__status news-popup__status--" + newsItem.recency;
-    const strong = document.createElement("strong");
-    strong.textContent = statusLabel({ recency: newsItem.recency }) + " (" + newsItem.timestamp + ")";
-    status.replaceChildren(strong);
-
+    status.replaceChildren(el("strong", { text: statusLabel({ recency: newsItem.recency }) + " (" + newsItem.timestamp + ")" }));
     summary.textContent = newsItem.summary;
     sourceLink.href = newsItem.sourceUrl;
     if (newsItem.imageUrl === null) {
@@ -221,29 +184,12 @@ function popupElement({ feature, onContentChange }) {
     } else {
       throw new TypeError("Validated news image URL must be text or null.");
     }
-
     previousButton.disabled = pageState.previousDisabled;
     nextButton.disabled = pageState.nextDisabled;
     pageCounter.textContent = pageState.pageCounterText;
     onContentChange();
   }
 
-  function showPreviousNews() {
-    if (activeIndex > 0) {
-      activeIndex -= 1;
-      renderNewsItem();
-    }
-  }
-
-  function showNextNews() {
-    if (activeIndex < feature.newsItems.length - 1) {
-      activeIndex += 1;
-      renderNewsItem();
-    }
-  }
-
-  previousButton.addEventListener("click", showPreviousNews);
-  nextButton.addEventListener("click", showNextNews);
   renderNewsItem();
   return popup;
 }
@@ -251,20 +197,14 @@ function popupElement({ feature, onContentChange }) {
 function renderMapFeatures({ features }) {
   const { map: leaflet, markerGroup: group } = ensureMap();
   group.clearLayers();
-  // Each feature owns one marker and one stateful carousel popup.
+  // Each feature owns one marker and one stateful carousel popup; the popup repositions as its image loads,
+  // but only once Leaflet has bound and opened it.
   for (const feature of features) {
     const primaryNews = feature.newsItems[0];
-    const marker = L.circleMarker(
-      feature.coordinates,
-      markerStyle({ kind: primaryNews.recency, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) }),
-    );
+    const marker = L.circleMarker(feature.coordinates,
+      markerStyle({ kind: primaryNews.recency, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) }));
     let popupBound = false;
-    function updatePopupPosition() {
-      if (popupBound) {
-        marker.getPopup().update();
-      }
-    }
-    const popup = popupElement({ feature: feature, onContentChange: updatePopupPosition });
+    const popup = popupElement({ feature, onContentChange: () => { if (popupBound) marker.getPopup().update(); } });
     marker.bindTooltip(feature.name + ": " + statusLabel({ recency: primaryNews.recency }) + " (" + primaryNews.timestamp + ")");
     marker.bindPopup(popup, { maxWidth: 760 });
     popupBound = true;
@@ -273,151 +213,65 @@ function renderMapFeatures({ features }) {
   leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: 10, padding: [24, 24] });
 }
 
+// Every doc page is one centered column headed by an h2; only the heading text and body vary.
+function docSection(headingText, ...children) {
+  return el("section", { class: "doc-section" }, el("h2", { class: "doc-section__heading", text: headingText }), ...children);
+}
+
 function reportSection({ report }) {
-  const section = document.createElement("section");
-  section.className = "doc-section";
-
-  const heading = document.createElement("h2");
-  heading.className = "doc-section__heading";
-  heading.textContent = "Report of the day";
-  section.append(heading);
-
-  const article = document.createElement("article");
-  article.className = "report";
-
-  const reportHeadline = document.createElement("h3");
-  reportHeadline.className = "report__headline";
-  reportHeadline.textContent = report.headline;
-  article.append(reportHeadline);
-
-  const summary = document.createElement("p");
-  summary.className = "report__summary";
-  summary.textContent = report.summary;
-  article.append(summary);
-
+  const article = el("article", { class: "report" },
+    el("h3", { class: "report__headline", text: report.headline }),
+    el("p", { class: "report__summary", text: report.summary }));
   if (report.imageUrls.length > 0) {
-    const gallery = document.createElement("div");
-    gallery.className = "report__gallery";
-    // Up to four forum images; no-referrer keeps the forum image hosts from rejecting the hotlink.
-    for (const [imageIndex, imageUrl] of report.imageUrls.entries()) {
-      const image = document.createElement("img");
-      image.className = "report__image";
-      image.loading = "lazy";
-      image.decoding = "async";
-      image.referrerPolicy = "no-referrer";
-      image.src = imageUrl;
-      image.alt = "Report photo " + (imageIndex + 1) + ".";
+    const gallery = el("div", { class: "report__gallery" });
+    // Each forum photo is a cropped thumbnail that opens full-size in the lightbox; no-referrer avoids hotlink blocks.
+    for (const [index, url] of report.imageUrls.entries()) {
+      const image = el("img", { class: "report__image", loading: "lazy", decoding: "async", referrerPolicy: "no-referrer", src: url, alt: "Report photo " + (index + 1) + "." });
+      makeImageZoomable({ image });
       gallery.append(image);
     }
     article.append(gallery);
   }
-
-  const actions = document.createElement("div");
-  actions.className = "report__actions";
-  actions.append(linkElement({ href: report.sourceUrl, text: "Open source forum page", className: "button-link" }));
-  article.append(actions);
-  section.append(article);
-  return section;
+  article.append(el("div", { class: "report__actions" }, linkElement({ href: report.sourceUrl, text: "Open source forum page", className: "button-link" })));
+  return docSection("Report of the day", article);
 }
 
 function tipsSection({ tips }) {
-  const section = document.createElement("section");
-  section.className = "doc-section";
-
-  const heading = document.createElement("h2");
-  heading.className = "doc-section__heading";
-  heading.textContent = "Tips";
-  section.append(heading);
-
-  const list = document.createElement("div");
-  list.className = "tips";
   // One stacked panel per tip (one to three); the source link is mandatory, so every tip renders one.
+  const list = el("div", { class: "tips" });
   for (const tip of tips) {
-    const panel = document.createElement("article");
-    panel.className = "tip";
-
-    const tipHeadline = document.createElement("h3");
-    tipHeadline.className = "tip__headline";
-    tipHeadline.textContent = tip.headline;
-    panel.append(tipHeadline);
-
-    const tipSummary = document.createElement("p");
-    tipSummary.className = "tip__summary";
-    tipSummary.textContent = tip.summary;
-    panel.append(tipSummary);
-
-    // The source link is mandatory on every tip, so it is rendered unconditionally.
-    panel.append(linkElement({ href: tip.sourceUrl, text: "Open source forum page", className: "button-link" }));
-    list.append(panel);
+    list.append(el("article", { class: "tip" },
+      el("h3", { class: "tip__headline", text: tip.headline }),
+      el("p", { class: "tip__summary", text: tip.summary }),
+      linkElement({ href: tip.sourceUrl, text: "Open source forum page", className: "button-link" })));
   }
-  section.append(list);
-  return section;
+  return docSection("Tips", list);
 }
 
-function debateColumn({ heading, side, arguments_ }) {
-  const column = document.createElement("div");
-  column.className = "debate__column debate__column--" + side;
-
-  const columnHeading = document.createElement("h4");
-  columnHeading.className = "debate__column-heading";
-  columnHeading.textContent = heading;
-  column.append(columnHeading);
-
-  const list = document.createElement("ul");
-  list.className = "debate__list";
+function debateColumn({ heading, side, args }) {
   // Render every validated argument as its own bullet so the pro/contra weight stays visible.
-  for (const argument of arguments_) {
-    const item = document.createElement("li");
-    item.textContent = argument;
-    list.append(item);
-  }
-  column.append(list);
-  return column;
+  return el("div", { class: "debate__column debate__column--" + side },
+    el("h4", { class: "debate__column-heading", text: heading }),
+    el("ul", { class: "debate__list" }, ...args.map((argument) => el("li", { text: argument }))));
 }
 
 function controversialSection({ controversial }) {
-  const section = document.createElement("section");
-  section.className = "doc-section";
-
-  const heading = document.createElement("h2");
-  heading.className = "doc-section__heading";
-  heading.textContent = "Debates";
-  section.append(heading);
-
-  const list = document.createElement("div");
-  list.className = "debates";
   // One debate row per subject (one to three); pro renders blue on the left, contra red on the right.
+  const list = el("div", { class: "debates" });
   for (const debate of controversial) {
-    const row = document.createElement("article");
-    row.className = "debate";
-
-    const debateHeadline = document.createElement("h3");
-    debateHeadline.className = "debate__headline";
-    debateHeadline.textContent = debate.headline;
-    row.append(debateHeadline);
-
-    const columns = document.createElement("div");
-    columns.className = "debate__columns";
-    columns.append(
-      debateColumn({ heading: "For", side: "pro", arguments_: debate.pro }),
-      debateColumn({ heading: "Against", side: "contra", arguments_: debate.contra }),
-    );
-    row.append(columns);
-
-    // The discussion thread is mandatory, so every debate renders its discussion link.
-    const actions = document.createElement("div");
-    actions.className = "debate__actions";
-    actions.append(linkElement({ href: debate.sourceUrl, text: "Open discussion", className: "button-link" }));
-    row.append(actions);
-    list.append(row);
+    list.append(el("article", { class: "debate" },
+      el("h3", { class: "debate__headline", text: debate.headline }),
+      el("div", { class: "debate__columns" },
+        debateColumn({ heading: "For", side: "pro", args: debate.pro }),
+        debateColumn({ heading: "Against", side: "contra", args: debate.contra })),
+      el("div", { class: "debate__actions" }, linkElement({ href: debate.sourceUrl, text: "Open discussion", className: "button-link" }))));
   }
-  section.append(list);
-  return section;
+  return docSection("Debates", list);
 }
 
+// A daily run carries exactly one report, but reports is an array; render one section per report.
 function renderReport({ briefing }) {
-  // A daily run carries exactly one report, but reports is an array; render one section per report.
-  docElement.replaceChildren(...briefing.reports.map((report) => reportSection({ report: report })));
+  docElement.replaceChildren(...briefing.reports.map((report) => reportSection({ report })));
 }
 
 function renderTips({ briefing }) {
@@ -434,22 +288,11 @@ function showMessage({ text, kind }) {
   messageElement.hidden = false;
 }
 
-function hideMessage() {
-  messageElement.hidden = true;
-}
-
 function showView({ view }) {
   // Map and doc views are mutually exclusive; toggling hidden keeps a single Leaflet instance alive.
-  if (view === "map") {
-    mapElement.hidden = false;
-    docElement.hidden = true;
-  } else if (view === "doc") {
-    mapElement.hidden = true;
-    docElement.hidden = false;
-    docElement.replaceChildren();
-  } else {
-    throw new RangeError("Unsupported view: " + view);
-  }
+  mapElement.hidden = view !== "map";
+  docElement.hidden = view === "map";
+  if (view !== "map") docElement.replaceChildren();
 }
 
 function setChrome({ routeName, route }) {
@@ -457,46 +300,37 @@ function setChrome({ routeName, route }) {
   document.getElementById("page-subtitle").textContent = route.subtitle;
   // Mark exactly the active nav link so the current page is announced and visibly selected.
   for (const link of document.querySelectorAll(".site-nav a")) {
-    if (link.dataset.route === routeName) {
-      link.setAttribute("aria-current", "page");
-    } else {
-      link.removeAttribute("aria-current");
-    }
+    if (link.dataset.route === routeName) link.setAttribute("aria-current", "page");
+    else link.removeAttribute("aria-current");
   }
 }
 
-async function activateMapRoute({ route }) {
-  showView({ view: "map" });
+async function activateRoute({ route }) {
+  // One activation path for the closed set of view kinds: a map route renders Leaflet from a GeoJSON layer,
+  // a doc route renders a section of the collapsed daily briefing, and the weekly route renders markdown.
+  showView({ view: route.view === "map" ? "map" : "doc" });
   showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
   try {
-    const response = await fetch(route.url + "?loaded=" + Date.now(), { cache: "no-store" });
-    if (response.ok === false) {
-      throw new Error("Request for " + route.url + " failed with HTTP " + response.status + ".");
-    }
-    const features = validateFeatureCollection({ value: await response.json() });
-    if (features.length > 0) {
-      renderMapFeatures({ features: features });
+    if (route.view === "map") {
+      const features = validateFeatureCollection({ value: await (await fetchNoStore(route.url)).json() });
+      if (features.length === 0) {
+        ensureMap().markerGroup.clearLayers();
+        showMessage({ text: "There is no news in the retained run window for this page.", kind: "empty" });
+        return;
+      }
+      renderMapFeatures({ features });
       map.invalidateSize();
-      hideMessage();
+    } else if (route.view === "doc") {
+      route.render({ briefing: await loadBriefing() });
+    } else if (route.view === "weekly") {
+      docElement.replaceChildren(renderWeekly({ markdown: await (await fetchNoStore(route.url)).text() }));
     } else {
-      ensureMap().markerGroup.clearLayers();
-      showMessage({ text: "There is no news in the retained run window for this page.", kind: "empty" });
+      throw new RangeError("Unsupported view: " + route.view);
     }
+    messageElement.hidden = true;
   } catch (error) {
-    showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
-    console.error("Could not load the " + route.title + " page.", error);
-  }
-}
-
-async function activateBriefingRoute({ route }) {
-  showView({ view: "doc" });
-  showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
-  try {
-    const briefing = await loadBriefing();
-    route.render({ briefing: briefing });
-    hideMessage();
-  } catch (error) {
-    docElement.replaceChildren();
+    // The map keeps its last features on failure; the doc and weekly views clear to avoid a stale page.
+    if (route.view !== "map") docElement.replaceChildren();
     showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
     console.error("Could not load the " + route.title + " page.", error);
   }
@@ -504,157 +338,71 @@ async function activateBriefingRoute({ route }) {
 
 function weeklyInlineNodes({ text }) {
   // Parse the two inline forms our weekly markdown uses — **bold** and [label](url) — into safe DOM nodes
-  // (textContent and createElement only, never innerHTML); any other run of characters stays literal text.
+  // (textContent and createElement only, never innerHTML); any other run of characters stays literal text. The
+  // label can carry inner brackets ("Alpinforum [1]"), so match non-greedily up to the "](" that starts the URL.
   const nodes = [];
-  // The link label can contain inner brackets (e.g. "Alpinforum [1]"), so match it non-greedily up to the
-  // "](" that starts the URL rather than up to the first "]".
   const pattern = /\*\*([^*]+)\*\*|\[(.+?)\]\(([^)]+)\)/g;
   let lastIndex = 0;
   let match = pattern.exec(text);
   while (match !== null) {
-    if (match.index > lastIndex) {
-      nodes.push(document.createTextNode(text.slice(lastIndex, match.index)));
-    }
+    if (match.index > lastIndex) nodes.push(document.createTextNode(text.slice(lastIndex, match.index)));
     // Group 1 is a bold run; otherwise groups 2/3 are a link's label and href.
-    if (match[1] !== undefined) {
-      const strong = document.createElement("strong");
-      strong.textContent = match[1];
-      nodes.push(strong);
-    } else {
-      nodes.push(linkElement({ href: match[3], text: match[2], className: null }));
-    }
+    if (match[1] !== undefined) nodes.push(el("strong", { text: match[1] }));
+    else nodes.push(linkElement({ href: match[3], text: match[2], className: null }));
     lastIndex = pattern.lastIndex;
     match = pattern.exec(text);
   }
-  if (lastIndex < text.length) {
-    nodes.push(document.createTextNode(text.slice(lastIndex)));
-  }
+  if (lastIndex < text.length) nodes.push(document.createTextNode(text.slice(lastIndex)));
   return nodes;
 }
 
 function renderWeekly({ markdown }) {
-  // Render the published weekly briefing markdown line by line into safe DOM: a cover image, its caption, the
-  // five section headings, and their bullet lists. The producer owns this exact shape, so a small line scanner
-  // is enough and avoids pulling in a markdown dependency.
-  const section = document.createElement("section");
-  section.className = "doc-section weekly";
+  // Render the published weekly markdown line by line into safe DOM: a cover image, its caption, the five
+  // section headings and their bullet lists. The producer owns this exact shape, so a small line scanner
+  // suffices and avoids a markdown dependency. Consecutive "- " bullets accumulate into one <ul>.
+  const section = el("section", { class: "doc-section weekly" });
   let list = null;
-  function closeList() {
-    // Consecutive "- " bullets accumulate into one <ul>; any other line flushes and appends it first.
-    if (list !== null) {
-      section.append(list);
-      list = null;
-    }
-  }
+  const closeList = () => { if (list !== null) { section.append(list); list = null; } };
   for (const rawLine of markdown.split("\n")) {
     const line = rawLine.trim();
-    // Blank lines and the markdown H1 are skipped: the header chrome already shows the page title.
-    if (line === "" || line.startsWith("# ")) {
-      continue;
-    }
-    // The email's promo paragraph links back to this very site, so the viewer drops it (it is here already).
-    if (line.includes("michaelmedek.github.io/alpin-map")) {
-      continue;
-    }
+    // Skip blanks, the markdown H1 (the chrome shows the title), and the promo line that links back here.
+    if (line === "" || line.startsWith("# ") || line.includes("michaelmedek.github.io/alpin-map")) continue;
     if (line.startsWith("<img")) {
       // The one raw <img> line carries the cover; read its src/alt and build a fresh element (no innerHTML).
       closeList();
       const srcMatch = line.match(/src="([^"]*)"/);
       if (srcMatch !== null) {
-        const image = document.createElement("img");
-        image.className = "weekly__cover";
-        image.loading = "lazy";
-        image.decoding = "async";
-        image.referrerPolicy = "no-referrer";
-        image.src = srcMatch[1];
         const altMatch = line.match(/alt="([^"]*)"/);
-        image.alt = altMatch === null ? "Weekly briefing cover image." : altMatch[1];
-        section.append(image);
+        section.append(el("img", { class: "weekly__cover", loading: "lazy", decoding: "async", referrerPolicy: "no-referrer", src: srcMatch[1], alt: altMatch === null ? "Weekly briefing cover image." : altMatch[1] }));
       }
     } else if (line.startsWith("## ")) {
       closeList();
-      const heading = document.createElement("h2");
-      heading.className = "weekly__heading";
-      heading.textContent = line.slice(3).trim();
-      section.append(heading);
+      section.append(el("h2", { class: "weekly__heading", text: line.slice(3).trim() }));
     } else if (line.startsWith("- ")) {
-      if (list === null) {
-        list = document.createElement("ul");
-        list.className = "weekly__list";
-      }
-      const item = document.createElement("li");
-      item.append(...weeklyInlineNodes({ text: line.slice(2) }));
-      list.append(item);
+      if (list === null) list = el("ul", { class: "weekly__list" });
+      list.append(el("li", {}, ...weeklyInlineNodes({ text: line.slice(2) })));
     } else if (line.length > 2 && line.startsWith("*") && line.endsWith("*")) {
       closeList();
-      const caption = document.createElement("p");
-      caption.className = "weekly__caption";
-      const emphasis = document.createElement("em");
-      emphasis.textContent = line.slice(1, -1);
-      caption.append(emphasis);
-      section.append(caption);
+      section.append(el("p", { class: "weekly__caption" }, el("em", { text: line.slice(1, -1) })));
     } else {
-      // Any remaining line (the live-map promo) is a paragraph that may carry inline bold and a link.
+      // Any remaining line is a paragraph that may carry inline bold and a link.
       closeList();
-      const paragraph = document.createElement("p");
-      paragraph.className = "weekly__text";
-      paragraph.append(...weeklyInlineNodes({ text: line }));
-      section.append(paragraph);
+      section.append(el("p", { class: "weekly__text" }, ...weeklyInlineNodes({ text: line })));
     }
   }
   closeList();
   return section;
 }
 
-async function activateWeeklyRoute({ route }) {
-  // The weekly briefing is published as markdown, not JSON, so fetch it as text and render it into the doc view.
-  showView({ view: "doc" });
-  showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
-  try {
-    const response = await fetch(route.url + "?loaded=" + Date.now(), { cache: "no-store" });
-    if (response.ok === false) {
-      throw new Error("Request for " + route.url + " failed with HTTP " + response.status + ".");
-    }
-    docElement.replaceChildren(renderWeekly({ markdown: await response.text() }));
-    hideMessage();
-  } catch (error) {
-    docElement.replaceChildren();
-    showMessage({ text: "The " + route.title + " page could not be loaded.", kind: "error" });
-    console.error("Could not load the " + route.title + " page.", error);
-  }
-}
-
-function activateRoute({ route }) {
-  // The view kind is a closed set: a map route renders Leaflet, a doc route renders the collapsed daily
-  // briefing, and the weekly route renders the published weekly markdown.
-  if (route.view === "map") {
-    return activateMapRoute({ route: route });
-  } else if (route.view === "doc") {
-    return activateBriefingRoute({ route: route });
-  } else if (route.view === "weekly") {
-    return activateWeeklyRoute({ route: route });
-  } else {
-    throw new RangeError("Unsupported view: " + route.view);
-  }
-}
-
-function routeNameFromHash() {
+function handleRoute() {
   const requested = window.location.hash.replace(/^#\/?/, "");
   // Fall back to the default page for an empty or unknown hash so a stray link never shows a blank view.
-  if (Object.hasOwn(ROUTES, requested)) {
-    return requested;
-  } else {
-    return DEFAULT_ROUTE;
-  }
-}
-
-function handleRoute() {
-  const routeName = routeNameFromHash();
+  const routeName = Object.hasOwn(ROUTES, requested) ? requested : DEFAULT_ROUTE;
   const route = ROUTES[routeName];
-  setChrome({ routeName: routeName, route: route });
+  setChrome({ routeName, route });
   if (routeName !== activeRoute) {
     activeRoute = routeName;
-    activateRoute({ route: route });
+    activateRoute({ route });
   }
 }
 
@@ -669,12 +417,12 @@ async function initRunTimestamp() {
   }
 }
 
-// Browser bootstrap. Skipped under the Node render test, which imports renderWeekly and drives it directly so
-// the suite actually loads and exercises this file instead of only validating data.
+// Browser bootstrap. Skipped under the Node render test, which imports the render helpers and drives them
+// directly so the suite actually loads and exercises this file instead of only validating data.
 if (globalThis.__ALPIN_VIEWER_TEST__ !== true) {
   window.addEventListener("hashchange", handleRoute);
   initRunTimestamp();
   handleRoute();
 }
 
-export { renderWeekly };
+export { renderWeekly, openLightbox, closeLightbox };
