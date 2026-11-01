@@ -38,13 +38,13 @@ const ROUTES = {
   },
   tips: {
     title: "Tips",
-    subtitle: "Three practical tips from the forums.",
+    subtitle: "Practical tips from the forums.",
     view: "doc",
     render: renderTips,
   },
   debates: {
     title: "Debates",
-    subtitle: "Three pro and contra debates from the forums.",
+    subtitle: "Pro and contra debates from the forums.",
     view: "doc",
     render: renderDebates,
   },
@@ -326,12 +326,12 @@ function tipsSection({ tips }) {
 
   const heading = document.createElement("h2");
   heading.className = "doc-section__heading";
-  heading.textContent = "Three tips";
+  heading.textContent = "Tips";
   section.append(heading);
 
   const list = document.createElement("div");
   list.className = "tips";
-  // Three stacked tip panels; the source link is mandatory, so every tip renders one.
+  // One stacked panel per tip (one to three); the source link is mandatory, so every tip renders one.
   for (const tip of tips) {
     const panel = document.createElement("article");
     panel.className = "tip";
@@ -381,12 +381,12 @@ function controversialSection({ controversial }) {
 
   const heading = document.createElement("h2");
   heading.className = "doc-section__heading";
-  heading.textContent = "Three debates";
+  heading.textContent = "Debates";
   section.append(heading);
 
   const list = document.createElement("div");
   list.className = "debates";
-  // Three debate rows; pro renders blue on the left, contra red on the right, with the discussion link.
+  // One debate row per subject (one to three); pro renders blue on the left, contra red on the right.
   for (const debate of controversial) {
     const row = document.createElement("article");
     row.className = "debate";

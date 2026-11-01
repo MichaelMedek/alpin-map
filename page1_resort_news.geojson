@@ -24,6 +24,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.0699443,
+          45.092401
+        ]
+      },
+      "properties": {
+        "recency": "weekly",
+        "timestamp": "31.10.2026 12:42 Uhr",
+        "name": "Alpe d'Huez",
+        "headline": "Alpe d'Huez: neue Lifte für 2027 geplant, Zeitplan noch offen",
+        "summary": "In Alpe d'Huez sind für 2027 mehrere neue Bahnen angekündigt – unter anderem der Ersatz der TC6 Marmottes 2 durch eine TC10 sowie die Projekte Villarais und Sarenne. Beobachter bezweifeln jedoch, dass drei neue Lifte in einem Jahr realisierbar sind, zumal die Villarais-KSB bereits verschoben wurde.",
+        "source_url": "https://www.alpinforum.com/threads/50629/page-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4239011,
+          45.9043659
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Aravis",
+        "headline": "Bau des Förderbands am Plateau du Merle in La Clusaz",
+        "summary": "Im französischen La Clusaz laufen die Bauarbeiten für das erste überdachte Förderband auf dem Plateau du Merle, um das Anfängerareal im Massif des Aravis weiter zu modernisieren.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5553&st=3880",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/a4026005-ff46-40a6-bda3-53211f3286f9/15.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.1237609,
           45.0099949
         ]
@@ -35,6 +72,25 @@
         "headline": "Neubau der Gondelbahn Bellecombe und Sesselbahn-Rochade",
         "summary": "Les 2 Alpes plant für 2027 den Ersatz der 6er-Sesselbahn Bellecombe durch eine 10er-Gondelbahn. Die bisherige 6KSB wird anschließend als Super Diable neu aufgebaut.",
         "source_url": "https://www.alpinforum.com/threads/3739/page-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4043996,
+          46.8223497
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Engelberg / Titlis–Brunni",
+        "headline": "Brunni-Bahnen ziehen Neubau der Gondelbahn auf 2030 vor",
+        "summary": "Dank einer sehr positiven wirtschaftlichen Entwicklung ziehen die Brunni-Bahnen in Engelberg den Ersatz des 3er-Sessellifts Ristis-Brunnihütte vor. Die neue 8er-Gondelbahn soll bereits zur Wintersaison 2030/31 den Betrieb aufnehmen.",
+        "source_url": "https://www.alpinforum.com/threads/819/page-36",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.htr.ch%2Ffileadmin%2Fuser_upload%2Fhtr%2Fcontent%2Fmedia%2F_processed_%2Ff%2Ff%2Fcsm_Sessellift_wird_durch_eine_Gondelumlaufbahn_im_2030_ersetzt_Brunni-Bahnen_2026_99af2fa471.jpg&hash=cda6c8b956a14100fc5f8be9ec200e09&return_error=1"
       }
     },
     {
@@ -103,12 +159,30 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "30.10.2026 02:41 Uhr",
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
         "name": "Kasberg / Grünau",
-        "headline": "Kasberg: Skibetrieb startet 5. Dezember",
-        "summary": "Alle Pachtverträge sind unterschrieben, sodass der Skibetrieb am Kasberg/Grünau voraussichtlich am 5. Dezember 2026 starten kann, sofern ausreichend Schnee liegt. Damit ist die betriebliche Vorbereitung abgeschlossen.",
+        "headline": "Dachstein-Salzkammergut übernimmt die Kasbergbahnen",
+        "summary": "Die Bergbahnen Dachstein-Salzkammergut haben den Kasberg übernommen, womit dortige Mehrtageskarten sofort gültig werden. Parallel laufen Gespräche für einen zeitnahen Beitritt zum Ticketverbund SuperSkiCard.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=1054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756534,
+          47.27388
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
+        "headline": "Kitzsteinhorn plant Ersatz der Langwiedbahn durch moderne Kombibahn",
+        "summary": "Für das Jahr 2027 zeichnet sich am Kitzsteinhorn der Ersatz der 1990 erbauten 4er-Sesselbahn Langwied ab. Geplant ist eine Kombibahn, um den Wiederholungsbetrieb für Skifahrer mit Sesseln zu erhalten und gleichzeitig komfortable Gondelkapazitäten bei Revisionszeiten zu bieten.",
+        "source_url": "https://www.alpinforum.com/threads/146/page-85"
       }
     },
     {
@@ -121,12 +195,31 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "01.11.2026 02:02 Uhr",
         "name": "Kreischberg",
         "headline": "Neuer Rosenkranz-Sessellift am Kreischberg wird stärkste Sesselbahn der Steiermark",
         "summary": "Am Kreischberg wird mit der neuen 8er-Sesselbahn Rosenkranz ein Meilenstein bei der Förderleistung gesetzt: Mit einer Kapazität von 4.000 Personen pro Stunde übertrifft die Bahn den bisherigen Spitzenreiter Kaiblinggrat (3.600 P/h) deutlich und wird zur leistungsstärksten Sesselbahn der gesamten Steiermark.",
         "source_url": "https://www.alpinforum.com/threads/23492/page-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.958311,
+          46.7387791
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Kronplatz / Plan de Corones",
+        "headline": "Bauarbeiten an der Mittelstation und Pistenanpassung der Lumen am Kronplatz",
+        "summary": "Am Kronplatz schreiten die Arbeiten an der Trasse der neu erweiterten Piste sowie an der Baustelle der Mittelstation zügig voran. Zudem entsteht eine neue blaue Variante der Piste Lumen.",
+        "source_url": "https://www.alpinforum.com/threads/1744/page-80",
+        "image_url": "https://www.alpinforum.com/attachments/img_5006-webp.338298/"
       }
     },
     {
@@ -190,24 +283,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.935193850154844,
-          45.8532827638812
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "30.10.2026 02:41 Uhr",
-        "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
-        "headline": "Champorcher: Neue Bergstation gebaut",
-        "summary": "Die Bergstation der Champorcher‑EUB wurde neu gebaut und liegt jetzt etwas tiefer, wodurch die Gondelbahnen etwas kürzer sind. Die neuen Gondeln sind aufgearbeitete Sigma‑6‑er‑Gondeln.",
-        "source_url": "https://www.alpinforum.com/threads/5209/page-21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.7217996,
           44.9311709
         ]
@@ -231,7 +306,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "01.11.2026 02:02 Uhr",
         "name": "Oberstdorf / Kleinwalsertal",
         "headline": "Neue Busanbindung zur modernisierten Walmendingerhornbahn in Mittelberg",
@@ -288,12 +363,21 @@
       },
       "properties": {
         "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
+        "timestamp": "31.10.2026 15:01 Uhr",
         "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
-        "headline": "Neue Beschneiung und Speicherteich",
-        "summary": "Der Skiweg Reckmoos Süd im unteren Bereich erhielt eine neue Beschneiungsanlage, und auch in Leogang schreitet das Projekt Speicherteich Asitz III voran.",
-        "source_url": "https://www.alpinforum.com/threads/792/page-319",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.fieberbrunn.com%2Ffavicon-32x32.png&hash=3a5808a5b72d73bfd1caf0cc371c47dc&return_error=1"
+        "headline": "Fieberbrunn: effizientere Beschneiung für mehr Schneesicherheit",
+        "summary": "In Fieberbrunn wurden die Sommermonate für gezielte Investitionen in die Beschneiung genutzt: Alte Schneeerzeuger wurden durch neue, effizientere Maschinen ersetzt, mit Fokus auf den Bereich Reckmoos Nord – ein weiterer Schritt zu mehr Schneesicherheit auf den Pisten.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=159&start=75",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 00:26 Uhr",
+            "headline": "Neue Beschneiung und Speicherteich",
+            "summary": "Der Skiweg Reckmoos Süd im unteren Bereich erhielt eine neue Beschneiungsanlage, und auch in Leogang schreitet das Projekt Speicherteich Asitz III voran.",
+            "source_url": "https://www.alpinforum.com/threads/792/page-319",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.fieberbrunn.com%2Ffavicon-32x32.png&hash=3a5808a5b72d73bfd1caf0cc371c47dc&return_error=1"
+          }
+        ]
       }
     },
     {
@@ -312,24 +396,6 @@
         "headline": "Gelbe Kabinen für die neue Gondelbahn Reschen Piz-Schöneben",
         "summary": "Beim Neubau der 10er-Gondelbahn Reschen Piz-Schöneben sind die gelben Kabinen an den Stationen eingetroffen.",
         "source_url": "https://www.funiforum.org/funiforum/node/315313/page4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5729763,
-          47.0495139
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "30.10.2026 02:41 Uhr",
-        "name": "Serfaus-Fiss-Ladis",
-        "headline": "Serfaus: Neue Sprengmasten installiert",
-        "summary": "Seit Oktober 2026 ist der erste LS24‑Wyssen‑Sprengmast bei der Seilbahn Komperdell im Skigebiet Serfaus‑Liss‑Ladis installiert; zusammen mit sieben LS12‑ und einem LS6‑Mast sind insgesamt neun neue Sprengmasten bereit für den kommenden Winter.",
-        "source_url": "https://www.alpinforum.com/threads/3483/page-371"
       }
     },
     {
@@ -360,7 +426,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "01.11.2026 02:02 Uhr",
         "name": "Stubaier Gletscher",
         "headline": "Geländeanpassungen und erfolgreicher Refit der Eisjochbahn am Stubaier Gletscher",
@@ -393,6 +459,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "4 Vallées / Verbier",
+        "headline": "Solarmodule an der neuen Kombibahn in Verbier montiert",
+        "summary": "Beim Neubau der Kombibahn Les Esserts - Les Planards - Savoleyres in den 4 Vallées wurden an den Stationsbauten großflächig Photovoltaik-Module integriert, um die Seilbahninfrastruktur energieeffizienter zu betreiben.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41319&st=100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
@@ -414,6 +498,24 @@
             "source_url": "https://www.alpinforum.com/threads/72469/"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8993003,
+          47.2372082
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Zillertal Arena – Zell am Ziller/Gerlos/Königsleiten/Hochkrimml",
+        "headline": "Neue 10er-Gondelbahn Grenzgängerbahn ersetzt die Sonnwendkopfbahn",
+        "summary": "Die Gerlospaß-Königsleiten Bergbahnen planen den Ersatz der 8EUB Sonnwendkopfbahn durch eine moderne 10EUB. Die Trasse der neuen Grenzgängerbahn wird bei gleicher Talstation um 21 Grad verschwenkt und führt über die Landesgrenze zwischen Salzburg und Tirol hinweg.",
+        "source_url": "https://www.alpinforum.com/threads/26964/page-120"
       }
     }
   ]

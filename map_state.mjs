@@ -1,6 +1,6 @@
 const REPORT_IMAGE_LIMIT = 6;
-const TIP_COUNT = 3;
-const CONTROVERSIAL_COUNT = 3;
+const TIP_MAX = 3;
+const CONTROVERSIAL_MAX = 3;
 
 function requireObject({ value, context }) {
   if (typeof value === "object" && value !== null && Array.isArray(value) === false) {
@@ -58,6 +58,14 @@ function requireArrayOfLength({ value, length, context }) {
     return value;
   } else {
     throw new RangeError(context + " must contain exactly " + length + " items.");
+  }
+}
+
+function requireArrayWithin({ value, min, max, context }) {
+  if (Array.isArray(value) && value.length >= min && value.length <= max) {
+    return value;
+  } else {
+    throw new RangeError(context + " must contain between " + min + " and " + max + " items.");
   }
 }
 
@@ -215,12 +223,13 @@ export function validateBriefing({ value }) {
     reports: requireNonEmptyArray({ value: payload.reports, context: "Briefing reports" }).map((report) =>
       validateReport({ value: report }),
     ),
-    tips: requireArrayOfLength({ value: payload.tips, length: TIP_COUNT, context: "Briefing tips" }).map((tip, index) =>
+    tips: requireArrayWithin({ value: payload.tips, min: 1, max: TIP_MAX, context: "Briefing tips" }).map((tip, index) =>
       validateTip({ value: tip, index: index }),
     ),
-    controversial: requireArrayOfLength({
+    controversial: requireArrayWithin({
       value: payload.controversial,
-      length: CONTROVERSIAL_COUNT,
+      min: 1,
+      max: CONTROVERSIAL_MAX,
       context: "Briefing controversial",
     }).map((subject, index) => validateControversial({ value: subject, index: index })),
   };

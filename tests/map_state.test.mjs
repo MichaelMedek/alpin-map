@@ -165,7 +165,7 @@ for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions
 
 // The collapsed page 3 is the whole non-map viewer and the sole home of the run timestamp, so this guards that
 // the committed file parses, its generated_at is a real instant the header can format, the gallery stays within
-// four images, and the fixed 3-tips / 3-debates layout is actually satisfied with non-empty argument columns.
+// six images, and the bounded 1..3 tips / 1..3 debates layout is satisfied with non-empty argument columns.
 test("committed briefing data satisfies the collapsed page contract", async () => {
   const source = JSON.parse(await readFile(new URL("../page3_briefing.json", import.meta.url), "utf8"));
   const briefing = validateBriefing({ value: source });
@@ -175,8 +175,8 @@ test("committed briefing data satisfies the collapsed page contract", async () =
   assert.ok(briefing.reports.length >= 1, "a daily run carries at least one report");
   assert.ok(briefing.reports[0].imageUrls.length <= 6, "the report gallery renders at most six images");
   assert.equal(briefing.reports[0].sourceUrl, new URL(source.reports[0].source_url).href);
-  assert.equal(briefing.tips.length, 3);
-  assert.equal(briefing.controversial.length, 3);
+  assert.ok(briefing.tips.length >= 1 && briefing.tips.length <= 3, "the run carries one to three tips");
+  assert.ok(briefing.controversial.length >= 1 && briefing.controversial.length <= 3, "the run carries one to three debates");
   for (const debate of briefing.controversial) {
     assert.ok(debate.pro.length > 0, "every debate needs at least one pro argument");
     assert.ok(debate.contra.length > 0, "every debate needs at least one contra argument");
@@ -202,8 +202,16 @@ test("validators reject malformed page data instead of rendering it", () => {
   const controversial = [debate, debate, debate];
   // A seventh report image would overflow the six-slot gallery, so it is rejected rather than clipped silently.
   assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [{ ...report, image_urls: [imageUrl, imageUrl, imageUrl, imageUrl, imageUrl, imageUrl, imageUrl] }], tips: tips, controversial: controversial } }));
-  // The fixed 3x3 layout must fail on the wrong count rather than leave a panel empty or orphaned.
-  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips.slice(0, 2), controversial: controversial } }));
+  // Tips and debates are bounded 1..3 (matching the daily schema's minItems:1/maxItems:3), so a run with two
+  // tips and a single debate is valid and must render rather than fail.
+  assert.doesNotThrow(() =>
+    validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips.slice(0, 2), controversial: controversial.slice(0, 1) } }),
+  );
+  // An empty or over-cap tip/debate list must still fail rather than render an empty or overflowing section.
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: [], controversial: controversial } }));
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: [tip, tip, tip, tip], controversial: controversial } }));
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [] } }));
+  assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [debate, debate, debate, debate] } }));
   // A debate with no counter-arguments would render a one-sided row, defeating the pro/contra framing.
   assert.throws(() => validateBriefing({ value: { generated_at: "2026-10-31T02:56:00Z", reports: [report], tips: tips, controversial: [{ ...debate, contra: [] }, debate, debate] } }));
   // A tip source_url is now mandatory; a missing one must fail rather than render a tip without its link.

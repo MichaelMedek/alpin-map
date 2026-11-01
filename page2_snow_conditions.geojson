@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.5161584,
+          46.462958
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Adelboden-Lenk",
+        "headline": "Frühstart auf der Tschentenalp mit Snowfarming",
+        "summary": "Dank 27.000 Kubikmetern konserviertem Vorjahresschnee konnte in Adelboden auf der Tschentenalp eine 450 Meter lange Skipiste bei milden Temperaturen und Sonnenschein für Wintersportler eröffnet werden.",
+        "source_url": "https://www.alpinforum.com/threads/72571/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.5660244,
           46.7548885
         ]
@@ -16,7 +34,16 @@
         "name": "Arosa Lenzerheide",
         "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
         "summary": "In Arosa Lenzerheide haben die Bergbahnen angesichts sinkender Temperaturen die Schneekanonen am Hörnli und Weisshorn in Betrieb genommen.",
-        "source_url": "https://www.alpinforum.com/threads/72474/"
+        "source_url": "https://www.alpinforum.com/threads/72474/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 03:56 Uhr",
+            "headline": "Arosa Lenzerheide: Beschneiung an Hörnli und Weisshorn angelaufen",
+            "summary": "In Arosa laufen am Hörnli sowie zuoberst am Weisshorn bereits die Schneekanonen. Bei tiefen Temperaturen wird die Grundbeschneiung vorangetrieben, um die oberen Pistenbereiche rechtzeitig für den Saisonstart vorzubereiten.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
+          }
+        ]
       }
     },
     {
@@ -29,12 +56,41 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 06:00 Uhr",
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
         "name": "Davos Klosters",
-        "headline": "Vorbereitungen für Saisonstart auf Parsenn am 13. November",
-        "summary": "Auf Parsenn laufen die Schneeerzeuger bei tiefen Temperaturen auf Hochtouren. Die offizielle Eröffnung ist für den 13. November angesetzt.",
-        "source_url": "https://www.alpinforum.com/threads/72642/"
+        "headline": "Schneefall bis ins Tal und Vollbeschneiung am Jakobshorn",
+        "summary": "Ein Wetterumschwung brachte leichten Schneefall bis nach Davos. Die Beschneiungsanlagen am Jakobshorn laufen ganztägig auf Hochtouren, während auch Parsenn Rapid bereits eine durchgehende weiße Unterlage aufweist.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
+        "image_url": "https://alpinfans.com/download/file.php?id=126012&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 06:00 Uhr",
+            "headline": "Vorbereitungen für Saisonstart auf Parsenn am 13. November",
+            "summary": "Auf Parsenn laufen die Schneeerzeuger bei tiefen Temperaturen auf Hochtouren. Die offizielle Eröffnung ist für den 13. November angesetzt.",
+            "source_url": "https://www.alpinforum.com/threads/72642/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4043996,
+          46.8223497
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Engelberg / Titlis–Brunni",
+        "headline": "Griffige Pisten und Saisonauftakt am Titlis-Gletscher",
+        "summary": "Gute Pistenverhältnisse mit harter, griffiger Unterlage prägen den Saisonstart am Titlis. Auf der Ice-Flyer-Piste sind im Einstiegsbereich vereinzelt Steine sichtbar, die Haupthänge präsentieren sich jedoch in gutem Zustand.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
+        "image_url": "https://alpinfans.com/download/file.php?id=126003&mode=view"
       }
     },
     {
@@ -137,6 +193,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.8392428,
+          46.4978958
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Oberengadin / St. Moritz",
+        "headline": "Flächendeckender Beschneiungsstart auf Corviglia",
+        "summary": "Die anhaltenden Minustemperaturen im Oberengadin werden intensiv genutzt: Auf Corviglia in St. Moritz läuft die maschinelle Beschneiung für die anstehende Saisoneröffnung auf Hochtouren.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3903",
+        "image_url": "https://alpinfans.com/download/file.php?id=125997&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8776109,
           46.9096745
         ]
@@ -168,6 +243,24 @@
         "summary": "In Saas-Fee präsentieren sich die Pisten bis hin zum Gletscherband in einem perfekten, pulvrig-griffigen Zustand bei guten Platzverhältnissen für das Publikum.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3907",
         "image_url": "https://media.alpinfans.com/live/182/20261031-123922-355f4ec6_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9157865,
+          47.4443516
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Schladming 4 Berge",
+        "headline": "Beschneiung auf der Schladminger 4-Berge-Skischaukel angelaufen",
+        "summary": "Auf der Reiteralm, der Planai sowie der Hochwurzen wurden die Schneekanonen in den oberen Lagen in Betrieb genommen, um das kalte Wetterfenster für die Grundbeschneiung zu nutzen.",
+        "source_url": "https://www.alpinforum.com/threads/72491/"
       }
     },
     {
@@ -213,12 +306,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.5666055,
+          45.399064
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "01.11.2026 23:03 Uhr",
+        "name": "Les Trois Vallées",
+        "headline": "Schneekanonen in Val Thorens und Orelle gestartet",
+        "summary": "Mit dem jüngsten Kälteeinbruch in den Hochlagen der 3 Vallées haben die Betreiber in Val Thorens und Orelle die flächendeckende technische Beschneiung gestartet.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=12978&st=2440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.8764531,
           46.9131659
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "01.11.2026 02:02 Uhr",
         "name": "Turracher Höhe",
         "headline": "Turracher Höhe startet mit Vollbeschneiung auf Ost- und Westseite",
