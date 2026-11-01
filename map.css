@@ -533,16 +533,13 @@ body {
     width: min(22rem, 82vw);
   }
 
-  /* On a narrow screen the image column cannot be reserved; drop to one column and show only real photos. */
+  /* On a narrow screen the image column cannot be reserved; drop to one column. The placeholder still shows so
+     an absent photo reads as intentional and the popup keeps a steady height as you page through updates. */
   .news-popup__content {
     grid-template-columns: minmax(0, 1fr);
   }
 
   .news-popup__image-slot {
     width: 100%;
-  }
-
-  .news-popup__image-placeholder {
-    display: none;
   }
 }
