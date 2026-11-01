@@ -13,3 +13,7 @@ Public static viewer for the daily Alpine ski briefing:
 
 On the two map pages a red marker is this run's breaking news and a blue marker is the weekly carousel
 
+
+## View locally
+
+Run `node serve.mjs` (Node only) and open the printed localhost link; it serves these files just like GitHub Pages.
