@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T22:03:00Z",
+  "generated_at": "2026-11-02T01:03:00Z",
   "reports": [
     {
-      "headline": "Einsame Spätherbst-Wanderung aufs Parpaner Schwarzhorn",
-      "summary": "Eine stimmungsvolle Bergtour führte ab Tschiertschen über die Alp Farur hinauf zum 2860 Meter hohen Parpaner Schwarzhorn oberhalb von Lenzerheide. Bei kristallklarer Fernsicht eröffnet sich ein gewaltiges Panorama vom Ringelspitz über das Parpaner Weisshorn bis zum Arosa Weisshorn. Der anschließende Übergang über den ausgesetzten Gürgaletschgrat und der Abstieg durch tiefgoldene Lärchenwälder fangen die besondere Ruhe und Magie der Übergangszeit zwischen Herbst und Winter perfekt ein.",
+      "headline": "Herbstliches Schanfigg: Bergtour von Tschiertschen auf das Parpaner Schwarzhorn",
+      "summary": "Eine eindrucksvolle Spätherbsttour führt abseits des Rummels von der Alp Farur oberhalb von Tschiertschen hinauf auf das 2860 Meter hohe Parpaner Schwarzhorn. Bei glasklarer Fernsicht öffnet sich der Blick weit über das Schanfigg, das Weißhorn und die Lenzerheide. Über einsame Bergkämme führt der Weg weiter zum benachbarten Gürgaletsch, während tief unten im Tal goldgelbe Lärchenwälder im Spätherbstlicht leuchten.",
       "source_url": "https://www.alpinforum.com/threads/57831/page-9",
       "image_urls": [
         "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fwanderung-tschiertschen_004.jpg&hash=6d8a117542b5b4eb5a3c6ab7a3cd0f30",
@@ -17,26 +17,28 @@
   ],
   "tips": [
     {
-      "headline": "5-Franken-Skitag im Nikolauskostüm in Verbier",
-      "summary": "Zur offiziellen Saisoneröffnung Anfang Dezember in den 4 Vallées erhalten alle Gäste im Nikolauskostüm die Tageskarte für nur 5 CHF. Zudem verkehrt ein kostenloser Sonderzug inklusive Kaffee und Croissants.",
-      "source_url": "https://www.alpinforum.com/threads/72686/"
+      "headline": "Günstige Tagestickets mit der italienischen FISI-Fan-Mitgliedschaft",
+      "summary": "Über die Fan-Mitgliedschaft des italienischen Wintersportverbands FISI (40 Euro Jahresbeitrag via App) lassen sich an ausgewählten Terminen 20 Prozent Rabatt auf Tagesskipässe erzielen, reguläre Mitglieder sparen sogar 50 Prozent. Die Mitgliedschaft lohnt sich bereits ab rund drei Skitagen.",
+      "source_url": "https://www.alpinforum.com/threads/70918/page-5"
     },
     {
-      "headline": "20 % Rabatt auf italienische Skipässe mit FISI-Fan-Mitgliedschaft",
-      "summary": "Über die Registrierung in der App des italienischen Wintersportverbands FISI erhalten Fan-Mitglieder (40 € Jahresbeitrag) an festgelegten Aktionstagen 20 % Ermäßigung auf Tagesskipässe in Skigebieten wie Dolomiti Superski, was sich ab dem dritten Skitag amortisiert.",
-      "source_url": "https://www.alpinforum.com/threads/70918/page-5"
+      "headline": "5-Franken-Skitag im Nikolauskostüm zur Saisoneröffnung in Verbier",
+      "summary": "Zur feierlichen Opening Session Anfang Dezember in Verbier (4 Vallées) erhalten Skifahrer im kompletten Samichlaus- bzw. Nikolauskostüm das Tagesticket für nur 5 CHF. Inklusive sind ein kostenloser Sonderzug sowie Kaffee, Gipfeli und ein Drink am Nachmittag.",
+      "source_url": "https://www.alpinforum.com/threads/72686/"
     }
   ],
   "controversial": [
     {
-      "headline": "Neubau Grenzgängerbahn Königsleiten: Sinnvolle Erschließung oder teure Fehlinvestition?",
+      "headline": "Sinn und Dimensionierung der geplanten 'Grenzgängerbahn' in der Zillertal Arena",
       "pro": [
-        "Vermeidet den bisherigen Umweg über die Dorfbahn und eliminiert das lästige Schieben auf dem Flachstück.",
-        "Ermöglicht eine lange, attraktive Wiederholungsabfahrt im Hochwinter und Frühjahr."
+        "Behebt eine alte Schwachstelle im Skigebiet und erspart umständliche Verbindungswege über Dorfbahn, Mitterleger oder Ziehwege",
+        "Die verschwenkte Trasse erschließt eine attraktive, lange Wiederholungsabfahrt",
+        "Deutlicher Komfort- und Kapazitätssprung durch eine moderne 10er-Gondelbahn"
       ],
       "contra": [
-        "Hohe Baukosten durch die erhebliche Streckenverlängerung von 1,6 auf 2,7 Kilometer Trassenlänge.",
-        "Die bestehende Sonnwendkopfbahn war noch voll funktionstüchtig; das Geld fehle bei der Beschneiungsinfrastruktur."
+        "Hoher Investitionsaufwand durch Trassenverlängerung von 1,6 auf 2,7 Kilometer für eine Bahn, die noch gar nicht so alt war",
+        "Führt weiterhin nicht ganz auf den Grat, sodass für die Weiterfahrt ins Krummbachtal immer noch ein Anschlusslift nötig bleibt",
+        "Investitionen in eine leistungsfähigere Beschneiungsanlage auf dieser Verbindungsachse wären für viele Skifahrer dringlicher gewesen"
       ],
       "source_url": "https://alpinfans.com/viewtopic.php?t=1105"
     }

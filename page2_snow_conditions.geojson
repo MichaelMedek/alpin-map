@@ -12,10 +12,10 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
-        "headline": "Frühstart auf der Tschentenalp mit Snowfarming",
-        "summary": "Dank 27.000 Kubikmetern konserviertem Vorjahresschnee konnte in Adelboden auf der Tschentenalp eine 450 Meter lange Skipiste bei milden Temperaturen und Sonnenschein für Wintersportler eröffnet werden.",
+        "headline": "Adelboden: Früher Saisonstart auf der Tschentenalp dank Snowfarming",
+        "summary": "Auf der Tschentenalp in Adelboden konnte dank 27.000 Kubikmetern konserviertem Altschnee aus dem letzten Winter eine 450 Meter lange Skipiste präpariert und bei milden sechs Grad für den Skibetrieb freigegeben werden.",
         "source_url": "https://www.alpinforum.com/threads/72571/"
       }
     },
@@ -57,10 +57,10 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
-        "headline": "Schneefall bis ins Tal und Vollbeschneiung am Jakobshorn",
-        "summary": "Ein Wetterumschwung brachte leichten Schneefall bis nach Davos. Die Beschneiungsanlagen am Jakobshorn laufen ganztägig auf Hochtouren, während auch Parsenn Rapid bereits eine durchgehende weiße Unterlage aufweist.",
+        "headline": "Davos Klosters: Jakobshorn feuert aus allen Rohren bei leichtem Schneefall",
+        "summary": "Bei leichtem Schneefall bis in den Talort laufen die Lanzen und Kanonen am Jakobshorn im Dauerbetrieb, während die Parsenn-Hänge aus der Ferne bereits winterlich weiß leuchten. In tieferen Lagen rund um Sertig dominieren noch goldene Herbstlärchen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
         "image_url": "https://alpinfans.com/download/file.php?id=126012&mode=view",
         "older_news": [
@@ -85,10 +85,10 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Engelberg / Titlis–Brunni",
-        "headline": "Griffige Pisten und Saisonauftakt am Titlis-Gletscher",
-        "summary": "Gute Pistenverhältnisse mit harter, griffiger Unterlage prägen den Saisonstart am Titlis. Auf der Ice-Flyer-Piste sind im Einstiegsbereich vereinzelt Steine sichtbar, die Haupthänge präsentieren sich jedoch in gutem Zustand.",
+        "headline": "Engelberg-Titlis: Griffige Gletscherpisten zum Start am Ice Flyer",
+        "summary": "Der Titlis meldet einen gelungenen Saisonauftakt mit harten, gut griffigen Pisten und kurzen Wartezeiten am Vormittag. Lediglich bei der Einfahrt und auf der Piste am Ice Flyer sowie am Skilift treten vereinzelt Steine und Eisplatten auf.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
         "image_url": "https://alpinfans.com/download/file.php?id=126003&mode=view"
       }
@@ -110,6 +110,24 @@
         "summary": "Aktuelle Aufnahmen von der Tza-Hütte zeigen die Pisten von Arolla im Spätherbst vor dem Einsetzen der ersten ergiebigen Schneefälle.",
         "source_url": "https://www.alpinforum.com/threads/72574/",
         "image_url": "https://www.alpinforum.com/attachments/0517e6da-7731-4060-8c6f-66f02e4bc083-webp.338247/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2171807,
+          46.849618
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "02.11.2026 02:03 Uhr",
+        "name": "Flims–Laax–Falera",
+        "headline": "Flims Laax Falera: Minusgrade am Crap Sogn Gion, Schneekanonen pausieren noch",
+        "summary": "Trotz Temperaturen von minus sieben Grad am Crap Sogn Gion wurde die Beschneiung in Laax noch nicht gestartet, da im Bereich der Halfpipe und der Stütze der Pendelbahn noch Erdarbeiten und Leitungsgrabungen im Gang sind.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3901"
       }
     },
     {
@@ -141,13 +159,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "breaking",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
-        "headline": "Harte Pisten und fantastisches Wetter in der Jungfrauregion",
-        "summary": "Die Jungfrauregion empfängt die ersten Wintersportler bei perfekten Wetterbedingungen mit harten, stellenweise knolligen Pisten und einem reibungslosen Betrieb.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
-        "image_url": "https://media.alpinfans.com/live/255/20261031-114645-8af44115_l.jpg"
+        "headline": "Mürren-Schilthorn: Sonnenskilauf im Engetal über dem Nebelmeer",
+        "summary": "Am Schilthorn herrschen oberhalb der Nebeldecke sonnige Bedingungen. Dank doppelter Förderkapazität läuft der Zubringer reibungslos. Die Piste im Engetal bietet eine gute Schneedecke, während der obere Ziehweg bereits stellenweise steinig und eisig wird.",
+        "source_url": "https://www.alpinforum.com/threads/72493/",
+        "image_url": "https://media.alpinfans.com/live/255/20261031-105106-2e22469b_l.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 15:01 Uhr",
+            "headline": "Harte Pisten und fantastisches Wetter in der Jungfrauregion",
+            "summary": "Die Jungfrauregion empfängt die ersten Wintersportler bei perfekten Wetterbedingungen mit harten, stellenweise knolligen Pisten und einem reibungslosen Betrieb.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
+            "image_url": "https://media.alpinfans.com/live/255/20261031-114645-8af44115_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -199,10 +227,10 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Oberengadin / St. Moritz",
-        "headline": "Flächendeckender Beschneiungsstart auf Corviglia",
-        "summary": "Die anhaltenden Minustemperaturen im Oberengadin werden intensiv genutzt: Auf Corviglia in St. Moritz läuft die maschinelle Beschneiung für die anstehende Saisoneröffnung auf Hochtouren.",
+        "headline": "Engadin St. Moritz: Umfassende Grundbeschneiung auf Corviglia aktiv",
+        "summary": "Die Bergbahnen im Oberengadin nutzen die eisigen Temperaturen intensiv: Auf Corviglia läuft die technische Beschneiung auf Hochtouren, um eine solide Schneebasis für die anstehende Saisoneröffnung zu schaffen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3903",
         "image_url": "https://alpinfans.com/download/file.php?id=125997&mode=view"
       }
@@ -256,10 +284,10 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
+        "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
-        "headline": "Beschneiung auf der Schladminger 4-Berge-Skischaukel angelaufen",
-        "summary": "Auf der Reiteralm, der Planai sowie der Hochwurzen wurden die Schneekanonen in den oberen Lagen in Betrieb genommen, um das kalte Wetterfenster für die Grundbeschneiung zu nutzen.",
+        "headline": "Schladming 4-Berge: Beschneiung auf Reiteralm, Planai und Hochwurzen gestartet",
+        "summary": "Die Kaltfront hat in der Region Schladming Einzug gehalten: Auf der Reiteralm, der Planai und der Hochwurzen liefen in den oberen Hangbereichen die ersten Schneeerzeuger an, um die Grundbeschneiung aufzubauen.",
         "source_url": "https://www.alpinforum.com/threads/72491/"
       }
     },
@@ -299,24 +327,6 @@
         "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
         "source_url": "https://www.alpinforum.com/threads/72446/page-4",
         "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.5666055,
-          45.399064
-        ]
-      },
-      "properties": {
-        "recency": "breaking",
-        "timestamp": "01.11.2026 23:03 Uhr",
-        "name": "Les Trois Vallées",
-        "headline": "Schneekanonen in Val Thorens und Orelle gestartet",
-        "summary": "Mit dem jüngsten Kälteeinbruch in den Hochlagen der 3 Vallées haben die Betreiber in Val Thorens und Orelle die flächendeckende technische Beschneiung gestartet.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=12978&st=2440"
       }
     },
     {
