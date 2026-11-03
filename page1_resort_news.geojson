@@ -42,12 +42,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.2486783,
+          47.0511455
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Ankogel / Mallnitz",
+        "headline": "Ankogel Mallnitz: Bauarbeiten zur Erweiterung der Beschneiungsanlage gestartet",
+        "summary": "Am Ankogel im Kärntner Mallnitz haben die Erschließungs- und Erdarbeiten zur Modernisierung und Erweiterung der Beschneiungsinfrastruktur begonnen.",
+        "source_url": "https://www.alpinforum.com/threads/25302/page-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.4239011,
           45.9043659
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Aravis",
         "headline": "La Clusaz: Neues Sessel-Design für die Sesselbahn Col de Balme",
@@ -83,7 +101,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Engelberg / Titlis–Brunni",
         "headline": "Brunni-Bahnen Engelberg: Gondelbahn-Neubau zur Brunnihütte vorgezogen",
@@ -153,12 +171,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.6648069,
+          47.0857251
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Hintertuxer Gletscher",
+        "headline": "Hintertuxer Gletscher: Skiroute Haxenbrecher offiziell zur schwarzen Piste 13a aufgewertet",
+        "summary": "Die bisherige unpräparierte Skiroute 13a 'Haxenbrecher' an der Lärmstange 1 wurde im offiziellen Pistenplan für die Wintersaison 2026/27 als präparierte schwarze Piste 13a ausgewiesen.",
+        "source_url": "https://www.alpinforum.com/threads/26965/page-96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.9982088,
           47.8016337
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Kasberg / Grünau",
         "headline": "Kasberg: Übernahme durch Bergbahnen Dachstein-Salzkammergut vollzogen",
@@ -176,7 +212,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Kitzsteinhorn/Maiskogel – Kaprun",
         "headline": "Kitzsteinhorn: Ersatz der Langwiedbahn durch Kombibahn im Gespräch",
@@ -212,7 +248,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz: Pistenbau an der Variante Lumen und Arbeiten an der Mittelstation",
@@ -275,6 +311,60 @@
         "headline": "Neue Gondelbahn Jaillet und Sesselbahn Côte 2000 angekündigt",
         "summary": "In Megève soll 2027 die 6er-Eiergondelbahn Jaillet durch eine 10er-Gondelbahn ersetzt werden. Auch die 4er-Sesselbahn Côte 2000 weicht einer 6er-Sesselbahn.",
         "source_url": "https://www.alpinforum.com/threads/14264/page-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051586,
+          46.980487
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Mölltaler Gletscher",
+        "headline": "Mölltaler Gletscher: Gebührenpflichtige Parkplätze mit Kennzeichenerkennung an der Talstation",
+        "summary": "Seit dem 1. November ist das Parken an der Talstation der Standseilbahn am Mölltaler Gletscher kostenpflichtig. Die Gebühr von 6 Euro pro Tag wird automatisiert per Kennzeichenerkennung an der Zufahrt erfasst.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=2754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756415,
+          44.246681
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
+        "headline": "Mondolè Ski: Neubau der 8er-Sesselbahn Blu in Prato Nevoso geht in die heiße Phase",
+        "summary": "In Prato Nevoso wurde die alte 4er-Sesselbahn demontiert. Die Errichtungsarbeiten für die leistungsstarke 8-CLD Blu sowie die Umgestaltung des Anfängergeländes laufen auf Hochtouren für den geplanten Start am 28. November.",
+        "source_url": "https://www.funiforum.org/funiforum/node/10432/page29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.935193850154844,
+          45.8532827638812
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
+        "headline": "Monterosa Ski: Ersetzung der Tal-Berg-Tal-Bahn in Champoluc durch zwei Sessellifte geplant",
+        "summary": "Im Teilgebiet Champoluc laufen Planungen für das Jahr 2027, um die bestehende zweiseitige Sesselbahn durch zwei eigenständige fixe 4er-Sessellifte zu ersetzen.",
+        "source_url": "https://www.alpinforum.com/threads/5209/page-21"
       }
     },
     {
@@ -356,6 +446,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.3219538,
+          42.816936
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Pyrénées",
+        "headline": "Pyrénées (Grand Tourmalet): Fortschritte beim Bau der 10er-Gondelbahn Tournaboup",
+        "summary": "Am Col du Tourmalet in Barèges schreiten die Tiefbau- und Montagearbeiten an den Stationsgebäuden sowie den Stützen der neuen 10er-Gondelbahn Tournaboup zügig voran.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43237&st=20",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/607be518-988c-4ba9-b1f8-43938591cf0d/89_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.6519221,
           47.406831
         ]
@@ -366,17 +475,7 @@
         "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
         "headline": "Fieberbrunn: effizientere Beschneiung für mehr Schneesicherheit",
         "summary": "In Fieberbrunn wurden die Sommermonate für gezielte Investitionen in die Beschneiung genutzt: Alte Schneeerzeuger wurden durch neue, effizientere Maschinen ersetzt, mit Fokus auf den Bereich Reckmoos Nord – ein weiterer Schritt zu mehr Schneesicherheit auf den Pisten.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=159&start=75",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 00:26 Uhr",
-            "headline": "Neue Beschneiung und Speicherteich",
-            "summary": "Der Skiweg Reckmoos Süd im unteren Bereich erhielt eine neue Beschneiungsanlage, und auch in Leogang schreitet das Projekt Speicherteich Asitz III voran.",
-            "source_url": "https://www.alpinforum.com/threads/792/page-319",
-            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.fieberbrunn.com%2Ffavicon-32x32.png&hash=3a5808a5b72d73bfd1caf0cc371c47dc&return_error=1"
-          }
-        ]
+        "source_url": "https://alpinfans.com/viewtopic.php?t=159&start=75"
       }
     },
     {
@@ -407,7 +506,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Schwarzwald: Scheuermattlift am Belchen endgültig abgebaut",
@@ -481,7 +580,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "4 Vallées / Verbier",
         "headline": "Verbier: Solarfassade an der neuen Kombibahn Savoleyres installiert",
@@ -505,16 +604,7 @@
         "headline": "Fortschritt am neuen Sessellift Patrullarve",
         "summary": "Der Bau der neuen 6er-Sesselbahn Patrullarve in Zermatt zeigt sich kurz vor dem Abschluss. Die Bergstation, das integrierte Garagierungsgebäude sowie die Steuerungsanlage sind weitgehend fertiggestellt.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43229",
-        "image_url": "https://www.remontees-mecaniques.net/forums/uploads/1788379331/gallery_8652_8884_992909.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 00:26 Uhr",
-            "headline": "Intensive Beschneiung in Cervinia",
-            "summary": "In Cervinia wird in den höheren Lagen flächendeckend beschneit, wodurch die Verbindung vom Theodulpass zum Plan Maison bereits in greifbarer Nähe ist.",
-            "source_url": "https://www.alpinforum.com/threads/72469/"
-          }
-        ]
+        "image_url": "https://www.remontees-mecaniques.net/forums/uploads/1788379331/gallery_8652_8884_992909.jpg"
       }
     },
     {
@@ -527,7 +617,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Zillertal Arena – Zell am Ziller/Gerlos/Königsleiten/Hochkrimml",
         "headline": "Zillertal Arena: Sonnwendkopfbahn wird durch neue 'Grenzgängerbahn' ersetzt",

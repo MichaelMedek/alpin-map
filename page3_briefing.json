@@ -1,46 +1,56 @@
 {
-  "generated_at": "2026-11-02T01:03:00Z",
+  "generated_at": "2026-11-03T01:03:00Z",
   "reports": [
     {
-      "headline": "Herbstliches Schanfigg: Bergtour von Tschiertschen auf das Parpaner Schwarzhorn",
-      "summary": "Eine eindrucksvolle Spätherbsttour führt abseits des Rummels von der Alp Farur oberhalb von Tschiertschen hinauf auf das 2860 Meter hohe Parpaner Schwarzhorn. Bei glasklarer Fernsicht öffnet sich der Blick weit über das Schanfigg, das Weißhorn und die Lenzerheide. Über einsame Bergkämme führt der Weg weiter zum benachbarten Gürgaletsch, während tief unten im Tal goldgelbe Lärchenwälder im Spätherbstlicht leuchten.",
-      "source_url": "https://www.alpinforum.com/threads/57831/page-9",
+      "headline": "Alpe Cheggio: Ein Tellerlift im Schatten gewaltiger Bergriesen",
+      "summary": "Ein abgelegenes Hochtal westlich von Domodossola, ein einziger Tellerlift, zwei einfache Hänge und eine majestätische Kulisse – der Bericht von der Alpe Cheggio beschreibt das Skifahren in seiner pursten Form. Statt Hektik und Pistenkilometern regieren hier Aufsulzung, absolute Stille und der Reiz des Minimalismus.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=4264",
       "image_urls": [
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fwanderung-tschiertschen_004.jpg&hash=6d8a117542b5b4eb5a3c6ab7a3cd0f30",
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fparpaner-weisshorn_010.jpg&hash=c5f7320a2671856a3af3160c53b0d7fa",
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Farosa-weisshorn_016.jpg&hash=917f676f66760d18d286784b327d927f",
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fg%25C3%25BCrgaletsch-grat_034.jpg&hash=7d2472e2f8ed6f3e71d2d80ba5281e4a",
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fjoch-mit-ringelspitz_036.jpg&hash=b913176e856d733a566acc5a4db59a8a",
-        "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dplate.de%2Fphotos%2Flenzerheide%2F20261031%2Fbergstra%25C3%259Fe-durch-l%25C3%25A4rchenwald_043.jpg&hash=af50b6117d60c6946f574dc4bfe69208"
+        "https://media.alpinfans.com/studio/73/20261030-152531-de3f9e2e_l.jpg",
+        "https://media.alpinfans.com/studio/73/20261030-152514-e46ba6ba_l.jpg",
+        "https://media.alpinfans.com/studio/73/20261030-152510-d5c434d8_l.jpg",
+        "https://media.alpinfans.com/studio/73/20261030-152507-7bc3ab44_l.jpg",
+        "https://media.alpinfans.com/studio/73/20261030-152500-4ccf3720_l.jpg",
+        "https://media.alpinfans.com/studio/73/20261030-152440-70b63458_l.jpg"
       ]
     }
   ],
   "tips": [
     {
-      "headline": "Günstige Tagestickets mit der italienischen FISI-Fan-Mitgliedschaft",
-      "summary": "Über die Fan-Mitgliedschaft des italienischen Wintersportverbands FISI (40 Euro Jahresbeitrag via App) lassen sich an ausgewählten Terminen 20 Prozent Rabatt auf Tagesskipässe erzielen, reguläre Mitglieder sparen sogar 50 Prozent. Die Mitgliedschaft lohnt sich bereits ab rund drei Skitagen.",
-      "source_url": "https://www.alpinforum.com/threads/70918/page-5"
+      "headline": "Parkgebühren in Tignes & Val d'Isère fest im Reisebudget einplanen",
+      "summary": "Zuvor kostenlose Einstiegsparkplätze am Gebietsrand wie Les Brévières oder Les Boisses wurden inzwischen gebührenpflichtig und mit Höhenbegrenzungen versehen. Skifahrer sollten die Parkgebühren vorab einberechnen oder den Skibus nutzen.",
+      "source_url": "https://www.alpinforum.com/threads/72601/"
     },
     {
-      "headline": "5-Franken-Skitag im Nikolauskostüm zur Saisoneröffnung in Verbier",
-      "summary": "Zur feierlichen Opening Session Anfang Dezember in Verbier (4 Vallées) erhalten Skifahrer im kompletten Samichlaus- bzw. Nikolauskostüm das Tagesticket für nur 5 CHF. Inklusive sind ein kostenloser Sonderzug sowie Kaffee, Gipfeli und ein Drink am Nachmittag.",
-      "source_url": "https://www.alpinforum.com/threads/72686/"
+      "headline": "Skitage-Tracking: Automatische Bereinigung von Bahn-Talfahrten nutzen",
+      "summary": "Wer seine Skitage per GPX-Track auf Alpinfans hochlädt, kann versehentlich aufgezeichnete Talfahrten mit der Gondelbahn über eine neue automatische Erkennungsfunktion per Klick herausfiltern und so die Pistenstatistik bereinigen.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=119&start=150"
     }
   ],
   "controversial": [
     {
-      "headline": "Sinn und Dimensionierung der geplanten 'Grenzgängerbahn' in der Zillertal Arena",
+      "headline": "Debatte über Bauprojekte und moderne Architektur am Klein Titlis",
       "pro": [
-        "Behebt eine alte Schwachstelle im Skigebiet und erspart umständliche Verbindungswege über Dorfbahn, Mitterleger oder Ziehwege",
-        "Die verschwenkte Trasse erschließt eine attraktive, lange Wiederholungsabfahrt",
-        "Deutlicher Komfort- und Kapazitätssprung durch eine moderne 10er-Gondelbahn"
+        "Spektakuläre, hochmoderne Architektur namhafter Architekten wertet den Gipfel für weltweite Besucher auf",
+        "Erhöhte Gebäudekapazitäten und verbesserte Aussichtsplattformen für den internationalen Ganzjahrestourismus"
       ],
       "contra": [
-        "Hoher Investitionsaufwand durch Trassenverlängerung von 1,6 auf 2,7 Kilometer für eine Bahn, die noch gar nicht so alt war",
-        "Führt weiterhin nicht ganz auf den Grat, sodass für die Weiterfahrt ins Krummbachtal immer noch ein Anschlusslift nötig bleibt",
-        "Investitionen in eine leistungsfähigere Beschneiungsanlage auf dieser Verbindungsachse wären für viele Skifahrer dringlicher gewesen"
+        "Verlust der ursprünglichen hochalpinen Ausstrahlung zugunsten eines massiven Glaskomplexes ('Disneyland 2.0')",
+        "Zunehmende Kommerzialisierung und Überprägung historischer Gipfelbauten"
       ],
-      "source_url": "https://alpinfans.com/viewtopic.php?t=1105"
+      "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=14009&st=20"
+    },
+    {
+      "headline": "Einsatz fixer Sessellifte zur Begrenzung der Pistenbelastung am Arlberg",
+      "pro": [
+        "Niedrigere Förderleistung verhindert die Überfüllung von Pisten und wahrt 'Klasse statt Masse'",
+        "Deutlich geringere Betriebs- und Wartungskosten für die Seilbahngesellschaften"
+      ],
+      "contra": [
+        "Fixe Sessellifte ohne Hauben bieten wenig Komfort bei schlechtem Wetter",
+        "Längere Fahr- und Wartezeiten entsprechen nicht dem modernen Standard hochpreisiger Gebiete"
+      ],
+      "source_url": "https://www.alpinforum.com/threads/991/page-384"
     }
   ]
 }

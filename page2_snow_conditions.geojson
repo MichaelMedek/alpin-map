@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
         "headline": "Adelboden: Früher Saisonstart auf der Tschentenalp dank Snowfarming",
@@ -51,12 +51,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.7983599,
+          46.8144214
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Bad Kleinkirchheim",
+        "headline": "Bad Kleinkirchheim: Früher Start der Grundbeschneiung am Spitzeck",
+        "summary": "In Bad Kleinkirchheim wurden überraschend früh Anfang November die Schneeerzeuger im Bereich Spitzeck in Betrieb genommen, um ein erstes Pistenfundament aufzubauen.",
+        "source_url": "https://www.alpinforum.com/threads/3427/page-213",
+        "image_url": "https://www.foto-webcam.eu/webcam/spitzeck/2026/11/01/2310_la.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.8171312,
           46.805189
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Jakobshorn feuert aus allen Rohren bei leichtem Schneefall",
@@ -84,7 +103,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Engelberg / Titlis–Brunni",
         "headline": "Engelberg-Titlis: Griffige Gletscherpisten zum Start am Ice Flyer",
@@ -122,7 +141,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Flims–Laax–Falera",
         "headline": "Flims Laax Falera: Minusgrade am Crap Sogn Gion, Schneekanonen pausieren noch",
@@ -135,18 +154,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6648069,
-          47.0857251
+          9.2765899,
+          47.0828502
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
-        "name": "Hintertuxer Gletscher",
-        "headline": "Guter Schnee, aber erste Felsfelder",
-        "summary": "Bei strahlendem Sonnenschein und eisigen Temperaturen präsentieren sich die geöffneten Hänge griffig, doch der Gletschereisrückgang macht sich bemerkbar und erste Felsfelder kommen zum Vorschein.",
-        "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=http%3A%2F%2Fwww.kaldini.de%2Ftux%2FHintertux_301026-3.jpg&hash=ceceb5c09c4a23ccd51527b32297a734"
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Flumserberg",
+        "headline": "Flumserberg: Schneeerzeugung in Richtung Maschgenkamm gestartet",
+        "summary": "Am Flumserberg nutzten die Bergbahnen die tiefen Temperaturen, um die Lanzen und Kanonen im Abschnitt zum Maschgenkamm anzuwerfen.",
+        "source_url": "https://www.alpinforum.com/threads/3427/page-213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0282497,
+          46.8711626
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Gurgl",
+        "headline": "Gurgl: Präpariertes Pistenband am Kirchenkar für den Saisonstart gerüstet",
+        "summary": "In Gurgl sind die Vorbereitungen für den Saisonauftakt am 19. November voll im Gang. Die Weltcup-Rennpiste am Kirchenkar präsentiert sich bereits als durchgehendes weißes Pistenband.",
+        "source_url": "https://www.alpinforum.com/threads/72689/",
+        "image_url": "https://www.alpinforum.com/attachments/1000047161-webp.338346/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7952574,
+          47.1455818
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Hochzeiger / Jerzens",
+        "headline": "Hochzeiger Jerzens: Beschneiung oberhalb der Mittelstation in Betrieb genommen",
+        "summary": "Am Hochzeiger im Pitztal wurde das kalte Wetter genutzt, um die Beschneiungsanlagen im oberen Pistensektor oberhalb der Mittelstation zu starten.",
+        "source_url": "https://www.alpinforum.com/threads/3427/page-213"
       }
     },
     {
@@ -159,7 +214,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Mürren-Schilthorn: Sonnenskilauf im Engetal über dem Nebelmeer",
@@ -226,7 +281,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Oberengadin / St. Moritz",
         "headline": "Engadin St. Moritz: Umfassende Grundbeschneiung auf Corviglia aktiv",
@@ -283,7 +338,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "02.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
         "headline": "Schladming 4-Berge: Beschneiung auf Reiteralm, Planai und Hochwurzen gestartet",
@@ -296,18 +351,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0072845,
-          46.9666319
+          10.1404336,
+          47.1826543
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
-        "name": "Sölden",
-        "headline": "Eisige Pisten und technischer Zwischenfall",
-        "summary": "Sölden meldet eisige Pistenverhältnisse; die Gondel Schwarze Schneid musste ihren Betrieb zeitweise wegen Antriebsproblemen einstellen.",
-        "source_url": "https://www.alpinforum.com/threads/72461/page-8",
-        "image_url": "https://www.alpinforum.com/attachments/img_9844-webp.338251/"
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Ski Arlberg",
+        "headline": "Ski Arlberg: Erste Schneekanonen im Raum Zürs aktiv",
+        "summary": "Auf den höher gelegenen Hängen rund um den Zürser See und den Rüfikopf liefen in den kalten Nachtstunden die ersten Beschneiungsanlagen.",
+        "source_url": "https://www.alpinforum.com/threads/3427/page-213",
+        "image_url": "https://www.foto-webcam.eu/webcam/ruefikopf/2026/11/01/2300_la.jpg"
       }
     },
     {
@@ -315,18 +370,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1172229,
-          46.9918843
+          12.2490297,
+          47.4578352
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 00:26 Uhr",
-        "name": "Stubaier Gletscher",
-        "headline": "Hervorragender Saisonauftakt",
-        "summary": "Der Stubaier Gletscher bot beste Verhältnisse am Eisjoch und Rotadl; die untereren Pisten zur Mittelstation werden bereits intensiv beschneit und dürften bald öffnen.",
-        "source_url": "https://www.alpinforum.com/threads/72446/page-4",
-        "image_url": "https://www.alpinforum.com/attachments/1000047053-webp.338243/"
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "SkiWelt Wilder Kaiser-Brixental",
+        "headline": "SkiWelt Wilder Kaiser-Brixental: Kalte Nächte ermöglichen ersten flächendeckenden Beschneiungsstart",
+        "summary": "Die günstigen Minusgrade wurden in zahlreichen Teilgebieten der SkiWelt wie Scheffau, Westendorf, Hopfgarten, Söll und am Brandstadl genutzt, um die Pistenbeschneiung intensiv anzufahren.",
+        "source_url": "https://www.alpinforum.com/threads/72688/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0072845,
+          46.9666319
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "03.11.2026 02:03 Uhr",
+        "name": "Sölden",
+        "headline": "Sölden: Ausgezeichnete Gletscherbedingungen und bevorstehende Giggijoch-Öffnung",
+        "summary": "In Sölden überzeugen Pisten wie Einzeiger und Seiterkar mit griffigem Schnee. Am Schwarzkogel läuft die Beschneiung auf Hochtouren, während am Freitag der Skibetrieb am Giggijoch startet.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
+        "image_url": "https://media.alpinfans.com/live/60/20261102-143840-b4a31e24_l.jpg"
       }
     },
     {
