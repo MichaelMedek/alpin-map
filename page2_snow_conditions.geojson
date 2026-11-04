@@ -34,16 +34,7 @@
         "name": "Arosa Lenzerheide",
         "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
         "summary": "In Arosa Lenzerheide haben die Bergbahnen angesichts sinkender Temperaturen die Schneekanonen am Hörnli und Weisshorn in Betrieb genommen.",
-        "source_url": "https://www.alpinforum.com/threads/72474/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 03:56 Uhr",
-            "headline": "Arosa Lenzerheide: Beschneiung an Hörnli und Weisshorn angelaufen",
-            "summary": "In Arosa laufen am Hörnli sowie zuoberst am Weisshorn bereits die Schneekanonen. Bei tiefen Temperaturen wird die Grundbeschneiung vorangetrieben, um die oberen Pistenbereiche rechtzeitig für den Saisonstart vorzubereiten.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/72474/"
       }
     },
     {
@@ -56,7 +47,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Bad Kleinkirchheim",
         "headline": "Bad Kleinkirchheim: Früher Start der Grundbeschneiung am Spitzeck",
@@ -159,7 +150,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Flumserberg",
         "headline": "Flumserberg: Schneeerzeugung in Richtung Maschgenkamm gestartet",
@@ -177,7 +168,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Gurgl",
         "headline": "Gurgl: Präpariertes Pistenband am Kirchenkar für den Saisonstart gerüstet",
@@ -196,7 +187,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Hochzeiger / Jerzens",
         "headline": "Hochzeiger Jerzens: Beschneiung oberhalb der Mittelstation in Betrieb genommen",
@@ -295,6 +286,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.2881895,
+          47.0097538
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Paznauntal / Ischgl–Samnaun",
+        "headline": "Ischgl / Silvretta Arena: Hervorragende Bedingungen für die Grundbeschneiung",
+        "summary": "Dank anhaltender Kälte und klarem Himmel laufen die Schneeerzeuger im Höllkar und Höllboden optimal. Die Pisten am Palinkopf und die Abfahrt 4 vom Padatschgrat ins Velilltal stehen weitgehend bereit.",
+        "source_url": "https://www.alpinforum.com/threads/72568/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8776109,
           46.9096745
         ]
@@ -356,7 +365,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Ski Arlberg",
         "headline": "Ski Arlberg: Erste Schneekanonen im Raum Zürs aktiv",
@@ -375,7 +384,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "SkiWelt Wilder Kaiser-Brixental",
         "headline": "SkiWelt Wilder Kaiser-Brixental: Kalte Nächte ermöglichen ersten flächendeckenden Beschneiungsstart",
@@ -393,13 +402,31 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Sölden",
         "headline": "Sölden: Ausgezeichnete Gletscherbedingungen und bevorstehende Giggijoch-Öffnung",
         "summary": "In Sölden überzeugen Pisten wie Einzeiger und Seiterkar mit griffigem Schnee. Am Schwarzkogel läuft die Beschneiung auf Hochtouren, während am Freitag der Skibetrieb am Giggijoch startet.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
         "image_url": "https://media.alpinfans.com/live/60/20261102-143840-b4a31e24_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5842617,
+          46.5280433
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Sulden am Ortler / Solda all'Ortles",
+        "headline": "Sulden am Ortler: Bereit für den Saisonstart am Madritsch-Gletscher",
+        "summary": "Zum Auftakt gehen am Madritsch-Gletscher alle drei Sesselbahnen mit über der Hälfte der Pisten an den Start. Auch im Kanzelgebiet sind die roten und blauen Abfahrten dank intensiver Beschneiung betriebsbereit.",
+        "source_url": "https://www.alpinforum.com/threads/72466/"
       }
     },
     {

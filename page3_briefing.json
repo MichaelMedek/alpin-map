@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-03T01:03:00Z",
+  "generated_at": "2026-11-04T01:02:00Z",
   "reports": [
     {
-      "headline": "Alpe Cheggio: Ein Tellerlift im Schatten gewaltiger Bergriesen",
-      "summary": "Ein abgelegenes Hochtal westlich von Domodossola, ein einziger Tellerlift, zwei einfache Hänge und eine majestätische Kulisse – der Bericht von der Alpe Cheggio beschreibt das Skifahren in seiner pursten Form. Statt Hektik und Pistenkilometern regieren hier Aufsulzung, absolute Stille und der Reiz des Minimalismus.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4264",
+      "headline": "Sonnenseite über dem Nebelmeer: Ein Traumtag auf dem Titlis-Gletscher",
+      "summary": "Während die Täler im Novembergrau versinken, offenbart sich am Titlis ein grandioses Hochgebirgspanorama unter tiefblauem Himmel. Bei griffigem Schnee am Ice Flyer führt die Erkundungstour von den frisch präparierten Gletscherpisten bis hinauf zum neuen Horizon-Deck. Eindrucksvolle Einblicke in die Großbaustelle der Titlis-Connect-Bahn runden das herbstliche Skierlebnis ab.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
       "image_urls": [
-        "https://media.alpinfans.com/studio/73/20261030-152531-de3f9e2e_l.jpg",
-        "https://media.alpinfans.com/studio/73/20261030-152514-e46ba6ba_l.jpg",
-        "https://media.alpinfans.com/studio/73/20261030-152510-d5c434d8_l.jpg",
-        "https://media.alpinfans.com/studio/73/20261030-152507-7bc3ab44_l.jpg",
-        "https://media.alpinfans.com/studio/73/20261030-152500-4ccf3720_l.jpg",
-        "https://media.alpinfans.com/studio/73/20261030-152440-70b63458_l.jpg"
+        "https://media.alpinfans.com/live/58/20261103-131613-b82f180c_l.jpg",
+        "https://media.alpinfans.com/live/58/20261103-131047-6f0f2ec9_l.jpg",
+        "https://media.alpinfans.com/live/58/20261103-131010-e329da36_l.jpg",
+        "https://media.alpinfans.com/live/58/20261103-102346-3b545c31_l.jpg",
+        "https://media.alpinfans.com/live/58/20261103-092301-24e4df64_l.jpg",
+        "https://media.alpinfans.com/live/58/20261103-085815-c893948a_l.jpg"
       ]
     }
   ],
   "tips": [
     {
-      "headline": "Parkgebühren in Tignes & Val d'Isère fest im Reisebudget einplanen",
-      "summary": "Zuvor kostenlose Einstiegsparkplätze am Gebietsrand wie Les Brévières oder Les Boisses wurden inzwischen gebührenpflichtig und mit Höhenbegrenzungen versehen. Skifahrer sollten die Parkgebühren vorab einberechnen oder den Skibus nutzen.",
-      "source_url": "https://www.alpinforum.com/threads/72601/"
+      "headline": "Magic Pass: Automatische Gültigkeit bei ÖV-Verspätungen",
+      "summary": "Wer seine ÖV-Fahrt ins Skigebiet über die Magic-Pass-App bucht, muss bei verpassten Anschlüssen keine neuen Tickets kaufen. Der Fahrschein bleibt automatisch ohne Umtausch für die nächste Verbindung gültig.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=987&start=450"
     },
     {
-      "headline": "Skitage-Tracking: Automatische Bereinigung von Bahn-Talfahrten nutzen",
-      "summary": "Wer seine Skitage per GPX-Track auf Alpinfans hochlädt, kann versehentlich aufgezeichnete Talfahrten mit der Gondelbahn über eine neue automatische Erkennungsfunktion per Klick herausfiltern und so die Pistenstatistik bereinigen.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=119&start=150"
+      "headline": "November-Inversionswetterlage gezielt für Bergtouren nutzen",
+      "summary": "Bei stabilen Hochdrucklagen lohnt sich der Blick auf die Höhenlage: Während im Flachland ganztägig Nebel herrscht, bieten Lagen oberhalb von 1.000 bis 1.200 Metern sonnige Verhältnisse.",
+      "source_url": "https://www.alpinforum.com/threads/3911/page-1713"
     }
   ],
   "controversial": [
     {
-      "headline": "Debatte über Bauprojekte und moderne Architektur am Klein Titlis",
+      "headline": "Taktung und Standzeiten der Falginjochbahn am Kaunertaler Gletscher",
       "pro": [
-        "Spektakuläre, hochmoderne Architektur namhafter Architekten wertet den Gipfel für weltweite Besucher auf",
-        "Erhöhte Gebäudekapazitäten und verbesserte Aussichtsplattformen für den internationalen Ganzjahrestourismus"
+        "Notwendige Stehzeiten zum Aufladen der Fahrzeugbatterien im Stationsbereich.",
+        "Sinnvolle Reduktion des Energieverbrauchs der Funifor-Anlage bei schwachem Publikumsandrang."
       ],
       "contra": [
-        "Verlust der ursprünglichen hochalpinen Ausstrahlung zugunsten eines massiven Glaskomplexes ('Disneyland 2.0')",
-        "Zunehmende Kommerzialisierung und Überprägung historischer Gipfelbauten"
+        "Unerwartete Wartezeiten in den Kabinen verschlechtern das Angebot für Skigäste.",
+        "Fehlende Fahrplan-Kommunikation sorgt für Unverständnis bei Kunden."
       ],
-      "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=14009&st=20"
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=75"
     },
     {
-      "headline": "Einsatz fixer Sessellifte zur Begrenzung der Pistenbelastung am Arlberg",
+      "headline": "Einsatz von Snowfactories zum frühen Saisonstart in Mittelgebirgen",
       "pro": [
-        "Niedrigere Förderleistung verhindert die Überfüllung von Pisten und wahrt 'Klasse statt Masse'",
-        "Deutlich geringere Betriebs- und Wartungskosten für die Seilbahngesellschaften"
+        "Garantierter Eröffnungstermin Ende November bietet Planungssicherheit für Skischulen und Betreiber.",
+        "Unabhängigkeit von tiefen Minustemperaturen bei der ersten Schneeerzeugung."
       ],
       "contra": [
-        "Fixe Sessellifte ohne Hauben bieten wenig Komfort bei schlechtem Wetter",
-        "Längere Fahr- und Wartezeiten entsprechen nicht dem modernen Standard hochpreisiger Gebiete"
+        "Kritische Außenwirkung bei Beschneiung ohne Frost und Naturschnee.",
+        "Qualität des erzeugten Scherbeneises ist im Vergleich zu Maschinenschnee umstritten."
       ],
-      "source_url": "https://www.alpinforum.com/threads/991/page-384"
+      "source_url": "https://www.alpinforum.com/threads/72477/page-2"
     }
   ]
 }

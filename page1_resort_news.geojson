@@ -47,7 +47,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Ankogel / Mallnitz",
         "headline": "Ankogel Mallnitz: Bauarbeiten zur Erweiterung der Beschneiungsanlage gestartet",
@@ -115,24 +115,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9547281,
-          50.4291364
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
-        "name": "Erzgebirge / Fichtelberg",
-        "headline": "Vorbereitungen auf Beschneiung und Umbenennung",
-        "summary": "Am Fichtelberg und Keilberg bereitet man sich auf kommende Frostperioden vor, während die 4KSB auf der Südseite offiziell in mapy.com Express umbenannt wurde.",
-        "source_url": "https://www.alpinforum.com/threads/72645/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9143318,
           46.69476
         ]
@@ -176,12 +158,30 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
         "headline": "Hintertuxer Gletscher: Skiroute Haxenbrecher offiziell zur schwarzen Piste 13a aufgewertet",
         "summary": "Die bisherige unpräparierte Skiroute 13a 'Haxenbrecher' an der Lärmstange 1 wurde im offiziellen Pistenplan für die Wintersaison 2026/27 als präparierte schwarze Piste 13a ausgewiesen.",
         "source_url": "https://www.alpinforum.com/threads/26965/page-96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7952574,
+          47.1455818
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Hochzeiger / Jerzens",
+        "headline": "Hochzeiger Jerzens: Attraktivierung des Rodelangebots angekündigt",
+        "summary": "Die Bergbahnen Hochzeiger planen im Rahmen lokaler Entwicklungsinitiativen die Sanierung sowie den gezielten Ausbau der Naturrodelbahn am Hochzeiger.",
+        "source_url": "https://www.alpinforum.com/threads/9634/page-14"
       }
     },
     {
@@ -262,18 +262,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.847838,
-          45.6285962
+          6.4562373,
+          45.4781616
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
-        "name": "La Rosière / La Thuile",
-        "headline": "Neue 10er-Gondelbahn Vedette im Espace San Bernardo",
-        "summary": "In La Thuile schreiten die Arbeiten an der neuen 10er-Gondelbahn Vedette voran, die als modernisiertes Highlight die bisherigen Lifte La Combe und Chaz Dura ersetzt und im Dezember eröffnen soll.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43303",
-        "image_url": "https://hub-informativo.lathuile.net/file/sector/settore_les_suches_chaz_dura.png"
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Le Grand Domaine",
+        "headline": "Le Grand Domaine: Neue 10er-Gondelbahn Combelouvière im Testbetrieb",
+        "summary": "In Valmorel laufen die Testfahrten der neuen 10er-Gondelbahn Combelouvière. Die Kabinen hängen bereits am Seil und die Anlage läuft im Probebetrieb äußerst geräuscharm.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42968&st=60"
       }
     },
     {
@@ -323,7 +322,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Mölltaler Gletscher",
         "headline": "Mölltaler Gletscher: Gebührenpflichtige Parkplätze mit Kennzeichenerkennung an der Talstation",
@@ -341,7 +340,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
         "headline": "Mondolè Ski: Neubau der 8er-Sesselbahn Blu in Prato Nevoso geht in die heiße Phase",
@@ -359,7 +358,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
         "headline": "Monterosa Ski: Ersetzung der Tal-Berg-Tal-Bahn in Champoluc durch zwei Sessellifte geplant",
@@ -451,7 +450,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "03.11.2026 02:03 Uhr",
         "name": "Pyrénées",
         "headline": "Pyrénées (Grand Tourmalet): Fortschritte beim Bau der 10er-Gondelbahn Tournaboup",
@@ -537,6 +536,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.308631984828244,
+          47.334001977900066
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
+        "headline": "Snow Space Salzburg: Achterjet in Flachau wird 2027 durch 10er-Gondel ersetzt",
+        "summary": "Der Achterjet in Flachau absolviert seine letzte Wintersaison. Ab 2027 ersetzt eine moderne 10er-Kabinenbahn mit Mittelstation und höher gelegener Bergstation die alte Anlage für rund 40 Millionen Euro.",
+        "source_url": "https://www.alpinforum.com/threads/2511/page-160",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.sn.at%2Fstorage%2Fimage%2F1%2F3%2F3%2F9%2F1179331_die-kommende-saison-wird-fuer-den-achterjet-in-flachau-die-letzte-sein-die_metadaten_1GWaqA_oY3JZW.jpg&hash=33a63f17193c4b2cfe87aa63ec87b9d5&return_error=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0072845,
+          46.9666319
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "04.11.2026 02:02 Uhr",
+        "name": "Sölden",
+        "headline": "Sölden: Giggijoch-Sektor startet am 6. November in die Skisaison",
+        "summary": "Sölden erweitert sein Angebot über den Gletscher hinaus: Ab dem 6. November gehen die 10EUB Giggijoch, die 8SK Silberbrünnl, die Piste 13 sowie das Bergrestaurant Giggijoch in Betrieb.",
+        "source_url": "https://www.alpinforum.com/threads/72461/page-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.1172229,
           46.9918843
         ]
@@ -586,25 +622,6 @@
         "headline": "Verbier: Solarfassade an der neuen Kombibahn Savoleyres installiert",
         "summary": "Beim Neubau der Kombibahn Les Esserts–Les Planards–Savoleyres in Verbier wurde an der Fassade eine auffällige grüne Photovoltaikanlage montiert, die sich optisch einfügt und die Station nachhaltig mit Sonnenenergie versorgt.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41319&st=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7163465,
-          45.9609858
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 03:56 Uhr",
-        "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Fortschritt am neuen Sessellift Patrullarve",
-        "summary": "Der Bau der neuen 6er-Sesselbahn Patrullarve in Zermatt zeigt sich kurz vor dem Abschluss. Die Bergstation, das integrierte Garagierungsgebäude sowie die Steuerungsanlage sind weitgehend fertiggestellt.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43229",
-        "image_url": "https://www.remontees-mecaniques.net/forums/uploads/1788379331/gallery_8652_8884_992909.jpg"
       }
     },
     {
