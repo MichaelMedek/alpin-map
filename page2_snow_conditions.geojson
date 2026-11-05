@@ -29,12 +29,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 15:01 Uhr",
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Arosa Lenzerheide",
-        "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
-        "summary": "In Arosa Lenzerheide haben die Bergbahnen angesichts sinkender Temperaturen die Schneekanonen am Hörnli und Weisshorn in Betrieb genommen.",
-        "source_url": "https://www.alpinforum.com/threads/72474/"
+        "headline": "Arosa Lenzerheide: Erster Skibetrieb in Arosa frühestens ab Mitte November",
+        "summary": "Die Bergbahnen Arosa peilen den Start des Wochenend-Skibetriebs frühestens für Samstag, den 14. November an, sofern die Temperaturen in den kommenden Tagen ausreichend Kälte für die Beschneiung bringen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3902",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 15:01 Uhr",
+            "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
+            "summary": "In Arosa Lenzerheide haben die Bergbahnen angesichts sinkender Temperaturen die Schneekanonen am Hörnli und Weisshorn in Betrieb genommen.",
+            "source_url": "https://www.alpinforum.com/threads/72474/"
+          }
+        ]
       }
     },
     {
@@ -72,16 +81,7 @@
         "headline": "Davos Klosters: Jakobshorn feuert aus allen Rohren bei leichtem Schneefall",
         "summary": "Bei leichtem Schneefall bis in den Talort laufen die Lanzen und Kanonen am Jakobshorn im Dauerbetrieb, während die Parsenn-Hänge aus der Ferne bereits winterlich weiß leuchten. In tieferen Lagen rund um Sertig dominieren noch goldene Herbstlärchen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
-        "image_url": "https://alpinfans.com/download/file.php?id=126012&mode=view",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 06:00 Uhr",
-            "headline": "Vorbereitungen für Saisonstart auf Parsenn am 13. November",
-            "summary": "Auf Parsenn laufen die Schneeerzeuger bei tiefen Temperaturen auf Hochtouren. Die offizielle Eröffnung ist für den 13. November angesetzt.",
-            "source_url": "https://www.alpinforum.com/threads/72642/"
-          }
-        ]
+        "image_url": "https://alpinfans.com/download/file.php?id=126012&mode=view"
       }
     },
     {
@@ -108,18 +108,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4810866,
-          46.025975
+          12.9547281,
+          50.4291364
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 06:00 Uhr",
-        "name": "Espace Dent Blanche",
-        "headline": "Herbstlicher Blick auf die noch schneefreien Hanglagen in Arolla",
-        "summary": "Aktuelle Aufnahmen von der Tza-Hütte zeigen die Pisten von Arolla im Spätherbst vor dem Einsetzen der ersten ergiebigen Schneefälle.",
-        "source_url": "https://www.alpinforum.com/threads/72574/",
-        "image_url": "https://www.alpinforum.com/attachments/0517e6da-7731-4060-8c6f-66f02e4bc083-webp.338247/"
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
+        "name": "Erzgebirge / Fichtelberg",
+        "headline": "Erzgebirge: Probebetrieb der Sesselbahnen am Keilberg gestartet",
+        "summary": "Nach Schneefällen oberhalb von 800 Metern lief am Keilberg im Erzgebirge bereits der Testbetrieb der Sesselbahnen. Bei Bozi Dar war zudem der Snowmaker zur Schneeerzeugung im Einsatz.",
+        "source_url": "https://www.alpinforum.com/threads/72645/",
+        "image_url": "https://www.alpinforum.com/attachments/img_8280-photokomp1-webp.338404/"
       }
     },
     {
@@ -175,6 +175,25 @@
         "summary": "In Gurgl sind die Vorbereitungen für den Saisonauftakt am 19. November voll im Gang. Die Weltcup-Rennpiste am Kirchenkar präsentiert sich bereits als durchgehendes weißes Pistenband.",
         "source_url": "https://www.alpinforum.com/threads/72689/",
         "image_url": "https://www.alpinforum.com/attachments/1000047161-webp.338346/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6648069,
+          47.0857251
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
+        "name": "Hintertuxer Gletscher",
+        "headline": "Hintertuxer Gletscher: Öffnung des Kaserer 2 erweitert das Pistenangebot",
+        "summary": "Am Hintertuxer Gletscher geht der Kaserer-2-Lift in Betrieb. Trotz vereinzelter Steine im Einfahrtsbereich herrschen bei geringem Andrang auf den Gletscherpisten sehr gute Wintersportbedingungen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4260",
+        "image_url": "https://media.alpinfans.com/live/59/20261104-215709-11044c12_l.jpg"
       }
     },
     {
@@ -291,7 +310,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "04.11.2026 02:02 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Ischgl / Silvretta Arena: Hervorragende Bedingungen für die Grundbeschneiung",
@@ -309,13 +328,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 06:00 Uhr",
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
-        "headline": "Intensive Beschneiung auf dem Gletscher gestartet",
-        "summary": "Am Pitztaler Gletscher laufen die Beschneiungsanlagen auf Hochtouren, um zusätzliche Pistenkilometer für den Herbstskibetrieb und Trainingsgruppen vorzubereiten.",
-        "source_url": "https://www.alpinforum.com/threads/72462/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/img_20261029_085555-webp.338248/"
+        "headline": "Pitztaler Gletscher: Sehr gute Bedingungen an der Wildspitze",
+        "summary": "Am Pitztaler Gletscher präsentieren sich die Pisten an der Wildspitzbahn in sehr gutem Zustand. Zur Erweiterung des Angebots laufen die Präparationsarbeiten für die Piste an der Mittelbergbahn.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=150",
+        "image_url": "https://media.alpinfans.com/live/1458/20261104-155630-0a7e1791_l.jpg"
       }
     },
     {
@@ -421,7 +440,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "04.11.2026 02:02 Uhr",
         "name": "Sulden am Ortler / Solda all'Ortles",
         "headline": "Sulden am Ortler: Bereit für den Saisonstart am Madritsch-Gletscher",
@@ -453,18 +472,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
+        "name": "4 Vallées / Verbier",
+        "headline": "4 Vallées: Saisonstart am Lac des Vaux und Beschneiungsarbeiten",
+        "summary": "In den 4 Vallées liefen die Schneekanonen am Lac des Vaux intensiver als zuletzt, um das bevorstehende Wochenende für den ersten Skibetrieb vorzubereiten. Auch im Sektor Attelas wird beschneit.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3918",
+        "image_url": "https://alpinfans.com/download/file.php?id=126032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.054939392135699,
+          46.30370202011029
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
+        "name": "Villars/Gryon/Les Diablerets",
+        "headline": "Glacier 3000: Eröffnung der Gletscherlifte für das Wochenende geplant",
+        "summary": "Auf Glacier 3000 laufen die Vorbereitungen für den Schneesportstart am Samstag. Voraussichtlich gehen die Sesselbahn Glacier Express sowie die Skilifte Dôme und Tsanfleuron in Betrieb.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Gletscherschwund und Blankeis auf den Pisten in Zermatt",
-        "summary": "Am Matterhorn-Gletscher zeigt sich die Schneelage zum Herbstausklang unterdurchschnittlich. Am Furggsattel und Klein Matterhorn tritt vielerorts das Gletschereis zutage; nach Felsbewegungen steht am Furggsattel aktuell nur eine Piste zur Verfügung.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=75",
-        "image_url": "https://alpinfans.com/download/file.php?id=125950&mode=view"
+        "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",
+        "summary": "Aufgrund des starken Gletscherrückgangs ist am Furggsattel ein Felsriegel mitten in der Piste 71 aufgetaucht. Der obere Pistenabschnitt kann daher in dieser Saison nicht mehr geöffnet werden.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 17:57 Uhr",
+            "headline": "Gletscherschwund und Blankeis auf den Pisten in Zermatt",
+            "summary": "Am Matterhorn-Gletscher zeigt sich die Schneelage zum Herbstausklang unterdurchschnittlich. Am Furggsattel und Klein Matterhorn tritt vielerorts das Gletschereis zutage; nach Felsbewegungen steht am Furggsattel aktuell nur eine Piste zur Verfügung.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=75",
+            "image_url": "https://alpinfans.com/download/file.php?id=125950&mode=view"
+          }
+        ]
       }
     }
   ]
