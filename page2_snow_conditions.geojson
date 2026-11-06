@@ -29,7 +29,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Arosa Lenzerheide",
         "headline": "Arosa Lenzerheide: Erster Skibetrieb in Arosa frühestens ab Mitte November",
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Erzgebirge / Fichtelberg",
         "headline": "Erzgebirge: Probebetrieb der Sesselbahnen am Keilberg gestartet",
@@ -188,12 +188,22 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "05.11.2026 02:03 Uhr",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
-        "headline": "Hintertuxer Gletscher: Öffnung des Kaserer 2 erweitert das Pistenangebot",
-        "summary": "Am Hintertuxer Gletscher geht der Kaserer-2-Lift in Betrieb. Trotz vereinzelter Steine im Einfahrtsbereich herrschen bei geringem Andrang auf den Gletscherpisten sehr gute Wintersportbedingungen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=4260",
-        "image_url": "https://media.alpinfans.com/live/59/20261104-215709-11044c12_l.jpg"
+        "headline": "Herbstskilauf am Hintertuxer Gletscher mit unterschiedlichen Bedingungen",
+        "summary": "Während hoch oben auf dem Gletscher das Skifahren gut möglich ist, zeigen sich an steileren Abschnitten und im Tagesverlauf vermehrt Eissuren und Steine.",
+        "source_url": "https://www.alpinforum.com/threads/72464/page-5",
+        "image_url": "https://www.alpinforum.com/attachments/20261105_091607-webp.338415/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "05.11.2026 02:03 Uhr",
+            "headline": "Hintertuxer Gletscher: Öffnung des Kaserer 2 erweitert das Pistenangebot",
+            "summary": "Am Hintertuxer Gletscher geht der Kaserer-2-Lift in Betrieb. Trotz vereinzelter Steine im Einfahrtsbereich herrschen bei geringem Andrang auf den Gletscherpisten sehr gute Wintersportbedingungen.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=4260",
+            "image_url": "https://media.alpinfans.com/live/59/20261104-215709-11044c12_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -253,13 +263,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Kaunertaler Gletscher",
-        "headline": "Top-Präparation und entspannter Andrang am Kaunertaler Gletscher",
-        "summary": "Der Kaunertaler Gletscher überzeugt mit hervorragend gepflegten Pisten und ruhigem Betrieb. Abgesehen von wenigen gut sichtbaren Steinen am Ausstieg der Falginjochbahn bieten Karlesjoch und Falginjoch beste Bedingungen, während das Nörderjoch noch auf Schnee wartet.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=50",
-        "image_url": "https://media.alpinfans.com/live/59/20261031-150347-cbcdb7ed_l.jpg"
+        "headline": "Entspannter Skibetrieb und gute Pisten am Kaunertaler Gletscher",
+        "summary": "Am Kaunertaler Gletscher sind die Karlesjochbahn und das Funifor in Betrieb; die Verhältnisse auf den geöffneten Pisten sind für den Saisonstart solide.",
+        "source_url": "https://www.alpinforum.com/threads/72463/page-3",
+        "image_url": "https://www.alpinforum.com/attachments/img_0003-webp.338431/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 17:57 Uhr",
+            "headline": "Top-Präparation und entspannter Andrang am Kaunertaler Gletscher",
+            "summary": "Der Kaunertaler Gletscher überzeugt mit hervorragend gepflegten Pisten und ruhigem Betrieb. Abgesehen von wenigen gut sichtbaren Steinen am Ausstieg der Falginjochbahn bieten Karlesjoch und Falginjoch beste Bedingungen, während das Nörderjoch noch auf Schnee wartet.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=50",
+            "image_url": "https://media.alpinfans.com/live/59/20261031-150347-cbcdb7ed_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -272,13 +292,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Kitzsteinhorn/Maiskogel – Kaprun",
-        "headline": "Gute Mischung aus Pulver- und Maschinenschnee am Kitzsteinhorn",
-        "summary": "Am Kitzsteinhorn präsentieren sich die geöffneten Hänge deutlich breiter als in der Vorwoche. Bei regem Ferienbetrieb herrscht griffiger Schnee, nachmittags gibt es einzelne glatte Stellen sowie vereinzelte Steine im Sonnenkar. Die Halfpipe ist bereits geöffnet.",
+        "headline": "Gutes Pistenangebot am Kitzsteinhorn bei herbstlicher Kulisse",
+        "summary": "Das Kitzsteinhorn präsentiert sich zum Saisonbeginn mit einer Mischung aus Kunst- und Naturschnee, wobei die neuen Schneilanzen wertvolle Dienste leisten.",
         "source_url": "https://www.alpinforum.com/threads/72419/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/20261031_084242-webp.338274/"
+        "image_url": "https://www.alpinforum.com/attachments/1a6bb974-6e26-4225-9374-fe4e53040c79_4_5005_c-webp.338405/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 17:57 Uhr",
+            "headline": "Gute Mischung aus Pulver- und Maschinenschnee am Kitzsteinhorn",
+            "summary": "Am Kitzsteinhorn präsentieren sich die geöffneten Hänge deutlich breiter als in der Vorwoche. Bei regem Ferienbetrieb herrscht griffiger Schnee, nachmittags gibt es einzelne glatte Stellen sowie vereinzelte Steine im Sonnenkar. Die Halfpipe ist bereits geöffnet.",
+            "source_url": "https://www.alpinforum.com/threads/72419/page-3",
+            "image_url": "https://www.alpinforum.com/attachments/20261031_084242-webp.338274/"
+          }
+        ]
       }
     },
     {
@@ -328,7 +358,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
         "headline": "Pitztaler Gletscher: Sehr gute Bedingungen an der Wildspitze",
@@ -347,13 +377,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 12:42 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Saastal",
-        "headline": "Perfekter Pulverschnee und entspannter Andrang im Saastal",
-        "summary": "In Saas-Fee präsentieren sich die Pisten bis hin zum Gletscherband in einem perfekten, pulvrig-griffigen Zustand bei guten Platzverhältnissen für das Publikum.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3907",
-        "image_url": "https://media.alpinfans.com/live/182/20261031-123922-355f4ec6_l.jpg"
+        "headline": "Erweiterung des Skibetriebs im Saastal mit der Sesselbahn Morenia",
+        "summary": "In Saas-Fee öffnet ab dem Wochenende zusätzlich die 6er-Sesselbahn Morenia, während der anhaltende Gletscherschwund weiter Diskussionen auslöst.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3907&start=25",
+        "image_url": "https://alpinfans.com/download/file.php?id=126060&mode=view"
       }
     },
     {
@@ -421,13 +451,42 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Sölden: Ausgezeichnete Gletscherbedingungen und bevorstehende Giggijoch-Öffnung",
-        "summary": "In Sölden überzeugen Pisten wie Einzeiger und Seiterkar mit griffigem Schnee. Am Schwarzkogel läuft die Beschneiung auf Hochtouren, während am Freitag der Skibetrieb am Giggijoch startet.",
+        "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
+        "summary": "Sölden bietet zum Saisonauftakt hervorragende Bedingungen auf den vollständig präparierten Pisten im Gletscherbereich.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
-        "image_url": "https://media.alpinfans.com/live/60/20261102-143840-b4a31e24_l.jpg"
+        "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "03.11.2026 02:03 Uhr",
+            "headline": "Sölden: Ausgezeichnete Gletscherbedingungen und bevorstehende Giggijoch-Öffnung",
+            "summary": "In Sölden überzeugen Pisten wie Einzeiger und Seiterkar mit griffigem Schnee. Am Schwarzkogel läuft die Beschneiung auf Hochtouren, während am Freitag der Skibetrieb am Giggijoch startet.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
+            "image_url": "https://media.alpinfans.com/live/60/20261102-143840-b4a31e24_l.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1172229,
+          46.9918843
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
+        "name": "Stubaier Gletscher",
+        "headline": "Gute Pistenqualität und breites Angebot am Stubaier Gletscher",
+        "summary": "Der Stubaier Gletscher bietet dank intensiver Vorbereitung und Beschneiung ein vielfältiges und breites Pistenangebot auf den geöffneten Gletscherhängen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=125",
+        "image_url": "https://alpinfans.com/download/file.php?id=126048&mode=view"
       }
     },
     {
@@ -477,7 +536,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "4 Vallées / Verbier",
         "headline": "4 Vallées: Saisonstart am Lac des Vaux und Beschneiungsarbeiten",
@@ -496,7 +555,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Glacier 3000: Eröffnung der Gletscherlifte für das Wochenende geplant",
@@ -514,7 +573,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",

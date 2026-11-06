@@ -11,30 +11,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
-        "headline": "Lenk treibt Verbindungspläne nach Crans-Montana und Neubauten voran",
-        "summary": "Die Bergbahnen Adelboden-Lenk blicken auf ein solides Geschäftsjahr 2025/26 zurück. Die Machbarkeitsstudie für die Seilbahnverbindung Lenk-Crans-Montana steht kurz vor der Veröffentlichung; zudem laufen Planungen für ein Bergrestaurant am Metschstand und ein Skidata-Upgrade für 2027.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0699443,
-          45.092401
+        "headline": "Enge Durchführung des Bauprojekts für die neue 10er-Gondelbahn Adelboden Oey - Sillerenbühl",
+        "summary": "Das öffentliche Verfahre zur neuen Sillerenbühl-Umlaufbahn verlief ohne Einsprachen, womit die Realisierung nach finaler Freigabe für Dezember 2027 auf Kurs ist.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "31.10.2026 17:57 Uhr",
+            "headline": "Lenk treibt Verbindungspläne nach Crans-Montana und Neubauten voran",
+            "summary": "Die Bergbahnen Adelboden-Lenk blicken auf ein solides Geschäftsjahr 2025/26 zurück. Die Machbarkeitsstudie für die Seilbahnverbindung Lenk-Crans-Montana steht kurz vor der Veröffentlichung; zudem laufen Planungen für ein Bergrestaurant am Metschstand und ein Skidata-Upgrade für 2027.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
+          }
         ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 12:42 Uhr",
-        "name": "Alpe d'Huez",
-        "headline": "Alpe d'Huez: neue Lifte für 2027 geplant, Zeitplan noch offen",
-        "summary": "In Alpe d'Huez sind für 2027 mehrere neue Bahnen angekündigt – unter anderem der Ersatz der TC6 Marmottes 2 durch eine TC10 sowie die Projekte Villarais und Sarenne. Beobachter bezweifeln jedoch, dass drei neue Lifte in einem Jahr realisierbar sind, zumal die Villarais-KSB bereits verschoben wurde.",
-        "source_url": "https://www.alpinforum.com/threads/50629/page-5"
       }
     },
     {
@@ -83,7 +74,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Brigels / Waltensburg / Andiast",
         "headline": "Brigels: Bevölkerung stimmt Sanierungsplan der Bergbahnen zu",
@@ -101,7 +92,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Les Deux Alpes",
         "headline": "Les Deux Alpes: Neue Pistenbezeichnungen und erweitertes Nachtski-Angebot",
@@ -134,6 +125,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.2171807,
+          46.849618
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
+        "name": "Flims–Laax–Falera",
+        "headline": "Fassaden-PV-Anlage an der Bergstation Vorab in Laax",
+        "summary": "Die Modernisierungsarbeiten an der Vorab-Bergstation im Skigebiet Flims-Laax-Falera gehen in die finalen Züge über und beinhalten nun auch eine integrierte Photovoltaikanlage.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=33&start=1975",
+        "image_url": "https://alpinfans.com/download/file.php?id=126040&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.9143318,
           46.69476
         ]
@@ -158,7 +168,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
         "headline": "Gröden: Ratsbeschluss gegen Bahnverbindung Monte Pana – Seiser Alm aufgehoben",
@@ -213,7 +223,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Hochkönig – Maria Alm/Dienten/Mühlbach",
         "headline": "Hochkönig: Ausbau der Beschneiungsanlagen mit neuen Speicherteichen",
@@ -358,12 +368,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
-        "headline": "Mondolè Ski: Neubau der 8er-Sesselbahn Blu in Prato Nevoso geht in die heiße Phase",
-        "summary": "In Prato Nevoso wurde die alte 4er-Sesselbahn demontiert. Die Errichtungsarbeiten für die leistungsstarke 8-CLD Blu sowie die Umgestaltung des Anfängergeländes laufen auf Hochtouren für den geplanten Start am 28. November.",
-        "source_url": "https://www.funiforum.org/funiforum/node/10432/page29"
+        "headline": "Intensive Montagearbeiten am Sessellift in Prato Nevoso",
+        "summary": "Nach einem überraschenden Neuschneeeinbruch in der Conca stehen die Teams vor logistischen Herausforderungen bei der Endmontage der neuen 8er-Sesselbahn.",
+        "source_url": "https://www.funiforum.org/funiforum/node/10432/page30",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "03.11.2026 02:03 Uhr",
+            "headline": "Mondolè Ski: Neubau der 8er-Sesselbahn Blu in Prato Nevoso geht in die heiße Phase",
+            "summary": "In Prato Nevoso wurde die alte 4er-Sesselbahn demontiert. Die Errichtungsarbeiten für die leistungsstarke 8-CLD Blu sowie die Umgestaltung des Anfängergeländes laufen auf Hochtouren für den geplanten Start am 28. November.",
+            "source_url": "https://www.funiforum.org/funiforum/node/10432/page29"
+          }
+        ]
       }
     },
     {
@@ -451,11 +470,20 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "05.11.2026 02:03 Uhr",
+        "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Ponte di Legno/Tonale/Presena Gletscher/Temù (Pontedilegno-Tonale)",
-        "headline": "Pontedilegno-Tonale: Neue Kabinen für die 2S-Bahn Paradiso eingetroffen",
-        "summary": "Am Passo Paradiso wurden im Rahmen der Modernisierungsarbeiten neue Diamond-Kabinen für die 2S-Gondelbahn angeliefert. Zudem laufen die Vorbereitungen für die Erneuerung der 10er-Gondelbahn Valbiolo.",
-        "source_url": "https://www.alpinforum.com/threads/11916/page-10"
+        "headline": "Neue Seilbahnprojekte im Skigebiet von San Sicario und Claviere",
+        "summary": "Die Arbeiten an der Sessellift-Rotation am Colletto Verde verzögern sich aufgrund von witterungsbedingten Bedingungen und bürokratischen Hürden.",
+        "source_url": "https://www.funiforum.org/funiforum/node/259940/page31",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "05.11.2026 02:03 Uhr",
+            "headline": "Pontedilegno-Tonale: Neue Kabinen für die 2S-Bahn Paradiso eingetroffen",
+            "summary": "Am Passo Paradiso wurden im Rahmen der Modernisierungsarbeiten neue Diamond-Kabinen für die 2S-Gondelbahn angeliefert. Zudem laufen die Vorbereitungen für die Erneuerung der 10er-Gondelbahn Valbiolo.",
+            "source_url": "https://www.alpinforum.com/threads/11916/page-10"
+          }
+        ]
       }
     },
     {
@@ -505,7 +533,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "05.11.2026 02:03 Uhr",
         "name": "Schöneben–Haideralm / Reschenpass",
         "headline": "Schöneben-Haideralm: Neue 10er-Gondelbahn Reschen Piz-Schöneben im Test",
@@ -586,6 +614,43 @@
         "summary": "Am Stubaier Gletscher laufen weiterhin umfangreiche Baggerarbeiten zur Trassensicherung an der Zufahrt zur Wildspitze, in der oberen Fernau sowie an der Daunscharte. An der Eisjochbahn wurde die Geländemulde weitgehend verfüllt und die Bergstation erfolgreich entschärft.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=100",
         "image_url": "https://alpinfans.com/download/file.php?id=125963&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5666055,
+          45.399064
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
+        "name": "Les Trois Vallées",
+        "headline": "Vorbereitungen für den Bau der neuen 6er-Sesselbahn in Val Thorens",
+        "summary": "In Val Thorens laufen die Planungen und Vorbereitungen für die Errichtung der ersten neuen kuppelbaren Sechsersesselbahn seit elf Jahren auf Hochtouren.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=12978&st=2440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5430879,
+          46.2828775
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "06.11.2026 02:03 Uhr",
+        "name": "Val di Fiemme / Obereggen",
+        "headline": "Fortschritte bei der neuen 10er-Gondelbahn Buffaure – Col de Valvacin",
+        "summary": "Am Buffaure in Pozza di Fassa sind erste Kabinen auf der spektakulären und exponierten Trasse eingehängt worden.",
+        "source_url": "https://www.funiforum.org/funiforum/node/319706/page6",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261105151027_20261105151027_buff.jpg"
       }
     },
     {
