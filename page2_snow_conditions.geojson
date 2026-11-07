@@ -34,16 +34,7 @@
         "name": "Arosa Lenzerheide",
         "headline": "Arosa Lenzerheide: Erster Skibetrieb in Arosa frühestens ab Mitte November",
         "summary": "Die Bergbahnen Arosa peilen den Start des Wochenend-Skibetriebs frühestens für Samstag, den 14. November an, sofern die Temperaturen in den kommenden Tagen ausreichend Kälte für die Beschneiung bringen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3902",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 15:01 Uhr",
-            "headline": "Beschneiung am Hörnli und Weisshorn gestartet",
-            "summary": "In Arosa Lenzerheide haben die Bergbahnen angesichts sinkender Temperaturen die Schneekanonen am Hörnli und Weisshorn in Betrieb genommen.",
-            "source_url": "https://www.alpinforum.com/threads/72474/"
-          }
-        ]
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
       }
     },
     {
@@ -187,7 +178,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
         "headline": "Herbstskilauf am Hintertuxer Gletscher mit unterschiedlichen Bedingungen",
@@ -240,17 +231,7 @@
         "headline": "Mürren-Schilthorn: Sonnenskilauf im Engetal über dem Nebelmeer",
         "summary": "Am Schilthorn herrschen oberhalb der Nebeldecke sonnige Bedingungen. Dank doppelter Förderkapazität läuft der Zubringer reibungslos. Die Piste im Engetal bietet eine gute Schneedecke, während der obere Ziehweg bereits stellenweise steinig und eisig wird.",
         "source_url": "https://www.alpinforum.com/threads/72493/",
-        "image_url": "https://media.alpinfans.com/live/255/20261031-105106-2e22469b_l.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 15:01 Uhr",
-            "headline": "Harte Pisten und fantastisches Wetter in der Jungfrauregion",
-            "summary": "Die Jungfrauregion empfängt die ersten Wintersportler bei perfekten Wetterbedingungen mit harten, stellenweise knolligen Pisten und einem reibungslosen Betrieb.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
-            "image_url": "https://media.alpinfans.com/live/255/20261031-114645-8af44115_l.jpg"
-          }
-        ]
+        "image_url": "https://media.alpinfans.com/live/255/20261031-105106-2e22469b_l.jpg"
       }
     },
     {
@@ -263,7 +244,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Kaunertaler Gletscher",
         "headline": "Entspannter Skibetrieb und gute Pisten am Kaunertaler Gletscher",
@@ -287,12 +268,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.3972359,
+          47.3664103
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Kitzbühel / Kirchberg",
+        "headline": "KitzSki startet am Resterkogel in die Wintersaison",
+        "summary": "Als erstes Nicht-Gletscherskigebiet nimmt KitzSki am Resterkogel den Skibetrieb für das Trainingscenter auf. Dank vorab konserviertem Schneedepots und frühwinterlichen Verhältnissen herrschen gute Bedingungen für die ersten Schwünge der Saison.",
+        "source_url": "https://www.alpinforum.com/threads/72632/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.756534,
           47.27388
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Kitzsteinhorn/Maiskogel – Kaprun",
         "headline": "Gutes Pistenangebot am Kitzsteinhorn bei herbstlicher Kulisse",
@@ -377,7 +376,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Saastal",
         "headline": "Erweiterung des Skibetriebs im Saastal mit der Sesselbahn Morenia",
@@ -451,7 +450,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Sölden",
         "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
@@ -480,7 +479,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Stubaier Gletscher",
         "headline": "Gute Pistenqualität und breites Angebot am Stubaier Gletscher",
@@ -573,13 +572,20 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",
-        "summary": "Aufgrund des starken Gletscherrückgangs ist am Furggsattel ein Felsriegel mitten in der Piste 71 aufgetaucht. Der obere Pistenabschnitt kann daher in dieser Saison nicht mehr geöffnet werden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360",
+        "headline": "Schneefall bis in italienische Tallagen im Matterhorn-Gebiet",
+        "summary": "Ein Wetterumschwung hat auf der italienischen Seite in Valtournenche und Breuil-Cervinia Schneefall bis in die Täler gebracht. Auch wenn es in Zermatt im Tal noch nicht ganz gereicht hat, sorgt der Neuschnee an den Berghängen für winterliche Verhältnisse.",
+        "source_url": "https://www.alpinforum.com/threads/72469/",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "05.11.2026 02:03 Uhr",
+            "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",
+            "summary": "Aufgrund des starken Gletscherrückgangs ist am Furggsattel ein Felsriegel mitten in der Piste 71 aufgetaucht. Der obere Pistenabschnitt kann daher in dieser Saison nicht mehr geöffnet werden.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360"
+          },
           {
             "recency": "weekly",
             "timestamp": "31.10.2026 17:57 Uhr",

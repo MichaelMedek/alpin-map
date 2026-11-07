@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
         "headline": "Enge Durchführung des Bauprojekts für die neue 10er-Gondelbahn Adelboden Oey - Sillerenbühl",
@@ -62,6 +62,24 @@
         "headline": "La Clusaz: Neues Sessel-Design für die Sesselbahn Col de Balme",
         "summary": "Für die im Bau befindliche kuppelbare 6er-Sesselbahn Col de Balme in La Clusaz wurden die ersten Sessel angeliefert, die sich durch ein neues Erscheinungsbild auszeichnen. Zudem entsteht am Plateau du Merle ein neuer Anfängerteppich.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43458&st=60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9984978,
+          46.9392639
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Braunwald",
+        "headline": "Braunwald: Großaktionär plant weiteren Zukauf von Aktien",
+        "summary": "Bei den Sportbahnen Braunwald geht die Debatte um die strategische Ausrichtung weiter: Der Großaktionär strebt die Übernahme weiterer Aktienanteile an, um seine Position bei den künftigen Weichenstellungen der Bergbahninfrastruktur weiter auszubauen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3607&start=25"
       }
     },
     {
@@ -130,7 +148,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Flims–Laax–Falera",
         "headline": "Fassaden-PV-Anlage an der Bergstation Vorab in Laax",
@@ -313,13 +331,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: Pistenbau an der Variante Lumen und Arbeiten an der Mittelstation",
-        "summary": "Am Kronplatz schreiten die Geländearbeiten an der neuen blauen Pistenvariante Lumen sowie die Bauarbeiten an der zugehörigen Mittelstation voran, um rechtzeitig zur Saison eine optimierte Pistenführung bereitzustellen.",
-        "source_url": "https://www.alpinforum.com/threads/1744/page-80",
-        "image_url": "https://www.alpinforum.com/attachments/img_5006-webp.338298/"
+        "headline": "Kronplatz: LeitPilot-Stabilisierung für die erneuerte Kronplatz 1+2",
+        "summary": "Beim Neubau der Seilbahnen Kronplatz 1 und 2 durch Leitner kommt in den Stationen das LeitPilot-System zum Einsatz. Spezielle Führungsrollen sorgen für eine optimierte Stabilisierung der Kabinen während des Fahrgastwechsels im Ein- und Ausstiegsbereich.",
+        "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261106164749_20261106164749_Screenshot20261106164504.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "02.11.2026 02:03 Uhr",
+            "headline": "Kronplatz: Pistenbau an der Variante Lumen und Arbeiten an der Mittelstation",
+            "summary": "Am Kronplatz schreiten die Geländearbeiten an der neuen blauen Pistenvariante Lumen sowie die Bauarbeiten an der zugehörigen Mittelstation voran, um rechtzeitig zur Saison eine optimierte Pistenführung bereitzustellen.",
+            "source_url": "https://www.alpinforum.com/threads/1744/page-80",
+            "image_url": "https://www.alpinforum.com/attachments/img_5006-webp.338298/"
+          }
+        ]
       }
     },
     {
@@ -338,6 +366,43 @@
         "headline": "Le Grand Domaine: Neue 10er-Gondelbahn Combelouvière im Testbetrieb",
         "summary": "In Valmorel laufen die Testfahrten der neuen 10er-Gondelbahn Combelouvière. Die Kabinen hängen bereits am Seil und die Anlage läuft im Probebetrieb äußerst geräuscharm.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42968&st=60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2682259,
+          45.2401623
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Les Sybelles",
+        "headline": "Saint-Colomban-des-Villards: Große Inspektion am Sessellift Charmette",
+        "summary": "Im Vorfeld der Wintersaison wurden am Sessellift Charmette umfangreiche Revisions- und Wartungsarbeiten durchgeführt. Zur Abnahme und Überholung der Rollenbatterien an den Seilbahnstützen kam ein Hubschrauber zum Einsatz, ergänzt durch Bremsentests und die Überholung des Antriebsmotors.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=547&st=1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1359928,
+          46.5381734
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Livigno",
+        "headline": "Mottolino: Angepasster Pistenplan und Pistenverbreiterungen",
+        "summary": "Der neue Pistenplan für Mottolino zeigt Änderungen für die kommende Saison: Der neu für die Olympischen Spiele errichtete Sessellift Pemonte ist für den regulären Publikumsbetrieb vorerst nicht vorgesehen. Zudem wurden die Yepi-Piste und die anschließende Piste 5 durch Geländearbeiten deutlich verbreitert.",
+        "source_url": "https://www.alpinforum.com/threads/8067/page-17",
+        "image_url": "https://www.mottolino.com/app/uploads/2026/11/MOT-MAPPA-SKI-AREA-2027-MOTTOLINO.jpg"
       }
     },
     {
@@ -368,7 +433,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
         "headline": "Intensive Montagearbeiten am Sessellift in Prato Nevoso",
@@ -469,7 +534,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Ponte di Legno/Tonale/Presena Gletscher/Temù (Pontedilegno-Tonale)",
         "headline": "Neue Seilbahnprojekte im Skigebiet von San Sicario und Claviere",
@@ -491,18 +556,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3219538,
-          42.816936
+          6.7702857,
+          46.1925439
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Pyrénées",
-        "headline": "Pyrénées (Grand Tourmalet): Fortschritte beim Bau der 10er-Gondelbahn Tournaboup",
-        "summary": "Am Col du Tourmalet in Barèges schreiten die Tiefbau- und Montagearbeiten an den Stationsgebäuden sowie den Stützen der neuen 10er-Gondelbahn Tournaboup zügig voran.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43237&st=20",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/607be518-988c-4ba9-b1f8-43938591cf0d/89_1200.jpg"
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Portes du Soleil",
+        "headline": "Châtel: Zubringerstraße D228a nach Pré-La-Joux wieder freigegeben",
+        "summary": "Die wichtige Verbindungsstraße D228a zwischen Châtel Linga und Pré-La-Joux ist nach umfangreichen Felssicherungs- und Räumarbeiten oberhalb von Très-les-Pierres rechtzeitig vor dem Winter wieder für den Verkehr geöffnet worden.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5883&st=2580"
       }
     },
     {
@@ -510,17 +574,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6519221,
-          47.406831
+          0.3219538,
+          42.816936
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 15:01 Uhr",
-        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
-        "headline": "Fieberbrunn: effizientere Beschneiung für mehr Schneesicherheit",
-        "summary": "In Fieberbrunn wurden die Sommermonate für gezielte Investitionen in die Beschneiung genutzt: Alte Schneeerzeuger wurden durch neue, effizientere Maschinen ersetzt, mit Fokus auf den Bereich Reckmoos Nord – ein weiterer Schritt zu mehr Schneesicherheit auf den Pisten.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=159&start=75"
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Pyrénées",
+        "headline": "La Mongie: Projekt für neue Gondelbahn auf den Col du Tourmalet",
+        "summary": "In La Mongie im Skigebiet Grand Tourmalet ist eine neue Gondelbahn in zwei Sektionen geplant, die die beiden veralteten Sessellifte Chapelle und Béarnais ersetzen soll. Die Anlage soll vom Dorf über eine Zwischenstation an der Residenz La Mandia bis zum Col du Tourmalet führen und als Ganzjahresbahn konzipiert werden.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=3524&st=2380",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "03.11.2026 02:03 Uhr",
+            "headline": "Pyrénées (Grand Tourmalet): Fortschritte beim Bau der 10er-Gondelbahn Tournaboup",
+            "summary": "Am Col du Tourmalet in Barèges schreiten die Tiefbau- und Montagearbeiten an den Stationsgebäuden sowie den Stützen der neuen 10er-Gondelbahn Tournaboup zügig voran.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43237&st=20",
+            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/607be518-988c-4ba9-b1f8-43938591cf0d/89_1200.jpg"
+          }
+        ]
       }
     },
     {
@@ -558,6 +632,24 @@
         "headline": "Schwarzwald: Scheuermattlift am Belchen endgültig abgebaut",
         "summary": "Der zum Skizirkus Wieden-Münstertal gehörende Scheuermattlift am Langlaufzentrum Hohtann wurde demontiert. Die rund 300 Meter lange Doppelmayr-Schleppliftanlage mit ihren charakteristischen Portalmasten wurde stillgelegt und entfernt.",
         "source_url": "https://www.alpinforum.com/threads/295/page-124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729763,
+          47.0495139
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Serfaus-Fiss-Ladis",
+        "headline": "Serfaus-Fiss-Ladis: Neubau der Planseggbahn und Pistenoptimierungen",
+        "summary": "Die Seilbahn Komperdell investiert rund 30 Millionen Euro in den Ersatz der Planseggbahn durch eine moderne, kuppelbare 8er-Sesselbahn von Leitner mit Sitzheizung, Hauben und autonom überwachter Bergstation. Die Förderleistung steigt auf 4.000 P/h. Parallel werden die Grat-, Lawens- und Kerbbodenabfahrten verbreitert, die Beschneiung über die Pumpstation Hög ausgebaut und der Sun Park erweitert.",
+        "source_url": "https://www.alpinforum.com/threads/3483/page-372"
       }
     },
     {
@@ -626,7 +718,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Les Trois Vallées",
         "headline": "Vorbereitungen für den Bau der neuen 6er-Sesselbahn in Val Thorens",
@@ -639,12 +731,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.9325221,
+          45.2509937
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "07.11.2026 02:03 Uhr",
+        "name": "Val Cenis",
+        "headline": "Val Cenis: Neuer Pistenplan mit neuen Bahnen und Pistenanpassungen",
+        "summary": "Für den kommenden Winter präsentiert Val Cenis umfangreiche Änderungen: Neben dem neuen TSD6 Grand Coin und dem umgebauten TSCD Ramasse gibt es Pistenmodifikationen wie die Pisten Blanchot, Cembros und Côte des Essarts sowie die neue Familien-Funslope Mini Mondes. Zudem wurden mehrere Pisten umbenannt und farblich neu eingestuft.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=16882&st=540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.5430879,
           46.2828775
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "06.11.2026 02:03 Uhr",
         "name": "Val di Fiemme / Obereggen",
         "headline": "Fortschritte bei der neuen 10er-Gondelbahn Buffaure – Col de Valvacin",
