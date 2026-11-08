@@ -250,17 +250,7 @@
         "headline": "Entspannter Skibetrieb und gute Pisten am Kaunertaler Gletscher",
         "summary": "Am Kaunertaler Gletscher sind die Karlesjochbahn und das Funifor in Betrieb; die Verhältnisse auf den geöffneten Pisten sind für den Saisonstart solide.",
         "source_url": "https://www.alpinforum.com/threads/72463/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/img_0003-webp.338431/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 17:57 Uhr",
-            "headline": "Top-Präparation und entspannter Andrang am Kaunertaler Gletscher",
-            "summary": "Der Kaunertaler Gletscher überzeugt mit hervorragend gepflegten Pisten und ruhigem Betrieb. Abgesehen von wenigen gut sichtbaren Steinen am Ausstieg der Falginjochbahn bieten Karlesjoch und Falginjoch beste Bedingungen, während das Nörderjoch noch auf Schnee wartet.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=50",
-            "image_url": "https://media.alpinfans.com/live/59/20261031-150347-cbcdb7ed_l.jpg"
-          }
-        ]
+        "image_url": "https://www.alpinforum.com/attachments/img_0003-webp.338431/"
       }
     },
     {
@@ -273,7 +263,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Kitzbühel / Kirchberg",
         "headline": "KitzSki startet am Resterkogel in die Wintersaison",
@@ -297,17 +287,43 @@
         "headline": "Gutes Pistenangebot am Kitzsteinhorn bei herbstlicher Kulisse",
         "summary": "Das Kitzsteinhorn präsentiert sich zum Saisonbeginn mit einer Mischung aus Kunst- und Naturschnee, wobei die neuen Schneilanzen wertvolle Dienste leisten.",
         "source_url": "https://www.alpinforum.com/threads/72419/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/1a6bb974-6e26-4225-9374-fe4e53040c79_4_5005_c-webp.338405/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 17:57 Uhr",
-            "headline": "Gute Mischung aus Pulver- und Maschinenschnee am Kitzsteinhorn",
-            "summary": "Am Kitzsteinhorn präsentieren sich die geöffneten Hänge deutlich breiter als in der Vorwoche. Bei regem Ferienbetrieb herrscht griffiger Schnee, nachmittags gibt es einzelne glatte Stellen sowie vereinzelte Steine im Sonnenkar. Die Halfpipe ist bereits geöffnet.",
-            "source_url": "https://www.alpinforum.com/threads/72419/page-3",
-            "image_url": "https://www.alpinforum.com/attachments/20261031_084242-webp.338274/"
-          }
+        "image_url": "https://www.alpinforum.com/attachments/1a6bb974-6e26-4225-9374-fe4e53040c79_4_5005_c-webp.338405/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.958311,
+          46.7387791
         ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Kronplatz / Plan de Corones",
+        "headline": "Kronplatz: Schlepplift Pichl im Gsiesertal startet für Trainingsgruppen",
+        "summary": "Dank intensiver Grundbeschneiung während der kalten Nächte kann der zum Verbund gehörende Schlepplift Pichl im Gsiesertal bereits Anfang November den Betrieb für erste alpine Renngruppen und Trainingsmannschaften freigeben.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051586,
+          46.980487
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Mölltaler Gletscher",
+        "headline": "Mölltaler Gletscher: Kärntner Skisaison mit zwei Pisten eröffnet",
+        "summary": "Als erstes Skigebiet in Kärnten hat der Mölltaler Gletscher den Skibetrieb aufgenommen. Zunächst sind zwei Pisten im oberen Gletscherbereich geöffnet, während an der Beschneiung und Vorbereitung weiterer Hänge für die kommenden Wochen gearbeitet wird.",
+        "source_url": "https://www.alpinforum.com/threads/72484/page-2"
       }
     },
     {
@@ -376,13 +392,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Saastal",
-        "headline": "Erweiterung des Skibetriebs im Saastal mit der Sesselbahn Morenia",
-        "summary": "In Saas-Fee öffnet ab dem Wochenende zusätzlich die 6er-Sesselbahn Morenia, während der anhaltende Gletscherschwund weiter Diskussionen auslöst.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3907&start=25",
-        "image_url": "https://alpinfans.com/download/file.php?id=126060&mode=view"
+        "headline": "Saastal: Früher Skibetrieb am Allalin mit griffigen Pisten und vereinzelten Eisstellen",
+        "summary": "In Saas-Fee herrschen im Gletscherbereich gute Bedingungen auf kompaktem Maschinenschnee, wobei im steilen Hangabschnitt stellenweise Blankeis hervortritt. Am Nachmittag werden die Pisten weicher, die Wartezeiten an den Allalin-Schleppliften bleiben bei guter Wetterlage überschaubar.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4276",
+        "image_url": "https://media.alpinfans.com/live/59/20261107-110046-e6c757a4_l.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "06.11.2026 02:03 Uhr",
+            "headline": "Erweiterung des Skibetriebs im Saastal mit der Sesselbahn Morenia",
+            "summary": "In Saas-Fee öffnet ab dem Wochenende zusätzlich die 6er-Sesselbahn Morenia, während der anhaltende Gletscherschwund weiter Diskussionen auslöst.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3907&start=25",
+            "image_url": "https://alpinfans.com/download/file.php?id=126060&mode=view"
+          }
+        ]
       }
     },
     {
@@ -573,26 +599,26 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "07.11.2026 02:03 Uhr",
+        "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Schneefall bis in italienische Tallagen im Matterhorn-Gebiet",
-        "summary": "Ein Wetterumschwung hat auf der italienischen Seite in Valtournenche und Breuil-Cervinia Schneefall bis in die Täler gebracht. Auch wenn es in Zermatt im Tal noch nicht ganz gereicht hat, sorgt der Neuschnee an den Berghängen für winterliche Verhältnisse.",
-        "source_url": "https://www.alpinforum.com/threads/72469/",
+        "headline": "Matterhorn Ski Paradise: Herausfordernde Übergänge am Gletscherrand der Ventina",
+        "summary": "Am Übergang vom Gletscher ins Gelände am Theodulgletscher und der oberen Ventina-Piste ist die Ausaperung durch den Sommer unübersehbar. Für eine zusammenhängende und sichere Präparierung im italienischen Teil werden vor dem Winterstart noch deutliche Schneefälle benötigt.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=100",
+        "image_url": "https://alpinfans.com/download/file.php?id=126185&mode=view",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "07.11.2026 02:03 Uhr",
+            "headline": "Schneefall bis in italienische Tallagen im Matterhorn-Gebiet",
+            "summary": "Ein Wetterumschwung hat auf der italienischen Seite in Valtournenche und Breuil-Cervinia Schneefall bis in die Täler gebracht. Auch wenn es in Zermatt im Tal noch nicht ganz gereicht hat, sorgt der Neuschnee an den Berghängen für winterliche Verhältnisse.",
+            "source_url": "https://www.alpinforum.com/threads/72469/"
+          },
           {
             "recency": "weekly",
             "timestamp": "05.11.2026 02:03 Uhr",
             "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",
             "summary": "Aufgrund des starken Gletscherrückgangs ist am Furggsattel ein Felsriegel mitten in der Piste 71 aufgetaucht. Der obere Pistenabschnitt kann daher in dieser Saison nicht mehr geöffnet werden.",
             "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 17:57 Uhr",
-            "headline": "Gletscherschwund und Blankeis auf den Pisten in Zermatt",
-            "summary": "Am Matterhorn-Gletscher zeigt sich die Schneelage zum Herbstausklang unterdurchschnittlich. Am Furggsattel und Klein Matterhorn tritt vielerorts das Gletschereis zutage; nach Felsbewegungen steht am Furggsattel aktuell nur eine Piste zur Verfügung.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=75",
-            "image_url": "https://alpinfans.com/download/file.php?id=125950&mode=view"
           }
         ]
       }

@@ -16,16 +16,7 @@
         "name": "Adelboden-Lenk",
         "headline": "Enge Durchführung des Bauprojekts für die neue 10er-Gondelbahn Adelboden Oey - Sillerenbühl",
         "summary": "Das öffentliche Verfahre zur neuen Sillerenbühl-Umlaufbahn verlief ohne Einsprachen, womit die Realisierung nach finaler Freigabe für Dezember 2027 auf Kurs ist.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "31.10.2026 17:57 Uhr",
-            "headline": "Lenk treibt Verbindungspläne nach Crans-Montana und Neubauten voran",
-            "summary": "Die Bergbahnen Adelboden-Lenk blicken auf ein solides Geschäftsjahr 2025/26 zurück. Die Machbarkeitsstudie für die Seilbahnverbindung Lenk-Crans-Montana steht kurz vor der Veröffentlichung; zudem laufen Planungen für ein Bergrestaurant am Metschstand und ein Skidata-Upgrade für 2027.",
-            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
-          }
-        ]
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
       }
     },
     {
@@ -74,7 +65,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Braunwald",
         "headline": "Braunwald: Großaktionär plant weiteren Zukauf von Aktien",
@@ -98,6 +89,24 @@
         "headline": "Brigels: Bevölkerung stimmt Sanierungsplan der Bergbahnen zu",
         "summary": "Die Stimmbevölkerung der Gemeinde Brigels hat dem Sanierungs- und Zukunftsplan für die Bergbahnen Brigels-Waltensburg-Andiast zugestimmt und damit den Weg für wesentliche Infrastrukturinvestitionen geebnet.",
         "source_url": "https://www.alpinforum.com/threads/13157/page-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.963894,
+          45.792664
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Courmayeur – Chécrouit/Val Veny",
+        "headline": "Courmayeur: Kabinen der neuen 10er-Gondelbahnen am Plan Chécrouit am Seil",
+        "summary": "Im italienischen Courmayeur biegen die beiden parallel entstehenden 10er-Gondelbahnen Plan Chécrouit–Colle Chécrouit und Plan Chécrouit–Maison Vieille auf die Zielgerade ein. Sämtliche Gondeln befinden sich für die anstehenden Abnahmefahrten bereits am Förderseil.",
+        "source_url": "https://www.funiforum.org/funiforum/node/312727/page4"
       }
     },
     {
@@ -162,25 +171,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9143318,
-          46.69476
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
-        "name": "Gerlitzen",
-        "headline": "Neue Kanzelbahn 2 auf der Gerlitzen fertiggestellt",
-        "summary": "Auf der Gerlitzen in Kärnten steht die neue 10er-Gondelbahn Kanzelbahn 2 bereit für die Wintersaison. Besucher loben die hohe Fahrgeschwindigkeit und bequeme Einzelsitze, während am Pacheinerlift noch letzte Handgriffe am Liftlerhaus erfolgen.",
-        "source_url": "https://www.alpinforum.com/threads/3461/page-22",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F5268yPsv%2FIMG-9605.jpg&hash=ce7cbb3a1bdaaa253b010c14f40e57a5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.6483076,
           46.5760331
         ]
@@ -192,25 +182,6 @@
         "headline": "Gröden: Ratsbeschluss gegen Bahnverbindung Monte Pana – Seiser Alm aufgehoben",
         "summary": "Der Beschluss des Gemeinderats St. Christina gegen die geplante Seilbahnverbindung zwischen Monte Pana und der Seiser Alm wurde aus formalen Gründen aufgehoben. Das Verfahren muss nun neu aufgerollt werden.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=426&start=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.6182077,
-          51.7565187
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
-        "name": "Harz / Wurmberg",
-        "headline": "Modernisierung der Beschneiung am Wurmberg abgeschlossen",
-        "summary": "Am Wurmberg im Harz ist der Beschneiungsausbau am Nordhang weitgehend fertiggestellt. Neben neuen Schneekanonen wurden vier zusätzliche Lanzen des Typs Eos Duo aufgebaut und neue Schneeerzeuger in der Lifttrasse platziert.",
-        "source_url": "https://www.alpinforum.com/threads/595/page-34",
-        "image_url": "https://www.alpinforum.com/attachments/20261031_113353-webp.338280/"
       }
     },
     {
@@ -331,7 +302,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz: LeitPilot-Stabilisierung für die erneuerte Kronplatz 1+2",
@@ -348,6 +319,24 @@
             "image_url": "https://www.alpinforum.com/attachments/img_5006-webp.338298/"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.847838,
+          45.6285962
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "La Rosière / La Thuile",
+        "headline": "La Rosière: Montagearbeiten an der neuen 4er-Sesselbahn Petit Bois",
+        "summary": "Im französischen La Rosière schreiten die Arbeiten an der neuen fixen 4er-Sesselbahn Petit Bois von Hersteller GMM voran. Die Anlage ersetzt eine veraltete 3er-Sesselbahn und soll die Anfänger- und Verbindungsbereiche im Espace San Bernardo modernisieren.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43135"
       }
     },
     {
@@ -378,7 +367,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Les Sybelles",
         "headline": "Saint-Colomban-des-Villards: Große Inspektion am Sessellift Charmette",
@@ -396,7 +385,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Livigno",
         "headline": "Mottolino: Angepasster Pistenplan und Pistenverbreiterungen",
@@ -478,12 +467,30 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
-        "headline": "Sumpfiger Baugrund verzögert Sessellift-Neubau Colletto Verde",
-        "summary": "Beim Neubau der 4er-Sesselbahn Colletto Verde in Claviere im Skigebiet Via Lattea führten schwierige Bodenverhältnisse an der Talstation zu Verzögerungen. Zusätzliche Mikropfähle waren zur Stabilisierung im feuchten Terrain notwendig.",
+        "headline": "Montgenèvre – Via Lattea: Intensiver Endspurt am Sessellift Colletto Verde",
+        "summary": "Auf italienischer Seite laufen die Montagearbeiten am versetzten Sessellift Colletto Verde auf Hochtouren, um die Verbindung zwischen Claviere und Montgenèvre wiederherzustellen. Die Bergstation am Sommet de l'Aigle ist bereits fertig, nun folgen die Arbeiten an der Talstation.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41824&st=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8392428,
+          46.4978958
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Oberengadin / St. Moritz",
+        "headline": "Engadin St. Moritz: Lagalb-Pendelbahn startet mit Dummy-Kabine in die Saison",
+        "summary": "Wegen eines schweren Transportschadens an einer der beiden revidierten Kabinen wird die Pendelbahn auf die Lagalb den Winterbetrieb mit einer speziellen, ballastierten Dummy-Kabine aufnehmen. Die Personenförderung erfolgt mit der verbleibenden Kabine im 20-Minuten-Takt, der Saisonstart am 19. Dezember bleibt gesichert.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=812&start=125"
       }
     },
     {
@@ -515,13 +522,12 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "31.10.2026 17:57 Uhr",
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Neue Pistenüberführung im Paznauntal errichtet",
-        "summary": "Im Paznauntal wurde eine neue Brückenkonstruktion zur Überführung der Straße fertiggestellt. Das Bauwerk bereitet die Talabfahrt auf eine künftige Zubringerbahn vor und sorgt für eine kreuzungsfreie Abfahrt.",
-        "source_url": "https://www.alpinforum.com/threads/462/page-67",
-        "image_url": "https://www.alpinforum.com/attachments/img_2079-webp.338278/"
+        "headline": "Samnaun: Rohbau der 10er-Gondelbahn Laret–Champs–Muller im Endspurt",
+        "summary": "Beim Großprojekt der Laretbahn in Samnaun sind die Bergstation und Stützenfundamente fertiggestellt, während an Mittel- und Talstation die Betonarbeiten des Rohbaus weit fortgeschritten sind. Nach der Winterruhe folgt im Frühjahr 2027 die Seilbahntechnik für eine Eröffnung zur Saison 2027/28.",
+        "source_url": "https://www.alpinforum.com/threads/285/page-336"
       }
     },
     {
@@ -561,7 +567,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Portes du Soleil",
         "headline": "Châtel: Zubringerstraße D228a nach Pré-La-Joux wieder freigegeben",
@@ -579,7 +585,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Pyrénées",
         "headline": "La Mongie: Projekt für neue Gondelbahn auf den Col du Tourmalet",
@@ -626,12 +632,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
-        "headline": "Schwarzwald: Scheuermattlift am Belchen endgültig abgebaut",
-        "summary": "Der zum Skizirkus Wieden-Münstertal gehörende Scheuermattlift am Langlaufzentrum Hohtann wurde demontiert. Die rund 300 Meter lange Doppelmayr-Schleppliftanlage mit ihren charakteristischen Portalmasten wurde stillgelegt und entfernt.",
-        "source_url": "https://www.alpinforum.com/threads/295/page-124"
+        "headline": "Schwarzwald: Skilift Weißenbach rüstet Flutlicht und Beschneiung auf",
+        "summary": "Am Skilift Weißenbach in Schönwald im Mittleren Schwarzwald wurden zusätzliche Flutlichtmasten aufgestellt und die Schneeerzeugung mit Lanzen und Propellermaschinen von DemacLenko und Sufag auf fünf Schneeerzeuger aufgestockt, um den Winterbetrieb wetterunabhängiger zu gestalten.",
+        "source_url": "https://www.alpinforum.com/threads/29126/page-7",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "02.11.2026 02:03 Uhr",
+            "headline": "Schwarzwald: Scheuermattlift am Belchen endgültig abgebaut",
+            "summary": "Der zum Skizirkus Wieden-Münstertal gehörende Scheuermattlift am Langlaufzentrum Hohtann wurde demontiert. Die rund 300 Meter lange Doppelmayr-Schleppliftanlage mit ihren charakteristischen Portalmasten wurde stillgelegt und entfernt.",
+            "source_url": "https://www.alpinforum.com/threads/295/page-124"
+          }
+        ]
       }
     },
     {
@@ -644,12 +659,30 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Serfaus-Fiss-Ladis",
         "headline": "Serfaus-Fiss-Ladis: Neubau der Planseggbahn und Pistenoptimierungen",
         "summary": "Die Seilbahn Komperdell investiert rund 30 Millionen Euro in den Ersatz der Planseggbahn durch eine moderne, kuppelbare 8er-Sesselbahn von Leitner mit Sitzheizung, Hauben und autonom überwachter Bergstation. Die Förderleistung steigt auf 4.000 P/h. Parallel werden die Grat-, Lawens- und Kerbbodenabfahrten verbreitert, die Beschneiung über die Pumpstation Hög ausgebaut und der Sun Park erweitert.",
         "source_url": "https://www.alpinforum.com/threads/3483/page-372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2490297,
+          47.4578352
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "SkiWelt Wilder Kaiser-Brixental",
+        "headline": "SkiWelt Brixen: Ersatz der Hochbrixenbahn durch moderne 10er-Gondelbahn geplant",
+        "summary": "Die Bergbahn Brixen plant den vollständigen Abbruch der 6er-Kabinenbahn aus dem Jahr 1986. Sie soll auf gleicher Trasse durch eine leistungsstarke 10er-Einseilumlaufbahn mit 13 Stützen, neuer transparenter Talstation mit Skidepot sowie einer neu gestalteten Bergstation inklusive Skiwelthütte ersetzt werden.",
+        "source_url": "https://www.alpinforum.com/threads/5155/page-259"
       }
     },
     {
@@ -694,6 +727,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.4283177,
+          47.4846642
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "St. Johann in Tirol / Harschbichl",
+        "headline": "St. Johann in Tirol: Neue Jodlalmbahn und modernisierte Beschneiungsanlage",
+        "summary": "Am Harschbichl in St. Johann in Tirol steht der Bau der neuen Jodlalmbahn kurz vor dem Abschluss. Die Stationen und der Ziehweg sind weitgehend fertiggestellt, während die Beschneiung zeitgleich erneuert und von Lanzen auf DemacLenko-Evo-Kanonen auf Turm umgestellt wurde.",
+        "source_url": "https://www.alpinforum.com/threads/6419/page-37",
+        "image_url": "https://www.alpinforum.com/attachments/dji_fly_20261104_143336_0248_1793805437446_photo-webp.338481/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.1172229,
           46.9918843
         ]
@@ -706,6 +758,24 @@
         "summary": "Am Stubaier Gletscher laufen weiterhin umfangreiche Baggerarbeiten zur Trassensicherung an der Zufahrt zur Wildspitze, in der oberen Fernau sowie an der Daunscharte. An der Eisjochbahn wurde die Geländemulde weitgehend verfüllt und die Bergstation erfolgreich entschärft.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=100",
         "image_url": "https://alpinfans.com/download/file.php?id=125963&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8877611,
+          47.3989427
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Tiroler Zugspitz Arena",
+        "headline": "Tiroler Zugspitz Arena: Bergbahnen Berwang planen Beschneiungsausbau am Rastkopf",
+        "summary": "Die Bergbahnen Berwang haben ein Genehmigungsverfahren für eine deutliche Verstärkung der Beschneiungsanlage am Rastkopf eingeleitet. Vorgesehen sind neue Schneileitungen entlang der Pisten 16 und 17 von der Tal- bis zur Bergstation sowie die Anschaffung weiterer Schneeerzeuger.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=1360"
       }
     },
     {
@@ -736,7 +806,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "07.11.2026 02:03 Uhr",
         "name": "Val Cenis",
         "headline": "Val Cenis: Neuer Pistenplan mit neuen Bahnen und Pistenanpassungen",
@@ -779,6 +849,25 @@
         "headline": "Verbier: Solarfassade an der neuen Kombibahn Savoleyres installiert",
         "summary": "Beim Neubau der Kombibahn Les Esserts–Les Planards–Savoleyres in Verbier wurde an der Fassade eine auffällige grüne Photovoltaikanlage montiert, die sich optisch einfügt und die Station nachhaltig mit Sonnenenergie versorgt.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41319&st=100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.054939392135699,
+          46.30370202011029
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "08.11.2026 02:03 Uhr",
+        "name": "Villars/Gryon/Les Diablerets",
+        "headline": "Glacier 3000: Neuer Télécorde und angepasster Tsanfleuron-Ausstieg",
+        "summary": "Am Tsanfleuron-Gletscher wurde ein neuer Seillift installiert, um den Rückweg zum Col de Tsanfleuron zu erleichtern. Zudem musste der Ausstieg des Skilifts Tsanfleuron leicht nach unten verlegt werden, um Absturzgefahren an der stark abgeschmolzenen Eiswand zu vermeiden.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/ec8a6746-4112-495c-bd30-51bedda56433/2_1200.jpg"
       }
     },
     {
