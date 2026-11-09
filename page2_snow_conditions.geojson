@@ -24,6 +24,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.8740902,
+          46.4971763
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "09.11.2026 02:03 Uhr",
+        "name": "Arabba / Marmolada",
+        "headline": "Arabba: Skibetrieb bis Mitte April 2027 anvisiert",
+        "summary": "Für den Bereich Arabba in den Dolomiten wurden die vorläufigen Saisonzeiten bekanntgegeben. Dank der schneesicheren Nordhänge soll der Skibetrieb an Portavescovo und Carpazza bis zum 18. April 2027 laufen, wobei Wintersportler auch auf Verlängerungen an den Sektoren Fodom und Lezuo hoffen.",
+        "source_url": "https://www.alpinforum.com/threads/72465/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.5660244,
           46.7548885
         ]
@@ -85,13 +103,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Engelberg / Titlis–Brunni",
-        "headline": "Engelberg-Titlis: Griffige Gletscherpisten zum Start am Ice Flyer",
-        "summary": "Der Titlis meldet einen gelungenen Saisonauftakt mit harten, gut griffigen Pisten und kurzen Wartezeiten am Vormittag. Lediglich bei der Einfahrt und auf der Piste am Ice Flyer sowie am Skilift treten vereinzelt Steine und Eisplatten auf.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
-        "image_url": "https://alpinfans.com/download/file.php?id=126003&mode=view"
+        "headline": "Engelberg-Titlis: Solide Pistenqualität zum Gletscherstart",
+        "summary": "Auf den hochgelegenen Pisten am Titlis-Gletscher präsentiert sich die geöffnete Schneedecke kompakt und griffig. Trotz des längeren Anfahrtswegs über die Zubringerbahnen bot der sonnige Skitag am Gletscher sehr gute Schwünge ohne spürbare Vereisungen.",
+        "source_url": "https://www.alpinforum.com/threads/72709/",
+        "image_url": "https://www.alpinforum.com/attachments/img_5245-webp.338588/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "02.11.2026 02:03 Uhr",
+            "headline": "Engelberg-Titlis: Griffige Gletscherpisten zum Start am Ice Flyer",
+            "summary": "Der Titlis meldet einen gelungenen Saisonauftakt mit harten, gut griffigen Pisten und kurzen Wartezeiten am Vormittag. Lediglich bei der Einfahrt und auf der Piste am Ice Flyer sowie am Skilift treten vereinzelt Steine und Eisplatten auf.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
+            "image_url": "https://alpinfans.com/download/file.php?id=126003&mode=view"
+          }
+        ]
       }
     },
     {
@@ -300,7 +328,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz: Schlepplift Pichl im Gsiesertal startet für Trainingsgruppen",
@@ -318,7 +346,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Mölltaler Gletscher",
         "headline": "Mölltaler Gletscher: Kärntner Skisaison mit zwei Pisten eröffnet",
@@ -392,7 +420,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Saastal",
         "headline": "Saastal: Früher Skibetrieb am Allalin mit griffigen Pisten und vereinzelten Eisstellen",
@@ -519,6 +547,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.0416316,
+          47.6717401
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "09.11.2026 02:03 Uhr",
+        "name": "Sudelfeld / Bayrischzell",
+        "headline": "Sudelfeld: Speicherteich voll und Schneeerzeuger flächendeckend startklar",
+        "summary": "Am Sudelfeld laufen die Saisonvorbereitungen für den anvisierten Start am 28. November 2026 auf Hochtouren. Der zentrale Speicherteich ist komplett gefüllt und zahlreiche Schneekanonen sind bereits an den Schlüsselstellen positioniert und einsatzbereit verkabelt.",
+        "source_url": "https://www.alpinforum.com/threads/72708/",
+        "image_url": "https://www.alpinforum.com/attachments/img_20261108_112448_702-webp.338585/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.5842617,
           46.5280433
         ]
@@ -530,25 +577,6 @@
         "headline": "Sulden am Ortler: Bereit für den Saisonstart am Madritsch-Gletscher",
         "summary": "Zum Auftakt gehen am Madritsch-Gletscher alle drei Sesselbahnen mit über der Hälfte der Pisten an den Start. Auch im Kanzelgebiet sind die roten und blauen Abfahrten dank intensiver Beschneiung betriebsbereit.",
         "source_url": "https://www.alpinforum.com/threads/72466/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.8764531,
-          46.9131659
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "01.11.2026 02:02 Uhr",
-        "name": "Turracher Höhe",
-        "headline": "Turracher Höhe startet mit Vollbeschneiung auf Ost- und Westseite",
-        "summary": "Auf der Turracher Höhe herrschen passende Minustemperaturen: Die Schneekanonen wurden auf voller Breite in Betrieb genommen, um ein erstes Schneedepot auf den Hängen anzulegen.",
-        "source_url": "https://www.alpinforum.com/threads/3427/page-211",
-        "image_url": "https://www.foto-webcam.eu/webcam/turrach-ost/current/720.jpg"
       }
     },
     {
@@ -598,7 +626,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "08.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Matterhorn Ski Paradise: Herausfordernde Übergänge am Gletscherrand der Ventina",
@@ -621,6 +649,24 @@
             "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8641909,
+          47.1671149
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "09.11.2026 02:03 Uhr",
+        "name": "Zillertal 3000",
+        "headline": "Mayrhofen: Erster Trainingsbetrieb am Unterberg angelaufen",
+        "summary": "Im Skigebiet Mayrhofen (Zillertal 3000) wurde der traditionsreiche Trainingsbetrieb am Unterberghang aufgenommen. Renn- und Nachwuchsmannschaften nutzen die frühzeitig vorbereitete Piste bereits für die ersten intensiven Einheiten auf Schnee.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3991"
       }
     }
   ]
