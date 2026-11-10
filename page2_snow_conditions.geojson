@@ -6,30 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5161584,
-          46.462958
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Adelboden-Lenk",
-        "headline": "Adelboden: Früher Saisonstart auf der Tschentenalp dank Snowfarming",
-        "summary": "Auf der Tschentenalp in Adelboden konnte dank 27.000 Kubikmetern konserviertem Altschnee aus dem letzten Winter eine 450 Meter lange Skipiste präpariert und bei milden sechs Grad für den Skibetrieb freigegeben werden.",
-        "source_url": "https://www.alpinforum.com/threads/72571/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.8740902,
           46.4971763
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Arabba / Marmolada",
         "headline": "Arabba: Skibetrieb bis Mitte April 2027 anvisiert",
@@ -84,13 +66,12 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
-        "headline": "Davos Klosters: Jakobshorn feuert aus allen Rohren bei leichtem Schneefall",
-        "summary": "Bei leichtem Schneefall bis in den Talort laufen die Lanzen und Kanonen am Jakobshorn im Dauerbetrieb, während die Parsenn-Hänge aus der Ferne bereits winterlich weiß leuchten. In tieferen Lagen rund um Sertig dominieren noch goldene Herbstlärchen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
-        "image_url": "https://alpinfans.com/download/file.php?id=126012&mode=view"
+        "headline": "Davos Klosters: Vorbereitungen für den Saisonstart im Dorftäli und auf Totalp",
+        "summary": "Im Parsenn-Gebiet laufen die Vorbereitungen für die ersten Öffnungen. Die Pisten Dorftäli und Totalp stehen im Fokus der Beschneiung, während am Furka-Zipper ebenfalls die Grundlagen für den Auftakt gelegt werden.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3881"
       }
     },
     {
@@ -103,23 +84,13 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Engelberg / Titlis–Brunni",
         "headline": "Engelberg-Titlis: Solide Pistenqualität zum Gletscherstart",
         "summary": "Auf den hochgelegenen Pisten am Titlis-Gletscher präsentiert sich die geöffnete Schneedecke kompakt und griffig. Trotz des längeren Anfahrtswegs über die Zubringerbahnen bot der sonnige Skitag am Gletscher sehr gute Schwünge ohne spürbare Vereisungen.",
         "source_url": "https://www.alpinforum.com/threads/72709/",
-        "image_url": "https://www.alpinforum.com/attachments/img_5245-webp.338588/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "02.11.2026 02:03 Uhr",
-            "headline": "Engelberg-Titlis: Griffige Gletscherpisten zum Start am Ice Flyer",
-            "summary": "Der Titlis meldet einen gelungenen Saisonauftakt mit harten, gut griffigen Pisten und kurzen Wartezeiten am Vormittag. Lediglich bei der Einfahrt und auf der Piste am Ice Flyer sowie am Skilift treten vereinzelt Steine und Eisplatten auf.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25",
-            "image_url": "https://alpinfans.com/download/file.php?id=126003&mode=view"
-          }
-        ]
+        "image_url": "https://www.alpinforum.com/attachments/img_5245-webp.338588/"
       }
     },
     {
@@ -139,24 +110,6 @@
         "summary": "Nach Schneefällen oberhalb von 800 Metern lief am Keilberg im Erzgebirge bereits der Testbetrieb der Sesselbahnen. Bei Bozi Dar war zudem der Snowmaker zur Schneeerzeugung im Einsatz.",
         "source_url": "https://www.alpinforum.com/threads/72645/",
         "image_url": "https://www.alpinforum.com/attachments/img_8280-photokomp1-webp.338404/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.2171807,
-          46.849618
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Flims–Laax–Falera",
-        "headline": "Flims Laax Falera: Minusgrade am Crap Sogn Gion, Schneekanonen pausieren noch",
-        "summary": "Trotz Temperaturen von minus sieben Grad am Crap Sogn Gion wurde die Beschneiung in Laax noch nicht gestartet, da im Bereich der Halfpipe und der Stütze der Pendelbahn noch Erdarbeiten und Leitungsgrabungen im Gang sind.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3901"
       }
     },
     {
@@ -206,14 +159,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
-        "headline": "Herbstskilauf am Hintertuxer Gletscher mit unterschiedlichen Bedingungen",
-        "summary": "Während hoch oben auf dem Gletscher das Skifahren gut möglich ist, zeigen sich an steileren Abschnitten und im Tagesverlauf vermehrt Eissuren und Steine.",
-        "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-        "image_url": "https://www.alpinforum.com/attachments/20261105_091607-webp.338415/",
+        "headline": "Hintertuxer Gletscher: Abfahrt zur Sommerbergalm freigegeben",
+        "summary": "Das Pistenangebot am Hintertuxer Gletscher erweitert sich weiter. Ab sofort ist die Talabfahrt bis hinunter zur Sommerbergalm offiziell für den Skibetrieb geöffnet.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=300",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "06.11.2026 02:03 Uhr",
+            "headline": "Herbstskilauf am Hintertuxer Gletscher mit unterschiedlichen Bedingungen",
+            "summary": "Während hoch oben auf dem Gletscher das Skifahren gut möglich ist, zeigen sich an steileren Abschnitten und im Tagesverlauf vermehrt Eissuren und Steine.",
+            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
+            "image_url": "https://www.alpinforum.com/attachments/20261105_091607-webp.338415/"
+          },
           {
             "recency": "weekly",
             "timestamp": "05.11.2026 02:03 Uhr",
@@ -253,13 +213,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
-        "headline": "Mürren-Schilthorn: Sonnenskilauf im Engetal über dem Nebelmeer",
-        "summary": "Am Schilthorn herrschen oberhalb der Nebeldecke sonnige Bedingungen. Dank doppelter Förderkapazität läuft der Zubringer reibungslos. Die Piste im Engetal bietet eine gute Schneedecke, während der obere Ziehweg bereits stellenweise steinig und eisig wird.",
+        "headline": "Schilthorn: Beschneiung läuft am Mürren-Schilthorn auf Hochtouren",
+        "summary": "Am Schilthorn sorgen kalte Temperaturen für intensive Beschneiung im Bereich Mürren und Riggli. Der obere Ziehweg zeigt sich dank Technoschnee in deutlich verbessertem und griffigem Zustand.",
         "source_url": "https://www.alpinforum.com/threads/72493/",
-        "image_url": "https://media.alpinfans.com/live/255/20261031-105106-2e22469b_l.jpg"
+        "image_url": "https://media.alpinfans.com/live/255/20261108-085413-56be794a_l.jpg"
       }
     },
     {
@@ -359,36 +319,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.8392428,
-          46.4978958
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Oberengadin / St. Moritz",
-        "headline": "Engadin St. Moritz: Umfassende Grundbeschneiung auf Corviglia aktiv",
-        "summary": "Die Bergbahnen im Oberengadin nutzen die eisigen Temperaturen intensiv: Auf Corviglia läuft die technische Beschneiung auf Hochtouren, um eine solide Schneebasis für die anstehende Saisoneröffnung zu schaffen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3903",
-        "image_url": "https://alpinfans.com/download/file.php?id=125997&mode=view"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.2881895,
           47.0097538
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Ischgl / Silvretta Arena: Hervorragende Bedingungen für die Grundbeschneiung",
-        "summary": "Dank anhaltender Kälte und klarem Himmel laufen die Schneeerzeuger im Höllkar und Höllboden optimal. Die Pisten am Palinkopf und die Abfahrt 4 vom Padatschgrat ins Velilltal stehen weitgehend bereit.",
-        "source_url": "https://www.alpinforum.com/threads/72568/"
+        "headline": "Paznaun: Intensive Grundbeschneiung in See und Kappl",
+        "summary": "In den Skigebieten See und Kappl laufen die Beschneiungsanlagen bei kalten Temperaturen auf Hochtouren. Die Teams nutzen die Nächte intensiv, um die Grundlagen für den bevorstehenden Wintersaisonstart zu schaffen.",
+        "source_url": "https://www.alpinforum.com/threads/72711/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "04.11.2026 02:02 Uhr",
+            "headline": "Ischgl / Silvretta Arena: Hervorragende Bedingungen für die Grundbeschneiung",
+            "summary": "Dank anhaltender Kälte und klarem Himmel laufen die Schneeerzeuger im Höllkar und Höllboden optimal. Die Pisten am Palinkopf und die Abfahrt 4 vom Padatschgrat ins Velilltal stehen weitgehend bereit.",
+            "source_url": "https://www.alpinforum.com/threads/72568/"
+          }
+        ]
       }
     },
     {
@@ -437,24 +387,6 @@
             "image_url": "https://alpinfans.com/download/file.php?id=126060&mode=view"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.9157865,
-          47.4443516
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Schladming 4 Berge",
-        "headline": "Schladming 4-Berge: Beschneiung auf Reiteralm, Planai und Hochwurzen gestartet",
-        "summary": "Die Kaltfront hat in der Region Schladming Einzug gehalten: Auf der Reiteralm, der Planai und der Hochwurzen liefen in den oberen Hangbereichen die ersten Schneeerzeuger an, um die Grundbeschneiung aufzubauen.",
-        "source_url": "https://www.alpinforum.com/threads/72491/"
       }
     },
     {
@@ -552,7 +484,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Sudelfeld / Bayrischzell",
         "headline": "Sudelfeld: Speicherteich voll und Schneeerzeuger flächendeckend startklar",
@@ -661,7 +593,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Zillertal 3000",
         "headline": "Mayrhofen: Erster Trainingsbetrieb am Unterberg angelaufen",

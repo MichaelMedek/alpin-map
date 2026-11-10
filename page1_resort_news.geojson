@@ -24,6 +24,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.0699443,
+          45.092401
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
+        "name": "Alpe d'Huez",
+        "headline": "Alpe d'Huez: Neuer Pistenplan erschienen und Modernisierung am DMC",
+        "summary": "Auf dem frisch veröffentlichten Pistenplan der Espace Alpe d'Huez zeigen sich nach den Großinvestitionen der letzten Jahre vor allem punktuelle Anpassungen. Neben Renovierungsarbeiten an der Bergstation des DMC auf 2.700 Metern liegt der Fokus auf der Konsolidierung der Infrastruktur.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=4239&st=1620",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/eb07618e-4116-48ee-8bfa-213e12f04bd0/1_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.2486783,
           47.0511455
         ]
@@ -42,17 +61,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4239011,
-          45.9043659
+          10.154068,
+          46.151811
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Aravis",
-        "headline": "La Clusaz: Neues Sessel-Design für die Sesselbahn Col de Balme",
-        "summary": "Für die im Bau befindliche kuppelbare 6er-Sesselbahn Col de Balme in La Clusaz wurden die ersten Sessel angeliefert, die sich durch ein neues Erscheinungsbild auszeichnen. Zudem entsteht am Plateau du Merle ein neuer Anfängerteppich.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43458&st=60"
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
+        "name": "Aprica",
+        "headline": "Aprica: Eröffnung der neuen 4er-Sesselbahn Stella Alpina steht bevor",
+        "summary": "Die Arbeiten an der neuen kuppelbaren 4er-Sesselbahn Stella Alpina – Lago Palabione in Aprica biegen auf die Zielgerade ein. Die Inbetriebnahme der modernen Doppelmayr-Anlage wird bis Ende des Monats angestrebt.",
+        "source_url": "https://www.funiforum.org/funiforum/node/330982/page9"
       }
     },
     {
@@ -133,18 +152,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4043996,
-          46.8223497
+          12.356835,
+          46.697662
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Engelberg / Titlis–Brunni",
-        "headline": "Brunni-Bahnen Engelberg: Gondelbahn-Neubau zur Brunnihütte vorgezogen",
-        "summary": "Dank einer sehr erfreulichen Geschäftsentwicklung ziehen die Brunni-Bahnen den Neubau der Zubringerbahn vor. Die bestehende 3er-Sesselbahn von Ristis zur Brunnihütte soll bereits zur Wintersaison 2030/31 durch eine moderne 8er-Gondelbahn ersetzt werden.",
-        "source_url": "https://www.alpinforum.com/threads/819/page-36",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.htr.ch%2Ffileadmin%2Fuser_upload%2Fhtr%2Fcontent%2Fmedia%2F_processed_%2Ff%2Ff%2Fcsm_Sessellift_wird_durch_eine_Gondelumlaufbahn_im_2030_ersetzt_Brunni-Bahnen_2026_99af2fa471.jpg&hash=cda6c8b956a14100fc5f8be9ec200e09&return_error=1"
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
+        "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
+        "headline": "3 Zinnen Dolomiten: Testfahrten der neuen 10er-Gondelbahn Helmissimo gestartet",
+        "summary": "An der neuen Umlaufbahn Helmissimo in Vierschach laufen derzeit die ersten Probe- und Testfahrten. Die frisch gelieferten Kabinen wurden am Seil montiert und kreisen bereits an der Strecke am Helm.",
+        "source_url": "https://www.funiforum.org/funiforum/node/276705/page7"
       }
     },
     {
@@ -243,62 +261,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9982088,
-          47.8016337
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Kasberg / Grünau",
-        "headline": "Kasberg: Übernahme durch Bergbahnen Dachstein-Salzkammergut vollzogen",
-        "summary": "Der Kasberg gehört nun offiziell zu den Bergbahnen Dachstein-Salzkammergut, womit sämtliche Mehrtageskarten des Verbunds ab sofort auch dort gelten. Zudem laufen Verhandlungen über eine zeitnahe Aufnahme des Skigebiets in die SuperSkiCard.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=1054"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.756534,
-          47.27388
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
-        "headline": "Kitzsteinhorn: Ersatz der Langwiedbahn durch Kombibahn im Gespräch",
-        "summary": "Am Kitzsteinhorn verdichten sich die Pläne, die 1990 errichtete 4er-Sesselbahn Langwied im Jahr 2027 durch eine moderne Kombibahn zu ersetzen. Dies würde eine komfortable Zubringerfunktion bei schlechtem Wetter bieten, ohne den schnellen Wiederholungsbetrieb auf Sesseln aufzugeben.",
-        "source_url": "https://www.alpinforum.com/threads/146/page-85"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.958311,
           46.7387791
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "07.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: LeitPilot-Stabilisierung für die erneuerte Kronplatz 1+2",
-        "summary": "Beim Neubau der Seilbahnen Kronplatz 1 und 2 durch Leitner kommt in den Stationen das LeitPilot-System zum Einsatz. Spezielle Führungsrollen sorgen für eine optimierte Stabilisierung der Kabinen während des Fahrgastwechsels im Ein- und Ausstiegsbereich.",
-        "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
-        "image_url": "https://www.funiforum.org/immagini_forum/26/20261106164749_20261106164749_Screenshot20261106164504.jpg",
+        "headline": "Kronplatz: Planungen für den Ersatz der K2000-Gondelbahn nehmen Form an",
+        "summary": "Für den für 2030 vorgesehenen Ersatz der Bahn K2000 wird eine Verlegung der Trasse diskutiert. Eine Option sieht vor, die Bergstation in den Bereich Seewiese zu verlegen und den Gipfelbereich künftig mit einer neuen Sesselbahn für gezielte Wiederholungsfahrten zu erschließen.",
+        "source_url": "https://www.alpinforum.com/threads/1744/page-80",
         "older_news": [
           {
             "recency": "weekly",
-            "timestamp": "02.11.2026 02:03 Uhr",
-            "headline": "Kronplatz: Pistenbau an der Variante Lumen und Arbeiten an der Mittelstation",
-            "summary": "Am Kronplatz schreiten die Geländearbeiten an der neuen blauen Pistenvariante Lumen sowie die Bauarbeiten an der zugehörigen Mittelstation voran, um rechtzeitig zur Saison eine optimierte Pistenführung bereitzustellen.",
-            "source_url": "https://www.alpinforum.com/threads/1744/page-80",
-            "image_url": "https://www.alpinforum.com/attachments/img_5006-webp.338298/"
+            "timestamp": "07.11.2026 02:03 Uhr",
+            "headline": "Kronplatz: LeitPilot-Stabilisierung für die erneuerte Kronplatz 1+2",
+            "summary": "Beim Neubau der Seilbahnen Kronplatz 1 und 2 durch Leitner kommt in den Stationen das LeitPilot-System zum Einsatz. Spezielle Führungsrollen sorgen für eine optimierte Stabilisierung der Kabinen während des Fahrgastwechsels im Ein- und Ausstiegsbereich.",
+            "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
+            "image_url": "https://www.funiforum.org/immagini_forum/26/20261106164749_20261106164749_Screenshot20261106164504.jpg"
           }
         ]
       }
@@ -449,7 +430,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
         "headline": "Montgenèvre: Neue Doppelmayr-Gondelbahnen Chalvet und Fournéous im Endspurt",
@@ -495,7 +476,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Oberstdorf / Kleinwalsertal",
         "headline": "Walmendingerhorn: Modernisierte Bergstation sorgt für Architekturdebatte",
@@ -513,7 +494,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Kappl und See: Neue Pistenpläne mit zusätzlichen Skirouten vorgestellt",
@@ -613,13 +594,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Schöneben–Haideralm / Reschenpass",
-        "headline": "Schöneben-Haideralm: Neue 10er-Gondelbahn Reschen Piz-Schöneben im Test",
-        "summary": "Die modernisierte 10er-Gondelbahn Reschen Piz-Schöneben steht kurz vor dem Abschluss der Tests für den Winterstart. Im Skigebiet laufen zudem Überlegungen für künftige Erneuerungen an der Haideralm.",
-        "source_url": "https://www.funiforum.org/funiforum/node/315313/page3",
-        "image_url": "https://www.funiforum.org/immagini_forum/26/20261104140139_Screenshot_20261104_135848_SamsungBrowser.jpg"
+        "headline": "Schöneben-Haideralm: Neue Büroräume an der Talstation Schöneben entstehen",
+        "summary": "An der Talstation Schöneben werden derzeit neue Räumlichkeiten für die Mitarbeiter des Ski- und Bikeresorts eingerichtet. Große rahmenlose Verglasungen sorgen für moderne, lichtdurchflutete Arbeitsplätze.",
+        "source_url": "https://www.alpinforum.com/threads/22055/page-30",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "05.11.2026 02:03 Uhr",
+            "headline": "Schöneben-Haideralm: Neue 10er-Gondelbahn Reschen Piz-Schöneben im Test",
+            "summary": "Die modernisierte 10er-Gondelbahn Reschen Piz-Schöneben steht kurz vor dem Abschluss der Tests für den Winterstart. Im Skigebiet laufen zudem Überlegungen für künftige Erneuerungen an der Haideralm.",
+            "source_url": "https://www.funiforum.org/funiforum/node/315313/page3",
+            "image_url": "https://www.funiforum.org/immagini_forum/26/20261104140139_Screenshot_20261104_135848_SamsungBrowser.jpg"
+          }
+        ]
       }
     },
     {
@@ -637,16 +627,7 @@
         "name": "Schwarzwald / Feldberg",
         "headline": "Schwarzwald: Skilift Weißenbach rüstet Flutlicht und Beschneiung auf",
         "summary": "Am Skilift Weißenbach in Schönwald im Mittleren Schwarzwald wurden zusätzliche Flutlichtmasten aufgestellt und die Schneeerzeugung mit Lanzen und Propellermaschinen von DemacLenko und Sufag auf fünf Schneeerzeuger aufgestockt, um den Winterbetrieb wetterunabhängiger zu gestalten.",
-        "source_url": "https://www.alpinforum.com/threads/29126/page-7",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "02.11.2026 02:03 Uhr",
-            "headline": "Schwarzwald: Scheuermattlift am Belchen endgültig abgebaut",
-            "summary": "Der zum Skizirkus Wieden-Münstertal gehörende Scheuermattlift am Langlaufzentrum Hohtann wurde demontiert. Die rund 300 Meter lange Doppelmayr-Schleppliftanlage mit ihren charakteristischen Portalmasten wurde stillgelegt und entfernt.",
-            "source_url": "https://www.alpinforum.com/threads/295/page-124"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/29126/page-7"
       }
     },
     {
@@ -714,12 +695,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Sölden: Giggijoch-Sektor startet am 6. November in die Skisaison",
-        "summary": "Sölden erweitert sein Angebot über den Gletscher hinaus: Ab dem 6. November gehen die 10EUB Giggijoch, die 8SK Silberbrünnl, die Piste 13 sowie das Bergrestaurant Giggijoch in Betrieb.",
-        "source_url": "https://www.alpinforum.com/threads/72461/page-9"
+        "headline": "Sölden: Riesiger Solarpark am Tiefenbachgletscher fertiggestellt",
+        "summary": "Am Tiefenbachgletscher auf 2.800 Metern Höhe wurde ein 14 Millionen Euro teures Photovoltaik-Projekt vollendet. Mit 800 baumförmigen Installationen und über 12.000 Solarmodulen soll künftig ein bedeutender Teil des Strombedarfs im Skigebiet gedeckt werden.",
+        "source_url": "https://www.alpinforum.com/threads/38575/page-282",
+        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-09-at-10-48-51-webp.338598/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "04.11.2026 02:02 Uhr",
+            "headline": "Sölden: Giggijoch-Sektor startet am 6. November in die Skisaison",
+            "summary": "Sölden erweitert sein Angebot über den Gletscher hinaus: Ab dem 6. November gehen die 10EUB Giggijoch, die 8SK Silberbrünnl, die Piste 13 sowie das Bergrestaurant Giggijoch in Betrieb.",
+            "source_url": "https://www.alpinforum.com/threads/72461/page-9"
+          }
+        ]
       }
     },
     {
@@ -746,17 +737,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.1172229,
+          46.9918843
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
+        "name": "Stubaier Gletscher",
+        "headline": "Stubaier Gletscher: Genehmigung für Verlängerung der Wildspitzbahn erteilt",
+        "summary": "Die Zweiersesselbahn Wildspitze am Stubaier Gletscher soll im kommenden Jahr nach unten verlängert werden. Die erforderlichen behördlichen Genehmigungen liegen bereits vor, um den Einstieg im unteren Trassenbereich zu verbessern.",
+        "source_url": "https://www.alpinforum.com/threads/72446/page-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8877611,
           47.3989427
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Tiroler Zugspitz Arena",
-        "headline": "Tiroler Zugspitz Arena: Bergbahnen Berwang planen Beschneiungsausbau am Rastkopf",
-        "summary": "Die Bergbahnen Berwang haben ein Genehmigungsverfahren für eine deutliche Verstärkung der Beschneiungsanlage am Rastkopf eingeleitet. Vorgesehen sind neue Schneileitungen entlang der Pisten 16 und 17 von der Tal- bis zur Bergstation sowie die Anschaffung weiterer Schneeerzeuger.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=1360"
+        "headline": "Berwang: Umfassender Ausbau der Beschneiungsanlage am Rastkopf",
+        "summary": "Die Bergbahnen Berwang haben die behördliche Genehmigung für die Erweiterung der Beschneiung am Rastkopf und im Bereich Thanellerkar beantragt. Das Vorhaben umfasst die Modernisierung der Hauptpumpstation, neue Schneileitungen sowie eine erhöhte Schneifläche von über 26 Hektar.",
+        "source_url": "https://www.alpinforum.com/threads/2324/page-79",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "08.11.2026 02:03 Uhr",
+            "headline": "Tiroler Zugspitz Arena: Bergbahnen Berwang planen Beschneiungsausbau am Rastkopf",
+            "summary": "Die Bergbahnen Berwang haben ein Genehmigungsverfahren für eine deutliche Verstärkung der Beschneiungsanlage am Rastkopf eingeleitet. Vorgesehen sind neue Schneileitungen entlang der Pisten 16 und 17 von der Tal- bis zur Bergstation sowie die Anschaffung weiterer Schneeerzeuger.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=1360"
+          }
+        ]
       }
     },
     {
@@ -805,7 +823,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "09.11.2026 02:03 Uhr",
         "name": "Vallée de Chamonix",
         "headline": "Les Houches: Zehnergondeln für die Prarion-Umlaufbahn geliefert",
@@ -837,24 +855,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.276507,
-          46.1003545
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "4 Vallées / Verbier",
-        "headline": "Verbier: Solarfassade an der neuen Kombibahn Savoleyres installiert",
-        "summary": "Beim Neubau der Kombibahn Les Esserts–Les Planards–Savoleyres in Verbier wurde an der Fassade eine auffällige grüne Photovoltaikanlage montiert, die sich optisch einfügt und die Station nachhaltig mit Sonnenenergie versorgt.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41319&st=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.054939392135699,
           46.30370202011029
         ]
@@ -867,24 +867,6 @@
         "summary": "Am Tsanfleuron-Gletscher wurde ein neuer Seillift installiert, um den Rückweg zum Col de Tsanfleuron zu erleichtern. Zudem musste der Ausstieg des Skilifts Tsanfleuron leicht nach unten verlegt werden, um Absturzgefahren an der stark abgeschmolzenen Eiswand zu vermeiden.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580",
         "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/ec8a6746-4112-495c-bd30-51bedda56433/2_1200.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.8993003,
-          47.2372082
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "02.11.2026 02:03 Uhr",
-        "name": "Zillertal Arena – Zell am Ziller/Gerlos/Königsleiten/Hochkrimml",
-        "headline": "Zillertal Arena: Sonnwendkopfbahn wird durch neue 'Grenzgängerbahn' ersetzt",
-        "summary": "Die Bergbahnen Gerlos–Königsleiten planen den Ersatz der 8er-Gondelbahn Sonnwendkopf durch die neue 10er-Gondelbahn 'Grenzgängerbahn'. Die Trasse wird bei nahezu identischer Talstation um 21 Grad verschwenkt und von 1,6 auf 2,7 Kilometer verlängert. Sie quert dabei die Landesgrenze zwischen Salzburg und Tirol.",
-        "source_url": "https://www.alpinforum.com/threads/26964/page-120"
       }
     }
   ]
