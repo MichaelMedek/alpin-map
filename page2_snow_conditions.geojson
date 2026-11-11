@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.5948148,
+          46.6340499
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "11.11.2026 02:03 Uhr",
+        "name": "Andermatt–Sedrun–Disentis",
+        "headline": "Andermatt-Sedrun-Disentis: Gemsstock vor dem Saisonstart, Nätschen noch trocken",
+        "summary": "Am Gemsstock startet am Freitag der Skibetrieb für Saisonabonnenten und am Samstag für alle Gäste; während am Gemsstock und vereinzelt in Disentis beschneit wurde, präsentieren sich die Hänge im Bereich Nätschen-Sedrun noch weitgehend schneefrei.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.8740902,
           46.4971763
         ]
@@ -42,31 +60,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7983599,
-          46.8144214
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Bad Kleinkirchheim",
-        "headline": "Bad Kleinkirchheim: Früher Start der Grundbeschneiung am Spitzeck",
-        "summary": "In Bad Kleinkirchheim wurden überraschend früh Anfang November die Schneeerzeuger im Bereich Spitzeck in Betrieb genommen, um ein erstes Pistenfundament aufzubauen.",
-        "source_url": "https://www.alpinforum.com/threads/3427/page-213",
-        "image_url": "https://www.foto-webcam.eu/webcam/spitzeck/2026/11/01/2310_la.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.8171312,
           46.805189
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Vorbereitungen für den Saisonstart im Dorftäli und auf Totalp",
@@ -117,36 +116,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2765899,
-          47.0828502
+          9.2171807,
+          46.849618
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Flumserberg",
-        "headline": "Flumserberg: Schneeerzeugung in Richtung Maschgenkamm gestartet",
-        "summary": "Am Flumserberg nutzten die Bergbahnen die tiefen Temperaturen, um die Lanzen und Kanonen im Abschnitt zum Maschgenkamm anzuwerfen.",
-        "source_url": "https://www.alpinforum.com/threads/3427/page-213"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0282497,
-          46.8711626
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Gurgl",
-        "headline": "Gurgl: Präpariertes Pistenband am Kirchenkar für den Saisonstart gerüstet",
-        "summary": "In Gurgl sind die Vorbereitungen für den Saisonauftakt am 19. November voll im Gang. Die Weltcup-Rennpiste am Kirchenkar präsentiert sich bereits als durchgehendes weißes Pistenband.",
-        "source_url": "https://www.alpinforum.com/threads/72689/",
-        "image_url": "https://www.alpinforum.com/attachments/1000047161-webp.338346/"
+        "recency": "breaking",
+        "timestamp": "11.11.2026 02:03 Uhr",
+        "name": "Flims–Laax–Falera",
+        "headline": "Flims Laax Falera: Vorab-Gletscher nach Hitzesommer vor Herausforderungen",
+        "summary": "Der markante Gletscherrückgang und stark abgeschmolzene Schneedepots erschweren die Pistenpräparation und Lifttrassierung am Vorab-Gletscher spürbar; die Webcams liefern wieder Bilder, während das Gebiet dringend auf frischen Naturschnee wartet.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3901&start=50"
       }
     },
     {
@@ -159,7 +139,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
         "headline": "Hintertuxer Gletscher: Abfahrt zur Sommerbergalm freigegeben",
@@ -190,30 +170,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7952574,
-          47.1455818
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Hochzeiger / Jerzens",
-        "headline": "Hochzeiger Jerzens: Beschneiung oberhalb der Mittelstation in Betrieb genommen",
-        "summary": "Am Hochzeiger im Pitztal wurde das kalte Wetter genutzt, um die Beschneiungsanlagen im oberen Pistensektor oberhalb der Mittelstation zu starten.",
-        "source_url": "https://www.alpinforum.com/threads/3427/page-213"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.9613132,
           46.5852463
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Schilthorn: Beschneiung läuft am Mürren-Schilthorn auf Hochtouren",
@@ -324,7 +286,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "10.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Paznaun: Intensive Grundbeschneiung in See und Kappl",
@@ -351,13 +313,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
-        "headline": "Pitztaler Gletscher: Sehr gute Bedingungen an der Wildspitze",
-        "summary": "Am Pitztaler Gletscher präsentieren sich die Pisten an der Wildspitzbahn in sehr gutem Zustand. Zur Erweiterung des Angebots laufen die Präparationsarbeiten für die Piste an der Mittelbergbahn.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=150",
-        "image_url": "https://media.alpinfans.com/live/1458/20261104-155630-0a7e1791_l.jpg"
+        "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
+        "summary": "Auf dem Pitztaler Gletscher bieten Mittelberg und Brunnenkogel gute Pistenbedingungen mit nur wenigen harten Abschnitten, während die Zufahrt über die Stollenbahn am Wochenende zu rund einstündigen Wartezeiten führte und Pistenareale für Trainingsteams reserviert waren.",
+        "source_url": "https://www.alpinforum.com/threads/72462/page-3",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "05.11.2026 02:03 Uhr",
+            "headline": "Pitztaler Gletscher: Sehr gute Bedingungen an der Wildspitze",
+            "summary": "Am Pitztaler Gletscher präsentieren sich die Pisten an der Wildspitzbahn in sehr gutem Zustand. Zur Erweiterung des Angebots laufen die Präparationsarbeiten für die Piste an der Mittelbergbahn.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=150",
+            "image_url": "https://media.alpinfans.com/live/1458/20261104-155630-0a7e1791_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -394,43 +365,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1404336,
-          47.1826543
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "Ski Arlberg",
-        "headline": "Ski Arlberg: Erste Schneekanonen im Raum Zürs aktiv",
-        "summary": "Auf den höher gelegenen Hängen rund um den Zürser See und den Rüfikopf liefen in den kalten Nachtstunden die ersten Beschneiungsanlagen.",
-        "source_url": "https://www.alpinforum.com/threads/3427/page-213",
-        "image_url": "https://www.foto-webcam.eu/webcam/ruefikopf/2026/11/01/2300_la.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2490297,
-          47.4578352
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "03.11.2026 02:03 Uhr",
-        "name": "SkiWelt Wilder Kaiser-Brixental",
-        "headline": "SkiWelt Wilder Kaiser-Brixental: Kalte Nächte ermöglichen ersten flächendeckenden Beschneiungsstart",
-        "summary": "Die günstigen Minusgrade wurden in zahlreichen Teilgebieten der SkiWelt wie Scheffau, Westendorf, Hopfgarten, Söll und am Brandstadl genutzt, um die Pistenbeschneiung intensiv anzufahren.",
-        "source_url": "https://www.alpinforum.com/threads/72688/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.0072845,
           46.9666319
         ]
@@ -442,17 +376,7 @@
         "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
         "summary": "Sölden bietet zum Saisonauftakt hervorragende Bedingungen auf den vollständig präparierten Pisten im Gletscherbereich.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
-        "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "03.11.2026 02:03 Uhr",
-            "headline": "Sölden: Ausgezeichnete Gletscherbedingungen und bevorstehende Giggijoch-Öffnung",
-            "summary": "In Sölden überzeugen Pisten wie Einzeiger und Seiterkar mit griffigem Schnee. Am Schwarzkogel läuft die Beschneiung auf Hochtouren, während am Freitag der Skibetrieb am Giggijoch startet.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
-            "image_url": "https://media.alpinfans.com/live/60/20261102-143840-b4a31e24_l.jpg"
-          }
-        ]
+        "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view"
       }
     },
     {
