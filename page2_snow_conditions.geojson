@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Andermatt–Sedrun–Disentis",
         "headline": "Andermatt-Sedrun-Disentis: Gemsstock vor dem Saisonstart, Nätschen noch trocken",
@@ -65,12 +65,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
-        "headline": "Davos Klosters: Vorbereitungen für den Saisonstart im Dorftäli und auf Totalp",
-        "summary": "Im Parsenn-Gebiet laufen die Vorbereitungen für die ersten Öffnungen. Die Pisten Dorftäli und Totalp stehen im Fokus der Beschneiung, während am Furka-Zipper ebenfalls die Grundlagen für den Auftakt gelegt werden.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3881"
+        "headline": "Davos Klosters: Parsenn startet am Freitag in die Wintersaison",
+        "summary": "Auf Parsenn öffnen am Freitag die Standseilbahnen 1 & 2 sowie die Sesselbahnen Rapid und Totalp mit den Abfahrten Standard und Totalp.",
+        "source_url": "https://www.alpinforum.com/threads/72642/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "10.11.2026 02:03 Uhr",
+            "headline": "Davos Klosters: Vorbereitungen für den Saisonstart im Dorftäli und auf Totalp",
+            "summary": "Im Parsenn-Gebiet laufen die Vorbereitungen für die ersten Öffnungen. Die Pisten Dorftäli und Totalp stehen im Fokus der Beschneiung, während am Furka-Zipper ebenfalls die Grundlagen für den Auftakt gelegt werden.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3881"
+          }
+        ]
       }
     },
     {
@@ -121,7 +130,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Flims–Laax–Falera",
         "headline": "Flims Laax Falera: Vorab-Gletscher nach Hitzesommer vor Herausforderungen",
@@ -291,16 +300,7 @@
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Paznaun: Intensive Grundbeschneiung in See und Kappl",
         "summary": "In den Skigebieten See und Kappl laufen die Beschneiungsanlagen bei kalten Temperaturen auf Hochtouren. Die Teams nutzen die Nächte intensiv, um die Grundlagen für den bevorstehenden Wintersaisonstart zu schaffen.",
-        "source_url": "https://www.alpinforum.com/threads/72711/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "04.11.2026 02:02 Uhr",
-            "headline": "Ischgl / Silvretta Arena: Hervorragende Bedingungen für die Grundbeschneiung",
-            "summary": "Dank anhaltender Kälte und klarem Himmel laufen die Schneeerzeuger im Höllkar und Höllboden optimal. Die Pisten am Palinkopf und die Abfahrt 4 vom Padatschgrat ins Velilltal stehen weitgehend bereit.",
-            "source_url": "https://www.alpinforum.com/threads/72568/"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/72711/"
       }
     },
     {
@@ -313,7 +313,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
         "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
@@ -370,13 +370,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
-        "summary": "Sölden bietet zum Saisonauftakt hervorragende Bedingungen auf den vollständig präparierten Pisten im Gletscherbereich.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
-        "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view"
+        "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
+        "summary": "Dank des Ausbaus der künstlichen Beschneiung kann die Verbindung zwischen Giggijoch und Gaislachkogel in dieser Saison ein bis zwei Wochen früher als gewöhnlich freigegeben werden.",
+        "source_url": "https://www.alpinforum.com/threads/72461/page-9",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "06.11.2026 02:03 Uhr",
+            "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
+            "summary": "Sölden bietet zum Saisonauftakt hervorragende Bedingungen auf den vollständig präparierten Pisten im Gletscherbereich.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
+            "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view"
+          }
+        ]
       }
     },
     {
@@ -415,24 +424,6 @@
         "summary": "Am Sudelfeld laufen die Saisonvorbereitungen für den anvisierten Start am 28. November 2026 auf Hochtouren. Der zentrale Speicherteich ist komplett gefüllt und zahlreiche Schneekanonen sind bereits an den Schlüsselstellen positioniert und einsatzbereit verkabelt.",
         "source_url": "https://www.alpinforum.com/threads/72708/",
         "image_url": "https://www.alpinforum.com/attachments/img_20261108_112448_702-webp.338585/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5842617,
-          46.5280433
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
-        "name": "Sulden am Ortler / Solda all'Ortles",
-        "headline": "Sulden am Ortler: Bereit für den Saisonstart am Madritsch-Gletscher",
-        "summary": "Zum Auftakt gehen am Madritsch-Gletscher alle drei Sesselbahnen mit über der Hälfte der Pisten an den Start. Auch im Kanzelgebiet sind die roten und blauen Abfahrten dank intensiver Beschneiung betriebsbereit.",
-        "source_url": "https://www.alpinforum.com/threads/72466/"
       }
     },
     {
@@ -482,14 +473,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Matterhorn Ski Paradise: Herausfordernde Übergänge am Gletscherrand der Ventina",
-        "summary": "Am Übergang vom Gletscher ins Gelände am Theodulgletscher und der oberen Ventina-Piste ist die Ausaperung durch den Sommer unübersehbar. Für eine zusammenhängende und sichere Präparierung im italienischen Teil werden vor dem Winterstart noch deutliche Schneefälle benötigt.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=100",
-        "image_url": "https://alpinfans.com/download/file.php?id=126185&mode=view",
+        "headline": "Matterhorn Ski Paradise: Sieben neue Skirouten für die Ski Safari ausgewiesen",
+        "summary": "In Zermatt werden im Rahmen der Ski Safari ab sofort sieben neue gekennzeichnete Skirouten für Wintersportler angeboten.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "08.11.2026 02:03 Uhr",
+            "headline": "Matterhorn Ski Paradise: Herausfordernde Übergänge am Gletscherrand der Ventina",
+            "summary": "Am Übergang vom Gletscher ins Gelände am Theodulgletscher und der oberen Ventina-Piste ist die Ausaperung durch den Sommer unübersehbar. Für eine zusammenhängende und sichere Präparierung im italienischen Teil werden vor dem Winterstart noch deutliche Schneefälle benötigt.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=100",
+            "image_url": "https://alpinfans.com/download/file.php?id=126185&mode=view"
+          },
           {
             "recency": "weekly",
             "timestamp": "07.11.2026 02:03 Uhr",

@@ -11,12 +11,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
-        "headline": "Enge Durchführung des Bauprojekts für die neue 10er-Gondelbahn Adelboden Oey - Sillerenbühl",
-        "summary": "Das öffentliche Verfahre zur neuen Sillerenbühl-Umlaufbahn verlief ohne Einsprachen, womit die Realisierung nach finaler Freigabe für Dezember 2027 auf Kurs ist.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
+        "headline": "Adelboden: Keine Einsprachen gegen das Bauprojekt Direttissima",
+        "summary": "Für das Bergbahnprojekt Direttissima in Adelboden wurden keine Einsprachen eingereicht, womit die nächsten Schritte der Realisierung bevorstehen.",
+        "source_url": "https://www.alpinforum.com/threads/2979/page-23",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "06.11.2026 02:03 Uhr",
+            "headline": "Enge Durchführung des Bauprojekts für die neue 10er-Gondelbahn Adelboden Oey - Sillerenbühl",
+            "summary": "Das öffentliche Verfahre zur neuen Sillerenbühl-Umlaufbahn verlief ohne Einsprachen, womit die Realisierung nach finaler Freigabe für Dezember 2027 auf Kurs ist.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=7043&st=100"
+          }
+        ]
       }
     },
     {
@@ -36,6 +45,24 @@
         "summary": "Auf dem frisch veröffentlichten Pistenplan der Espace Alpe d'Huez zeigen sich nach den Großinvestitionen der letzten Jahre vor allem punktuelle Anpassungen. Neben Renovierungsarbeiten an der Bergstation des DMC auf 2.700 Metern liegt der Fokus auf der Konsolidierung der Infrastruktur.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=4239&st=1620",
         "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/eb07618e-4116-48ee-8bfa-213e12f04bd0/1_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9102193,
+          46.5646703
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
+        "name": "Alta Badia",
+        "headline": "Alta Badia: Reaktivierung der Piste 5C im offiziellen Pistenplan",
+        "summary": "Die Abfahrt 5C von Arlara zur Talstation Baia Fraida wird für die kommende Wintersaison wieder offiziell in den Pistenplan aufgenommen.",
+        "source_url": "https://www.alpinforum.com/threads/109/page-47"
       }
     },
     {
@@ -66,7 +93,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Bad Kleinkirchheim",
         "headline": "Bad Kleinkirchheim: Weichenstellungen für Lifterneuerungen am Priedröf",
@@ -194,7 +221,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Gitschberg Jochtal",
         "headline": "Gitschberg Jochtal: Neue Gitschbahn präsentiert sich in Naturstein- und Holzoptik",
@@ -243,30 +270,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7952574,
-          47.1455818
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
-        "name": "Hochzeiger / Jerzens",
-        "headline": "Hochzeiger Jerzens: Attraktivierung des Rodelangebots angekündigt",
-        "summary": "Die Bergbahnen Hochzeiger planen im Rahmen lokaler Entwicklungsinitiativen die Sanierung sowie den gezielten Ausbau der Naturrodelbahn am Hochzeiger.",
-        "source_url": "https://www.alpinforum.com/threads/9634/page-14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9982088,
           47.8016337
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Kasberg / Grünau",
         "headline": "Kasberg: Beitritt zur Super Ski Card stärkt das Skigebiet",
@@ -318,24 +327,6 @@
         "headline": "La Rosière: Montagearbeiten an der neuen 4er-Sesselbahn Petit Bois",
         "summary": "Im französischen La Rosière schreiten die Arbeiten an der neuen fixen 4er-Sesselbahn Petit Bois von Hersteller GMM voran. Die Anlage ersetzt eine veraltete 3er-Sesselbahn und soll die Anfänger- und Verbindungsbereiche im Espace San Bernardo modernisieren.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43135"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4562373,
-          45.4781616
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
-        "name": "Le Grand Domaine",
-        "headline": "Le Grand Domaine: Neue 10er-Gondelbahn Combelouvière im Testbetrieb",
-        "summary": "In Valmorel laufen die Testfahrten der neuen 10er-Gondelbahn Combelouvière. Die Kabinen hängen bereits am Seil und die Anlage läuft im Probebetrieb äußerst geräuscharm.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42968&st=60"
       }
     },
     {
@@ -557,7 +548,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
         "headline": "Schladming 4 Berge: Neuer Speicherteich Bruckmoos randvoll gefüllt",
@@ -604,12 +595,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
-        "headline": "Schwarzwald: Skilift Weißenbach rüstet Flutlicht und Beschneiung auf",
-        "summary": "Am Skilift Weißenbach in Schönwald im Mittleren Schwarzwald wurden zusätzliche Flutlichtmasten aufgestellt und die Schneeerzeugung mit Lanzen und Propellermaschinen von DemacLenko und Sufag auf fünf Schneeerzeuger aufgestockt, um den Winterbetrieb wetterunabhängiger zu gestalten.",
-        "source_url": "https://www.alpinforum.com/threads/29126/page-7"
+        "headline": "Mehliskopf: Betreiber erwägen Stilllegung des großen Doppelschlepplifts",
+        "summary": "Aufgrund schwindender Betriebstage und defizitärer Winter erwägt die Geschäftsleitung am Mehliskopf, den großen Doppellift nach der Saison 2026/27 dauerhaft außer Betrieb zu nehmen.",
+        "source_url": "https://www.alpinforum.com/threads/5154/page-20",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "08.11.2026 02:03 Uhr",
+            "headline": "Schwarzwald: Skilift Weißenbach rüstet Flutlicht und Beschneiung auf",
+            "summary": "Am Skilift Weißenbach in Schönwald im Mittleren Schwarzwald wurden zusätzliche Flutlichtmasten aufgestellt und die Schneeerzeugung mit Lanzen und Propellermaschinen von DemacLenko und Sufag auf fünf Schneeerzeuger aufgestockt, um den Winterbetrieb wetterunabhängiger zu gestalten.",
+            "source_url": "https://www.alpinforum.com/threads/29126/page-7"
+          }
+        ]
       }
     },
     {
@@ -658,13 +658,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "04.11.2026 02:02 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
-        "headline": "Snow Space Salzburg: Achterjet in Flachau wird 2027 durch 10er-Gondel ersetzt",
-        "summary": "Der Achterjet in Flachau absolviert seine letzte Wintersaison. Ab 2027 ersetzt eine moderne 10er-Kabinenbahn mit Mittelstation und höher gelegener Bergstation die alte Anlage für rund 40 Millionen Euro.",
-        "source_url": "https://www.alpinforum.com/threads/2511/page-160",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.sn.at%2Fstorage%2Fimage%2F1%2F3%2F3%2F9%2F1179331_die-kommende-saison-wird-fuer-den-achterjet-in-flachau-die-letzte-sein-die_metadaten_1GWaqA_oY3JZW.jpg&hash=33a63f17193c4b2cfe87aa63ec87b9d5&return_error=1"
+        "headline": "Snow Space Salzburg: Trassenführung und Bergstation des neuen Achterjets konkretisiert",
+        "summary": "Die Planungen für die neue Bergstation der Achterjet-Gondelbahn in Flachau sehen eine Platzierung im Bereich Latschenhof vor. Von dort soll ein Ziehweg die direkte Anbindung an die Rote 8er ermöglichen.",
+        "source_url": "https://www.alpinforum.com/threads/2511/page-161",
+        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-11-131740-webp.338685/"
       }
     },
     {
@@ -683,16 +683,7 @@
         "headline": "Sölden: Riesiger Solarpark am Tiefenbachgletscher fertiggestellt",
         "summary": "Am Tiefenbachgletscher auf 2.800 Metern Höhe wurde ein 14 Millionen Euro teures Photovoltaik-Projekt vollendet. Mit 800 baumförmigen Installationen und über 12.000 Solarmodulen soll künftig ein bedeutender Teil des Strombedarfs im Skigebiet gedeckt werden.",
         "source_url": "https://www.alpinforum.com/threads/38575/page-282",
-        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-09-at-10-48-51-webp.338598/",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "04.11.2026 02:02 Uhr",
-            "headline": "Sölden: Giggijoch-Sektor startet am 6. November in die Skisaison",
-            "summary": "Sölden erweitert sein Angebot über den Gletscher hinaus: Ab dem 6. November gehen die 10EUB Giggijoch, die 8SK Silberbrünnl, die Piste 13 sowie das Bergrestaurant Giggijoch in Betrieb.",
-            "source_url": "https://www.alpinforum.com/threads/72461/page-9"
-          }
-        ]
+        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-09-at-10-48-51-webp.338598/"
       }
     },
     {
@@ -787,12 +778,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "07.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Val Cenis",
-        "headline": "Val Cenis: Neuer Pistenplan mit neuen Bahnen und Pistenanpassungen",
-        "summary": "Für den kommenden Winter präsentiert Val Cenis umfangreiche Änderungen: Neben dem neuen TSD6 Grand Coin und dem umgebauten TSCD Ramasse gibt es Pistenmodifikationen wie die Pisten Blanchot, Cembros und Côte des Essarts sowie die neue Familien-Funslope Mini Mondes. Zudem wurden mehrere Pisten umbenannt und farblich neu eingestuft.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=16882&st=540"
+        "headline": "Val Cenis: Fortschritte bei den Neubauten Ramasse und Grand Coin",
+        "summary": "Beim TSCD Ramasse wurden 6-Personen-Kabinen geliefert und erste Testfahrten gestartet. Am TSD6 Grand Coin stehen die finalen dynamischen Einstellungen vor der Abnahme.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43073&st=80",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/b26ada55-14d2-45e9-bc7d-cfe97f807766/3_1200.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "07.11.2026 02:03 Uhr",
+            "headline": "Val Cenis: Neuer Pistenplan mit neuen Bahnen und Pistenanpassungen",
+            "summary": "Für den kommenden Winter präsentiert Val Cenis umfangreiche Änderungen: Neben dem neuen TSD6 Grand Coin und dem umgebauten TSCD Ramasse gibt es Pistenmodifikationen wie die Pisten Blanchot, Cembros und Côte des Essarts sowie die neue Familien-Funslope Mini Mondes. Zudem wurden mehrere Pisten umbenannt und farblich neu eingestuft.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=16882&st=540"
+          }
+        ]
       }
     },
     {
@@ -837,18 +838,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
+        "name": "4 Vallées / Verbier",
+        "headline": "4 Vallées: Stadt Sion veröffentlicht Pläne für neue Talzubringer-Gondelbahn",
+        "summary": "Die Stadt Sion hat das Kommuniqué zur geplanten 30-Millionen-Franken-Gondelbahn vom Bahnhof Sion zur Piste de l'Ours vorgestellt, die eine direkte Zuganbindung an das Skigebiet schaffen soll.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=458&start=125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.054939392135699,
           46.30370202011029
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
-        "headline": "Glacier 3000: Neuer Télécorde und angepasster Tsanfleuron-Ausstieg",
-        "summary": "Am Tsanfleuron-Gletscher wurde ein neuer Seillift installiert, um den Rückweg zum Col de Tsanfleuron zu erleichtern. Zudem musste der Ausstieg des Skilifts Tsanfleuron leicht nach unten verlegt werden, um Absturzgefahren an der stark abgeschmolzenen Eiswand zu vermeiden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/ec8a6746-4112-495c-bd30-51bedda56433/2_1200.jpg"
+        "headline": "Gryon: Volksabstimmung über den Neubau der Gondelbahn Frience",
+        "summary": "Ende November stimmt die Gemeinde Gryon über das 40-Millionen-Franken-Projekt für eine neue Gondelbahn mit einer Förderleistung von 1.600 Personen pro Stunde ab.",
+        "source_url": "https://www.alpinforum.com/threads/14322/page-5",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "08.11.2026 02:03 Uhr",
+            "headline": "Glacier 3000: Neuer Télécorde und angepasster Tsanfleuron-Ausstieg",
+            "summary": "Am Tsanfleuron-Gletscher wurde ein neuer Seillift installiert, um den Rückweg zum Col de Tsanfleuron zu erleichtern. Zudem musste der Ausstieg des Skilifts Tsanfleuron leicht nach unten verlegt werden, um Absturzgefahren an der stark abgeschmolzenen Eiswand zu vermeiden.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580",
+            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/ec8a6746-4112-495c-bd30-51bedda56433/2_1200.jpg"
+          }
+        ]
       }
     },
     {
@@ -861,7 +889,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "11.11.2026 02:03 Uhr",
         "name": "Vosges",
         "headline": "Vogesen: Skilift Col des Bagenelles vor dem endgültigen Aus",
