@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
         "headline": "Adelboden: Keine Einsprachen gegen das Bauprojekt Direttissima",
@@ -58,11 +58,20 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "12.11.2026 02:03 Uhr",
+        "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Alta Badia",
-        "headline": "Alta Badia: Reaktivierung der Piste 5C im offiziellen Pistenplan",
-        "summary": "Die Abfahrt 5C von Arlara zur Talstation Baia Fraida wird für die kommende Wintersaison wieder offiziell in den Pistenplan aufgenommen.",
-        "source_url": "https://www.alpinforum.com/threads/109/page-47"
+        "headline": "Alta Badia: Debatte über Zwischenstation beim Neubau der Piz-Sorega-Bahn",
+        "summary": "Beim geplanten Ersatz der Piz-Sorega-Gondelbahn in San Cassiano (Kapazität 4.330 P/h) wird über den Sinn einer Mittelstation diskutiert: Neben pistentechnischen Vorteilen im oberen Hangbereich spielen vor allem Schlüsselregeln der Einnahmenverteilung im Dolomiti Superski eine Rolle.",
+        "source_url": "https://www.funiforum.org/funiforum/node/215834/page8",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "12.11.2026 02:03 Uhr",
+            "headline": "Alta Badia: Reaktivierung der Piste 5C im offiziellen Pistenplan",
+            "summary": "Die Abfahrt 5C von Arlara zur Talstation Baia Fraida wird für die kommende Wintersaison wieder offiziell in den Pistenplan aufgenommen.",
+            "source_url": "https://www.alpinforum.com/threads/109/page-47"
+          }
+        ]
       }
     },
     {
@@ -124,24 +133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0622332,
-          46.7674063
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Brigels / Waltensburg / Andiast",
-        "headline": "Brigels: Bevölkerung stimmt Sanierungsplan der Bergbahnen zu",
-        "summary": "Die Stimmbevölkerung der Gemeinde Brigels hat dem Sanierungs- und Zukunftsplan für die Bergbahnen Brigels-Waltensburg-Andiast zugestimmt und damit den Weg für wesentliche Infrastrukturinvestitionen geebnet.",
-        "source_url": "https://www.alpinforum.com/threads/13157/page-3"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.963894,
           45.792664
         ]
@@ -153,25 +144,6 @@
         "headline": "Courmayeur: Kabinen der neuen 10er-Gondelbahnen am Plan Chécrouit am Seil",
         "summary": "Im italienischen Courmayeur biegen die beiden parallel entstehenden 10er-Gondelbahnen Plan Chécrouit–Colle Chécrouit und Plan Chécrouit–Maison Vieille auf die Zielgerade ein. Sämtliche Gondeln befinden sich für die anstehenden Abnahmefahrten bereits am Förderseil.",
         "source_url": "https://www.funiforum.org/funiforum/node/312727/page4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1237609,
-          45.0099949
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Les Deux Alpes",
-        "headline": "Les Deux Alpes: Neue Pistenbezeichnungen und erweitertes Nachtski-Angebot",
-        "summary": "In Les Deux Alpes wurden für die anstehende Saison sämtliche Pisten mit Eigennamen statt Nummern versehen. Zudem wurde der Skilift Dôme Nord auf dem Gletscher ergänzt und das Nachtskifahren an der Piste Vallée Blanche ausgebaut.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=19938&st=5540",
-        "image_url": "https://www.skieur.com/media/guide_station/plan_pistes/2alpes-plan-pistes-26-27.jpg"
       }
     },
     {
@@ -216,6 +188,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.4296372,
+          45.165
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Galibier-Thabor",
+        "headline": "Valloire: Pistenanpassungen und neue Terrassen an der Gondelbahn Brive",
+        "summary": "Im Skigebiet Galibier-Thabor wird zur neuen Saison die bisherige Skitourenroute Les Rhondos in eine reguläre blaue Piste umgewandelt. Zudem wurden die Beschneiungsanlagen an der Choucas ausgebaut und zwei neue Terrassen an der Bergstation Brive angelegt.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=867&st=380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.6656657,
           46.8339065
         ]
@@ -234,42 +224,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6483076,
-          46.5760331
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
-        "headline": "Gröden: Ratsbeschluss gegen Bahnverbindung Monte Pana – Seiser Alm aufgehoben",
-        "summary": "Der Beschluss des Gemeinderats St. Christina gegen die geplante Seilbahnverbindung zwischen Monte Pana und der Seiser Alm wurde aus formalen Gründen aufgehoben. Das Verfahren muss nun neu aufgerollt werden.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=426&start=100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.908973,
-          47.389699
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Hochkönig – Maria Alm/Dienten/Mühlbach",
-        "headline": "Hochkönig: Ausbau der Beschneiungsanlagen mit neuen Speicherteichen",
-        "summary": "Zur Steigerung der Schneesicherheit investiert die Skiregion Hochkönig in neue Speicherteiche, Kühltürme und zusätzliche Schneekanonen im Bereich Maria Alm, Dienten und Mühlbach.",
-        "source_url": "https://www.alpinforum.com/threads/7012/page-34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9982088,
           47.8016337
         ]
@@ -281,6 +235,24 @@
         "headline": "Kasberg: Beitritt zur Super Ski Card stärkt das Skigebiet",
         "summary": "Der Kasberg in Grünau im Almtal erweitert sein Angebot und ist ab sofort vollwertiges Mitglied im Verbund der Super Ski Card, was dem geretteten Skigebiet zusätzlichen Auftrieb verleiht.",
         "source_url": "https://www.alpinforum.com/threads/2937/page-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3972359,
+          47.3664103
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Kitzbühel / Kirchberg",
+        "headline": "KitzSki investiert 36 Millionen Euro in Speicherteich, Skitunnel und Parkhaus",
+        "summary": "KitzSki rüstet kräftig auf: Für rund 36 Millionen Euro entstehen der neue Speicherteich Sonnenrast mit 95.000 m³ Fassungsvermögen, ein 65 Meter langer Skitunnel am steilen Jufenhang für mehr Pistenkomfort und eine barrierefreie Parkgarage an der Fleckalmbahn.",
+        "source_url": "https://www.alpinforum.com/threads/33/page-215"
       }
     },
     {
@@ -371,6 +343,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.2695375,
+          46.7741051
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Melchsee-Frutt",
+        "headline": "Melchsee-Frutt: Pendelbahn Bonistock wird umfassend saniert und Hotel übernommen",
+        "summary": "Statt eines Gondelneubaus soll die bestehende Pendelbahn Distelboden–Bonistock für 8,9 Millionen Franken umfassend erneuert werden (Realisierung 2028). Zudem plant die Korporation Kerns den Kauf des Berghotels Bonistock für 2,2 Millionen Franken samt Grundstück.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.756415,
           44.246681
         ]
@@ -410,6 +400,25 @@
             "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41824&st=80"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2745415,
+          46.5638824
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Nassfeld",
+        "headline": "Nassfeld: Neue Sesselbahn an der Tressdorfer Alm im täglichen Probebetrieb",
+        "summary": "Am Nassfeld laufen die Proberunden für die neue Sesselbahn im Bereich Tressdorfer Alm auf Hochtouren. Gleichzeitig wurde der offizielle Pistenplan mit dem angepassten Pistennetz rund um die neue Anlage aktualisiert.",
+        "source_url": "https://www.alpinforum.com/threads/2110/page-36",
+        "image_url": "https://www.alpinforum.com/attachments/image-webp.338704/"
       }
     },
     {
@@ -490,16 +499,7 @@
         "name": "Ponte di Legno/Tonale/Presena Gletscher/Temù (Pontedilegno-Tonale)",
         "headline": "Neue Seilbahnprojekte im Skigebiet von San Sicario und Claviere",
         "summary": "Die Arbeiten an der Sessellift-Rotation am Colletto Verde verzögern sich aufgrund von witterungsbedingten Bedingungen und bürokratischen Hürden.",
-        "source_url": "https://www.funiforum.org/funiforum/node/259940/page31",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "05.11.2026 02:03 Uhr",
-            "headline": "Pontedilegno-Tonale: Neue Kabinen für die 2S-Bahn Paradiso eingetroffen",
-            "summary": "Am Passo Paradiso wurden im Rahmen der Modernisierungsarbeiten neue Diamond-Kabinen für die 2S-Gondelbahn angeliefert. Zudem laufen die Vorbereitungen für die Erneuerung der 10er-Gondelbahn Valbiolo.",
-            "source_url": "https://www.alpinforum.com/threads/11916/page-10"
-          }
-        ]
+        "source_url": "https://www.funiforum.org/funiforum/node/259940/page31"
       }
     },
     {
@@ -572,17 +572,7 @@
         "name": "Schöneben–Haideralm / Reschenpass",
         "headline": "Schöneben-Haideralm: Neue Büroräume an der Talstation Schöneben entstehen",
         "summary": "An der Talstation Schöneben werden derzeit neue Räumlichkeiten für die Mitarbeiter des Ski- und Bikeresorts eingerichtet. Große rahmenlose Verglasungen sorgen für moderne, lichtdurchflutete Arbeitsplätze.",
-        "source_url": "https://www.alpinforum.com/threads/22055/page-30",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "05.11.2026 02:03 Uhr",
-            "headline": "Schöneben-Haideralm: Neue 10er-Gondelbahn Reschen Piz-Schöneben im Test",
-            "summary": "Die modernisierte 10er-Gondelbahn Reschen Piz-Schöneben steht kurz vor dem Abschluss der Tests für den Winterstart. Im Skigebiet laufen zudem Überlegungen für künftige Erneuerungen an der Haideralm.",
-            "source_url": "https://www.funiforum.org/funiforum/node/315313/page3",
-            "image_url": "https://www.funiforum.org/immagini_forum/26/20261104140139_Screenshot_20261104_135848_SamsungBrowser.jpg"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/22055/page-30"
       }
     },
     {
@@ -595,7 +585,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Mehliskopf: Betreiber erwägen Stilllegung des großen Doppelschlepplifts",
@@ -659,12 +649,21 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "12.11.2026 02:03 Uhr",
+        "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
-        "headline": "Snow Space Salzburg: Trassenführung und Bergstation des neuen Achterjets konkretisiert",
-        "summary": "Die Planungen für die neue Bergstation der Achterjet-Gondelbahn in Flachau sehen eine Platzierung im Bereich Latschenhof vor. Von dort soll ein Ziehweg die direkte Anbindung an die Rote 8er ermöglichen.",
+        "headline": "Wagrain: Neue 10er-Gondelbahn Grafenbergbahn zur Saison 2026/27 fertig",
+        "summary": "Im Snow Space Salzburg steht die neue Grafenbergbahn bereit für den Winterbetrieb. Die 10er-Gondelbahn befördert künftig bei 6 m/s Fahrgeschwindigkeit und in 120 Kabinen bis zu 3.400 Personen pro Stunde auf den Berg.",
         "source_url": "https://www.alpinforum.com/threads/2511/page-161",
-        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-11-131740-webp.338685/"
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "12.11.2026 02:03 Uhr",
+            "headline": "Snow Space Salzburg: Trassenführung und Bergstation des neuen Achterjets konkretisiert",
+            "summary": "Die Planungen für die neue Bergstation der Achterjet-Gondelbahn in Flachau sehen eine Platzierung im Bereich Latschenhof vor. Von dort soll ein Ziehweg die direkte Anbindung an die Rote 8er ermöglichen.",
+            "source_url": "https://www.alpinforum.com/threads/2511/page-161",
+            "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-11-131740-webp.338685/"
+          }
+        ]
       }
     },
     {
@@ -728,6 +727,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.559721,
+          47.4939211
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Tannheimer Tal / Hahnenkamm Reutte",
+        "headline": "Hahnenkamm Reutte: Beschneiung am Waldrastlift für das kommende Jahr fixiert",
+        "summary": "Die geplante technische Beschneiungsanlage für den Waldrastlift in Ehenbichl wird im kommenden Jahr realisiert. Im Zuge der Baumaßnahmen wird zudem die parallele Installation einer Flutlichtanlage geprüft.",
+        "source_url": "https://www.alpinforum.com/threads/1316/page-13",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmedia04.meinbezirk.at%2Farticle%2F2026%2F11%2F12%2F9%2F53438409_XXL.webp&hash=0a460a987c8b708816dda92191d0fd48&return_error=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8877611,
           47.3989427
         ]
@@ -778,7 +796,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Val Cenis",
         "headline": "Val Cenis: Fortschritte bei den Neubauten Ramasse und Grand Coin",
@@ -843,7 +861,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "4 Vallées / Verbier",
         "headline": "4 Vallées: Stadt Sion veröffentlicht Pläne für neue Talzubringer-Gondelbahn",
@@ -861,7 +879,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Gryon: Volksabstimmung über den Neubau der Gondelbahn Frience",

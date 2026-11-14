@@ -42,36 +42,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5660244,
-          46.7548885
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Arosa Lenzerheide",
-        "headline": "Arosa Lenzerheide: Erster Skibetrieb in Arosa frühestens ab Mitte November",
-        "summary": "Die Bergbahnen Arosa peilen den Start des Wochenend-Skibetriebs frühestens für Samstag, den 14. November an, sofern die Temperaturen in den kommenden Tagen ausreichend Kälte für die Beschneiung bringen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.8171312,
           46.805189
         ]
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "12.11.2026 02:03 Uhr",
+        "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
-        "headline": "Davos Klosters: Parsenn startet am Freitag in die Wintersaison",
-        "summary": "Auf Parsenn öffnen am Freitag die Standseilbahnen 1 & 2 sowie die Sesselbahnen Rapid und Totalp mit den Abfahrten Standard und Totalp.",
-        "source_url": "https://www.alpinforum.com/threads/72642/",
+        "headline": "Davos Klosters: Gelungener Saisonauftakt mit perfekten Pisten am Parsenn",
+        "summary": "Erstklassiger Saisonstart auf Parsenn: Die Totalp-Piste präsentiert sich völlig steinfrei und in Top-Zustand, am Höhenweg ist es noch etwas unruhig und hart. Zudem herrscht abseits des Tiroler Trubels angenehme Leere.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
+        "image_url": "https://alpinfans.com/download/file.php?id=126364&mode=view",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "12.11.2026 02:03 Uhr",
+            "headline": "Davos Klosters: Parsenn startet am Freitag in die Wintersaison",
+            "summary": "Auf Parsenn öffnen am Freitag die Standseilbahnen 1 & 2 sowie die Sesselbahnen Rapid und Totalp mit den Abfahrten Standard und Totalp.",
+            "source_url": "https://www.alpinforum.com/threads/72642/"
+          },
           {
             "recency": "weekly",
             "timestamp": "10.11.2026 02:03 Uhr",
@@ -99,25 +89,6 @@
         "summary": "Auf den hochgelegenen Pisten am Titlis-Gletscher präsentiert sich die geöffnete Schneedecke kompakt und griffig. Trotz des längeren Anfahrtswegs über die Zubringerbahnen bot der sonnige Skitag am Gletscher sehr gute Schwünge ohne spürbare Vereisungen.",
         "source_url": "https://www.alpinforum.com/threads/72709/",
         "image_url": "https://www.alpinforum.com/attachments/img_5245-webp.338588/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9547281,
-          50.4291364
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Erzgebirge / Fichtelberg",
-        "headline": "Erzgebirge: Probebetrieb der Sesselbahnen am Keilberg gestartet",
-        "summary": "Nach Schneefällen oberhalb von 800 Metern lief am Keilberg im Erzgebirge bereits der Testbetrieb der Sesselbahnen. Bei Bozi Dar war zudem der Snowmaker zur Schneeerzeugung im Einsatz.",
-        "source_url": "https://www.alpinforum.com/threads/72645/",
-        "image_url": "https://www.alpinforum.com/attachments/img_8280-photokomp1-webp.338404/"
       }
     },
     {
@@ -162,14 +133,6 @@
             "summary": "Während hoch oben auf dem Gletscher das Skifahren gut möglich ist, zeigen sich an steileren Abschnitten und im Tagesverlauf vermehrt Eissuren und Steine.",
             "source_url": "https://www.alpinforum.com/threads/72464/page-5",
             "image_url": "https://www.alpinforum.com/attachments/20261105_091607-webp.338415/"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "05.11.2026 02:03 Uhr",
-            "headline": "Hintertuxer Gletscher: Öffnung des Kaserer 2 erweitert das Pistenangebot",
-            "summary": "Am Hintertuxer Gletscher geht der Kaserer-2-Lift in Betrieb. Trotz vereinzelter Steine im Einfahrtsbereich herrschen bei geringem Andrang auf den Gletscherpisten sehr gute Wintersportbedingungen.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=4260",
-            "image_url": "https://media.alpinfans.com/live/59/20261104-215709-11044c12_l.jpg"
           }
         ]
       }
@@ -184,13 +147,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
-        "headline": "Schilthorn: Beschneiung läuft am Mürren-Schilthorn auf Hochtouren",
-        "summary": "Am Schilthorn sorgen kalte Temperaturen für intensive Beschneiung im Bereich Mürren und Riggli. Der obere Ziehweg zeigt sich dank Technoschnee in deutlich verbessertem und griffigem Zustand.",
-        "source_url": "https://www.alpinforum.com/threads/72493/",
-        "image_url": "https://media.alpinfans.com/live/255/20261108-085413-56be794a_l.jpg"
+        "headline": "Jungfrau Region: Schneefall bis Mürren und intensive Beschneiung an der Kleinen Scheidegg",
+        "summary": "Nach vorangegangener Milde ist die Schneefallgrenze wieder bis unterhalb von Mürren gefallen. Im Bereich Eigergletscher, Black Rock und Wixi laufen die Beschneiungsanlagen bei klirrender Kälte auf Hochtouren.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
+        "image_url": "https://alpinfans.com/download/file.php?id=126405&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "10.11.2026 02:03 Uhr",
+            "headline": "Schilthorn: Beschneiung läuft am Mürren-Schilthorn auf Hochtouren",
+            "summary": "Am Schilthorn sorgen kalte Temperaturen für intensive Beschneiung im Bereich Mürren und Riggli. Der obere Ziehweg zeigt sich dank Technoschnee in deutlich verbessertem und griffigem Zustand.",
+            "source_url": "https://www.alpinforum.com/threads/72493/",
+            "image_url": "https://media.alpinfans.com/live/255/20261108-085413-56be794a_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -290,6 +263,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.3119292,
+          47.3708539
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Oberstdorf / Kleinwalsertal",
+        "headline": "Oberstdorf: Schneeerzeuger am Nebelhorn in Betrieb genommen",
+        "summary": "Nachdem es im Tal zunächst noch mild war, haben die Minustemperaturen in den Hochlagen Einzug gehalten: In der Mulde am Nebelhorn wurde die technische Beschneiung offiziell gestartet.",
+        "source_url": "https://www.alpinforum.com/threads/72486/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.2881895,
           47.0097538
         ]
@@ -318,17 +309,7 @@
         "name": "Pitztaler Gletscher",
         "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
         "summary": "Auf dem Pitztaler Gletscher bieten Mittelberg und Brunnenkogel gute Pistenbedingungen mit nur wenigen harten Abschnitten, während die Zufahrt über die Stollenbahn am Wochenende zu rund einstündigen Wartezeiten führte und Pistenareale für Trainingsteams reserviert waren.",
-        "source_url": "https://www.alpinforum.com/threads/72462/page-3",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "05.11.2026 02:03 Uhr",
-            "headline": "Pitztaler Gletscher: Sehr gute Bedingungen an der Wildspitze",
-            "summary": "Am Pitztaler Gletscher präsentieren sich die Pisten an der Wildspitzbahn in sehr gutem Zustand. Zur Erweiterung des Angebots laufen die Präparationsarbeiten für die Piste an der Mittelbergbahn.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=150",
-            "image_url": "https://media.alpinfans.com/live/1458/20261104-155630-0a7e1791_l.jpg"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/72462/page-3"
       }
     },
     {
@@ -365,12 +346,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.9157865,
+          47.4443516
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Schladming 4 Berge",
+        "headline": "Schladming 4 Berge: Vollbetrieb der Schneeerzeuger auf Planai, Reiteralm und Kaibling",
+        "summary": "Die Minustemperaturen werden in der Region Schladming voll ausgenutzt: Auf der Planai, Reiteralm, dem Hauser Kaibling und selbst auf den Loipen in Ramsau laufen die Schneekanonen unter Hochdruck, während die Pistengeräte bereitstehen.",
+        "source_url": "https://www.alpinforum.com/threads/72491/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1404336,
+          47.1826543
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Ski Arlberg",
+        "headline": "Ski Arlberg: Massive Grundbeschneiung in Lech angelaufen",
+        "summary": "Mit dem Kälteeinbruch laufen die Schneeerzeuger am Arlberg auf Hochtouren. Insbesondere im Bereich Lech Zürs nutzen die Bergbahnen das aktuelle Schneifenster mit maximaler Kanonendichte für die Grundpräparation.",
+        "source_url": "https://www.alpinforum.com/threads/72460/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.0072845,
           46.9666319
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "12.11.2026 02:03 Uhr",
         "name": "Sölden",
         "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
@@ -386,6 +403,24 @@
             "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4532056,
+          46.5286176
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Stilfserjoch / Passo dello Stelvio",
+        "headline": "Stilfserjoch: Rekordsommer mit über 180.000 Eintritten trotz Hitzewelle",
+        "summary": "Die Sommersaison 2026 am Passo dello Stelvio verzeichnete historische Rekorde: Insgesamt wurden 183.890 Ersteintritte auf den Gletscherskipisten gezählt, begleitet von 55 Bergrettungseinsätzen und einer temporären Hitzeschließung.",
+        "source_url": "https://www.alpinforum.com/threads/72468/page-2"
       }
     },
     {
@@ -431,36 +466,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.276507,
-          46.1003545
+          6.5666055,
+          45.399064
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "4 Vallées / Verbier",
-        "headline": "4 Vallées: Saisonstart am Lac des Vaux und Beschneiungsarbeiten",
-        "summary": "In den 4 Vallées liefen die Schneekanonen am Lac des Vaux intensiver als zuletzt, um das bevorstehende Wochenende für den ersten Skibetrieb vorzubereiten. Auch im Sektor Attelas wird beschneit.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3918",
-        "image_url": "https://alpinfans.com/download/file.php?id=126032"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.054939392135699,
-          46.30370202011029
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "05.11.2026 02:03 Uhr",
-        "name": "Villars/Gryon/Les Diablerets",
-        "headline": "Glacier 3000: Eröffnung der Gletscherlifte für das Wochenende geplant",
-        "summary": "Auf Glacier 3000 laufen die Vorbereitungen für den Schneesportstart am Samstag. Voraussichtlich gehen die Sesselbahn Glacier Express sowie die Skilifte Dôme und Tsanfleuron in Betrieb.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3957"
+        "recency": "breaking",
+        "timestamp": "14.11.2026 02:03 Uhr",
+        "name": "Les Trois Vallées",
+        "headline": "Val Thorens: Saisonstart am 21. November offiziell bestätigt",
+        "summary": "Trotz vorangegangener milder Tage wurde die Eröffnung in Val Thorens für den 21. November fixiert. Eine aktuelle Kaltphase wird intensiv genutzt, um mit Vollbeschneiung eine tragfähige Unterlage vor dem nächsten Südföhn aufzubauen.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=12978&st=2460"
       }
     },
     {
@@ -474,12 +490,19 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "12.11.2026 02:03 Uhr",
+        "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Matterhorn Ski Paradise: Sieben neue Skirouten für die Ski Safari ausgewiesen",
-        "summary": "In Zermatt werden im Rahmen der Ski Safari ab sofort sieben neue gekennzeichnete Skirouten für Wintersportler angeboten.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650",
+        "headline": "Cervinia: Weitere Pistenöffnungen und Vorbereitung der Piste 81",
+        "summary": "Nach ergiebigen Schneefällen ist das Gebiet rund um Breuil-Cervinia komplett eingewintert. Neben den Vorbereitungen für die Piste 81 steht auch der Bereich Pancheron vor der Freigabe, Talabfahrten rücken in greifbare Nähe.",
+        "source_url": "https://www.alpinforum.com/threads/72469/page-2",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "12.11.2026 02:03 Uhr",
+            "headline": "Matterhorn Ski Paradise: Sieben neue Skirouten für die Ski Safari ausgewiesen",
+            "summary": "In Zermatt werden im Rahmen der Ski Safari ab sofort sieben neue gekennzeichnete Skirouten für Wintersportler angeboten.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650"
+          },
           {
             "recency": "weekly",
             "timestamp": "08.11.2026 02:03 Uhr",
@@ -494,13 +517,6 @@
             "headline": "Schneefall bis in italienische Tallagen im Matterhorn-Gebiet",
             "summary": "Ein Wetterumschwung hat auf der italienischen Seite in Valtournenche und Breuil-Cervinia Schneefall bis in die Täler gebracht. Auch wenn es in Zermatt im Tal noch nicht ganz gereicht hat, sorgt der Neuschnee an den Berghängen für winterliche Verhältnisse.",
             "source_url": "https://www.alpinforum.com/threads/72469/"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "05.11.2026 02:03 Uhr",
-            "headline": "Zermatt: Piste 71 am Theodulgletscher wegen Gletscherschmelze gesperrt",
-            "summary": "Aufgrund des starken Gletscherrückgangs ist am Furggsattel ein Felsriegel mitten in der Piste 71 aufgetaucht. Der obere Pistenabschnitt kann daher in dieser Saison nicht mehr geöffnet werden.",
-            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=10009&st=360"
           }
         ]
       }
