@@ -47,7 +47,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Gelungener Saisonauftakt mit perfekten Pisten am Parsenn",
@@ -124,17 +124,7 @@
         "name": "Hintertuxer Gletscher",
         "headline": "Hintertuxer Gletscher: Abfahrt zur Sommerbergalm freigegeben",
         "summary": "Das Pistenangebot am Hintertuxer Gletscher erweitert sich weiter. Ab sofort ist die Talabfahrt bis hinunter zur Sommerbergalm offiziell für den Skibetrieb geöffnet.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=300",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "06.11.2026 02:03 Uhr",
-            "headline": "Herbstskilauf am Hintertuxer Gletscher mit unterschiedlichen Bedingungen",
-            "summary": "Während hoch oben auf dem Gletscher das Skifahren gut möglich ist, zeigen sich an steileren Abschnitten und im Tagesverlauf vermehrt Eissuren und Steine.",
-            "source_url": "https://www.alpinforum.com/threads/72464/page-5",
-            "image_url": "https://www.alpinforum.com/attachments/20261105_091607-webp.338415/"
-          }
-        ]
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=300"
       }
     },
     {
@@ -147,7 +137,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Jungfrau Region: Schneefall bis Mürren und intensive Beschneiung an der Kleinen Scheidegg",
@@ -171,25 +161,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7045488,
-          46.8541825
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
-        "name": "Kaunertaler Gletscher",
-        "headline": "Entspannter Skibetrieb und gute Pisten am Kaunertaler Gletscher",
-        "summary": "Am Kaunertaler Gletscher sind die Karlesjochbahn und das Funifor in Betrieb; die Verhältnisse auf den geöffneten Pisten sind für den Saisonstart solide.",
-        "source_url": "https://www.alpinforum.com/threads/72463/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/img_0003-webp.338431/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.3972359,
           47.3664103
         ]
@@ -201,25 +172,6 @@
         "headline": "KitzSki startet am Resterkogel in die Wintersaison",
         "summary": "Als erstes Nicht-Gletscherskigebiet nimmt KitzSki am Resterkogel den Skibetrieb für das Trainingscenter auf. Dank vorab konserviertem Schneedepots und frühwinterlichen Verhältnissen herrschen gute Bedingungen für die ersten Schwünge der Saison.",
         "source_url": "https://www.alpinforum.com/threads/72632/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.756534,
-          47.27388
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
-        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
-        "headline": "Gutes Pistenangebot am Kitzsteinhorn bei herbstlicher Kulisse",
-        "summary": "Das Kitzsteinhorn präsentiert sich zum Saisonbeginn mit einer Mischung aus Kunst- und Naturschnee, wobei die neuen Schneilanzen wertvolle Dienste leisten.",
-        "source_url": "https://www.alpinforum.com/threads/72419/page-3",
-        "image_url": "https://www.alpinforum.com/attachments/1a6bb974-6e26-4225-9374-fe4e53040c79_4_5005_c-webp.338405/"
       }
     },
     {
@@ -268,7 +220,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Oberstdorf / Kleinwalsertal",
         "headline": "Oberstdorf: Schneeerzeuger am Nebelhorn in Betrieb genommen",
@@ -317,6 +269,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.6519221,
+          47.406831
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "15.11.2026 02:03 Uhr",
+        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
+        "headline": "Fieberbrunn: Intensiver Beschneiungsstart am Streuböden",
+        "summary": "Im Skicircus laufen in Fieberbrunn am Streuböden und Doischberg die Schneeerzeuger auf Hochtouren, um eine solide Grundpräparierung aufzubauen.",
+        "source_url": "https://www.alpinforum.com/threads/72736/",
+        "image_url": "https://www.alpinforum.com/attachments/20261114_112603-webp.338783/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.9247055,
           46.107342
         ]
@@ -328,17 +299,7 @@
         "headline": "Saastal: Früher Skibetrieb am Allalin mit griffigen Pisten und vereinzelten Eisstellen",
         "summary": "In Saas-Fee herrschen im Gletscherbereich gute Bedingungen auf kompaktem Maschinenschnee, wobei im steilen Hangabschnitt stellenweise Blankeis hervortritt. Am Nachmittag werden die Pisten weicher, die Wartezeiten an den Allalin-Schleppliften bleiben bei guter Wetterlage überschaubar.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=4276",
-        "image_url": "https://media.alpinfans.com/live/59/20261107-110046-e6c757a4_l.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "06.11.2026 02:03 Uhr",
-            "headline": "Erweiterung des Skibetriebs im Saastal mit der Sesselbahn Morenia",
-            "summary": "In Saas-Fee öffnet ab dem Wochenende zusätzlich die 6er-Sesselbahn Morenia, während der anhaltende Gletscherschwund weiter Diskussionen auslöst.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3907&start=25",
-            "image_url": "https://alpinfans.com/download/file.php?id=126060&mode=view"
-          }
-        ]
+        "image_url": "https://media.alpinfans.com/live/59/20261107-110046-e6c757a4_l.jpg"
       }
     },
     {
@@ -351,7 +312,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
         "headline": "Schladming 4 Berge: Vollbetrieb der Schneeerzeuger auf Planai, Reiteralm und Kaibling",
@@ -364,12 +325,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.0189339,
+          47.8563733
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "15.11.2026 02:03 Uhr",
+        "name": "Schwarzwald / Feldberg",
+        "headline": "Schwarzwald: Erste Lanzen am Weißenbachlift in Betrieb",
+        "summary": "Bei frostigen Temperaturen von knapp minus 10 Grad liefen in Schönwald am Weißenbachlift die ersten Schneeerzeuger für den Winterbetrieb.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.1404336,
           47.1826543
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Ski Arlberg",
         "headline": "Ski Arlberg: Massive Grundbeschneiung in Lech angelaufen",
@@ -392,17 +371,7 @@
         "name": "Sölden",
         "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
         "summary": "Dank des Ausbaus der künstlichen Beschneiung kann die Verbindung zwischen Giggijoch und Gaislachkogel in dieser Saison ein bis zwei Wochen früher als gewöhnlich freigegeben werden.",
-        "source_url": "https://www.alpinforum.com/threads/72461/page-9",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "06.11.2026 02:03 Uhr",
-            "headline": "Ausgezeichnete Bedingungen und Top-Verhältnisse am Giggijoch",
-            "summary": "Sölden bietet zum Saisonauftakt hervorragende Bedingungen auf den vollständig präparierten Pisten im Gletscherbereich.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=75",
-            "image_url": "https://alpinfans.com/download/file.php?id=126042&mode=view"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/72461/page-9"
       }
     },
     {
@@ -415,7 +384,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Stilfserjoch / Passo dello Stelvio",
         "headline": "Stilfserjoch: Rekordsommer mit über 180.000 Eintritten trotz Hitzewelle",
@@ -433,13 +402,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "06.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "15.11.2026 02:03 Uhr",
         "name": "Stubaier Gletscher",
-        "headline": "Gute Pistenqualität und breites Angebot am Stubaier Gletscher",
-        "summary": "Der Stubaier Gletscher bietet dank intensiver Vorbereitung und Beschneiung ein vielfältiges und breites Pistenangebot auf den geöffneten Gletscherhängen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=125",
-        "image_url": "https://alpinfans.com/download/file.php?id=126048&mode=view"
+        "headline": "Stubaier Gletscher: Erste Schwünge an der geöffneten Fernaubahn",
+        "summary": "Mit der Öffnung des Fernau-Sektors standen den Wintersportlern erste Pulverschnee-Abfahrten zur Verfügung. Die Pisten zeigen sich gut präpariert.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=150",
+        "image_url": "https://alpinfans.com/download/file.php?id=126448&mode=view"
       }
     },
     {
@@ -466,12 +435,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.5842617,
+          46.5280433
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "15.11.2026 02:03 Uhr",
+        "name": "Sulden am Ortler / Solda all'Ortles",
+        "headline": "Sulden am Ortler: Neuschnee sorgt für beste Winterbedingungen",
+        "summary": "Gut 20 Zentimeter Neuschnee haben den Pisten im Madritschgebiet sehr gut getan. Die Verhältnisse präsentieren sich hochwinterlich, die Öffnung des Kanzel-Sektors steht bevor.",
+        "source_url": "https://www.alpinforum.com/threads/72466/page-2",
+        "image_url": "https://www.alpinforum.com/attachments/img_0881-webp.338810/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.5666055,
           45.399064
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Les Trois Vallées",
         "headline": "Val Thorens: Saisonstart am 21. November offiziell bestätigt",
@@ -484,12 +472,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "15.11.2026 02:03 Uhr",
+        "name": "4 Vallées / Verbier",
+        "headline": "4 Vallées: Gute Schneelage auf den Pisten zu Les Ruinettes",
+        "summary": "Oberhalb von Verbier ist die Abfahrt bis Les Ruinettes bereits gut mit Schnee bedeckt und wird von ersten Fahrern intensiv befahren.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "14.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Cervinia: Weitere Pistenöffnungen und Vorbereitung der Piste 81",
