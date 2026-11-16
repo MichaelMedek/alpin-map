@@ -77,6 +77,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.7179812,
+          46.5320704
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "16.11.2026 02:03 Uhr",
+        "name": "Dreiländereck / Arnoldstein",
+        "headline": "Dreiländereck: Beschneiungsstart und Wiederinbetriebnahme zweier Lifte",
+        "summary": "Am Dreiländereck bei Arnoldstein wurden die tiefen Temperaturen genutzt, um im oberen Bereich die Schneeerzeuger anzuwerfen. In der neuen Saison sollen nach längerer Pause sowohl der Hahnenwipfellift als auch der Kurvenlift wieder öffnen.",
+        "source_url": "https://www.alpinforum.com/threads/72743/",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2FFRTYbWFf%2F6d782f7b-823c-4930-b0bc-7ed071dd7684.jpg&hash=649bb91b22dd4805526d4966ab69ebd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.4043996,
           46.8223497
         ]
@@ -161,17 +180,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3972359,
-          47.3664103
+          10.7045488,
+          46.8541825
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "07.11.2026 02:03 Uhr",
-        "name": "Kitzbühel / Kirchberg",
-        "headline": "KitzSki startet am Resterkogel in die Wintersaison",
-        "summary": "Als erstes Nicht-Gletscherskigebiet nimmt KitzSki am Resterkogel den Skibetrieb für das Trainingscenter auf. Dank vorab konserviertem Schneedepots und frühwinterlichen Verhältnissen herrschen gute Bedingungen für die ersten Schwünge der Saison.",
-        "source_url": "https://www.alpinforum.com/threads/72632/"
+        "recency": "breaking",
+        "timestamp": "16.11.2026 02:03 Uhr",
+        "name": "Kaunertaler Gletscher",
+        "headline": "Kaunertaler Gletscher: Gute Griffigkeit und Skibetrieb bis zur Ochsenalm 2",
+        "summary": "Am Kaunertaler Gletscher präsentieren sich die Pisten am Karlesjoch und an der Ochsenalm 2 griffig und in gutem Zustand. Am Fernerlift ist für den Publikumsverkehr vor allem die blaue Piste geöffnet, während Trainingsgruppen weite Abschnitte nutzen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=75",
+        "image_url": "https://media.alpinfans.com/live/58/20261115-134437-fb2e0409_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756534,
+          47.27388
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "16.11.2026 02:03 Uhr",
+        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
+        "headline": "Kitzsteinhorn: Schöner Pulverschnee im oberen Bereich trotz starkem Andrang",
+        "summary": "Auf dem Kitzsteinhorn herrschen an den oberen Hängen pulvrige Pistenverhältnisse ohne Steine. Durch die hohe Auslastung am Wochenende bildeten sich an den Zubringern und am Alpincenter teils längere Wartezeiten.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3943&start=25",
+        "image_url": "https://alpinfans.com/download/file.php?id=126465&mode=view"
       }
     },
     {
@@ -274,7 +313,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "15.11.2026 02:03 Uhr",
         "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
         "headline": "Fieberbrunn: Intensiver Beschneiungsstart am Streuböden",
@@ -330,7 +369,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "15.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Schwarzwald: Erste Lanzen am Weißenbachlift in Betrieb",
@@ -366,12 +405,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "12.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
-        "summary": "Dank des Ausbaus der künstlichen Beschneiung kann die Verbindung zwischen Giggijoch und Gaislachkogel in dieser Saison ein bis zwei Wochen früher als gewöhnlich freigegeben werden.",
-        "source_url": "https://www.alpinforum.com/threads/72461/page-9"
+        "headline": "Sölden: Anspruchsvolle Verhältnisse mit eisigen Passagen und Neuschnee",
+        "summary": "Im Gletscherskigebiet von Sölden wechseln griffige Hänge wie am Seiterjöchl mit zunehmend abgerutschten und knolligen Abschnitten am Tiefenbach-Schlusshang. Am Nachmittag setzte oberhalb leichter Neuschneefall ein.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=125",
+        "image_url": "https://media.alpinfans.com/live/59/20261115-103835-c5f10371_l.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "12.11.2026 02:03 Uhr",
+            "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
+            "summary": "Dank des Ausbaus der künstlichen Beschneiung kann die Verbindung zwischen Giggijoch und Gaislachkogel in dieser Saison ein bis zwei Wochen früher als gewöhnlich freigegeben werden.",
+            "source_url": "https://www.alpinforum.com/threads/72461/page-9"
+          }
+        ]
       }
     },
     {
@@ -402,7 +451,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "15.11.2026 02:03 Uhr",
         "name": "Stubaier Gletscher",
         "headline": "Stubaier Gletscher: Erste Schwünge an der geöffneten Fernaubahn",
@@ -440,7 +489,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "15.11.2026 02:03 Uhr",
         "name": "Sulden am Ortler / Solda all'Ortles",
         "headline": "Sulden am Ortler: Neuschnee sorgt für beste Winterbedingungen",
@@ -472,12 +521,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.689913,
+          44.5938264
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "16.11.2026 02:03 Uhr",
+        "name": "Vars / Risoul",
+        "headline": "Vars / Risoul: Erste Schneefälle bringen winterliche Vorboten im Forêt Blanche",
+        "summary": "In der französische Skiregion Forêt Blanche haben erste ergiebige Schneefälle für eine weiße Landschaft gesorgt. Für den flächendeckenden Beschneiungsstart wird noch auf dauerhaft tiefere Minustemperaturen gewartet.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=8745&st=11180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.276507,
           46.1003545
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "15.11.2026 02:03 Uhr",
         "name": "4 Vallées / Verbier",
         "headline": "4 Vallées: Gute Schneelage auf den Pisten zu Les Ruinettes",
@@ -516,13 +583,6 @@
             "summary": "Am Übergang vom Gletscher ins Gelände am Theodulgletscher und der oberen Ventina-Piste ist die Ausaperung durch den Sommer unübersehbar. Für eine zusammenhängende und sichere Präparierung im italienischen Teil werden vor dem Winterstart noch deutliche Schneefälle benötigt.",
             "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=100",
             "image_url": "https://alpinfans.com/download/file.php?id=126185&mode=view"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "07.11.2026 02:03 Uhr",
-            "headline": "Schneefall bis in italienische Tallagen im Matterhorn-Gebiet",
-            "summary": "Ein Wetterumschwung hat auf der italienischen Seite in Valtournenche und Breuil-Cervinia Schneefall bis in die Täler gebracht. Auch wenn es in Zermatt im Tal noch nicht ganz gereicht hat, sorgt der Neuschnee an den Berghängen für winterliche Verhältnisse.",
-            "source_url": "https://www.alpinforum.com/threads/72469/"
           }
         ]
       }
