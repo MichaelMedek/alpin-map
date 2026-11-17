@@ -77,12 +77,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.356835,
+          46.697662
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
+        "headline": "3 Zinnen Dolomiten: Vollbetrieb der Schneekanonen vor der Eröffnung am 28. November",
+        "summary": "Die Pistencrews im Hochpustertal nutzen jedes Kältefenster konsequent aus, um die Abfahrten rechtzeitig zum geplanten Winteropening am 28. November bestens vorzubereiten.",
+        "source_url": "https://www.alpinforum.com/threads/72748/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.7179812,
           46.5320704
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Dreiländereck / Arnoldstein",
         "headline": "Dreiländereck: Beschneiungsstart und Wiederinbetriebnahme zweier Lifte",
@@ -126,6 +144,24 @@
         "headline": "Flims Laax Falera: Vorab-Gletscher nach Hitzesommer vor Herausforderungen",
         "summary": "Der markante Gletscherrückgang und stark abgeschmolzene Schneedepots erschweren die Pistenpräparation und Lifttrassierung am Vorab-Gletscher spürbar; die Webcams liefern wieder Bilder, während das Gebiet dringend auf frischen Naturschnee wartet.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3901&start=50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573539,
+          46.176183
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Grimentz/Zinal",
+        "headline": "Grimentz-Zinal: Saisonstart auf den 28. November verschoben, Trainingsbetrieb in Sorebois",
+        "summary": "Aufgrund der Wetterlage wurde der Saisonauftakt im Val d'Anniviers um eine Woche verlegt; im hochgelegenen Sektor Sorebois trainieren die Rennteams bereits auf kompakten Pisten.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3916"
       }
     },
     {
@@ -185,7 +221,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Kaunertaler Gletscher",
         "headline": "Kaunertaler Gletscher: Gute Griffigkeit und Skibetrieb bis zur Ochsenalm 2",
@@ -204,7 +240,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Kitzsteinhorn/Maiskogel – Kaprun",
         "headline": "Kitzsteinhorn: Schöner Pulverschnee im oberen Bereich trotz starkem Andrang",
@@ -218,17 +254,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.958311,
-          46.7387791
+          8.4741614,
+          46.9391136
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
-        "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: Schlepplift Pichl im Gsiesertal startet für Trainingsgruppen",
-        "summary": "Dank intensiver Grundbeschneiung während der kalten Nächte kann der zum Verbund gehörende Schlepplift Pichl im Gsiesertal bereits Anfang November den Betrieb für erste alpine Renngruppen und Trainingsmannschaften freigeben.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3906"
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Klewenalp–Stockhütte",
+        "headline": "Klewenalp: Schneeerzeuger am Klewenboden für kalte Tage positioniert",
+        "summary": "Am Klewenboden wurden die Schneekanonen platziert und testweise hochgefahren, um nach dem Durchzug der milden Wetterphase zügig mit der Grundbeschneiung zu starten.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3904"
       }
     },
     {
@@ -236,17 +272,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.051586,
-          46.980487
+          14.0571311,
+          47.0773706
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
-        "name": "Mölltaler Gletscher",
-        "headline": "Mölltaler Gletscher: Kärntner Skisaison mit zwei Pisten eröffnet",
-        "summary": "Als erstes Skigebiet in Kärnten hat der Mölltaler Gletscher den Skibetrieb aufgenommen. Zunächst sind zwei Pisten im oberen Gletscherbereich geöffnet, während an der Beschneiung und Vorbereitung weiterer Hänge für die kommenden Wochen gearbeitet wird.",
-        "source_url": "https://www.alpinforum.com/threads/72484/page-2"
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Kreischberg",
+        "headline": "Kreischberg: Frostiges Wetterfenster für massive Grundbeschneiung genutzt",
+        "summary": "Das Beschneiungsteam am steirischen Kreischberg hat die frostigen Nachttemperaturen voll ausgeschöpft und eine solide Schneebasis für den kommenden Saisonstart aufgebaut.",
+        "source_url": "https://www.alpinforum.com/threads/72750/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8392428,
+          46.4978958
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Oberengadin / St. Moritz",
+        "headline": "St. Moritz: Corvatsch startet am Wochenende mit kompaktem Teilangebot",
+        "summary": "Zum Saisonauftakt auf dem Corvatsch öffnen die Lifte Alp Surlej, Curtinella und Mandra mit je einer Piste; der Gipfelbereich und die Talabfahrt bleiben vorerst noch geschlossen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3903"
       }
     },
     {
@@ -327,25 +381,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.9247055,
-          46.107342
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "08.11.2026 02:03 Uhr",
-        "name": "Saastal",
-        "headline": "Saastal: Früher Skibetrieb am Allalin mit griffigen Pisten und vereinzelten Eisstellen",
-        "summary": "In Saas-Fee herrschen im Gletscherbereich gute Bedingungen auf kompaktem Maschinenschnee, wobei im steilen Hangabschnitt stellenweise Blankeis hervortritt. Am Nachmittag werden die Pisten weicher, die Wartezeiten an den Allalin-Schleppliften bleiben bei guter Wetterlage überschaubar.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=4276",
-        "image_url": "https://media.alpinfans.com/live/59/20261107-110046-e6c757a4_l.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9157865,
           47.4443516
         ]
@@ -387,12 +422,58 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Ski Arlberg",
-        "headline": "Ski Arlberg: Massive Grundbeschneiung in Lech angelaufen",
-        "summary": "Mit dem Kälteeinbruch laufen die Schneeerzeuger am Arlberg auf Hochtouren. Insbesondere im Bereich Lech Zürs nutzen die Bergbahnen das aktuelle Schneifenster mit maximaler Kanonendichte für die Grundpräparation.",
-        "source_url": "https://www.alpinforum.com/threads/72460/"
+        "headline": "Ski Arlberg: Breitflächige Pistenbeschneiung vor dem Eröffnungswochenende",
+        "summary": "In St. Anton, Lech und Zürs liefen die Schneeerzeuger in den Frostnächten auf Hochtouren, um das Fundament für das geplante Eröffnungswochenende ab dem 4. Dezember zu legen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3939",
+        "image_url": "https://alpinfans.com/download/file.php?id=126478&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "14.11.2026 02:03 Uhr",
+            "headline": "Ski Arlberg: Massive Grundbeschneiung in Lech angelaufen",
+            "summary": "Mit dem Kälteeinbruch laufen die Schneeerzeuger am Arlberg auf Hochtouren. Insbesondere im Bereich Lech Zürs nutzen die Bergbahnen das aktuelle Schneifenster mit maximaler Kanonendichte für die Grundpräparation.",
+            "source_url": "https://www.alpinforum.com/threads/72460/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.957011,
+          47.378266
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Ski Juwel Alpbachtal Wildschönau",
+        "headline": "Ski Juwel Alpbachtal Wildschönau: Vorbereitungsarbeiten laufen auf Hochtouren",
+        "summary": "Hinter den Kulissen und auf den Pisten laufen im Alpbachtal und in der Wildschönau alle Vorkehrungen, um pünktlich am 4. Dezember in die neue Wintersaison zu starten.",
+        "source_url": "https://www.alpinforum.com/threads/72749/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2490297,
+          47.4578352
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "SkiWelt Wilder Kaiser-Brixental",
+        "headline": "SkiWelt Wilder Kaiser: Schneekanonen und Neuschnee schaffen solide Pistenbasis",
+        "summary": "In Scheffau sorgten eisige Temperaturen, intensiver Kunstschneeeinsatz und willkommener Neuschnee für optimale Bedingungen bei der Vorbereitung der Pisten.",
+        "source_url": "https://www.alpinforum.com/threads/72688/"
       }
     },
     {
@@ -405,7 +486,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Sölden",
         "headline": "Sölden: Anspruchsvolle Verhältnisse mit eisigen Passagen und Neuschnee",
@@ -521,12 +602,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.8764531,
+          46.9131659
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
+        "name": "Turracher Höhe",
+        "headline": "Turracher Höhe: Intensive Schneeerzeugung für den Saisonstart am 28. November",
+        "summary": "Auf der Turracher Höhe laufen die Schneeerzeuger auf Hochtouren; vor allem am Wildkopflift und an der Zirbenwaldbahn präsentiert sich die Unterlage bereits in vielversprechendem Zustand.",
+        "source_url": "https://www.alpinforum.com/threads/72746/",
+        "image_url": "https://www.alpinforum.com/attachments/20261114_140924-webp.338945/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.689913,
           44.5938264
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "16.11.2026 02:03 Uhr",
         "name": "Vars / Risoul",
         "headline": "Vars / Risoul: Erste Schneefälle bringen winterliche Vorboten im Forêt Blanche",
@@ -562,27 +662,26 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Cervinia: Weitere Pistenöffnungen und Vorbereitung der Piste 81",
-        "summary": "Nach ergiebigen Schneefällen ist das Gebiet rund um Breuil-Cervinia komplett eingewintert. Neben den Vorbereitungen für die Piste 81 steht auch der Bereich Pancheron vor der Freigabe, Talabfahrten rücken in greifbare Nähe.",
-        "source_url": "https://www.alpinforum.com/threads/72469/page-2",
+        "headline": "Cervinia: Sesselbahn Pancheron öffnet mit zwei Abfahrten und Snowpark",
+        "summary": "Auf italienischer Seite im Matterhorn Ski Paradise gehen am Mittwoch die Sesselbahn Pancheron sowie die Pisten 26 und 29 in Betrieb, während in Zermatt kalte Nächte zur Pistenbeschneiung genutzt werden.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=125",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "14.11.2026 02:03 Uhr",
+            "headline": "Cervinia: Weitere Pistenöffnungen und Vorbereitung der Piste 81",
+            "summary": "Nach ergiebigen Schneefällen ist das Gebiet rund um Breuil-Cervinia komplett eingewintert. Neben den Vorbereitungen für die Piste 81 steht auch der Bereich Pancheron vor der Freigabe, Talabfahrten rücken in greifbare Nähe.",
+            "source_url": "https://www.alpinforum.com/threads/72469/page-2"
+          },
           {
             "recency": "weekly",
             "timestamp": "12.11.2026 02:03 Uhr",
             "headline": "Matterhorn Ski Paradise: Sieben neue Skirouten für die Ski Safari ausgewiesen",
             "summary": "In Zermatt werden im Rahmen der Ski Safari ab sofort sieben neue gekennzeichnete Skirouten für Wintersportler angeboten.",
             "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "08.11.2026 02:03 Uhr",
-            "headline": "Matterhorn Ski Paradise: Herausfordernde Übergänge am Gletscherrand der Ventina",
-            "summary": "Am Übergang vom Gletscher ins Gelände am Theodulgletscher und der oberen Ventina-Piste ist die Ausaperung durch den Sommer unübersehbar. Für eine zusammenhängende und sichere Präparierung im italienischen Teil werden vor dem Winterstart noch deutliche Schneefälle benötigt.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=100",
-            "image_url": "https://alpinfans.com/download/file.php?id=126185&mode=view"
           }
         ]
       }
