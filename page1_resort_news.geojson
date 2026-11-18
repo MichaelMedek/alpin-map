@@ -129,7 +129,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Braunwald",
         "headline": "Braunwald: Helikopter transportiert Schneekanone auf den Seblengrat",
@@ -147,12 +147,39 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Crans-Montana",
-        "headline": "Crans-Montana und Lenk: Machbarkeitsstudie für 3S-Gipfelverbindung vorgelegt",
-        "summary": "Für das grenzüberschreitende Großprojekt einer Seilbahnverbindung zwischen Lenk im Simmental und dem Funitel Plaine Morte in Crans-Montana liegt eine erste Machbarkeitsstudie vor. Diskutiert wird ein 3S-System mit einem geschätzten Investitionsrahmen von 150 bis 200 Millionen Franken.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=3158&st=360"
+        "headline": "Crans-Montana: Bergbahnen investieren in Beschneiung trotz Verlustjahr",
+        "summary": "Auf der Generalversammlung der Bergbahnen Crans-Montana kündigte Verwaltungsratspräsident Mike Goar einen weiteren Ausbau des Beschneiungsnetzes zur kommenden Saison an. Das Unternehmen verzeichnete bei einem Gästerückgang von 2,8 Prozent einen Jahresverlust von 760.000 Franken.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=228&start=25",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "16.11.2026 02:03 Uhr",
+            "headline": "Crans-Montana und Lenk: Machbarkeitsstudie für 3S-Gipfelverbindung vorgelegt",
+            "summary": "Für das grenzüberschreitende Großprojekt einer Seilbahnverbindung zwischen Lenk im Simmental und dem Funitel Plaine Morte in Crans-Montana liegt eine erste Machbarkeitsstudie vor. Diskutiert wird ein 3S-System mit einem geschätzten Investitionsrahmen von 150 bis 200 Millionen Franken.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=3158&st=360"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8171312,
+          46.805189
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Davos Klosters",
+        "headline": "Davos Klosters: Betonierarbeiten an der Bergstation der Schiferbahn abgeschlossen",
+        "summary": "Beim Ersatzneubau der Schiferbahn am Parsenn wurde die letzte Betonieretappe an der Bergstation erfolgreich vollendet. Die Baustelle wird nun winterfest gemacht, die Bauarbeiten vor Ort werden witterungsbedingt für dieses Jahr eingestellt.",
+        "source_url": "https://www.alpinforum.com/threads/686/page-129"
       }
     },
     {
@@ -220,7 +247,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Val di Fassa / Karerpass",
         "headline": "Val di Fassa: Neue 10er-Gondelbahn Buffaure–Col de Valvacin im Probebetrieb",
@@ -244,6 +271,25 @@
         "headline": "Valloire: Pistenanpassungen und neue Terrassen an der Gondelbahn Brive",
         "summary": "Im Skigebiet Galibier-Thabor wird zur neuen Saison die bisherige Skitourenroute Les Rhondos in eine reguläre blaue Piste umgewandelt. Zudem wurden die Beschneiungsanlagen an der Choucas ausgebaut und zwei neue Terrassen an der Bergstation Brive angelegt.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=867&st=380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9143318,
+          46.69476
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Gerlitzen",
+        "headline": "Gerlitzen: Exklusive Einblicke in die Technik der neuen Kanzelbahn II",
+        "summary": "Die neue 10er-Gondelbahn Kanzelbahn II verfügt über einen Doppelmayr DirectDrive, einen langen Schleifenbahnhof mit Förderhaken und eine moderne Glasfassaden-Bergstation. Auf ein vollautomatisiertes AURO-System wurde bewusst verzichtet, um den persönlichen Gästekontakt zu wahren; für 2033 ist als Ersatz der ersten Sektion eine TRI-Line angedacht.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=507",
+        "image_url": "https://alpinfans.com/download/file.php?id=126528&mode=view"
       }
     },
     {
@@ -292,7 +338,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Hochzillertal / Hochfügen",
         "headline": "Hochzillertal: Leitner als Hersteller für den Neubau der Hochalmbahn bestätigt",
@@ -391,7 +437,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Le Grand Domaine",
         "headline": "Valmorel: Neubau der Gondelbahn Combelouvière und Skilift Pécy",
@@ -432,17 +478,7 @@
         "name": "Montgenèvre / Via Lattea",
         "headline": "Montgenèvre – Via Lattea: Sesselbahn Colletto Verde vor Eröffnung",
         "summary": "Die neue Sesselbahn Colletto Verde soll im Laufe der Wintersaison 2026/27 in Betrieb gehen und die hochalpine Verbindung zwischen Claviere und Montgenèvre verdoppeln.",
-        "source_url": "https://www.funiforum.org/funiforum/node/259940/page32",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "09.11.2026 02:03 Uhr",
-            "headline": "Montgenèvre: Neue Doppelmayr-Gondelbahnen Chalvet und Fournéous im Endspurt",
-            "summary": "Im französischen Sektor der Via Lattea schreiten die Arbeiten an den beiden 10er-Gondelbahnen Chalvet und Fournéous zügig voran. Aktuelle Aufnahmen der Baustelle im Neuschnee dokumentieren weit fortgeschrittene Montagearbeiten an Stationen und Strecken. Die offizielle Inbetriebnahme ist für die beginnenden Weihnachtsferien terminiert.",
-            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80",
-            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/bd9d3bf3-6db1-4e3a-b305-daebf7cd0ff6/103_1200.jpg"
-          }
-        ]
+        "source_url": "https://www.funiforum.org/funiforum/node/259940/page32"
       }
     },
     {
@@ -469,48 +505,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3119292,
-          47.3708539
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Oberstdorf / Kleinwalsertal",
-        "headline": "Walmendingerhorn: Modernisierte Bergstation sorgt für Architekturdebatte",
-        "summary": "Am Walmendingerhorn im Kleinwalsertal steht der Umbau der Bergstation kurz vor dem Abschluss. Die gewählte moderne Konstruktion mit transparenten Fassadenelementen innerhalb der bestehenden Substanz spaltet jedoch die Gemüter und stößt in der Community auf geteilte Reaktionen hinsichtlich der alpinen Ästhetik.",
-        "source_url": "https://www.alpinforum.com/threads/1062/page-187"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.2881895,
-          47.0097538
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Kappl und See: Neue Pistenpläne mit zusätzlichen Skirouten vorgestellt",
-        "summary": "Die benachbarten Skigebiete im Paznaun erweitern ihr Freeride-Angebot auf den neuen Pistenplänen. Kappl weist am Lattenjoch die neue Skiroute 'Hohe Spitze' mit drei Geländevarianten aus, während das Skigebiet See die Skiroute 34 mit einem zusätzlichen oberen Einstiegsbereich zwischen Ascherhütte und Furglerblickbahn aufwertet.",
-        "source_url": "https://www.alpinforum.com/threads/462/page-67"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.3108236,
           45.687269
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Pila (Aosta)",
         "headline": "Pila: Smartphone-Skipass, Speicherteich-Erweiterung und Tourenrouten",
@@ -529,7 +529,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Ponte di Legno/Tonale/Presena Gletscher/Temù (Pontedilegno-Tonale)",
         "headline": "Pontedilegno: Farbliche Landschaftsintegration an der neuen Gondelbahn Angelo",
@@ -545,6 +545,24 @@
             "image_url": "https://www.funiforum.org/immagini_forum/26/20261115060150_64450.jpg"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6519221,
+          47.406831
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
+        "headline": "Saalbach Hinterglemm: Erste Testfahrten an der neuen Reiterkogelbahn",
+        "summary": "An der neuen 10er-Gondelbahn D1+D1b Reiterkogelbahn in Hinterglemm wurden die ersten Testfahrten sowie erfolgreiche Bergeübungen absolviert. Die moderne Anlage mit CWA-Omega-IV-Kabinen biegt damit auf die Zielgerade vor der Inbetriebnahme zur Wintersaison ein.",
+        "source_url": "https://www.alpinforum.com/threads/792/page-319"
       }
     },
     {
@@ -594,7 +612,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Feldberg: Beliebter Sesselverkauf nach Stilllegung der Seebuck-Sesselbahn",
@@ -629,7 +647,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Silvretta Montafon",
         "headline": "Silvretta Montafon: Ausbau der Beschneiung und Schneedepots am Hochjoch geplant",
@@ -712,7 +730,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Tannheimer Tal / Hahnenkamm Reutte",
         "headline": "Tannheimer Tal: Bergbahnen rüsten bei der Beschneiungsanlage auf",
@@ -797,24 +815,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8700009,
-          45.9230969
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Vallée de Chamonix",
-        "headline": "Les Houches: Zehnergondeln für die Prarion-Umlaufbahn geliefert",
-        "summary": "Im Skigebiet Les Houches im Chamonix-Tal wird die Hauptzubringerbahn Prarion aufgewertet: Die bisherigen 8er-Gondeln wurden durch moderne 10er-Kabinen ersetzt, was den Fahrkomfort spürbar steigert und für flüssigere Beförderungsabläufe sorgt.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=163"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.276507,
           46.1003545
         ]
@@ -838,7 +838,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Villars-Gryon: Pläne für den Ersatz der Barboleuse-Gondelbahn mit Mittelstation",
@@ -871,6 +871,42 @@
         "headline": "Vogesen: Skilift Col des Bagenelles vor dem endgültigen Aus",
         "summary": "Aufgrund angespannter Finanzen der Gemeinde und nach nur einem einzigen Betriebstag in der vergangenen Saison bleibt der Skilift am Col des Bagenelles im kommenden Winter geschlossen, was das dauerhafte Betriebsende bedeuten dürfte.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=334&start=25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7376171,
+          47.3293614
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Zell am See / Schmittenhöhe",
+        "headline": "Schmittenhöhe: Bremsproben an der neuen Kapellenbahn erfolgreich",
+        "summary": "Auf der Schmittenhöhe in Zell am See hat der Neubau der Kapellenbahn einen entscheidenden Meilenstein erreicht: Die sicherheitsrelevanten Bremsproben wurden erfolgreich absolviert, womit die neue Sesselbahn planmäßig vor der Saisoneröffnung steht.",
+        "source_url": "https://www.alpinforum.com/threads/1404/page-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7163465,
+          45.9609858
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
+        "headline": "Cervinia: Grünes Licht und neue Projektwebsite für 3S-Bahn 'Cervino The One'",
+        "summary": "Der Gemeinderat von Valtournenche hat das Abkommen für den Bau der neuen Leitner-3S-Umlaufbahn von Breuil-Cervinia über Plan Maison zum Plateau Rosà genehmigt. Begleitend dazu ging unter cervinotheone.it die offizielle Projektpräsentation online.",
+        "source_url": "https://www.funiforum.org/funiforum/node/287702/page41"
       }
     }
   ]

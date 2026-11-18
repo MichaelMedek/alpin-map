@@ -24,24 +24,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8740902,
-          46.4971763
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Arabba / Marmolada",
-        "headline": "Arabba: Skibetrieb bis Mitte April 2027 anvisiert",
-        "summary": "Für den Bereich Arabba in den Dolomiten wurden die vorläufigen Saisonzeiten bekanntgegeben. Dank der schneesicheren Nordhänge soll der Skibetrieb an Portavescovo und Carpazza bis zum 18. April 2027 laufen, wobei Wintersportler auch auf Verlängerungen an den Sektoren Fodom und Lezuo hoffen.",
-        "source_url": "https://www.alpinforum.com/threads/72465/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.8171312,
           46.805189
         ]
@@ -82,7 +64,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
         "headline": "3 Zinnen Dolomiten: Vollbetrieb der Schneekanonen vor der Eröffnung am 28. November",
@@ -114,25 +96,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4043996,
-          46.8223497
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Engelberg / Titlis–Brunni",
-        "headline": "Engelberg-Titlis: Solide Pistenqualität zum Gletscherstart",
-        "summary": "Auf den hochgelegenen Pisten am Titlis-Gletscher präsentiert sich die geöffnete Schneedecke kompakt und griffig. Trotz des längeren Anfahrtswegs über die Zubringerbahnen bot der sonnige Skitag am Gletscher sehr gute Schwünge ohne spürbare Vereisungen.",
-        "source_url": "https://www.alpinforum.com/threads/72709/",
-        "image_url": "https://www.alpinforum.com/attachments/img_5245-webp.338588/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.2171807,
           46.849618
         ]
@@ -151,12 +114,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.9143318,
+          46.69476
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Gerlitzen",
+        "headline": "Gerlitzen: Wochenend-Skibetrieb startet am 21. November",
+        "summary": "Auf der Gerlitzen beginnt die Skisaison am Samstag, 21. November, mit einem Wochenendbetrieb. Neben den beiden Kanzelbahn-Sektionen als Zubringer gehen die Klösterlebahn 2 und der Neugartenjet an den Start, der Neugartenlift bleibt auch unter der Woche geöffnet.",
+        "source_url": "https://www.alpinforum.com/threads/72757/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.573539,
           46.176183
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Grimentz/Zinal",
         "headline": "Grimentz-Zinal: Saisonstart auf den 28. November verschoben, Trainingsbetrieb in Sorebois",
@@ -259,7 +240,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Klewenalp–Stockhütte",
         "headline": "Klewenalp: Schneeerzeuger am Klewenboden für kalte Tage positioniert",
@@ -277,7 +258,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Kreischberg",
         "headline": "Kreischberg: Frostiges Wetterfenster für massive Grundbeschneiung genutzt",
@@ -295,7 +276,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Oberengadin / St. Moritz",
         "headline": "St. Moritz: Corvatsch startet am Wochenende mit kompaktem Teilangebot",
@@ -326,6 +307,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.5569603,
+          47.2494362
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Obertauern",
+        "headline": "Obertauern: Saisonstart am 20. November mit vier Liftanlagen",
+        "summary": "Obertauern startet am Freitag, den 20. November, in den Skibetrieb. Geöffnet werden die Grünwaldkopfbahn als Zubringer sowie Hochalmbahn, Panoramabahn und Seekarspitzbahn im Bereich Krings/Seekarspitz; vor Ort empfangen auch die Hochalm, Kringsalm und Dikt'n Alm die ersten Gäste.",
+        "source_url": "https://www.alpinforum.com/threads/72667/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.2881895,
           47.0097538
         ]
@@ -349,12 +348,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "11.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
-        "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
-        "summary": "Auf dem Pitztaler Gletscher bieten Mittelberg und Brunnenkogel gute Pistenbedingungen mit nur wenigen harten Abschnitten, während die Zufahrt über die Stollenbahn am Wochenende zu rund einstündigen Wartezeiten führte und Pistenareale für Trainingsteams reserviert waren.",
-        "source_url": "https://www.alpinforum.com/threads/72462/page-3"
+        "headline": "Pitztaler Gletscher: Talabfahrt der Mittelbergbahn vor Öffnung",
+        "summary": "Am Pitztaler Gletscher steht die Talabfahrt an der unteren Sektion der Mittelbergbahn unmittelbar vor der Freigabe. Nach inoffiziellen ersten Abfahrten und den prognostizierten Neuschneefällen dürfte die Piste pünktlich zum Wochenende offiziell in Betrieb gehen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=175",
+        "image_url": "https://alpinfans.com/download/file.php?id=126483&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "11.11.2026 02:03 Uhr",
+            "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
+            "summary": "Auf dem Pitztaler Gletscher bieten Mittelberg und Brunnenkogel gute Pistenbedingungen mit nur wenigen harten Abschnitten, während die Zufahrt über die Stollenbahn am Wochenende zu rund einstündigen Wartezeiten führte und Pistenareale für Trainingsteams reserviert waren.",
+            "source_url": "https://www.alpinforum.com/threads/72462/page-3"
+          }
+        ]
       }
     },
     {
@@ -386,12 +395,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
-        "headline": "Schladming 4 Berge: Vollbetrieb der Schneeerzeuger auf Planai, Reiteralm und Kaibling",
-        "summary": "Die Minustemperaturen werden in der Region Schladming voll ausgenutzt: Auf der Planai, Reiteralm, dem Hauser Kaibling und selbst auf den Loipen in Ramsau laufen die Schneekanonen unter Hochdruck, während die Pistengeräte bereitstehen.",
-        "source_url": "https://www.alpinforum.com/threads/72491/"
+        "headline": "Schladming 4 Berge: Saisonauftakt auf Reiteralm und Planai fixiert",
+        "summary": "Die Reiteralm startet am Donnerstag, 19. November, als erstes Skigebiet in Ski amadé mit dem Preunegg Jet und der Schoberbahn in den durchgehenden Skibetrieb. Auf der Planai beginnt der Winter am Freitag, 20. November, an der 8er-Sesselbahn Märchenwiese.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4030",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "14.11.2026 02:03 Uhr",
+            "headline": "Schladming 4 Berge: Vollbetrieb der Schneeerzeuger auf Planai, Reiteralm und Kaibling",
+            "summary": "Die Minustemperaturen werden in der Region Schladming voll ausgenutzt: Auf der Planai, Reiteralm, dem Hauser Kaibling und selbst auf den Loipen in Ramsau laufen die Schneekanonen unter Hochdruck, während die Pistengeräte bereitstehen.",
+            "source_url": "https://www.alpinforum.com/threads/72491/"
+          }
+        ]
       }
     },
     {
@@ -422,7 +440,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Ski Arlberg",
         "headline": "Ski Arlberg: Breitflächige Pistenbeschneiung vor dem Eröffnungswochenende",
@@ -450,7 +468,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Ski Juwel Alpbachtal Wildschönau",
         "headline": "Ski Juwel Alpbachtal Wildschönau: Vorbereitungsarbeiten laufen auf Hochtouren",
@@ -468,7 +486,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "SkiWelt Wilder Kaiser-Brixental",
         "headline": "SkiWelt Wilder Kaiser: Schneekanonen und Neuschnee schaffen solide Pistenbasis",
@@ -546,25 +564,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0416316,
-          47.6717401
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Sudelfeld / Bayrischzell",
-        "headline": "Sudelfeld: Speicherteich voll und Schneeerzeuger flächendeckend startklar",
-        "summary": "Am Sudelfeld laufen die Saisonvorbereitungen für den anvisierten Start am 28. November 2026 auf Hochtouren. Der zentrale Speicherteich ist komplett gefüllt und zahlreiche Schneekanonen sind bereits an den Schlüsselstellen positioniert und einsatzbereit verkabelt.",
-        "source_url": "https://www.alpinforum.com/threads/72708/",
-        "image_url": "https://www.alpinforum.com/attachments/img_20261108_112448_702-webp.338585/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.5842617,
           46.5280433
         ]
@@ -607,7 +606,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Turracher Höhe",
         "headline": "Turracher Höhe: Intensive Schneeerzeugung für den Saisonstart am 28. November",
@@ -657,12 +656,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.054939392135699,
+          46.30370202011029
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "18.11.2026 02:03 Uhr",
+        "name": "Villars/Gryon/Les Diablerets",
+        "headline": "Glacier 3000: Schneesturm erzwingt vorübergehende Schließung",
+        "summary": "Aufgrund eines schweren Schneesturms bleibt das Gletscherskigebiet Glacier 3000 vom 16. bis 19. November komplett geschlossen. Die erwarteten Neuschneemengen lassen auf eine baldige Öffnung des Skilifts Quille du Diable hoffen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "17.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Cervinia: Sesselbahn Pancheron öffnet mit zwei Abfahrten und Snowpark",
@@ -684,24 +701,6 @@
             "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.8641909,
-          47.1671149
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "09.11.2026 02:03 Uhr",
-        "name": "Zillertal 3000",
-        "headline": "Mayrhofen: Erster Trainingsbetrieb am Unterberg angelaufen",
-        "summary": "Im Skigebiet Mayrhofen (Zillertal 3000) wurde der traditionsreiche Trainingsbetrieb am Unterberghang aufgenommen. Renn- und Nachwuchsmannschaften nutzen die frühzeitig vorbereitete Piste bereits für die ersten intensiven Einheiten auf Schnee.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3991"
       }
     }
   ]
