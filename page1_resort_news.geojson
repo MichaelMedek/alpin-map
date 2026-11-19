@@ -24,25 +24,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0699443,
-          45.092401
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Alpe d'Huez",
-        "headline": "Alpe d'Huez: Neuer Pistenplan erschienen und Modernisierung am DMC",
-        "summary": "Auf dem frisch veröffentlichten Pistenplan der Espace Alpe d'Huez zeigen sich nach den Großinvestitionen der letzten Jahre vor allem punktuelle Anpassungen. Neben Renovierungsarbeiten an der Bergstation des DMC auf 2.700 Metern liegt der Fokus auf der Konsolidierung der Infrastruktur.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=4239&st=1620",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/eb07618e-4116-48ee-8bfa-213e12f04bd0/1_1200.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.9102193,
           46.5646703
         ]
@@ -75,11 +56,11 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Aprica",
-        "headline": "Aprica: Eröffnung der neuen 4er-Sesselbahn Stella Alpina steht bevor",
-        "summary": "Die Arbeiten an der neuen kuppelbaren 4er-Sesselbahn Stella Alpina – Lago Palabione in Aprica biegen auf die Zielgerade ein. Die Inbetriebnahme der modernen Doppelmayr-Anlage wird bis Ende des Monats angestrebt.",
+        "headline": "Aprica: Fortschritte beim Bau der neuen Sesselbahn Stella Alpina",
+        "summary": "Der Bau der kuppelbaren 4er-Sesselbahn Stella Alpina – Lago Palabione in Aprica schreitet voran und biegt in die finale Phase vor der Wintersaison ein.",
         "source_url": "https://www.funiforum.org/funiforum/node/330982/page9"
       }
     },
@@ -147,7 +128,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Crans-Montana",
         "headline": "Crans-Montana: Bergbahnen investieren in Beschneiung trotz Verlustjahr",
@@ -174,30 +155,12 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Betonierarbeiten an der Bergstation der Schiferbahn abgeschlossen",
         "summary": "Beim Ersatzneubau der Schiferbahn am Parsenn wurde die letzte Betonieretappe an der Bergstation erfolgreich vollendet. Die Baustelle wird nun winterfest gemacht, die Bauarbeiten vor Ort werden witterungsbedingt für dieses Jahr eingestellt.",
         "source_url": "https://www.alpinforum.com/threads/686/page-129"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.356835,
-          46.697662
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
-        "headline": "3 Zinnen Dolomiten: Testfahrten der neuen 10er-Gondelbahn Helmissimo gestartet",
-        "summary": "An der neuen Umlaufbahn Helmissimo in Vierschach laufen derzeit die ersten Probe- und Testfahrten. Die frisch gelieferten Kabinen wurden am Seil montiert und kreisen bereits an der Strecke am Helm.",
-        "source_url": "https://www.funiforum.org/funiforum/node/276705/page7"
       }
     },
     {
@@ -283,7 +246,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Gerlitzen",
         "headline": "Gerlitzen: Exklusive Einblicke in die Technik der neuen Kanzelbahn II",
@@ -320,12 +283,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
-        "headline": "Seiser Alm: Ersatz der 2er-Sesselbahn Steger-Dellai gestartet",
-        "summary": "Auf der Seiser Alm laufen die Arbeiten für den Neubau der 8er-Sesselbahn Steger-Dellai von Doppelmayr, welche die alte fixgeklemmte Zweiersesselbahn ersetzt.",
-        "source_url": "https://www.funiforum.org/funiforum/node/318985/page4"
+        "headline": "Gröden: Planungsunterlagen für den Ersatz der Sesselbahn Catores eingereicht",
+        "summary": "Für den geplanten Ersatz der 2er-Sesselbahn Catores auf der Seceda liegen neue Planungsunterlagen vor, die eine Trassenverschwenkung und -verlängerung vorsehen.",
+        "source_url": "https://www.alpinforum.com/threads/8337/page-105",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "15.11.2026 02:03 Uhr",
+            "headline": "Seiser Alm: Ersatz der 2er-Sesselbahn Steger-Dellai gestartet",
+            "summary": "Auf der Seiser Alm laufen die Arbeiten für den Neubau der 8er-Sesselbahn Steger-Dellai von Doppelmayr, welche die alte fixgeklemmte Zweiersesselbahn ersetzt.",
+            "source_url": "https://www.funiforum.org/funiforum/node/318985/page4"
+          }
+        ]
       }
     },
     {
@@ -410,19 +382,20 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: Erfolgreiche Evakuierungsübung an der Gondelbahn Ruis",
-        "summary": "In San Vigilio am Kronplatz wurde im Zuge der Erneuerungsarbeiten an der Achtergondelbahn Ruis eine großangelegte Berge- und Evakuierungsübung mit den Einsatzkräften erfolgreich absolviert.",
-        "source_url": "https://www.funiforum.org/funiforum/node/313503/page6",
+        "headline": "Kronplatz: Bergstation der neuen Kabinenbahn Kronplatz 1+2 nahezu fertiggestellt",
+        "summary": "Die Arbeiten an der Bergstation des Neubaus Kronplatz 1+2 stehen kurz vor dem Abschluss. Ein neuer Großbildschirm wurde an der Station bereits montiert.",
+        "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261118150112_20261118150112_Screenshot20261118150001.jpg",
         "older_news": [
           {
             "recency": "weekly",
-            "timestamp": "10.11.2026 02:03 Uhr",
-            "headline": "Kronplatz: Planungen für den Ersatz der K2000-Gondelbahn nehmen Form an",
-            "summary": "Für den für 2030 vorgesehenen Ersatz der Bahn K2000 wird eine Verlegung der Trasse diskutiert. Eine Option sieht vor, die Bergstation in den Bereich Seewiese zu verlegen und den Gipfelbereich künftig mit einer neuen Sesselbahn für gezielte Wiederholungsfahrten zu erschließen.",
-            "source_url": "https://www.alpinforum.com/threads/1744/page-80"
+            "timestamp": "16.11.2026 02:03 Uhr",
+            "headline": "Kronplatz: Erfolgreiche Evakuierungsübung an der Gondelbahn Ruis",
+            "summary": "In San Vigilio am Kronplatz wurde im Zuge der Erneuerungsarbeiten an der Achtergondelbahn Ruis eine großangelegte Berge- und Evakuierungsübung mit den Einsatzkräften erfolgreich absolviert.",
+            "source_url": "https://www.funiforum.org/funiforum/node/313503/page6"
           }
         ]
       }
@@ -468,6 +441,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.756415,
+          44.246681
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
+        "headline": "Mondolè Ski: Bauarbeiten für die neue 8er-Sesselbahn Blu in Prato Nevoso",
+        "summary": "In Prato Nevoso laufen die Bauarbeiten für die neue Hochleistungs-8er-Sesselbahn Blu auf Hochtouren, um die Kapazität im Skigebiet Mondolè Ski deutlich zu steigern.",
+        "source_url": "https://www.funiforum.org/funiforum/node/10432/page30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.7217996,
           44.9311709
         ]
@@ -479,6 +470,25 @@
         "headline": "Montgenèvre – Via Lattea: Sesselbahn Colletto Verde vor Eröffnung",
         "summary": "Die neue Sesselbahn Colletto Verde soll im Laufe der Wintersaison 2026/27 in Betrieb gehen und die hochalpine Verbindung zwischen Claviere und Montgenèvre verdoppeln.",
         "source_url": "https://www.funiforum.org/funiforum/node/259940/page32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9407475,
+          46.3026091
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Monts Jura",
+        "headline": "Monts Jura: Drohende Schließung am La Dôle und Rückbau mehrerer Skilifte",
+        "summary": "Ein Streit um Pachtzahlungen zwischen dem französischen Betreiber und Schweizer Eignern gefährdet den Winterbetrieb im Teilgebiet La Dôle. Zudem wurden Lifte wie Tabagnoz und Couvaloup aus dem Pistenplan gestrichen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4048",
+        "image_url": "https://alpinfans.com/download/file.php?id=126535&mode=view"
       }
     },
     {
@@ -498,6 +508,24 @@
         "summary": "Am Nassfeld laufen die Proberunden für die neue Sesselbahn im Bereich Tressdorfer Alm auf Hochtouren. Gleichzeitig wurde der offizielle Pistenplan mit dem angepassten Pistennetz rund um die neue Anlage aktualisiert.",
         "source_url": "https://www.alpinforum.com/threads/2110/page-36",
         "image_url": "https://www.alpinforum.com/attachments/image-webp.338704/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3119292,
+          47.3708539
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Oberstdorf / Kleinwalsertal",
+        "headline": "Oberstdorf Kleinwalsertal: Belastungstests an der neuen Walmendingerhornbahn abgeschlossen",
+        "summary": "Die neue Walmendingerhornbahn hat ihre Fahr- und Bremsproben mit wassergefüllten Gewichten erfolgreich absolviert. Der Innenausbau und der Bau des Zugangs-Stegs zur Piste stehen kurz vor dem Abschluss.",
+        "source_url": "https://www.alpinforum.com/threads/1062/page-187"
       }
     },
     {
@@ -557,7 +585,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
         "headline": "Saalbach Hinterglemm: Erste Testfahrten an der neuen Reiterkogelbahn",
@@ -582,24 +610,6 @@
         "summary": "Der neue Speicherteich Bruckmoos auf der 4-Berge-Skischaukel ist bis zum Rand mit Wasser gefüllt und spiegelt die umliegenden Gipfel wider; die Anlage steht damit optimal vorbereitet für die anstehende Grundbeschneiung bereit.",
         "source_url": "https://www.alpinforum.com/threads/436/page-149",
         "image_url": "https://www.alpinforum.com/attachments/img_1966-webp.338671/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.491183,
-          46.8050368
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Schöneben–Haideralm / Reschenpass",
-        "headline": "Schöneben-Haideralm: Neue Büroräume an der Talstation Schöneben entstehen",
-        "summary": "An der Talstation Schöneben werden derzeit neue Räumlichkeiten für die Mitarbeiter des Ski- und Bikeresorts eingerichtet. Große rahmenlose Verglasungen sorgen für moderne, lichtdurchflutete Arbeitsplätze.",
-        "source_url": "https://www.alpinforum.com/threads/22055/page-30"
       }
     },
     {
@@ -688,43 +698,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0072845,
-          46.9666319
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Sölden",
-        "headline": "Sölden: Riesiger Solarpark am Tiefenbachgletscher fertiggestellt",
-        "summary": "Am Tiefenbachgletscher auf 2.800 Metern Höhe wurde ein 14 Millionen Euro teures Photovoltaik-Projekt vollendet. Mit 800 baumförmigen Installationen und über 12.000 Solarmodulen soll künftig ein bedeutender Teil des Strombedarfs im Skigebiet gedeckt werden.",
-        "source_url": "https://www.alpinforum.com/threads/38575/page-282",
-        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-09-at-10-48-51-webp.338598/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1172229,
-          46.9918843
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Stubaier Gletscher",
-        "headline": "Stubaier Gletscher: Genehmigung für Verlängerung der Wildspitzbahn erteilt",
-        "summary": "Die Zweiersesselbahn Wildspitze am Stubaier Gletscher soll im kommenden Jahr nach unten verlängert werden. Die erforderlichen behördlichen Genehmigungen liegen bereits vor, um den Einstieg im unteren Trassenbereich zu verbessern.",
-        "source_url": "https://www.alpinforum.com/threads/72446/page-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.559721,
           47.4939211
         ]
@@ -760,35 +733,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8877611,
-          47.3989427
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Tiroler Zugspitz Arena",
-        "headline": "Berwang: Umfassender Ausbau der Beschneiungsanlage am Rastkopf",
-        "summary": "Die Bergbahnen Berwang haben die behördliche Genehmigung für die Erweiterung der Beschneiung am Rastkopf und im Bereich Thanellerkar beantragt. Das Vorhaben umfasst die Modernisierung der Hauptpumpstation, neue Schneileitungen sowie eine erhöhte Schneifläche von über 26 Hektar.",
-        "source_url": "https://www.alpinforum.com/threads/2324/page-79"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.5666055,
           45.399064
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Les Trois Vallées",
-        "headline": "Val Thorens: Ersatz der Vierersesselbahn 3 Vallées durch 6KSB für 2027 geplant",
-        "summary": "In Val Thorens laufen die Planungen für den Bau der kuppelbaren 6er-Sesselbahn 3 Vallées im Jahr 2027. Die neue Anlage soll die betagte Vierersesselbahn ersetzen und die Verbindungskomfort in den Trois Vallées deutlich steigern.",
-        "source_url": "https://www.alpinforum.com/threads/456/page-100"
+        "headline": "Les Trois Vallées: Prüfung eines Spätbetriebs der Gondelbahn Olympe",
+        "summary": "In Méribel und Brides-les-Bains prüfen die Gemeinde und die Bergbahngesellschaft Alpina Möglichkeiten für einen verlängerten Betrieb der Gondelbahn Olympe in den Abendstunden.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=28416&st=1280",
+        "image_url": "https://i.ibb.co/kgr3kJPm/IMG-3986.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "16.11.2026 02:03 Uhr",
+            "headline": "Val Thorens: Ersatz der Vierersesselbahn 3 Vallées durch 6KSB für 2027 geplant",
+            "summary": "In Val Thorens laufen die Planungen für den Bau der kuppelbaren 6er-Sesselbahn 3 Vallées im Jahr 2027. Die neue Anlage soll die betagte Vierersesselbahn ersetzen und die Verbindungskomfort in den Trois Vallées deutlich steigern.",
+            "source_url": "https://www.alpinforum.com/threads/456/page-100"
+          }
+        ]
       }
     },
     {
@@ -883,7 +848,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Zell am See / Schmittenhöhe",
         "headline": "Schmittenhöhe: Bremsproben an der neuen Kapellenbahn erfolgreich",
@@ -901,7 +866,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Cervinia: Grünes Licht und neue Projektwebsite für 3S-Bahn 'Cervino The One'",

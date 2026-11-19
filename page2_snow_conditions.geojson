@@ -24,6 +24,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.8740902,
+          46.4971763
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Arabba / Marmolada",
+        "headline": "Arabba / Marmolada: Aktuelle Schneelage vor dem offiziellen Saisonstart",
+        "summary": "In den Dolomiten rund um Arabba zeigt sich die Kulisse bereits leicht angezuckert. Die Bergbahnen bereiten die Pisten für den Start der Sellaronda Anfang Dezember vor.",
+        "source_url": "https://www.alpinforum.com/threads/72465/",
+        "image_url": "https://www.alpinforum.com/attachments/img_0372-webp.339161/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5660244,
+          46.7548885
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Arosa Lenzerheide",
+        "headline": "Arosa Lenzerheide: Saisonstart mit Hörnlibahn am 21. November",
+        "summary": "Arosa startet am Samstag mit der Sesselbahn Hörnli und geöffneter Hörnlihütte in die Vorsaison. Die Talabfahrt wird derzeit intensiv beschneit, Plattenhorn soll in Kürze folgen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.8171312,
           46.805189
         ]
@@ -43,13 +80,6 @@
             "headline": "Davos Klosters: Parsenn startet am Freitag in die Wintersaison",
             "summary": "Auf Parsenn öffnen am Freitag die Standseilbahnen 1 & 2 sowie die Sesselbahnen Rapid und Totalp mit den Abfahrten Standard und Totalp.",
             "source_url": "https://www.alpinforum.com/threads/72642/"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "10.11.2026 02:03 Uhr",
-            "headline": "Davos Klosters: Vorbereitungen für den Saisonstart im Dorftäli und auf Totalp",
-            "summary": "Im Parsenn-Gebiet laufen die Vorbereitungen für die ersten Öffnungen. Die Pisten Dorftäli und Totalp stehen im Fokus der Beschneiung, während am Furka-Zipper ebenfalls die Grundlagen für den Auftakt gelegt werden.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=3881"
           }
         ]
       }
@@ -119,7 +149,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Gerlitzen",
         "headline": "Gerlitzen: Wochenend-Skibetrieb startet am 21. November",
@@ -155,12 +185,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
-        "headline": "Hintertuxer Gletscher: Abfahrt zur Sommerbergalm freigegeben",
-        "summary": "Das Pistenangebot am Hintertuxer Gletscher erweitert sich weiter. Ab sofort ist die Talabfahrt bis hinunter zur Sommerbergalm offiziell für den Skibetrieb geöffnet.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=300"
+        "headline": "Hintertuxer Gletscher: Komfortabler Betrieb mit 10er-Gondel und Beschneiung der Talabfahrt",
+        "summary": "Am Hintertuxer Gletscher läuft aktuell die 10EUB Gefrorene Wand. Trotz streckenweise unruhiger Präparierung laufen erste Beschneiungsversuche an der Schwarzen Pfanne.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=325",
+        "image_url": "https://media.alpinfans.com/live/1458/20261118-125727-120125f4_l.jpg"
       }
     },
     {
@@ -173,21 +204,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
-        "headline": "Jungfrau Region: Schneefall bis Mürren und intensive Beschneiung an der Kleinen Scheidegg",
-        "summary": "Nach vorangegangener Milde ist die Schneefallgrenze wieder bis unterhalb von Mürren gefallen. Im Bereich Eigergletscher, Black Rock und Wixi laufen die Beschneiungsanlagen bei klirrender Kälte auf Hochtouren.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
-        "image_url": "https://alpinfans.com/download/file.php?id=126405&mode=view",
+        "headline": "Jungfrau Region: Stabile Erreichbarkeit des Schilthorns dank Funifor-Technik",
+        "summary": "Während stürmisches Wetter zahlreiche Bahnen in der Region ausbremste, bewährte sich das windstabile Funifor-System am Schilthorn und hielt die Verbindung aufrecht.",
+        "source_url": "https://www.alpinforum.com/threads/72493/",
+        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-18-120604-webp.339164/",
         "older_news": [
           {
             "recency": "weekly",
-            "timestamp": "10.11.2026 02:03 Uhr",
-            "headline": "Schilthorn: Beschneiung läuft am Mürren-Schilthorn auf Hochtouren",
-            "summary": "Am Schilthorn sorgen kalte Temperaturen für intensive Beschneiung im Bereich Mürren und Riggli. Der obere Ziehweg zeigt sich dank Technoschnee in deutlich verbessertem und griffigem Zustand.",
-            "source_url": "https://www.alpinforum.com/threads/72493/",
-            "image_url": "https://media.alpinfans.com/live/255/20261108-085413-56be794a_l.jpg"
+            "timestamp": "14.11.2026 02:03 Uhr",
+            "headline": "Jungfrau Region: Schneefall bis Mürren und intensive Beschneiung an der Kleinen Scheidegg",
+            "summary": "Nach vorangegangener Milde ist die Schneefallgrenze wieder bis unterhalb von Mürren gefallen. Im Bereich Eigergletscher, Black Rock und Wixi laufen die Beschneiungsanlagen bei klirrender Kälte auf Hochtouren.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3952",
+            "image_url": "https://alpinfans.com/download/file.php?id=126405&mode=view"
           }
         ]
       }
@@ -209,6 +240,24 @@
         "summary": "Am Kaunertaler Gletscher präsentieren sich die Pisten am Karlesjoch und an der Ochsenalm 2 griffig und in gutem Zustand. Am Fernerlift ist für den Publikumsverkehr vor allem die blaue Piste geöffnet, während Trainingsgruppen weite Abschnitte nutzen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=75",
         "image_url": "https://media.alpinfans.com/live/58/20261115-134437-fb2e0409_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3972359,
+          47.3664103
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "19.11.2026 02:03 Uhr",
+        "name": "Kitzbühel / Kirchberg",
+        "headline": "Kitzbühel: Teilweiser Saisonauftakt am Resterkogel und der Panoramabahn",
+        "summary": "KitzSki startet am 21. und 22. November am Resterkogel und der Panoramabahn in das erste Skiwochenende, während der Betrieb an Hahnenkamm, Fleckalm und Hornbahn Ende November folgt.",
+        "source_url": "https://www.alpinforum.com/threads/72632/"
       }
     },
     {
@@ -312,7 +361,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Obertauern",
         "headline": "Obertauern: Saisonstart am 20. November mit vier Liftanlagen",
@@ -325,30 +374,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.2881895,
-          47.0097538
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "10.11.2026 02:03 Uhr",
-        "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Paznaun: Intensive Grundbeschneiung in See und Kappl",
-        "summary": "In den Skigebieten See und Kappl laufen die Beschneiungsanlagen bei kalten Temperaturen auf Hochtouren. Die Teams nutzen die Nächte intensiv, um die Grundlagen für den bevorstehenden Wintersaisonstart zu schaffen.",
-        "source_url": "https://www.alpinforum.com/threads/72711/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.8776109,
           46.9096745
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Pitztaler Gletscher",
         "headline": "Pitztaler Gletscher: Talabfahrt der Mittelbergbahn vor Öffnung",
@@ -395,7 +426,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Schladming 4 Berge",
         "headline": "Schladming 4 Berge: Saisonauftakt auf Reiteralm und Planai fixiert",
@@ -661,7 +692,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "18.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Glacier 3000: Schneesturm erzwingt vorübergehende Schließung",

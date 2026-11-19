@@ -1,61 +1,55 @@
 {
-  "generated_at": "2026-11-18T01:03:00Z",
+  "generated_at": "2026-11-19T01:03:00Z",
   "reports": [
     {
-      "headline": "Herbstliche Einkehr am Fuße des Heiligkreuzkofels: Wallfahrt und Panorama in La Crusc",
-      "summary": "Eine stimmungsvolle Entdeckungstour führt im Spätsommer hinauf nach La Crusc (Heiligkreuz) in Alta Badia: Nach der Bergfahrt mit der neuen 10er-Gondelbahn La Crusc 1 und der anschließenden Sesselbahn eröffnet sich auf über 2.000 Metern ein imposantes Dolomitenpanorama vom markanten Felsmassiv des Heiligkreuzkofels bis hinüber zur vergletscherten Marmolada und der Puezgruppe. Vorbei an den noch grünen, naturbelassenen Abfahrtshängen erreicht man nach wenigen Schritten das historische Wallfahrtsensemble mit der 1484 geweihten Bergkirche und dem 1718 als Messnerhaus errichteten Hospiz. Zwischen 300 Jahre alten Holzstiegen, geschnitzten Kruzifixen und der gemütlichen Gaststube lockt eine Einkehr mit traditionellem Omelett, bevor der Blick vom Kalvarienberg ein letztes Mal über die herbstliche Bergwelt schweift.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4311",
+      "headline": "Früher Saisonauftakt in Sölden: Abwechslung zwischen Seiterjöchl und Gaislachkogl",
+      "summary": "Ein gelungener Frühwinter-Skitag im Ötztal: Bei strahlendem Sonnenschein und milden Temperaturen ging es morgens über die leeren Hänge am Giggijoch und Seekogl, ehe am Seiterjöchl die besten Schwünge des Tages warteten. Trotz harter Pistenbedingungen überzeugte das weitläufige Angebot zwischen Rettenbachgletscher und Gaislachkogl mit spektakulären Ausblicken.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=4296",
       "image_urls": [
-        "https://i.imgur.com/5sHekmI.jpg",
-        "https://i.imgur.com/QERtsil.jpg",
-        "https://i.imgur.com/SSlWQn6.jpg",
-        "https://i.imgur.com/WUfSMN1.jpg",
-        "https://i.imgur.com/oS9pjkS.jpg",
-        "https://i.imgur.com/nNlRVyl.jpg"
+        "https://media.alpinfans.com/studio/68/20261118-131055-873f547f_l.jpg",
+        "https://media.alpinfans.com/studio/68/20261118-131059-cd4551d6_l.jpg",
+        "https://media.alpinfans.com/studio/68/20261118-131104-4ec51503_l.jpg",
+        "https://media.alpinfans.com/studio/68/20261118-131108-f34d7bc3_l.jpg",
+        "https://media.alpinfans.com/studio/68/20261118-131112-ec7a7e56_l.jpg"
       ]
     }
   ],
   "tips": [
     {
-      "headline": "Pitztaler Gletscher: Gletschersee-Sesselbahn für zügige Skitests ohne Wartezeit nutzen",
-      "summary": "Wer am Pitztaler Gletscher neues Skimaterial testen oder viele Höhenmeter in kurzer Zeit sammeln möchte, findet an der 6er-Sesselbahn Gletschersee ideale Bedingungen. Während an Hauptanlagen wie dem Gletscherexpress Stoßzeiten entstehen können, bietet der Gletschersee-Sessellift praktisch null Wartezeiten und direkten Zugang zu abwechslungsreichen Hängen für schnelle Materialvergleiche.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4293&start=25"
-    },
-    {
-      "headline": "Digitale Skigebietskarte: Geöffnete Lifte und Webcams vorab in 3D prüfen",
-      "summary": "Vor dem Aufbruch ins Skigebiet lohnt sich ein Blick in moderne Gebietskarten mit 3D-Geländedarstellung und integrierten Webcam-Vorschauen. Filter nach geöffneten Liften und Hangexpositionen helfen, vereiste Schattenhänge oder sturmgefährdete Gipfellagen frühzeitig zu erkennen und die Tagesroute optimal zu planen.",
+      "headline": "Skitag im Zeitraffer rekapitulieren",
+      "summary": "Mit der GPX-Zeitrafferfunktion auf Alpinfans lässt sich die eigene Route nach dem Skitag auf einer interaktiven Karte abfahren. Das Tool zeigt gefahrene Lifte, Kilometer und das Höhenprofil detailliert an.",
       "source_url": "https://alpinfans.com/viewtopic.php?t=119&start=150"
     },
     {
-      "headline": "Familien-Skitag: Ganztages-Skikurse mit Mittagsbetreuung für entspannte Skitage wählen",
-      "summary": "Für Eltern, die im Skiurlaub sportlich größere Runden drehen möchten, empfiehlt sich die Buchung von Kinderskikursen mit betreutem Mittagessen. Dies erspart die hektische Rückkehr zur Talstation zur Mittagszeit und ermöglicht stressfreie Skitage für die ganze Familie.",
-      "source_url": "https://www.alpinforum.com/threads/72594/"
+      "headline": "LAAX-App für detaillierte Lift-Infos nutzen",
+      "summary": "In der überarbeiteten Skigebietskarte der LAAX-App können Betriebszeiten und aktuelle Zusatzinformationen für jede einzelne Seilbahnanlage direkt per Klick auf den Pistenplan aufgerufen werden.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3901&start=50"
     }
   ],
   "controversial": [
     {
-      "headline": "Ganzjahresbetrieb der Koblatbahn am Nebelhorn",
+      "headline": "Finanzierung von Liftneubauten am Fichtelberg durch die Stadt Oberwiesenthal",
       "pro": [
-        "Schafft ein zusätzliches attraktives Sommer- und Ausflugsangebot wie Mountaincart-Fahrten im alpinen Raum.",
-        "Ermöglicht eine bessere wirtschaftliche Auslastung der neu errichteten Seilbahninfrastruktur über das gesamte Kalenderjahr."
+        "Beschleunigung des dringend benötigten Ersatzbaus der Himmelsleiter-Sesselbahn",
+        "Sicherung der touristischen Zukunft und Wettbewerbsfähigkeit des Skigebiets"
       ],
       "contra": [
-        "Naturschutzverbände wie der LBV kritisieren die zunehmende touristische Erschließung und Beunruhigung empfindlicher Hochgebirgslebensräume.",
-        "Wanderer und Bergsteiger strömen primär zum Nebelhorngipfel; eine Sommersesselbahn zu einem Zwischenplateau ohne echten Gipfelwert wird von Teilen der Community als überflüssig angesehen."
+        "Finanzielles Risiko für die Kommune bei Beteiligung an einer Trägergesellschaft",
+        "Der private Investor fordert städtische Hilfe trotz vorheriger Zusagen eigener Investitionen"
       ],
-      "source_url": "https://www.alpinforum.com/threads/1062/page-187"
+      "source_url": "https://www.alpinforum.com/threads/13862/page-120"
     },
     {
-      "headline": "Verzicht auf technische Liftkürzel in Pistenplänen",
+      "headline": "Skischaukel-Projekt zwischen Mutterer Alm und Axamer Lizum",
       "pro": [
-        "Der Pistenplan wird optisch aufgeräumt, wirkt weniger überladen und ist für Familien und Genussurlauber leichter verständlich.",
-        "Fördert das direkte Informationsgespräch zwischen Feriengästen und dem Bergbahnpersonal vor Ort."
+        "Attraktiver Verbund der beiden Skigebiete mit hohem Mehrwert für Wintersportler",
+        "Langfristige Aufwertung der Tourismusregion rund um Innsbruck"
       ],
       "contra": [
-        "Engagierte Skifahrer können Fahrzeiten und Komfortunterschiede zwischen schnellen kuppelbaren und langsamen fixgeklemmten Sesselliften nicht mehr vorab erfassen.",
-        "Mangelnde Transparenz bei der Orientierung kann vor allem Neukunden frustrieren, die gezielt moderne und komfortable Lifte ansteuern wollen."
+        "Hohe Baukosten von über 30 Millionen Euro und ungewisse Finanzierung",
+        "Kritik der Umweltanwaltschaft an Bauten im Ruhegebiet sowie offene Verkehrsfragen"
       ],
-      "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=16882&st=540"
+      "source_url": "https://www.alpinforum.com/threads/8240/page-30"
     }
   ]
 }
