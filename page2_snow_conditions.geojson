@@ -6,30 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5948148,
-          46.6340499
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "11.11.2026 02:03 Uhr",
-        "name": "Andermatt–Sedrun–Disentis",
-        "headline": "Andermatt-Sedrun-Disentis: Gemsstock vor dem Saisonstart, Nätschen noch trocken",
-        "summary": "Am Gemsstock startet am Freitag der Skibetrieb für Saisonabonnenten und am Samstag für alle Gäste; während am Gemsstock und vereinzelt in Disentis beschneit wurde, präsentieren sich die Hänge im Bereich Nätschen-Sedrun noch weitgehend schneefrei.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3953"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.8740902,
           46.4971763
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Arabba / Marmolada",
         "headline": "Arabba / Marmolada: Aktuelle Schneelage vor dem offiziellen Saisonstart",
@@ -48,7 +30,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Arosa Lenzerheide",
         "headline": "Arosa Lenzerheide: Saisonstart mit Hörnlibahn am 21. November",
@@ -126,24 +108,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2171807,
-          46.849618
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "11.11.2026 02:03 Uhr",
-        "name": "Flims–Laax–Falera",
-        "headline": "Flims Laax Falera: Vorab-Gletscher nach Hitzesommer vor Herausforderungen",
-        "summary": "Der markante Gletscherrückgang und stark abgeschmolzene Schneedepots erschweren die Pistenpräparation und Lifttrassierung am Vorab-Gletscher spürbar; die Webcams liefern wieder Bilder, während das Gebiet dringend auf frischen Naturschnee wartet.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3901&start=50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9143318,
           46.69476
         ]
@@ -180,12 +144,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.0282497,
+          46.8711626
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "20.11.2026 02:03 Uhr",
+        "name": "Gurgl",
+        "headline": "Gurgl: Gelungener Saisonauftakt mit 71 Pistenkilometern",
+        "summary": "Obergurgl-Hochgurgl ist mit einem umfangreichen Pistenangebot in den Winter gestartet: Rund 71 Pistenkilometer inklusive der Talabfahrten sind geöffnet. Lediglich die Bahnen Kirchenkar 2 und Top-Express blieben wegen starker Windböen am Festkogel vorübergehend außer Betrieb.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.6648069,
           47.0857251
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Hintertuxer Gletscher",
         "headline": "Hintertuxer Gletscher: Komfortabler Betrieb mit 10er-Gondel und Beschneiung der Talabfahrt",
@@ -204,7 +186,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Jungfrau Region: Stabile Erreichbarkeit des Schilthorns dank Funifor-Technik",
@@ -252,7 +234,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "19.11.2026 02:03 Uhr",
         "name": "Kitzbühel / Kirchberg",
         "headline": "Kitzbühel: Teilweiser Saisonauftakt am Resterkogel und der Panoramabahn",
@@ -313,6 +295,25 @@
         "headline": "Kreischberg: Frostiges Wetterfenster für massive Grundbeschneiung genutzt",
         "summary": "Das Beschneiungsteam am steirischen Kreischberg hat die frostigen Nachttemperaturen voll ausgeschöpft und eine solide Schneebasis für den kommenden Saisonstart aufgebaut.",
         "source_url": "https://www.alpinforum.com/threads/72750/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.958311,
+          46.7387791
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "20.11.2026 02:03 Uhr",
+        "name": "Kronplatz / Plan de Corones",
+        "headline": "Kronplatz: Intensive Grundbeschneiung vor dem Saisonstart am 28. November",
+        "summary": "Am Kronplatz laufen die Vorbereitungen für das anstehende Eröffnungswochenende auf Hochtouren. Die frostigen Temperaturen werden für eine flächendeckende Schneeerzeugung auf den Hauptabfahrten rund um das Gipfelplateau genutzt.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3906",
+        "image_url": "https://alpinfans.com/download/file.php?id=126547&mode=view"
       }
     },
     {
@@ -385,16 +386,7 @@
         "headline": "Pitztaler Gletscher: Talabfahrt der Mittelbergbahn vor Öffnung",
         "summary": "Am Pitztaler Gletscher steht die Talabfahrt an der unteren Sektion der Mittelbergbahn unmittelbar vor der Freigabe. Nach inoffiziellen ersten Abfahrten und den prognostizierten Neuschneefällen dürfte die Piste pünktlich zum Wochenende offiziell in Betrieb gehen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=175",
-        "image_url": "https://alpinfans.com/download/file.php?id=126483&mode=view",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "11.11.2026 02:03 Uhr",
-            "headline": "Pitztaler Gletscher: Griffige Hänge am Brunnenkogel, Wartezeiten an der Stollenbahn",
-            "summary": "Auf dem Pitztaler Gletscher bieten Mittelberg und Brunnenkogel gute Pistenbedingungen mit nur wenigen harten Abschnitten, während die Zufahrt über die Stollenbahn am Wochenende zu rund einstündigen Wartezeiten führte und Pistenareale für Trainingsteams reserviert waren.",
-            "source_url": "https://www.alpinforum.com/threads/72462/page-3"
-          }
-        ]
+        "image_url": "https://alpinfans.com/download/file.php?id=126483&mode=view"
       }
     },
     {

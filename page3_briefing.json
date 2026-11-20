@@ -1,55 +1,60 @@
 {
-  "generated_at": "2026-11-19T01:03:00Z",
+  "generated_at": "2026-11-20T01:03:00Z",
   "reports": [
     {
-      "headline": "Früher Saisonauftakt in Sölden: Abwechslung zwischen Seiterjöchl und Gaislachkogl",
-      "summary": "Ein gelungener Frühwinter-Skitag im Ötztal: Bei strahlendem Sonnenschein und milden Temperaturen ging es morgens über die leeren Hänge am Giggijoch und Seekogl, ehe am Seiterjöchl die besten Schwünge des Tages warteten. Trotz harter Pistenbedingungen überzeugte das weitläufige Angebot zwischen Rettenbachgletscher und Gaislachkogl mit spektakulären Ausblicken.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=4296",
+      "headline": "Spontane Homeoffice-Auszeit am Gemsstock: Leere Traumpisten über Andermatt",
+      "summary": "Während im Tal die Arbeit drängt, nutzt Alpinfans-User ski-chrigel eine verlängerte Mittagspause für einen spontanen Abstecher auf den Gemsstock in Andermatt. Trotz anfänglich zweifelhafter Witterung belohnt der Berg mit nahezu menschenleeren Hängen – weniger als zehn Skifahrer zählte das Bahnpersonal in der Stunde zuvor. Auf der legendären Sonnenpiste herrschen bei erstaunlich guter Bodensicht und griffigem Schnee perfekte Verhältnisse: Schlag auf Schlag reihen sich 14 rasante Wiederholungsfahrten im Sechs-Minuten-Takt aneinander, ehe die Privatgondel die Rückreise einläutet. Eine herrlich unkomplizierte Flucht aus dem Alltag, die zeigt, wie befreiend der Saisonstart auf hochalpinen Geheimtipp-Hängen sein kann.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3953&start=25",
       "image_urls": [
-        "https://media.alpinfans.com/studio/68/20261118-131055-873f547f_l.jpg",
-        "https://media.alpinfans.com/studio/68/20261118-131059-cd4551d6_l.jpg",
-        "https://media.alpinfans.com/studio/68/20261118-131104-4ec51503_l.jpg",
-        "https://media.alpinfans.com/studio/68/20261118-131108-f34d7bc3_l.jpg",
-        "https://media.alpinfans.com/studio/68/20261118-131112-ec7a7e56_l.jpg"
+        "https://media.alpinfans.com/live/59/20261119-141749-f95431dc_l.jpg",
+        "https://media.alpinfans.com/live/59/20261119-133930-138c9cb2_l.jpg",
+        "https://media.alpinfans.com/live/59/20261119-132132-de9a6ff2_l.jpg",
+        "https://media.alpinfans.com/live/59/20261119-123345-7aba3efa_l.jpg",
+        "https://media.alpinfans.com/live/59/20261119-122828-6e3b0fcf_l.jpg",
+        "https://media.alpinfans.com/live/59/20261119-121703-e786dbca_l.jpg"
       ]
     }
   ],
   "tips": [
     {
-      "headline": "Skitag im Zeitraffer rekapitulieren",
-      "summary": "Mit der GPX-Zeitrafferfunktion auf Alpinfans lässt sich die eigene Route nach dem Skitag auf einer interaktiven Karte abfahren. Das Tool zeigt gefahrene Lifte, Kilometer und das Höhenprofil detailliert an.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=119&start=150"
+      "headline": "Davos Klosters: Kostenloser Nahverkehr mit Bergbahnticket für Rundtouren",
+      "summary": "Ab dem 20. November 2026 ist die Nutzung von Bus und Rhätischer Bahn zwischen Davos und Klosters wieder komplett in den Bergbahntickets (ab Halbtageskarten, TopCard sowie Gästekarten) enthalten. Wintersportler können dadurch problemlos an der Parsenn-Bahn oder Madrisa starten, am Rinerhorn abschwingen und entspannt ohne Auto zum Ausgangspunkt zurückkehren.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=37&start=325"
     },
     {
-      "headline": "LAAX-App für detaillierte Lift-Infos nutzen",
-      "summary": "In der überarbeiteten Skigebietskarte der LAAX-App können Betriebszeiten und aktuelle Zusatzinformationen für jede einzelne Seilbahnanlage direkt per Klick auf den Pistenplan aufgerufen werden.",
-      "source_url": "https://alpinfans.com/viewtopic.php?t=3901&start=50"
+      "headline": "Südtirol Skiarena: Mit dem Regionalpass flexibel Dolomiten-Panoramaberge kombinieren",
+      "summary": "Wer sonnenverwöhnte Skigebiete rund um Bozen und Meran wie Meran 2000, Reinswald oder das Rittner Horn erkunden möchte, sollte statt einzelner Tageskarten auf den Verbundskipass der Südtirol Skiarena setzen. Damit lassen sich mehrtägige Safaris mit Dolomitenpanorama deutlich günstiger und flexibler gestalten.",
+      "source_url": "https://www.alpinforum.com/threads/72719/"
     }
   ],
   "controversial": [
     {
-      "headline": "Finanzierung von Liftneubauten am Fichtelberg durch die Stadt Oberwiesenthal",
+      "headline": "Frühstart um jeden Preis: Beschneiungsstrategie in Laax vs. österreichische Schneesicherheit",
       "pro": [
-        "Beschleunigung des dringend benötigten Ersatzbaus der Himmelsleiter-Sesselbahn",
-        "Sicherung der touristischen Zukunft und Wettbewerbsfähigkeit des Skigebiets"
+        "Ressourcenschonender Umgang mit knappen Wasservorräten schützt die Speicherteiche für die ertragreiche Hauptsaison im Hochwinter.",
+        "Hohes, felsiges Gelände erfordert unverhältnismäßig viel Schnee, weshalb eine verfrühte Öffnung bei schwachen Gästezahlen im November wirtschaftlich unrentabel ist.",
+        "Konzentration auf ideale Frostfenster verhindert kostspielige Abschmelzverluste auf südexponierten Hängen."
       ],
       "contra": [
-        "Finanzielles Risiko für die Kommune bei Beteiligung an einer Trägergesellschaft",
-        "Der private Investor fordert städtische Hilfe trotz vorheriger Zusagen eigener Investitionen"
+        "Schweizer Skigebiete wie Laax haben den konsequenten Ausbau schlagkräftiger Beschneiungsanlagen im Vergleich zu Österreich verschlafen.",
+        "Hohe Frequenzen in Nachbargebieten wie Davos belegen, dass die Nachfrage nach Skitagen bereits im Spätherbst enorm hoch ist.",
+        "Selbst Mittelgebirge wie Winterberg öffnen dank Snowfarming und gezielter Technik früher als renommierte Alpendestinationen."
       ],
-      "source_url": "https://www.alpinforum.com/threads/13862/page-120"
+      "source_url": "https://alpinfans.com/viewtopic.php?t=33&start=2000"
     },
     {
-      "headline": "Skischaukel-Projekt zwischen Mutterer Alm und Axamer Lizum",
+      "headline": "Investitionsboom vs. Naturschnee: Verliert die Schweiz den Frühwinter-Anschluss an Österreich?",
       "pro": [
-        "Attraktiver Verbund der beiden Skigebiete mit hohem Mehrwert für Wintersportler",
-        "Langfristige Aufwertung der Tourismusregion rund um Innsbruck"
+        "Massive Investitionen in Beschneiungsanlagen und Speicherteiche garantieren verlässliche Saisonstarts bereits ab Mitte November.",
+        "Frühe Pistenöffnungen sichern wertvolle Marktanteile, Renommee und ziehen kaufkräftige Frühbucher in die Skidestinationen.",
+        "Mit moderner Schneitechnik reichen schon 20 bis 30 Zentimeter Grundauflage für qualitativ hochwertige Pistenbänder."
       ],
       "contra": [
-        "Hohe Baukosten von über 30 Millionen Euro und ungewisse Finanzierung",
-        "Kritik der Umweltanwaltschaft an Bauten im Ruhegebiet sowie offene Verkehrsfragen"
+        "Höher gelegene Gebiete in der Schweiz benötigen aufgrund des Geländes mehr Naturschnee, der sich nicht beliebig künstlich ersetzen lässt.",
+        "Horrende Energiekosten und ökologische Eingriffe für Pistenkosmetik im Frühwinter sind bei volatilen Temperaturen ein enormes finanzielles Risiko.",
+        "Die Termine für Saisonstarts verschieben sich klimabedingt ohnehin nach hinten, wodurch ein Zuwarten ökologisch vernünftiger bleibt."
       ],
-      "source_url": "https://www.alpinforum.com/threads/8240/page-30"
+      "source_url": "https://alpinfans.com/viewtopic.php?t=4044"
     }
   ]
 }
