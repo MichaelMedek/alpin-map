@@ -6,24 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5161584,
-          46.462958
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "12.11.2026 02:03 Uhr",
-        "name": "Adelboden-Lenk",
-        "headline": "Adelboden: Keine Einsprachen gegen das Bauprojekt Direttissima",
-        "summary": "Für das Bergbahnprojekt Direttissima in Adelboden wurden keine Einsprachen eingereicht, womit die nächsten Schritte der Realisierung bevorstehen.",
-        "source_url": "https://www.alpinforum.com/threads/2979/page-23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.9102193,
           46.5646703
         ]
@@ -34,16 +16,7 @@
         "name": "Alta Badia",
         "headline": "Alta Badia: Debatte über Zwischenstation beim Neubau der Piz-Sorega-Bahn",
         "summary": "Beim geplanten Ersatz der Piz-Sorega-Gondelbahn in San Cassiano (Kapazität 4.330 P/h) wird über den Sinn einer Mittelstation diskutiert: Neben pistentechnischen Vorteilen im oberen Hangbereich spielen vor allem Schlüsselregeln der Einnahmenverteilung im Dolomiti Superski eine Rolle.",
-        "source_url": "https://www.funiforum.org/funiforum/node/215834/page8",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Alta Badia: Reaktivierung der Piste 5C im offiziellen Pistenplan",
-            "summary": "Die Abfahrt 5C von Arlara zur Talstation Baia Fraida wird für die kommende Wintersaison wieder offiziell in den Pistenplan aufgenommen.",
-            "source_url": "https://www.alpinforum.com/threads/109/page-47"
-          }
-        ]
+        "source_url": "https://www.funiforum.org/funiforum/node/215834/page8"
       }
     },
     {
@@ -62,6 +35,24 @@
         "headline": "Aprica: Fortschritte beim Bau der neuen Sesselbahn Stella Alpina",
         "summary": "Der Bau der kuppelbaren 4er-Sesselbahn Stella Alpina – Lago Palabione in Aprica schreitet voran und biegt in die finale Phase vor der Wintersaison ein.",
         "source_url": "https://www.funiforum.org/funiforum/node/330982/page9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5660244,
+          46.7548885
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Arosa Lenzerheide",
+        "headline": "Arosa Lenzerheide: Umstufung mehrerer Pisten und neue Winterwanderwege",
+        "summary": "Im neuen Pistenplan für die Wintersaison stechen wesentliche Anpassungen hervor: Auf der Rothornseite wurden mehrere bisher blaue Pisten (unter anderem die Abfahrten 20, 23, 25 und 28a) neu als rote Pisten deklariert. Zudem wurden neue Winterwander- und Schneeschuhrouten von Tgantieni Richtung Alp Fops und Piz Scalottas angelegt.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=66&start=125"
       }
     },
     {
@@ -137,7 +128,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Freie ÖV-Fahrt mit Gästekarte und Bergbahnticket reaktiviert",
@@ -301,7 +292,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Grindelwald-First: Sesselbahn Oberjoch plant künftig Sommer-Rundfahrten",
@@ -355,7 +346,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz: Ladinische Bezeichnung 'Plan de Corones' kehrt ins Logo zurück",
@@ -390,7 +381,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Lauchernalp",
         "headline": "Lötschental: Neue Luftseilbahn Wiler–Weissenried vor der Betriebsaufnahme",
@@ -421,6 +412,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.2682259,
+          45.2401623
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Les Sybelles",
+        "headline": "Les Sybelles: Skiverbindung nach Saint-Colomban-des-Villards gesichert",
+        "summary": "Nach vorangegangenen Unsicherheiten über den Weiterbetrieb ist die Wiederöffnung der Skigebietsverbindung zwischen Saint-Colomban-des-Villards und dem restlichen Verbund von Les Sybelles beschlossene Sache. Auf den aktuellen Pistenplänen ist der Zusammenschluss für den kommenden Winter wieder vollständig ausgewiesen.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=547&st=1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.2695375,
           46.7741051
         ]
@@ -432,6 +441,24 @@
         "headline": "Melchsee-Frutt: Pendelbahn Bonistock wird umfassend saniert und Hotel übernommen",
         "summary": "Statt eines Gondelneubaus soll die bestehende Pendelbahn Distelboden–Bonistock für 8,9 Millionen Franken umfassend erneuert werden (Realisierung 2028). Zudem plant die Korporation Kerns den Kauf des Berghotels Bonistock für 2,2 Millionen Franken samt Grundstück.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2569389,
+          46.6787736
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Meran 2000",
+        "headline": "Meran 2000: Küchelbergtunnel nach 13 Jahren Bauzeit vor Verkehrsfreigabe",
+        "summary": "Die Fertigstellung des zweiten Bauabschnitts der Nordwestumfahrung Meran entlastet die Zufahrtsachsen aus dem Vinschgau ins Passeiertal und zur Talstation Meran 2000. Der 3,2 Kilometer lange Tunneldurchstich entschärft ein langjähriges Nadelöhr im regionalen Ausflugsverkehr.",
+        "source_url": "https://www.alpinforum.com/threads/72766/"
       }
     },
     {
@@ -462,7 +489,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
         "headline": "Montgenèvre: Endspurt beim Bau der Gondelbahnen Chalvet und Fournéous",
@@ -540,6 +567,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.2881895,
+          47.0097538
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Paznauntal / Ischgl–Samnaun",
+        "headline": "Ischgl: Neue Höllkarbahn startet vorerst ohne Wetterschutzhauben",
+        "summary": "Die neue 8er-Sesselbahn Höllkarbahn C2 nimmt pünktlich zum Saisonstart den Betrieb auf, muss im ersten Winter jedoch ohne Wetterschutzhauben auskommen. Bei Wind im Höllkar zeigten sich im Probebetrieb unerwartete Schaukelbewegungen durch aerodynamische Selbsterregung der großen Sessel. Die Sitzheizung und die volle Förderleistung stehen den Gästen uneingeschränkt zur Verfügung, während Doppelmayr an einer Modifikation für die Saison 2027/28 arbeitet.",
+        "source_url": "https://www.alpinforum.com/threads/285/page-336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.3108236,
           45.687269
         ]
@@ -610,7 +655,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Saastal",
         "headline": "Hohsaas: Bergbahnen Saas-Grund verzeichnen erneut schwieriges Geschäftsjahr",
@@ -642,13 +687,6 @@
             "headline": "Feldberg: Großer Speicherteich und Beschneiungsausbau geplant",
             "summary": "Nach der vollständigen Tilgung der Kredite für die Herzogenhornbahn planen die Feldbergbahnen für die nächsten Jahre den Bau eines 120.000 Kubikmeter fassenden Speicherteichs hinter dem Haus der Natur sowie gezielte Beschneiungserweiterungen an der Zeigerbahn.",
             "source_url": "https://alpinfans.com/viewtopic.php?t=2642&start=50"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Mehliskopf: Betreiber erwägen Stilllegung des großen Doppelschlepplifts",
-            "summary": "Aufgrund schwindender Betriebstage und defizitärer Winter erwägt die Geschäftsleitung am Mehliskopf, den großen Doppellift nach der Saison 2026/27 dauerhaft außer Betrieb zu nehmen.",
-            "source_url": "https://www.alpinforum.com/threads/5154/page-20"
           }
         ]
       }
@@ -686,17 +724,25 @@
         "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
         "headline": "Wagrain: Neue 10er-Gondelbahn Grafenbergbahn zur Saison 2026/27 fertig",
         "summary": "Im Snow Space Salzburg steht die neue Grafenbergbahn bereit für den Winterbetrieb. Die 10er-Gondelbahn befördert künftig bei 6 m/s Fahrgeschwindigkeit und in 120 Kabinen bis zu 3.400 Personen pro Stunde auf den Berg.",
-        "source_url": "https://www.alpinforum.com/threads/2511/page-161",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Snow Space Salzburg: Trassenführung und Bergstation des neuen Achterjets konkretisiert",
-            "summary": "Die Planungen für die neue Bergstation der Achterjet-Gondelbahn in Flachau sehen eine Platzierung im Bereich Latschenhof vor. Von dort soll ein Ziehweg die direkte Anbindung an die Rote 8er ermöglichen.",
-            "source_url": "https://www.alpinforum.com/threads/2511/page-161",
-            "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-11-131740-webp.338685/"
-          }
+        "source_url": "https://www.alpinforum.com/threads/2511/page-161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4283177,
+          47.4846642
         ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "St. Johann in Tirol / Harschbichl",
+        "headline": "St. Johann in Tirol: Neubau der Jodlalmbahn biegt auf die Zielgerade ein",
+        "summary": "Die Arbeiten an der neuen Jodlalmbahn befinden sich in der finalen Bauphase und liegen voll im Zeitplan. Die Seilbahntechnik wird derzeit für die pünktliche Eröffnung zur Wintersaison 2026/27 im Dezember fertiggestellt, um die Beförderungskapazität am Harschbichl spürbar zu verbessern.",
+        "source_url": "https://www.alpinforum.com/threads/6419/page-37"
       }
     },
     {
@@ -767,36 +813,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.9325221,
-          45.2509937
+          13.8764531,
+          46.9131659
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "12.11.2026 02:03 Uhr",
-        "name": "Val Cenis",
-        "headline": "Val Cenis: Fortschritte bei den Neubauten Ramasse und Grand Coin",
-        "summary": "Beim TSCD Ramasse wurden 6-Personen-Kabinen geliefert und erste Testfahrten gestartet. Am TSD6 Grand Coin stehen die finalen dynamischen Einstellungen vor der Abnahme.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43073&st=80",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/b26ada55-14d2-45e9-bc7d-cfe97f807766/3_1200.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.276507,
-          46.1003545
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "12.11.2026 02:03 Uhr",
-        "name": "4 Vallées / Verbier",
-        "headline": "4 Vallées: Stadt Sion veröffentlicht Pläne für neue Talzubringer-Gondelbahn",
-        "summary": "Die Stadt Sion hat das Kommuniqué zur geplanten 30-Millionen-Franken-Gondelbahn vom Bahnhof Sion zur Piste de l'Ours vorgestellt, die eine direkte Zuganbindung an das Skigebiet schaffen soll.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=458&start=125"
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Turracher Höhe",
+        "headline": "Turracher Höhe: Vier Millionen Euro für Komfort und Liftinfrastruktur",
+        "summary": "Über den Sommer flossen rund vier Millionen Euro in die Weiterentwicklung des Skigebiets. Neben einer erneuerten Fassade am Kornockgebäude und der wetterfesten Überdachung des Förderbandes Nockyblitz wurden der Engländerlift samt Stationsgebäuden modernisiert, die Schneeanlage aufgerüstet sowie eine neue Pistenwalze angeschafft.",
+        "source_url": "https://www.alpinforum.com/threads/11973/page-33"
       }
     },
     {
@@ -814,16 +841,7 @@
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Villars-Gryon: Pläne für den Ersatz der Barboleuse-Gondelbahn mit Mittelstation",
         "summary": "Für die in die Jahre gekommene 4er-Gondelbahn Barboleusaz wird der Ersatz durch eine moderne 10er-Gondelbahn mit Zwischenstation in Frience vorangetrieben.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Gryon: Volksabstimmung über den Neubau der Gondelbahn Frience",
-            "summary": "Ende November stimmt die Gemeinde Gryon über das 40-Millionen-Franken-Projekt für eine neue Gondelbahn mit einer Förderleistung von 1.600 Personen pro Stunde ab.",
-            "source_url": "https://www.alpinforum.com/threads/14322/page-5"
-          }
-        ]
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580"
       }
     },
     {

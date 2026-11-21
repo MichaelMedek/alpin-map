@@ -6,6 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.0727454,
+          46.4021759
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Aletsch Arena / Bellwald",
+        "headline": "Aletsch Arena: Neuschnee im Wallis und exklusiver Vorstart am Flesch",
+        "summary": "Kräftige Schneefälle im Wallis haben der Aletsch Arena eine willkommene Neuschneeauflage beschert. Am Freitag, den 4. Dezember, öffnen die Bergbahnen den Sessellift Flesch auf der Fiescheralp zu einem vorgezogenen Skibetrieb exklusiv für Saisonpass- und AlpsPass-Inhaber, während bei anhaltend kühler Witterung sogar ein erster früherer Wochenendbetrieb geprüft wird.",
+        "source_url": "https://www.alpinforum.com/threads/72768/",
+        "image_url": "https://www.alpinforum.com/attachments/2026-11-20-at-09-44-24-webp.339257/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.8740902,
           46.4971763
         ]
@@ -54,16 +73,7 @@
         "headline": "Davos Klosters: Gelungener Saisonauftakt mit perfekten Pisten am Parsenn",
         "summary": "Erstklassiger Saisonstart auf Parsenn: Die Totalp-Piste präsentiert sich völlig steinfrei und in Top-Zustand, am Höhenweg ist es noch etwas unruhig und hart. Zudem herrscht abseits des Tiroler Trubels angenehme Leere.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3881",
-        "image_url": "https://alpinfans.com/download/file.php?id=126364&mode=view",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Davos Klosters: Parsenn startet am Freitag in die Wintersaison",
-            "summary": "Auf Parsenn öffnen am Freitag die Standseilbahnen 1 & 2 sowie die Sesselbahnen Rapid und Totalp mit den Abfahrten Standard und Totalp.",
-            "source_url": "https://www.alpinforum.com/threads/72642/"
-          }
-        ]
+        "image_url": "https://alpinfans.com/download/file.php?id=126364&mode=view"
       }
     },
     {
@@ -101,6 +111,24 @@
         "summary": "Am Dreiländereck bei Arnoldstein wurden die tiefen Temperaturen genutzt, um im oberen Bereich die Schneeerzeuger anzuwerfen. In der neuen Saison sollen nach längerer Pause sowohl der Hahnenwipfellift als auch der Kurvenlift wieder öffnen.",
         "source_url": "https://www.alpinforum.com/threads/72743/",
         "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2FFRTYbWFf%2F6d782f7b-823c-4930-b0bc-7ed071dd7684.jpg&hash=649bb91b22dd4805526d4966ab69ebd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0610948,
+          47.4737938
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Garmisch Classic / Zugspitze",
+        "headline": "Garmisch Classic: Saisonzeiten und Frühjahrsbetrieb terminiert",
+        "summary": "Die Bayerische Zugspitzbahn hat die Betriebszeiten für das Classic-Gebiet fixiert: Die Lifte am Hausberg bleiben in diesem Winter bis zum Weißen Sonntag in Betrieb, während die Anlagen am Kreuzeck und der Alpspitze bis einschließlich Ostermontag laufen. Auf dem Zugspitzplatt wird der Skibetrieb bis zum 2. Mai 2027 fortgeführt.",
+        "source_url": "https://www.alpinforum.com/threads/72470/"
       }
     },
     {
@@ -149,7 +177,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Gurgl",
         "headline": "Gurgl: Gelungener Saisonauftakt mit 71 Pistenkilometern",
@@ -174,6 +202,24 @@
         "summary": "Am Hintertuxer Gletscher läuft aktuell die 10EUB Gefrorene Wand. Trotz streckenweise unruhiger Präparierung laufen erste Beschneiungsversuche an der Schwarzen Pfanne.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=325",
         "image_url": "https://media.alpinfans.com/live/1458/20261118-125727-120125f4_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8756311,
+          47.2888083
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Hochzillertal / Hochfügen",
+        "headline": "Hochfügen: Speicherteich gefüllt und Vorbereitung auf vorzeitigen Teilbetrieb",
+        "summary": "In Hochfügen laufen die Vorbereitungen auf Hochtouren: Die Hänge rund um die 8er Alm wurden dank gefüllter Beschneiungsteiche intensiv grundpräpariert. Sofern das angekündigte Kältefenster stabil bleibt, planen die Betreiber bereits für das Wochenende vom 28./29. November einen vergünstigten Teilbetrieb an der 8er Alm.",
+        "source_url": "https://www.alpinforum.com/threads/72767/"
       }
     },
     {
@@ -307,7 +353,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "20.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz: Intensive Grundbeschneiung vor dem Saisonstart am 28. November",
@@ -445,12 +491,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
-        "headline": "Schwarzwald: Erste Lanzen am Weißenbachlift in Betrieb",
-        "summary": "Bei frostigen Temperaturen von knapp minus 10 Grad liefen in Schönwald am Weißenbachlift die ersten Schneeerzeuger für den Winterbetrieb.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=4098"
+        "headline": "Feldberg: Schneefallgrenze sinkt bis zum Seebuck",
+        "summary": "Ein markanter Polarlufteinbruch bringt den ersehnten Winter ins Mittelgebirge: Am Feldberg schneit es mittlerweile bis zur Talstation der 6er-Sesselbahn Seebuck hinab. Die Wettermodelle prognostizieren in Kombination mit Dauerfrost erhebliche Neuschneemengen, die den Grundstein für die anstehende Saisoneröffnung legen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3890&start=25",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "15.11.2026 02:03 Uhr",
+            "headline": "Schwarzwald: Erste Lanzen am Weißenbachlift in Betrieb",
+            "summary": "Bei frostigen Temperaturen von knapp minus 10 Grad liefen in Schönwald am Weißenbachlift die ersten Schneeerzeuger für den Winterbetrieb.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=4098"
+          }
+        ]
       }
     },
     {
@@ -533,16 +588,7 @@
         "headline": "Sölden: Anspruchsvolle Verhältnisse mit eisigen Passagen und Neuschnee",
         "summary": "Im Gletscherskigebiet von Sölden wechseln griffige Hänge wie am Seiterjöchl mit zunehmend abgerutschten und knolligen Abschnitten am Tiefenbach-Schlusshang. Am Nachmittag setzte oberhalb leichter Neuschneefall ein.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=125",
-        "image_url": "https://media.alpinfans.com/live/59/20261115-103835-c5f10371_l.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Sölden: Frühzeitige Öffnung der Pistenverbindung zum Gaislachkogel",
-            "summary": "Dank des Ausbaus der künstlichen Beschneiung kann die Verbindung zwischen Giggijoch und Gaislachkogel in dieser Saison ein bis zwei Wochen früher als gewöhnlich freigegeben werden.",
-            "source_url": "https://www.alpinforum.com/threads/72461/page-9"
-          }
-        ]
+        "image_url": "https://media.alpinfans.com/live/59/20261115-103835-c5f10371_l.jpg"
       }
     },
     {
@@ -599,6 +645,24 @@
         "summary": "Gut 20 Zentimeter Neuschnee haben den Pisten im Madritschgebiet sehr gut getan. Die Verhältnisse präsentieren sich hochwinterlich, die Öffnung des Kanzel-Sektors steht bevor.",
         "source_url": "https://www.alpinforum.com/threads/72466/page-2",
         "image_url": "https://www.alpinforum.com/attachments/img_0881-webp.338810/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.907594,
+          45.4697293
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "21.11.2026 02:03 Uhr",
+        "name": "Tignes / Val d'Isère",
+        "headline": "Tignes: Saisonauftakt mit 7 Sesselbahnen und vergünstigtem Tagestarif",
+        "summary": "Tignes startet am 21. November mit einem Einstiegstarif von 40 Euro in den Skibetrieb. Geöffnet werden unter anderem die Standseilbahn sowie die Verbindung zwischen Palafour und Tichot mit insgesamt sieben Sesselbahnen. Auf den Gletscherabfahrten bleibt der Skibetrieb infolge der Neuschneemengen und Lawinengefahr zunächst noch geschlossen.",
+        "source_url": "https://www.alpinforum.com/threads/72548/"
       }
     },
     {
@@ -715,13 +779,6 @@
             "headline": "Cervinia: Weitere Pistenöffnungen und Vorbereitung der Piste 81",
             "summary": "Nach ergiebigen Schneefällen ist das Gebiet rund um Breuil-Cervinia komplett eingewintert. Neben den Vorbereitungen für die Piste 81 steht auch der Bereich Pancheron vor der Freigabe, Talabfahrten rücken in greifbare Nähe.",
             "source_url": "https://www.alpinforum.com/threads/72469/page-2"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "12.11.2026 02:03 Uhr",
-            "headline": "Matterhorn Ski Paradise: Sieben neue Skirouten für die Ski Safari ausgewiesen",
-            "summary": "In Zermatt werden im Rahmen der Ski Safari ab sofort sieben neue gekennzeichnete Skirouten für Wintersportler angeboten.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=50&start=650"
           }
         ]
       }
