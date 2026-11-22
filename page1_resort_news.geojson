@@ -6,24 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9102193,
-          46.5646703
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
-        "name": "Alta Badia",
-        "headline": "Alta Badia: Debatte über Zwischenstation beim Neubau der Piz-Sorega-Bahn",
-        "summary": "Beim geplanten Ersatz der Piz-Sorega-Gondelbahn in San Cassiano (Kapazität 4.330 P/h) wird über den Sinn einer Mittelstation diskutiert: Neben pistentechnischen Vorteilen im oberen Hangbereich spielen vor allem Schlüsselregeln der Einnahmenverteilung im Dolomiti Superski eine Rolle.",
-        "source_url": "https://www.funiforum.org/funiforum/node/215834/page8"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.154068,
           46.151811
         ]
@@ -47,7 +29,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Arosa Lenzerheide",
         "headline": "Arosa Lenzerheide: Umstufung mehrerer Pisten und neue Winterwanderwege",
@@ -205,24 +187,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4296372,
-          45.165
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
-        "name": "Galibier-Thabor",
-        "headline": "Valloire: Pistenanpassungen und neue Terrassen an der Gondelbahn Brive",
-        "summary": "Im Skigebiet Galibier-Thabor wird zur neuen Saison die bisherige Skitourenroute Les Rhondos in eine reguläre blaue Piste umgewandelt. Zudem wurden die Beschneiungsanlagen an der Choucas ausgebaut und zwei neue Terrassen an der Bergstation Brive angelegt.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=867&st=380"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.9143318,
           46.69476
         ]
@@ -323,24 +287,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3972359,
-          47.3664103
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
-        "name": "Kitzbühel / Kirchberg",
-        "headline": "KitzSki investiert 36 Millionen Euro in Speicherteich, Skitunnel und Parkhaus",
-        "summary": "KitzSki rüstet kräftig auf: Für rund 36 Millionen Euro entstehen der neue Speicherteich Sonnenrast mit 95.000 m³ Fassungsvermögen, ein 65 Meter langer Skitunnel am steilen Jufenhang für mehr Pistenkomfort und eine barrierefreie Parkgarage an der Fleckalmbahn.",
-        "source_url": "https://www.alpinforum.com/threads/33/page-215"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.958311,
           46.7387791
         ]
@@ -417,7 +363,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Les Sybelles",
         "headline": "Les Sybelles: Skiverbindung nach Saint-Colomban-des-Villards gesichert",
@@ -430,30 +376,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.2695375,
-          46.7741051
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
-        "name": "Melchsee-Frutt",
-        "headline": "Melchsee-Frutt: Pendelbahn Bonistock wird umfassend saniert und Hotel übernommen",
-        "summary": "Statt eines Gondelneubaus soll die bestehende Pendelbahn Distelboden–Bonistock für 8,9 Millionen Franken umfassend erneuert werden (Realisierung 2028). Zudem plant die Korporation Kerns den Kauf des Berghotels Bonistock für 2,2 Millionen Franken samt Grundstück.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=667"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.2569389,
           46.6787736
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Meran 2000",
         "headline": "Meran 2000: Küchelbergtunnel nach 13 Jahren Bauzeit vor Verkehrsfreigabe",
@@ -530,25 +458,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2745415,
-          46.5638824
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
-        "name": "Nassfeld",
-        "headline": "Nassfeld: Neue Sesselbahn an der Tressdorfer Alm im täglichen Probebetrieb",
-        "summary": "Am Nassfeld laufen die Proberunden für die neue Sesselbahn im Bereich Tressdorfer Alm auf Hochtouren. Gleichzeitig wurde der offizielle Pistenplan mit dem angepassten Pistennetz rund um die neue Anlage aktualisiert.",
-        "source_url": "https://www.alpinforum.com/threads/2110/page-36",
-        "image_url": "https://www.alpinforum.com/attachments/image-webp.338704/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.3119292,
           47.3708539
         ]
@@ -572,7 +481,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Ischgl: Neue Höllkarbahn startet vorerst ohne Wetterschutzhauben",
@@ -673,14 +582,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "17.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
-        "headline": "Feldberg: Beliebter Sesselverkauf nach Stilllegung der Seebuck-Sesselbahn",
-        "summary": "Nach 42 Betriebsjahren wurde die 2er-Sesselbahn am Seebuck endgültig abgebaut; die historischen Liftsessel wurden an Jahreskarteninhaber und Seilbahnfans veräußert.",
-        "source_url": "https://www.alpinforum.com/threads/72701/",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fais.badische-zeitung.de%2Fpiece%2F22%2F1e%2Fa3%2Ff9%2F572433401.jpg&hash=e4614496372f311ab278e1684643144e&return_error=1",
+        "headline": "Nordschwarzwald: Seibelseckle bereitet Beschneiung vor und erneuert Webauftritt",
+        "summary": "Am traditionsreichen Skihang Seibelseckle an der Schwarzwaldhochstraße laufen die Saisonvorbereitungen: Neben der Positionierung der ersten Schneeerzeuger für bevorstehende Kältefenster ging auch der offizielle Webauftritt in einem komplett neuen Design online.",
+        "source_url": "https://www.alpinforum.com/threads/72735/",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "17.11.2026 02:03 Uhr",
+            "headline": "Feldberg: Beliebter Sesselverkauf nach Stilllegung der Seebuck-Sesselbahn",
+            "summary": "Nach 42 Betriebsjahren wurde die 2er-Sesselbahn am Seebuck endgültig abgebaut; die historischen Liftsessel wurden an Jahreskarteninhaber und Seilbahnfans veräußert.",
+            "source_url": "https://www.alpinforum.com/threads/72701/",
+            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fais.badische-zeitung.de%2Fpiece%2F22%2F1e%2Fa3%2Ff9%2F572433401.jpg&hash=e4614496372f311ab278e1684643144e&return_error=1"
+          },
           {
             "recency": "weekly",
             "timestamp": "15.11.2026 02:03 Uhr",
@@ -719,12 +635,12 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "14.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
-        "headline": "Wagrain: Neue 10er-Gondelbahn Grafenbergbahn zur Saison 2026/27 fertig",
-        "summary": "Im Snow Space Salzburg steht die neue Grafenbergbahn bereit für den Winterbetrieb. Die 10er-Gondelbahn befördert künftig bei 6 m/s Fahrgeschwindigkeit und in 120 Kabinen bis zu 3.400 Personen pro Stunde auf den Berg.",
-        "source_url": "https://www.alpinforum.com/threads/2511/page-161"
+        "headline": "Snow Space Salzburg: Schlepplift-Multinutzung mit Snow Carts am Grafenberg",
+        "summary": "Am Grafenberg in Wagrain setzt das Skigebiet auf neue Nutzungskonzepte: Neben dem Transport von Mountainbikes im Sommer wird der oberste Schlepplift künftig auch im Winter für Snow Carts genutzt, um alternative Winteraktivitäten abseits der klassischen Piste anzubieten.",
+        "source_url": "https://www.alpinforum.com/threads/2511/page-162"
       }
     },
     {
@@ -737,12 +653,31 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "St. Johann in Tirol / Harschbichl",
         "headline": "St. Johann in Tirol: Neubau der Jodlalmbahn biegt auf die Zielgerade ein",
         "summary": "Die Arbeiten an der neuen Jodlalmbahn befinden sich in der finalen Bauphase und liegen voll im Zeitplan. Die Seilbahntechnik wird derzeit für die pünktliche Eröffnung zur Wintersaison 2026/27 im Dezember fertiggestellt, um die Beförderungskapazität am Harschbichl spürbar zu verbessern.",
         "source_url": "https://www.alpinforum.com/threads/6419/page-37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1172229,
+          46.9918843
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "22.11.2026 02:03 Uhr",
+        "name": "Stubaier Gletscher",
+        "headline": "Stubaier Gletscher: Geländeumbau an Daunscharte und Wildspitz nach Eisschwund",
+        "summary": "Der voranschreitende Gletscherschwund erfordert erhebliche Geländeanpassungen: Während an der Sesselbahn Wildspitz eine steinfreie Piste hergerichtet werden konnte, präsentiert sich die einstige Daunscharte-Abfahrt infolge des Geländewandels als anspruchsvolles, unebenes Stein-Eis-Gemisch.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=1046&start=75",
+        "image_url": "https://alpinfans.com/download/file.php?id=126596&mode=view"
       }
     },
     {
@@ -768,14 +703,6 @@
             "headline": "Grän: Neue Beschneiungsanlage nimmt den Betrieb auf",
             "summary": "Im Tannheimer Tal konnte die neu installierte Beschneiungsanlage in Grän bei den ersten frostigen Temperaturen erfolgreich in Betrieb genommen werden.",
             "source_url": "https://alpinfans.com/viewtopic.php?t=4042"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "14.11.2026 02:03 Uhr",
-            "headline": "Hahnenkamm Reutte: Beschneiung am Waldrastlift für das kommende Jahr fixiert",
-            "summary": "Die geplante technische Beschneiungsanlage für den Waldrastlift in Ehenbichl wird im kommenden Jahr realisiert. Im Zuge der Baumaßnahmen wird zudem die parallele Installation einer Flutlichtanlage geprüft.",
-            "source_url": "https://www.alpinforum.com/threads/1316/page-13",
-            "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fmedia04.meinbezirk.at%2Farticle%2F2026%2F11%2F12%2F9%2F53438409_XXL.webp&hash=0a460a987c8b708816dda92191d0fd48&return_error=1"
           }
         ]
       }
@@ -818,7 +745,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "21.11.2026 02:03 Uhr",
         "name": "Turracher Höhe",
         "headline": "Turracher Höhe: Vier Millionen Euro für Komfort und Liftinfrastruktur",
@@ -836,12 +763,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "17.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
-        "headline": "Villars-Gryon: Pläne für den Ersatz der Barboleuse-Gondelbahn mit Mittelstation",
-        "summary": "Für die in die Jahre gekommene 4er-Gondelbahn Barboleusaz wird der Ersatz durch eine moderne 10er-Gondelbahn mit Zwischenstation in Frience vorangetrieben.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580"
+        "headline": "Villars-Gryon: Baugesuch für Ersatz des Schlepplifts Combe d'Orsay publiziert",
+        "summary": "Die Gemeinde Ollon hat das offizielle Baugesuch für den Ersatz des traditionsreichen Kurvenschlepplifts Combe d'Orsay durch eine fixe Vierersesselbahn publiziert. Das bereits im aktuellen Pistenplan für 2027 verzeichnete Projekt soll die sportlichen roten Abfahrten im Sektor modernisieren.",
+        "source_url": "https://www.alpinforum.com/threads/14322/page-5",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "17.11.2026 02:03 Uhr",
+            "headline": "Villars-Gryon: Pläne für den Ersatz der Barboleuse-Gondelbahn mit Mittelstation",
+            "summary": "Für die in die Jahre gekommene 4er-Gondelbahn Barboleusaz wird der Ersatz durch eine moderne 10er-Gondelbahn mit Zwischenstation in Frience vorangetrieben.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=5528&st=580"
+          }
+        ]
       }
     },
     {
