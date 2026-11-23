@@ -67,7 +67,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Neuschnee auf Parsenn und Beschneiung der Talabfahrt",
@@ -123,7 +123,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Espace Dent Blanche",
         "headline": "Espace Dent Blanche: Erste Langlaufloipe nach Neuschnee im Val d'Hérens gespurt",
@@ -289,12 +289,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Kitzbühel / Kirchberg",
-        "headline": "Kitzbühel: Teilweiser Saisonauftakt am Resterkogel und der Panoramabahn",
-        "summary": "KitzSki startet am 21. und 22. November am Resterkogel und der Panoramabahn in das erste Skiwochenende, während der Betrieb an Hahnenkamm, Fleckalm und Hornbahn Ende November folgt.",
-        "source_url": "https://www.alpinforum.com/threads/72632/"
+        "headline": "Kitzbühel: Intensive Schneeerzeugung am Hahnenkamm vor dem Eröffnungswochenende",
+        "summary": "Am Hahnenkamm laufen die Beschneiungsanlagen bei Minusgraden auf Hochtouren. Kitzbühel peilt für das kommende Eröffnungswochenende ein umfangreiches Pistenangebot an, eventuell inklusive der Fleck-Talabfahrt.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3945",
+        "image_url": "https://alpinfans.com/download/file.php?id=126643",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "19.11.2026 02:03 Uhr",
+            "headline": "Kitzbühel: Teilweiser Saisonauftakt am Resterkogel und der Panoramabahn",
+            "summary": "KitzSki startet am 21. und 22. November am Resterkogel und der Panoramabahn in das erste Skiwochenende, während der Betrieb an Hahnenkamm, Fleckalm und Hornbahn Ende November folgt.",
+            "source_url": "https://www.alpinforum.com/threads/72632/"
+          }
+        ]
       }
     },
     {
@@ -381,7 +391,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Madonna di Campiglio / Pinzolo / Folgàrida / Marilleva",
         "headline": "Madonna di Campiglio: Saisonstart im Grostè-Sektor mit ersten Pisten",
@@ -430,6 +440,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.2881895,
+          47.0097538
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "Paznauntal / Ischgl–Samnaun",
+        "headline": "Ischgl / Samnaun: Intensiver Schneeeinsatz vor dem offiziellen Saisonstart",
+        "summary": "Die Silvretta Arena verzichtet trotz guter Schneeverhältnisse auf ein Voröffnungs-Wochenende. Dank kompakter Grundbeschneiung und Neuschnee ab 2.000 Metern wird zum offiziellen Saisonstart ein Großteil des Skigebiets inklusive der Talabfahrten erwartet.",
+        "source_url": "https://www.alpinforum.com/threads/72568/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8776109,
           46.9096745
         ]
@@ -449,18 +477,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6519221,
-          47.406831
+          6.7702857,
+          46.1925439
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
-        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
-        "headline": "Fieberbrunn: Intensiver Beschneiungsstart am Streuböden",
-        "summary": "Im Skicircus laufen in Fieberbrunn am Streuböden und Doischberg die Schneeerzeuger auf Hochtouren, um eine solide Grundpräparierung aufzubauen.",
-        "source_url": "https://www.alpinforum.com/threads/72736/",
-        "image_url": "https://www.alpinforum.com/attachments/20261114_112603-webp.338783/"
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "Portes du Soleil",
+        "headline": "Portes du Soleil: Erste Pistenpräparierung in Les Crosets und geplante Öffnung",
+        "summary": "Nach ergiebigen Schneefällen wurden in Les Crosets die Pisten zum ersten Mal in der Saison präpariert. Die Sesselbahn Crosets 8 bereitet sich intensiv auf den geplanten Saisonstart am kommenden Wochenende vor.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3969",
+        "image_url": "https://alpinfans.com/download/file.php?id=126645&mode=view"
       }
     },
     {
@@ -473,7 +501,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Saastal",
         "headline": "Saas-Fee: Morenia-Sesselbahn in Betrieb und gute Schneelage unter dem Lift",
@@ -510,21 +538,39 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "21.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Schwarzwald / Feldberg",
-        "headline": "Feldberg: Schneefallgrenze sinkt bis zum Seebuck",
-        "summary": "Ein markanter Polarlufteinbruch bringt den ersehnten Winter ins Mittelgebirge: Am Feldberg schneit es mittlerweile bis zur Talstation der 6er-Sesselbahn Seebuck hinab. Die Wettermodelle prognostizieren in Kombination mit Dauerfrost erhebliche Neuschneemengen, die den Grundstein für die anstehende Saisoneröffnung legen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3890&start=25",
+        "headline": "Südschwarzwald: Beschneiungsstart an den kleineren Hangliften",
+        "summary": "Im Südschwarzwald rüsten sich die Liftbetreiber für die kalte Witterung. Am Weissenbachlift in Schönwald wurde die Beschneiungsanlage angeworfen, wo der erste Testschnee auf den Wiesen erhalten geblieben ist.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4098",
         "older_news": [
           {
             "recency": "weekly",
-            "timestamp": "15.11.2026 02:03 Uhr",
-            "headline": "Schwarzwald: Erste Lanzen am Weißenbachlift in Betrieb",
-            "summary": "Bei frostigen Temperaturen von knapp minus 10 Grad liefen in Schönwald am Weißenbachlift die ersten Schneeerzeuger für den Winterbetrieb.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=4098"
+            "timestamp": "21.11.2026 02:03 Uhr",
+            "headline": "Feldberg: Schneefallgrenze sinkt bis zum Seebuck",
+            "summary": "Ein markanter Polarlufteinbruch bringt den ersehnten Winter ins Mittelgebirge: Am Feldberg schneit es mittlerweile bis zur Talstation der 6er-Sesselbahn Seebuck hinab. Die Wettermodelle prognostizieren in Kombination mit Dauerfrost erhebliche Neuschneemengen, die den Grundstein für die anstehende Saisoneröffnung legen.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3890&start=25"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729763,
+          47.0495139
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "Serfaus-Fiss-Ladis",
+        "headline": "Serfaus-Fiss-Ladis: Vorbereitungen auf das Opening in zwei Wochen",
+        "summary": "Zwei Wochen vor dem geplanten Saisonauftakt warten die Bergbahnen in den Lagen zwischen 1.400 m und 1.800 m auf anhaltende Frostnächte, um die Grundbeschneiung flächendeckend abzuschließen.",
+        "source_url": "https://www.alpinforum.com/threads/72761/"
       }
     },
     {
@@ -606,37 +652,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1172229,
-          46.9918843
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
-        "name": "Stubaier Gletscher",
-        "headline": "Stubaier Gletscher: Erste Schwünge an der geöffneten Fernaubahn",
-        "summary": "Mit der Öffnung des Fernau-Sektors standen den Wintersportlern erste Pulverschnee-Abfahrten zur Verfügung. Die Pisten zeigen sich gut präpariert.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3949&start=150",
-        "image_url": "https://alpinfans.com/download/file.php?id=126448&mode=view"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.5842617,
           46.5280433
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Sulden am Ortler / Solda all'Ortles",
-        "headline": "Sulden am Ortler: Neuschnee sorgt für beste Winterbedingungen",
-        "summary": "Gut 20 Zentimeter Neuschnee haben den Pisten im Madritschgebiet sehr gut getan. Die Verhältnisse präsentieren sich hochwinterlich, die Öffnung des Kanzel-Sektors steht bevor.",
-        "source_url": "https://www.alpinforum.com/threads/72466/page-2",
-        "image_url": "https://www.alpinforum.com/attachments/img_0881-webp.338810/"
+        "headline": "Sulden am Ortler: Kanzelbereich öffnet bei ruhigem Wetter und Neuschnee",
+        "summary": "In Sulden präsentiert sich die Naturschneelage mit rund 25 bis 30 cm noch überschaubar und im Bereich Madritsch stark verblasen. Der Kanzel-Sektor bietet jedoch windgeschützte Abfahrten mit frischer Neuschneeauflage.",
+        "source_url": "https://www.alpinforum.com/threads/72781/",
+        "image_url": "https://www.alpinforum.com/attachments/img_1060-webp.339491/"
       }
     },
     {
@@ -692,24 +719,6 @@
         "headline": "Vars / Risoul: Erste Schneefälle bringen winterliche Vorboten im Forêt Blanche",
         "summary": "In der französische Skiregion Forêt Blanche haben erste ergiebige Schneefälle für eine weiße Landschaft gesorgt. Für den flächendeckenden Beschneiungsstart wird noch auf dauerhaft tiefere Minustemperaturen gewartet.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=8745&st=11180"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.276507,
-          46.1003545
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
-        "name": "4 Vallées / Verbier",
-        "headline": "4 Vallées: Gute Schneelage auf den Pisten zu Les Ruinettes",
-        "summary": "Oberhalb von Verbier ist die Abfahrt bis Les Ruinettes bereits gut mit Schnee bedeckt und wird von ersten Fahrern intensiv befahren.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3918"
       }
     },
     {

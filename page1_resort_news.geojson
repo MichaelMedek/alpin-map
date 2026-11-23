@@ -42,24 +42,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.7529301,
-          47.1166893
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "15.11.2026 02:03 Uhr",
-        "name": "Brandnertal",
-        "headline": "Brandnertal: Zukunft der Einhornbahn Bürserberg steht fest",
-        "summary": "Die historische Steurer-Doppelsesselbahn Einhorn I in Bürserberg steht in den kommenden Jahren vor ihrer Stilllegung beziehungsweise Erneuerung, während für andere Klassiker der Region Retrofit-Maßnahmen vorgesehen sind.",
-        "source_url": "https://www.alpinforum.com/threads/72702/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.9984978,
           46.9392639
         ]
@@ -132,6 +114,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.356835,
+          46.697662
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
+        "headline": "3 Zinnen Dolomiten: Innenausbau der neuen 10er-Gondelbahn Helmissimo in Vierschach",
+        "summary": "An der neuen 10er-Kabinenbahn Helmissimo in Vierschach laufen die Arbeiten an der Talstation auf Hochtouren. Neben dem Innenausbau und Tischlerarbeiten am Holzdesign der Station laufen die finalen Vorbereitungen für die behördliche Abnahme.",
+        "source_url": "https://www.funiforum.org/funiforum/node/276705/page7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.1718971,
           46.9188827
         ]
@@ -169,6 +169,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.4810866,
+          46.025975
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "Espace Dent Blanche",
+        "headline": "Espace Dent Blanche: Erste Schritte zu engerer Kooperation im Val d'Hérens",
+        "summary": "Die Skigebiete im Val d'Hérens setzen auf verstärkte Synergien. Über eine gemeinsame Kooperationsplattform werden Administration, Materialnutzung, Beschneiungsanlagen und Wartungsarbeiten zwischen den Gesellschaften von Evolène, Arolla und La Forclaz gebündelt.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=34620&st=180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.6987026,
           46.4489728
         ]
@@ -180,6 +198,24 @@
         "headline": "Val di Fassa: Neue 10er-Gondelbahn Buffaure–Col de Valvacin im Probebetrieb",
         "summary": "In Pozza di Fassa hängen die rotbraunen Kabinen der neuen 10er-Gondelbahn am Seil, und die behördlichen Evakuierungsübungen wurden erfolgreich absolviert.",
         "source_url": "https://www.funiforum.org/funiforum/node/319706/page7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0610948,
+          47.4737938
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "Garmisch Classic / Zugspitze",
+        "headline": "Garmisch-Classic / Zugspitze: Erneuerung der Zahnradbahn hat Priorität",
+        "summary": "Die Bayerische Zugspitzbahn konzentriert ihre Investitionen auf die Erneuerung des Fuhrparks der Zahnradbahn. Neue Seilbahnen oder eine 3S-Gipfelverbindung am Zugspitzplatt stehen derzeit nicht auf der Agenda der Bergbahnen.",
+        "source_url": "https://www.alpinforum.com/threads/1652/page-163"
       }
     },
     {
@@ -216,16 +252,7 @@
         "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
         "headline": "Gröden: Planungsunterlagen für den Ersatz der Sesselbahn Catores eingereicht",
         "summary": "Für den geplanten Ersatz der 2er-Sesselbahn Catores auf der Seceda liegen neue Planungsunterlagen vor, die eine Trassenverschwenkung und -verlängerung vorsehen.",
-        "source_url": "https://www.alpinforum.com/threads/8337/page-105",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "15.11.2026 02:03 Uhr",
-            "headline": "Seiser Alm: Ersatz der 2er-Sesselbahn Steger-Dellai gestartet",
-            "summary": "Auf der Seiser Alm laufen die Arbeiten für den Neubau der 8er-Sesselbahn Steger-Dellai von Doppelmayr, welche die alte fixgeklemmte Zweiersesselbahn ersetzt.",
-            "source_url": "https://www.funiforum.org/funiforum/node/318985/page4"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/8337/page-105"
       }
     },
     {
@@ -422,16 +449,7 @@
         "name": "Montgenèvre / Via Lattea",
         "headline": "Montgenèvre: Endspurt beim Bau der Gondelbahnen Chalvet und Fournéous",
         "summary": "Im französischen Teil der Via Lattea biegen die Arbeiten an den beiden neuen 10er-Gondelbahnen Chalvet und Fournéous auf die Zielgerade ein. Die Doppelmayr-Anlagen sollen rechtzeitig vor Beginn der Weihnachtsferien fertiggestellt werden und zwei zentrale Zubringerachsen modernisieren.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "15.11.2026 02:03 Uhr",
-            "headline": "Montgenèvre – Via Lattea: Sesselbahn Colletto Verde vor Eröffnung",
-            "summary": "Die neue Sesselbahn Colletto Verde soll im Laufe der Wintersaison 2026/27 in Betrieb gehen und die hochalpine Verbindung zwischen Claviere und Montgenèvre verdoppeln.",
-            "source_url": "https://www.funiforum.org/funiforum/node/259940/page32"
-          }
-        ]
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80"
       }
     },
     {
@@ -582,7 +600,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Nordschwarzwald: Seibelseckle bereitet Beschneiung vor und erneuert Webauftritt",
@@ -596,13 +614,6 @@
             "summary": "Nach 42 Betriebsjahren wurde die 2er-Sesselbahn am Seebuck endgültig abgebaut; die historischen Liftsessel wurden an Jahreskarteninhaber und Seilbahnfans veräußert.",
             "source_url": "https://www.alpinforum.com/threads/72701/",
             "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fais.badische-zeitung.de%2Fpiece%2F22%2F1e%2Fa3%2Ff9%2F572433401.jpg&hash=e4614496372f311ab278e1684643144e&return_error=1"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "15.11.2026 02:03 Uhr",
-            "headline": "Feldberg: Großer Speicherteich und Beschneiungsausbau geplant",
-            "summary": "Nach der vollständigen Tilgung der Kredite für die Herzogenhornbahn planen die Feldbergbahnen für die nächsten Jahre den Bau eines 120.000 Kubikmeter fassenden Speicherteichs hinter dem Haus der Natur sowie gezielte Beschneiungserweiterungen an der Zeigerbahn.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=2642&start=50"
           }
         ]
       }
@@ -635,7 +646,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Snow Space Salzburg – Flachau/Wagrain/St. Johann-Alpendorf",
         "headline": "Snow Space Salzburg: Schlepplift-Multinutzung mit Snow Carts am Grafenberg",
@@ -671,7 +682,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Stubaier Gletscher",
         "headline": "Stubaier Gletscher: Geländeumbau an Daunscharte und Wildspitz nach Eisschwund",
@@ -695,16 +706,7 @@
         "name": "Tannheimer Tal / Hahnenkamm Reutte",
         "headline": "Tannheimer Tal: Bergbahnen rüsten bei der Beschneiungsanlage auf",
         "summary": "Die Bergbahnen im Tannheimer Tal investieren gezielt in moderne Beschneiungstechnik, um die Pisten zum Winter 2026/27 schlagkräftiger einzuschneien.",
-        "source_url": "https://www.alpinforum.com/threads/4589/page-14",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "15.11.2026 02:03 Uhr",
-            "headline": "Grän: Neue Beschneiungsanlage nimmt den Betrieb auf",
-            "summary": "Im Tannheimer Tal konnte die neu installierte Beschneiungsanlage in Grän bei den ersten frostigen Temperaturen erfolgreich in Betrieb genommen werden.",
-            "source_url": "https://alpinfans.com/viewtopic.php?t=4042"
-          }
-        ]
+        "source_url": "https://www.alpinforum.com/threads/4589/page-14"
       }
     },
     {
@@ -758,12 +760,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.276507,
+          46.1003545
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "23.11.2026 02:04 Uhr",
+        "name": "4 Vallées / Verbier",
+        "headline": "Verbier: Ersatz der 4er-Gondelbahn Le Châble–Verbier durch moderne 10er-Kabinenbahn",
+        "summary": "Im Val de Bagnes steht der Ersatz der Zubringer-Gondelbahn Le Châble–Verbier bevor. Die bestehende 4er-Gondel soll durch eine moderne 10er-Kabinenbahn von Doppelmayr mit Auro-System und Fatzer-Performa-Seil ersetzt werden, um den Reisekomfort und die Betriebsablauf-Effizienz deutlich zu steigern.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=1274&st=1460",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/47d3bc5f-50c2-44fb-b3a0-ef6578cd3255/4_1200.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.054939392135699,
           46.30370202011029
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "22.11.2026 02:03 Uhr",
         "name": "Villars/Gryon/Les Diablerets",
         "headline": "Villars-Gryon: Baugesuch für Ersatz des Schlepplifts Combe d'Orsay publiziert",
