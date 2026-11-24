@@ -99,18 +99,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7179812,
-          46.5320704
+          12.9547281,
+          50.4291364
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Dreiländereck / Arnoldstein",
-        "headline": "Dreiländereck: Beschneiungsstart und Wiederinbetriebnahme zweier Lifte",
-        "summary": "Am Dreiländereck bei Arnoldstein wurden die tiefen Temperaturen genutzt, um im oberen Bereich die Schneeerzeuger anzuwerfen. In der neuen Saison sollen nach längerer Pause sowohl der Hahnenwipfellift als auch der Kurvenlift wieder öffnen.",
-        "source_url": "https://www.alpinforum.com/threads/72743/",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2FFRTYbWFf%2F6d782f7b-823c-4930-b0bc-7ed071dd7684.jpg&hash=649bb91b22dd4805526d4966ab69ebd9"
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "Erzgebirge / Fichtelberg",
+        "headline": "Erzgebirge: Flächendeckender Beschneiungsstart am Klínovec und Fichtelberg",
+        "summary": "Dank sinkender Temperaturen laufen die Schneeerzeuger an den Hanglagen des Erzgebirges auf Hochtouren. Erste Teilöffnungen am kommenden Wochenende werden vorbereitet.",
+        "source_url": "https://www.alpinforum.com/threads/72645/"
       }
     },
     {
@@ -137,17 +136,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.2765899,
+          47.0828502
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "Flumserberg",
+        "headline": "Flumserberg: Pistenfahrzeuge bereiten Saisonstart am Freitag vor",
+        "summary": "Nach ergiebigem Schneefall in den Höhenlagen haben die Pistenraupen am Flumserberg die Arbeit aufgenommen. Der Saisonauftakt ist für Freitag fixiert.",
+        "source_url": "https://www.alpinforum.com/threads/72787/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.0610948,
           47.4737938
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "21.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
         "name": "Garmisch Classic / Zugspitze",
-        "headline": "Garmisch Classic: Saisonzeiten und Frühjahrsbetrieb terminiert",
-        "summary": "Die Bayerische Zugspitzbahn hat die Betriebszeiten für das Classic-Gebiet fixiert: Die Lifte am Hausberg bleiben in diesem Winter bis zum Weißen Sonntag in Betrieb, während die Anlagen am Kreuzeck und der Alpspitze bis einschließlich Ostermontag laufen. Auf dem Zugspitzplatt wird der Skibetrieb bis zum 2. Mai 2027 fortgeführt.",
-        "source_url": "https://www.alpinforum.com/threads/72470/"
+        "headline": "Zugspitze: Skibetrieb startet am Freitag auf dem Zugspitzplatt",
+        "summary": "Auf Deutschlands höchstem Skigebiet fällt am Freitag der Startschuss für die Wintersaison mit den beiden Sesselliften Sonnenkar und Wetterwandeck.",
+        "source_url": "https://www.alpinforum.com/threads/72617/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "21.11.2026 02:03 Uhr",
+            "headline": "Garmisch Classic: Saisonzeiten und Frühjahrsbetrieb terminiert",
+            "summary": "Die Bayerische Zugspitzbahn hat die Betriebszeiten für das Classic-Gebiet fixiert: Die Lifte am Hausberg bleiben in diesem Winter bis zum Weißen Sonntag in Betrieb, während die Anlagen am Kreuzeck und der Alpspitze bis einschließlich Ostermontag laufen. Auf dem Zugspitzplatt wird der Skibetrieb bis zum 2. Mai 2027 fortgeführt.",
+            "source_url": "https://www.alpinforum.com/threads/72470/"
+          }
+        ]
       }
     },
     {
@@ -265,31 +291,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7045488,
-          46.8541825
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Kaunertaler Gletscher",
-        "headline": "Kaunertaler Gletscher: Gute Griffigkeit und Skibetrieb bis zur Ochsenalm 2",
-        "summary": "Am Kaunertaler Gletscher präsentieren sich die Pisten am Karlesjoch und an der Ochsenalm 2 griffig und in gutem Zustand. Am Fernerlift ist für den Publikumsverkehr vor allem die blaue Piste geöffnet, während Trainingsgruppen weite Abschnitte nutzen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3983&start=75",
-        "image_url": "https://media.alpinfans.com/live/58/20261115-134437-fb2e0409_l.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.3972359,
           47.3664103
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Kitzbühel / Kirchberg",
         "headline": "Kitzbühel: Intensive Schneeerzeugung am Hahnenkamm vor dem Eröffnungswochenende",
@@ -305,25 +312,6 @@
             "source_url": "https://www.alpinforum.com/threads/72632/"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.756534,
-          47.27388
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Kitzsteinhorn/Maiskogel – Kaprun",
-        "headline": "Kitzsteinhorn: Schöner Pulverschnee im oberen Bereich trotz starkem Andrang",
-        "summary": "Auf dem Kitzsteinhorn herrschen an den oberen Hängen pulvrige Pistenverhältnisse ohne Steine. Durch die hohe Auslastung am Wochenende bildeten sich an den Zubringern und am Alpincenter teils längere Wartezeiten.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3943&start=25",
-        "image_url": "https://alpinfans.com/download/file.php?id=126465&mode=view"
       }
     },
     {
@@ -445,12 +433,30 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Ischgl / Samnaun: Intensiver Schneeeinsatz vor dem offiziellen Saisonstart",
         "summary": "Die Silvretta Arena verzichtet trotz guter Schneeverhältnisse auf ein Voröffnungs-Wochenende. Dank kompakter Grundbeschneiung und Neuschnee ab 2.000 Metern wird zum offiziellen Saisonstart ein Großteil des Skigebiets inklusive der Talabfahrten erwartet.",
         "source_url": "https://www.alpinforum.com/threads/72568/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3108236,
+          45.687269
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "Pila (Aosta)",
+        "headline": "Pila: Saisonauftakt im Aostatal auf den 4. Dezember terminiert",
+        "summary": "Die Bergbahnen von Pila haben den Start der Skisaison auf Freitag, den 4. Dezember angepasst, um noch verbleibende Präparierungsarbeiten durchzuführen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4060"
       }
     },
     {
@@ -482,13 +488,32 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Portes du Soleil",
         "headline": "Portes du Soleil: Erste Pistenpräparierung in Les Crosets und geplante Öffnung",
         "summary": "Nach ergiebigen Schneefällen wurden in Les Crosets die Pisten zum ersten Mal in der Saison präpariert. Die Sesselbahn Crosets 8 bereitet sich intensiv auf den geplanten Saisonstart am kommenden Wochenende vor.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3969",
         "image_url": "https://alpinfans.com/download/file.php?id=126645&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6519221,
+          47.406831
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
+        "headline": "Skicircus Saalbach: Intensive Pistenpräparierung vor dem Opening-Wochenende",
+        "summary": "Die Schneekanonen laufen im Skicircus bis in die Täler durch. Die geplanten Öffnungen zum Wochenende konzentrieren sich auf den Bereich Leogang sowie den Zwölferkogel.",
+        "source_url": "https://www.alpinforum.com/threads/72736/",
+        "image_url": "https://www.alpinforum.com/attachments/image-webp.339591/"
       }
     },
     {
@@ -538,7 +563,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Südschwarzwald: Beschneiungsstart an den kleineren Hangliften",
@@ -565,7 +590,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Serfaus-Fiss-Ladis",
         "headline": "Serfaus-Fiss-Ladis: Vorbereitungen auf das Opening in zwei Wochen",
@@ -583,13 +608,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "17.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
         "name": "Ski Arlberg",
-        "headline": "Ski Arlberg: Breitflächige Pistenbeschneiung vor dem Eröffnungswochenende",
-        "summary": "In St. Anton, Lech und Zürs liefen die Schneeerzeuger in den Frostnächten auf Hochtouren, um das Fundament für das geplante Eröffnungswochenende ab dem 4. Dezember zu legen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3939",
-        "image_url": "https://alpinfans.com/download/file.php?id=126478&mode=view"
+        "headline": "Ski Arlberg: Großeuropäischer Beschneiungsauftakt in Lech und Zürs",
+        "summary": "Mit über 135 zeitgleich aktiven Schneeerzeugern im Sektor Petersboden und Schlegelkopf nutzt Ski Arlberg das aktuelle Frostfenster für eine flächendeckende Grundbeschneiung.",
+        "source_url": "https://www.alpinforum.com/threads/72460/page-2",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.foto-webcam.eu%2Fwebcam%2Flech%2Fcurrent%2F1200.jpg&hash=773a65d08d90ac561cffef031af1e918&return_error=1",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "17.11.2026 02:03 Uhr",
+            "headline": "Ski Arlberg: Breitflächige Pistenbeschneiung vor dem Eröffnungswochenende",
+            "summary": "In St. Anton, Lech und Zürs liefen die Schneeerzeuger in den Frostnächten auf Hochtouren, um das Fundament für das geplante Eröffnungswochenende ab dem 4. Dezember zu legen.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3939",
+            "image_url": "https://alpinfans.com/download/file.php?id=126478&mode=view"
+          }
+        ]
       }
     },
     {
@@ -638,13 +673,13 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Sölden: Anspruchsvolle Verhältnisse mit eisigen Passagen und Neuschnee",
-        "summary": "Im Gletscherskigebiet von Sölden wechseln griffige Hänge wie am Seiterjöchl mit zunehmend abgerutschten und knolligen Abschnitten am Tiefenbach-Schlusshang. Am Nachmittag setzte oberhalb leichter Neuschneefall ein.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=125",
-        "image_url": "https://media.alpinfans.com/live/59/20261115-103835-c5f10371_l.jpg"
+        "headline": "Sölden: Ausgezeichnete Gletscherpisten bei sonnigem, aber kaltem Wind",
+        "summary": "Rettenbach- und Tiefenbachgletscher bieten griffigen Schnee und Sonnenschein. Aufgrund mangelnder Schneeauflage bleiben die Talabfahrten vorerst noch geschlossen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=150",
+        "image_url": "https://media.alpinfans.com/live/236/20261123-140443-8a1b90dd_l.jpg"
       }
     },
     {
@@ -657,7 +692,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Sulden am Ortler / Solda all'Ortles",
         "headline": "Sulden am Ortler: Kanzelbereich öffnet bei ruhigem Wetter und Neuschnee",
@@ -701,24 +736,6 @@
         "summary": "Auf der Turracher Höhe laufen die Schneeerzeuger auf Hochtouren; vor allem am Wildkopflift und an der Zirbenwaldbahn präsentiert sich die Unterlage bereits in vielversprechendem Zustand.",
         "source_url": "https://www.alpinforum.com/threads/72746/",
         "image_url": "https://www.alpinforum.com/attachments/20261114_140924-webp.338945/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.689913,
-          44.5938264
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Vars / Risoul",
-        "headline": "Vars / Risoul: Erste Schneefälle bringen winterliche Vorboten im Forêt Blanche",
-        "summary": "In der französische Skiregion Forêt Blanche haben erste ergiebige Schneefälle für eine weiße Landschaft gesorgt. Für den flächendeckenden Beschneiungsstart wird noch auf dauerhaft tiefere Minustemperaturen gewartet.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=8745&st=11180"
       }
     },
     {

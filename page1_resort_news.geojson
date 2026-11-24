@@ -70,16 +70,7 @@
         "name": "Crans-Montana",
         "headline": "Crans-Montana: Bergbahnen investieren in Beschneiung trotz Verlustjahr",
         "summary": "Auf der Generalversammlung der Bergbahnen Crans-Montana kündigte Verwaltungsratspräsident Mike Goar einen weiteren Ausbau des Beschneiungsnetzes zur kommenden Saison an. Das Unternehmen verzeichnete bei einem Gästerückgang von 2,8 Prozent einen Jahresverlust von 760.000 Franken.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=228&start=25",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "16.11.2026 02:03 Uhr",
-            "headline": "Crans-Montana und Lenk: Machbarkeitsstudie für 3S-Gipfelverbindung vorgelegt",
-            "summary": "Für das grenzüberschreitende Großprojekt einer Seilbahnverbindung zwischen Lenk im Simmental und dem Funitel Plaine Morte in Crans-Montana liegt eine erste Machbarkeitsstudie vor. Diskutiert wird ein 3S-System mit einem geschätzten Investitionsrahmen von 150 bis 200 Millionen Franken.",
-            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=3158&st=360"
-          }
-        ]
+        "source_url": "https://alpinfans.com/viewtopic.php?t=228&start=25"
       }
     },
     {
@@ -119,7 +110,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
         "headline": "3 Zinnen Dolomiten: Innenausbau der neuen 10er-Gondelbahn Helmissimo in Vierschach",
@@ -132,49 +123,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1718971,
-          46.9188827
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Elm",
-        "headline": "Elm: Großinvestition von 25 Millionen Franken in moderne Beschneiungsanlage",
-        "summary": "Die Sportbahnen Elm rüsten massiv auf und installieren 106 neue Schneeerzeuger. Mit einem Gesamtvolumen von 25 Millionen Franken entsteht im Sernftal eines der größten aktuellen Beschneiungsprojekte der Alpen, um den Skibetrieb langfristig abzusichern.",
-        "source_url": "https://www.alpinforum.com/threads/1541/page-4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9547281,
-          50.4291364
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Erzgebirge / Fichtelberg",
-        "headline": "Erzgebirge: Unternehmerfamilie treibt Modernisierung am Fichtelberg voran",
-        "summary": "Am Fichtelberg in Oberwiesenthal wird das traditionsreiche Fichtelberghaus modernisiert und fit für die Zukunft gemacht. Zudem laufen Planungen für einen neuen Sechser-Sessellift an der Himmelsleiter ab 2027 sowie Vorarbeiten für die Kaskaden-Speicherbecken am benachbarten Keilberg.",
-        "source_url": "https://www.alpinforum.com/threads/13862/page-120",
-        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fberliner-zeitung-msp-prod.imgix.net%2F2026%2F11%2F09%2F6445300b-fd82-4bb5-927b-9771e3d4e9ad.jpg%3Frect%3D0%2C71%2C1200%2C675%26w%3D1200%26h%3D630%26fit%3Dcrop%26auto%3Dformat%26auto%3Dcompress&hash=4ed815cbd015f540cf4a156a506951f4&return_error=1"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.4810866,
           46.025975
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Espace Dent Blanche",
         "headline": "Espace Dent Blanche: Erste Schritte zu engerer Kooperation im Val d'Hérens",
@@ -210,7 +164,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "Garmisch Classic / Zugspitze",
         "headline": "Garmisch-Classic / Zugspitze: Erneuerung der Zahnradbahn hat Priorität",
@@ -296,24 +250,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4529902,
-          47.5708918
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "16.11.2026 02:03 Uhr",
-        "name": "Jungholz",
-        "headline": "Jungholz: Schlepplift Steineberg nach technischem Defekt endgültig stillgelegt",
-        "summary": "Im Tiroler Skigebiet Jungholz wird der Steineberglift nicht mehr den Betrieb aufnehmen. Nach einem schwerwiegenden Getriebeschaden und angesichts abgelaufener Betriebskonzessionen wurde die Anlage dauerhaft stillgelegt.",
-        "source_url": "https://www.alpinforum.com/threads/2515/page-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.958311,
           46.7387791
         ]
@@ -333,13 +269,6 @@
             "summary": "Die Arbeiten an der Bergstation des Neubaus Kronplatz 1+2 stehen kurz vor dem Abschluss. Ein neuer Großbildschirm wurde an der Station bereits montiert.",
             "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
             "image_url": "https://www.funiforum.org/immagini_forum/26/20261118150112_20261118150112_Screenshot20261118150001.jpg"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "16.11.2026 02:03 Uhr",
-            "headline": "Kronplatz: Erfolgreiche Evakuierungsübung an der Gondelbahn Ruis",
-            "summary": "In San Vigilio am Kronplatz wurde im Zuge der Erneuerungsarbeiten an der Achtergondelbahn Ruis eine großangelegte Berge- und Evakuierungsübung mit den Einsatzkräften erfolgreich absolviert.",
-            "source_url": "https://www.funiforum.org/funiforum/node/313503/page6"
           }
         ]
       }
@@ -444,12 +373,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "20.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
-        "headline": "Montgenèvre: Endspurt beim Bau der Gondelbahnen Chalvet und Fournéous",
-        "summary": "Im französischen Teil der Via Lattea biegen die Arbeiten an den beiden neuen 10er-Gondelbahnen Chalvet und Fournéous auf die Zielgerade ein. Die Doppelmayr-Anlagen sollen rechtzeitig vor Beginn der Weihnachtsferien fertiggestellt werden und zwei zentrale Zubringerachsen modernisieren.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80"
+        "headline": "Via Lattea: 61 Millionen Euro für Beschneiungsausbau und Comeback des Nachtskilaufs",
+        "summary": "Die Betreibergruppe investiert massiv in das Großraumskigebiet Via Lattea und Bardonecchia. Neben der Beschneiung von 80 % der Pisten in Bardonecchia kehrt der Nachtskilauf auf der Kandahar-Piste in Sestriere zurück.",
+        "source_url": "https://www.alpinforum.com/threads/5492/page-10",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dovesciare.it%2Fsites%2Fdefault%2Ffiles%2FVIALATTEA%252011%2520%25281%2529.jpg&hash=cf9b508429f5b612a0c8c7527a5ff54f&return_error=1",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "20.11.2026 02:03 Uhr",
+            "headline": "Montgenèvre: Endspurt beim Bau der Gondelbahnen Chalvet und Fournéous",
+            "summary": "Im französischen Teil der Via Lattea biegen die Arbeiten an den beiden neuen 10er-Gondelbahnen Chalvet und Fournéous auf die Zielgerade ein. Die Doppelmayr-Anlagen sollen rechtzeitig vor Beginn der Weihnachtsferien fertiggestellt werden und zwei zentrale Zubringerachsen modernisieren.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80"
+          }
+        ]
       }
     },
     {
@@ -536,20 +475,20 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "17.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
         "name": "Ponte di Legno/Tonale/Presena Gletscher/Temù (Pontedilegno-Tonale)",
-        "headline": "Pontedilegno: Farbliche Landschaftsintegration an der neuen Gondelbahn Angelo",
-        "summary": "Beim Neubau der 10er-Gondelbahn Valbione–Corno d'Aola–Angelo in Ponte di Legno wurden die Seilbahnstützen für ein harmonisches Landschaftsbild in Braun lackiert.",
-        "source_url": "https://www.funiforum.org/funiforum/node/293393/page6",
+        "headline": "Pontedilegno-Tonale: Gondeln an der neuen 10er-Kabinenbahn Malga Valbiolo montiert",
+        "summary": "Am Passo del Tonale biegt der Bau der neuen 10er-Gondelbahn Malga Valbiolo von Leitner auf die Zielgerade ein. Die ersten Kabinen hängen bereits am Förderseil.",
+        "source_url": "https://www.funiforum.org/funiforum/node/306463/page5",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261123174441_Valbiolo.jpeg",
         "older_news": [
           {
             "recency": "weekly",
-            "timestamp": "16.11.2026 02:03 Uhr",
-            "headline": "Passo del Tonale: Kabinen der neuen 10er-Gondelbahn Malga Valbiolo am Seil",
-            "summary": "Beim Neubau der 10er-Gondelbahn Malga Valbiolo von Leitner, die den bisherigen Vierersessellift ersetzt, sind die neuen Kabinen bereits aufgehängt worden. Die Anlage steht kurz vor der Fertigstellung für die anstehende Wintersaison.",
-            "source_url": "https://www.funiforum.org/funiforum/node/306463/page5",
-            "image_url": "https://www.funiforum.org/immagini_forum/26/20261115060150_64450.jpg"
+            "timestamp": "17.11.2026 02:03 Uhr",
+            "headline": "Pontedilegno: Farbliche Landschaftsintegration an der neuen Gondelbahn Angelo",
+            "summary": "Beim Neubau der 10er-Gondelbahn Valbione–Corno d'Aola–Angelo in Ponte di Legno wurden die Seilbahnstützen für ein harmonisches Landschaftsbild in Braun lackiert.",
+            "source_url": "https://www.funiforum.org/funiforum/node/293393/page6"
           }
         ]
       }
@@ -641,6 +580,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.2490297,
+          47.4578352
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "SkiWelt Wilder Kaiser-Brixental",
+        "headline": "SkiWelt Brixen: Ersatz der Gondelbahn Hochbrixen für Sommer 2027 angekündigt",
+        "summary": "Die SkiWelt Brixen erneuert die Zubringerbahn Hochbrixen durch eine moderne 10er-Gondelbahn. Der letzte Betriebstag der bisherigen Anlage ist für Ostermontag 2027 terminiert.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=1430&start=75",
+        "image_url": "https://alpinfans.com/download/file.php?id=126661&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.308631984828244,
           47.334001977900066
         ]
@@ -725,16 +683,7 @@
         "headline": "Les Trois Vallées: Prüfung eines Spätbetriebs der Gondelbahn Olympe",
         "summary": "In Méribel und Brides-les-Bains prüfen die Gemeinde und die Bergbahngesellschaft Alpina Möglichkeiten für einen verlängerten Betrieb der Gondelbahn Olympe in den Abendstunden.",
         "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=28416&st=1280",
-        "image_url": "https://i.ibb.co/kgr3kJPm/IMG-3986.jpg",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "16.11.2026 02:03 Uhr",
-            "headline": "Val Thorens: Ersatz der Vierersesselbahn 3 Vallées durch 6KSB für 2027 geplant",
-            "summary": "In Val Thorens laufen die Planungen für den Bau der kuppelbaren 6er-Sesselbahn 3 Vallées im Jahr 2027. Die neue Anlage soll die betagte Vierersesselbahn ersetzen und die Verbindungskomfort in den Trois Vallées deutlich steigern.",
-            "source_url": "https://www.alpinforum.com/threads/456/page-100"
-          }
-        ]
+        "image_url": "https://i.ibb.co/kgr3kJPm/IMG-3986.jpg"
       }
     },
     {
@@ -760,12 +709,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.9325221,
+          45.2509937
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "24.11.2026 02:03 Uhr",
+        "name": "Val Cenis",
+        "headline": "Val Cenis: Baufortschritte am TSD6 Grand Coin und der neuen Fußgängerbrücke",
+        "summary": "Im Sektor Termignon schreiten die Arbeiten an der neuen 6er-Sesselbahn Grand Coin voran. Im Bereich Replat des Canons nimmt zudem die spektakuläre neue Fußgängerbrücke Form an.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43073&st=100",
+        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7e8e9a7e-a755-441c-97e5-552aa486cb6c/1_1200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.276507,
           46.1003545
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "23.11.2026 02:04 Uhr",
         "name": "4 Vallées / Verbier",
         "headline": "Verbier: Ersatz der 4er-Gondelbahn Le Châble–Verbier durch moderne 10er-Kabinenbahn",
