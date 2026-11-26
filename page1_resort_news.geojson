@@ -47,30 +47,12 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Courmayeur – Chécrouit/Val Veny",
         "headline": "Neue 10er-Gondelbahnen Plan Chécrouit vor der Eröffnung",
         "summary": "In Courmayeur biegen die Arbeiten an den zwei neuen 10er-Kabinenbahnen Plan Chécrouit–Colle Chécrouit und Plan Chécrouit–Maison Vieille auf die Zielgerade ein, um rechtzeitig zur Wintersaison den Betrieb aufzunehmen.",
         "source_url": "https://www.funiforum.org/funiforum/node/312727/page4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.469015,
-          46.3069171
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Crans-Montana",
-        "headline": "Crans-Montana: Bergbahnen investieren in Beschneiung trotz Verlustjahr",
-        "summary": "Auf der Generalversammlung der Bergbahnen Crans-Montana kündigte Verwaltungsratspräsident Mike Goar einen weiteren Ausbau des Beschneiungsnetzes zur kommenden Saison an. Das Unternehmen verzeichnete bei einem Gästerückgang von 2,8 Prozent einen Jahresverlust von 760.000 Franken.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=228&start=25"
       }
     },
     {
@@ -88,16 +70,7 @@
         "name": "Davos Klosters",
         "headline": "Davos Klosters: Freie ÖV-Fahrt mit Gästekarte und Bergbahnticket reaktiviert",
         "summary": "Nach zweijährigen Verhandlungen entfallen die bisherigen Einschränkungen im öffentlichen Nahverkehr: Ab dem 20. November können Inhaber von Gästekarten sowie Wintersportler mit gültigem Bergbahnticket (ab Halbtageskarte, inklusive TopCard) Busse und die Rhätische Bahn zwischen Davos und Klosters wieder kostenfrei nutzen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=37&start=325",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "18.11.2026 02:03 Uhr",
-            "headline": "Davos Klosters: Betonierarbeiten an der Bergstation der Schiferbahn abgeschlossen",
-            "summary": "Beim Ersatzneubau der Schiferbahn am Parsenn wurde die letzte Betonieretappe an der Bergstation erfolgreich vollendet. Die Baustelle wird nun winterfest gemacht, die Bauarbeiten vor Ort werden witterungsbedingt für dieses Jahr eingestellt.",
-            "source_url": "https://www.alpinforum.com/threads/686/page-129"
-          }
-        ]
+        "source_url": "https://alpinfans.com/viewtopic.php?t=37&start=325"
       }
     },
     {
@@ -110,7 +83,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "3 Zinnen Dolomiten – Helm/Stiergarten/Rotwand/Kreuzbergpass",
         "headline": "Ausbau des Speicherbeckens Rotwand in Sexten",
@@ -150,6 +123,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.2765899,
+          47.0828502
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
+        "name": "Flumserberg",
+        "headline": "Flumserberg bereitet sich auf den Saisonstart vor",
+        "summary": "Die Hauptachse am Maschgenkamm und weitere Bahnen wie Prodkamm und Seeben gehen am Wochenende in den Betrieb.",
+        "source_url": "https://www.alpinforum.com/threads/72787/",
+        "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.flumserberg.ch%2FBilder%2FBahnanlagen%2FGondelbahn%2520BergJet%2F22231%2Fimage-thumb__22231__default_og_image%2FBergJet_Winter.d50b7a3b.jpg&hash=dbc9c2a4b919efce9f361befa6211edd&return_error=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.0610948,
           47.4737938
         ]
@@ -161,25 +153,6 @@
         "headline": "Garmisch-Classic / Zugspitze: Erneuerung der Zahnradbahn hat Priorität",
         "summary": "Die Bayerische Zugspitzbahn konzentriert ihre Investitionen auf die Erneuerung des Fuhrparks der Zahnradbahn. Neue Seilbahnen oder eine 3S-Gipfelverbindung am Zugspitzplatt stehen derzeit nicht auf der Agenda der Bergbahnen.",
         "source_url": "https://www.alpinforum.com/threads/1652/page-163"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.9143318,
-          46.69476
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Gerlitzen",
-        "headline": "Gerlitzen: Exklusive Einblicke in die Technik der neuen Kanzelbahn II",
-        "summary": "Die neue 10er-Gondelbahn Kanzelbahn II verfügt über einen Doppelmayr DirectDrive, einen langen Schleifenbahnhof mit Förderhaken und eine moderne Glasfassaden-Bergstation. Auf ein vollautomatisiertes AURO-System wurde bewusst verzichtet, um den persönlichen Gästekontakt zu wahren; für 2033 ist als Ersatz der ersten Sektion eine TRI-Line angedacht.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=507",
-        "image_url": "https://alpinfans.com/download/file.php?id=126528&mode=view"
       }
     },
     {
@@ -210,7 +183,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Jungfrau Region",
         "headline": "Jungfraubahn Holding AG plant Übernahme der Schilthornbahn AG",
@@ -237,13 +210,20 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "20.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: Ladinische Bezeichnung 'Plan de Corones' kehrt ins Logo zurück",
-        "summary": "Der Lenkungsausschuss von Kronplatz Brand hat entschieden, den ladinischen Namen 'Plan de Corones' wieder fest in das offizielle Markenlogo aufzunehmen. Eine begleitende Arbeitsgruppe aus Bevölkerung, Tourismus und Bergbahnen soll die sprachliche und kulturelle Identität künftig noch stärker hervorheben.",
-        "source_url": "https://www.alpinforum.com/threads/1744/page-80",
+        "headline": "Kronplatz startet in die Wintersaison mit drei neuen Aufstiegsanlagen",
+        "summary": "Zum Saisonstart gehen gleich drei moderne Aufstiegsanlagen in Betrieb: die erneuerte 10er-Kabinenbahn Kronplatz 1+2, die neue 8er-Kabinenbahn Ruis sowie der 8er-Sessellift Dolomiti.",
+        "source_url": "https://www.alpinforum.com/threads/72710/",
         "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "20.11.2026 02:03 Uhr",
+            "headline": "Kronplatz: Ladinische Bezeichnung 'Plan de Corones' kehrt ins Logo zurück",
+            "summary": "Der Lenkungsausschuss von Kronplatz Brand hat entschieden, den ladinischen Namen 'Plan de Corones' wieder fest in das offizielle Markenlogo aufzunehmen. Eine begleitende Arbeitsgruppe aus Bevölkerung, Tourismus und Bergbahnen soll die sprachliche und kulturelle Identität künftig noch stärker hervorheben.",
+            "source_url": "https://www.alpinforum.com/threads/1744/page-80"
+          },
           {
             "recency": "weekly",
             "timestamp": "19.11.2026 02:03 Uhr",
@@ -337,7 +317,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
         "headline": "Fortschritte beim Bau der Sesselbahn Colletto Verde in Claviere",
@@ -442,24 +422,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6519221,
-          47.406831
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Saalbach Hinterglemm Leogang Fieberbrunn",
-        "headline": "Saalbach Hinterglemm: Erste Testfahrten an der neuen Reiterkogelbahn",
-        "summary": "An der neuen 10er-Gondelbahn D1+D1b Reiterkogelbahn in Hinterglemm wurden die ersten Testfahrten sowie erfolgreiche Bergeübungen absolviert. Die moderne Anlage mit CWA-Omega-IV-Kabinen biegt damit auf die Zielgerade vor der Inbetriebnahme zur Wintersaison ein.",
-        "source_url": "https://www.alpinforum.com/threads/792/page-319"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.9247055,
           46.107342
         ]
@@ -501,13 +463,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "24.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
         "name": "SkiWelt Wilder Kaiser-Brixental",
-        "headline": "SkiWelt Brixen: Ersatz der Gondelbahn Hochbrixen für Sommer 2027 angekündigt",
-        "summary": "Die SkiWelt Brixen erneuert die Zubringerbahn Hochbrixen durch eine moderne 10er-Gondelbahn. Der letzte Betriebstag der bisherigen Anlage ist für Ostermontag 2027 terminiert.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=1430&start=75",
-        "image_url": "https://alpinfans.com/download/file.php?id=126661&mode=view"
+        "headline": "Neue 10er Gondelbahn Hochbrixen für die SkiWelt angekündigt",
+        "summary": "Die Bergbahn Brixen im Thale AG investiert rund 38 Millionen Euro in eine neue 10er Gondelbahn Hochbrixen der Firma Doppelmayr samt modernisierter Berg- und Talstation zur 50. SkiWelt-Jubiläumssaison.",
+        "source_url": "https://www.alpinforum.com/threads/5155/page-262",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "24.11.2026 02:03 Uhr",
+            "headline": "SkiWelt Brixen: Ersatz der Gondelbahn Hochbrixen für Sommer 2027 angekündigt",
+            "summary": "Die SkiWelt Brixen erneuert die Zubringerbahn Hochbrixen durch eine moderne 10er-Gondelbahn. Der letzte Betriebstag der bisherigen Anlage ist für Ostermontag 2027 terminiert.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=1430&start=75",
+            "image_url": "https://alpinfans.com/download/file.php?id=126661&mode=view"
+          }
+        ]
       }
     },
     {
@@ -656,42 +627,6 @@
         "headline": "Villars-Gryon: Baugesuch für Ersatz des Schlepplifts Combe d'Orsay publiziert",
         "summary": "Die Gemeinde Ollon hat das offizielle Baugesuch für den Ersatz des traditionsreichen Kurvenschlepplifts Combe d'Orsay durch eine fixe Vierersesselbahn publiziert. Das bereits im aktuellen Pistenplan für 2027 verzeichnete Projekt soll die sportlichen roten Abfahrten im Sektor modernisieren.",
         "source_url": "https://www.alpinforum.com/threads/14322/page-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.7376171,
-          47.3293614
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Zell am See / Schmittenhöhe",
-        "headline": "Schmittenhöhe: Bremsproben an der neuen Kapellenbahn erfolgreich",
-        "summary": "Auf der Schmittenhöhe in Zell am See hat der Neubau der Kapellenbahn einen entscheidenden Meilenstein erreicht: Die sicherheitsrelevanten Bremsproben wurden erfolgreich absolviert, womit die neue Sesselbahn planmäßig vor der Saisoneröffnung steht.",
-        "source_url": "https://www.alpinforum.com/threads/1404/page-68"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7163465,
-          45.9609858
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Cervinia: Grünes Licht und neue Projektwebsite für 3S-Bahn 'Cervino The One'",
-        "summary": "Der Gemeinderat von Valtournenche hat das Abkommen für den Bau der neuen Leitner-3S-Umlaufbahn von Breuil-Cervinia über Plan Maison zum Plateau Rosà genehmigt. Begleitend dazu ging unter cervinotheone.it die offizielle Projektpräsentation online.",
-        "source_url": "https://www.funiforum.org/funiforum/node/287702/page41"
       }
     }
   ]

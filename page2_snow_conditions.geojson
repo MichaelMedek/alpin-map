@@ -11,13 +11,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "21.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Aletsch Arena / Bellwald",
-        "headline": "Aletsch Arena: Neuschnee im Wallis und exklusiver Vorstart am Flesch",
-        "summary": "Kräftige Schneefälle im Wallis haben der Aletsch Arena eine willkommene Neuschneeauflage beschert. Am Freitag, den 4. Dezember, öffnen die Bergbahnen den Sessellift Flesch auf der Fiescheralp zu einem vorgezogenen Skibetrieb exklusiv für Saisonpass- und AlpsPass-Inhaber, während bei anhaltend kühler Witterung sogar ein erster früherer Wochenendbetrieb geprüft wird.",
+        "headline": "Aletsch Arena: Vorgezogener Saisonstart an der Flesch-Sesselbahn",
+        "summary": "Auf der Fiescheralp startet die Sesselbahn Flesch am Wochenende im regulären Skibetrieb mit Sonder-Tageskartenpreisen.",
         "source_url": "https://www.alpinforum.com/threads/72768/",
-        "image_url": "https://www.alpinforum.com/attachments/2026-11-20-at-09-44-24-webp.339257/"
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "21.11.2026 02:03 Uhr",
+            "headline": "Aletsch Arena: Neuschnee im Wallis und exklusiver Vorstart am Flesch",
+            "summary": "Kräftige Schneefälle im Wallis haben der Aletsch Arena eine willkommene Neuschneeauflage beschert. Am Freitag, den 4. Dezember, öffnen die Bergbahnen den Sessellift Flesch auf der Fiescheralp zu einem vorgezogenen Skibetrieb exklusiv für Saisonpass- und AlpsPass-Inhaber, während bei anhaltend kühler Witterung sogar ein erster früherer Wochenendbetrieb geprüft wird.",
+            "source_url": "https://www.alpinforum.com/threads/72768/",
+            "image_url": "https://www.alpinforum.com/attachments/2026-11-20-at-09-44-24-webp.339257/"
+          }
+        ]
       }
     },
     {
@@ -67,7 +76,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Brandnertal",
         "headline": "Saisonauftakt im Brandnertal vorübergehend abgesagt",
@@ -141,7 +150,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Flims–Laax–Falera",
         "headline": "Neuschneeschub sichert Saisonstart in Flims-Laax-Falera",
@@ -204,30 +213,12 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Gasteinertal",
         "headline": "Saisonauftakt im Gasteinertal mit Teilbetrieb auf der Schlossalm",
         "summary": "Skigastein startet am Freitag in die Wintersaison. Auf der Schlossalm öffnet die blaue Abfahrt H3 bis zur Mittelstation, während der Stubnerkogel zunächst den Fußgängern vorbehalten bleibt.",
         "source_url": "https://www.alpinforum.com/threads/72672/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.9143318,
-          46.69476
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Gerlitzen",
-        "headline": "Gerlitzen: Wochenend-Skibetrieb startet am 21. November",
-        "summary": "Auf der Gerlitzen beginnt die Skisaison am Samstag, 21. November, mit einem Wochenendbetrieb. Neben den beiden Kanzelbahn-Sektionen als Zubringer gehen die Klösterlebahn 2 und der Neugartenjet an den Start, der Neugartenlift bleibt auch unter der Woche geöffnet.",
-        "source_url": "https://www.alpinforum.com/threads/72757/"
       }
     },
     {
@@ -342,7 +333,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Klewenalp–Stockhütte",
         "headline": "Klewenalp startet mit Wochenend-Teilbetrieb",
@@ -397,7 +388,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Mölltaler Gletscher",
         "headline": "Kaiserwetter und freie Fahrt am Mölltaler Gletscher",
@@ -416,7 +407,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Oberengadin / St. Moritz",
         "headline": "Umfangreiches Pistenangebot zum Start auf Corviglia",
@@ -430,35 +421,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5569603,
-          47.2494362
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Obertauern",
-        "headline": "Obertauern: Saisonstart am 20. November mit vier Liftanlagen",
-        "summary": "Obertauern startet am Freitag, den 20. November, in den Skibetrieb. Geöffnet werden die Grünwaldkopfbahn als Zubringer sowie Hochalmbahn, Panoramabahn und Seekarspitzbahn im Bereich Krings/Seekarspitz; vor Ort empfangen auch die Hochalm, Kringsalm und Dikt'n Alm die ersten Gäste.",
-        "source_url": "https://www.alpinforum.com/threads/72667/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.2881895,
           47.0097538
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "23.11.2026 02:04 Uhr",
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Ischgl / Samnaun: Intensiver Schneeeinsatz vor dem offiziellen Saisonstart",
-        "summary": "Die Silvretta Arena verzichtet trotz guter Schneeverhältnisse auf ein Voröffnungs-Wochenende. Dank kompakter Grundbeschneiung und Neuschnee ab 2.000 Metern wird zum offiziellen Saisonstart ein Großteil des Skigebiets inklusive der Talabfahrten erwartet.",
-        "source_url": "https://www.alpinforum.com/threads/72568/"
+        "headline": "Ischgl/Samnaun: Intensive Schneevorbereitungen vor dem Opening",
+        "summary": "Die Silvretta Arena bereitet sich auf den offiziellen Saisonstart vor. Trotz kalter Temperaturen und Neuschnee im Dorf bleibt die Talabfahrt anfangs noch geschlossen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3980",
+        "image_url": "https://alpinfans.com/download/file.php?id=126720&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "23.11.2026 02:04 Uhr",
+            "headline": "Ischgl / Samnaun: Intensiver Schneeeinsatz vor dem offiziellen Saisonstart",
+            "summary": "Die Silvretta Arena verzichtet trotz guter Schneeverhältnisse auf ein Voröffnungs-Wochenende. Dank kompakter Grundbeschneiung und Neuschnee ab 2.000 Metern wird zum offiziellen Saisonstart ein Großteil des Skigebiets inklusive der Talabfahrten erwartet.",
+            "source_url": "https://www.alpinforum.com/threads/72568/"
+          }
+        ]
       }
     },
     {
@@ -477,25 +460,6 @@
         "headline": "Pila: Saisonauftakt im Aostatal auf den 4. Dezember terminiert",
         "summary": "Die Bergbahnen von Pila haben den Start der Skisaison auf Freitag, den 4. Dezember angepasst, um noch verbleibende Präparierungsarbeiten durchzuführen.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=4060"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.8776109,
-          46.9096745
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Pitztaler Gletscher",
-        "headline": "Pitztaler Gletscher: Talabfahrt der Mittelbergbahn vor Öffnung",
-        "summary": "Am Pitztaler Gletscher steht die Talabfahrt an der unteren Sektion der Mittelbergbahn unmittelbar vor der Freigabe. Nach inoffiziellen ersten Abfahrten und den prognostizierten Neuschneefällen dürfte die Piste pünktlich zum Wochenende offiziell in Betrieb gehen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3942&start=175",
-        "image_url": "https://alpinfans.com/download/file.php?id=126483&mode=view"
       }
     },
     {
@@ -560,30 +524,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9157865,
-          47.4443516
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Schladming 4 Berge",
-        "headline": "Schladming 4 Berge: Saisonauftakt auf Reiteralm und Planai fixiert",
-        "summary": "Die Reiteralm startet am Donnerstag, 19. November, als erstes Skigebiet in Ski amadé mit dem Preunegg Jet und der Schoberbahn in den durchgehenden Skibetrieb. Auf der Planai beginnt der Winter am Freitag, 20. November, an der 8er-Sesselbahn Märchenwiese.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=4030"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.0189339,
           47.8563733
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Schwarzwald / Feldberg",
         "headline": "Saisonstart am Feldberg wegen Schneemangel fraglich",
@@ -654,13 +600,23 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "24.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Sölden",
-        "headline": "Sölden: Ausgezeichnete Gletscherpisten bei sonnigem, aber kaltem Wind",
-        "summary": "Rettenbach- und Tiefenbachgletscher bieten griffigen Schnee und Sonnenschein. Aufgrund mangelnder Schneeauflage bleiben die Talabfahrten vorerst noch geschlossen.",
+        "headline": "Sölden: Top-Bedingungen und exzellente Gletscherschnee-Lage",
+        "summary": "Die Pisten am Rettenbach- und Tiefenbachferner präsentieren sich bei sonnigem bis windigem Wetter in hervorragendem Zustand für Skifahrer.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=150",
-        "image_url": "https://media.alpinfans.com/live/236/20261123-140443-8a1b90dd_l.jpg"
+        "image_url": "https://media.alpinfans.com/live/236/20261125-131008-5b966479_l.jpg",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "24.11.2026 02:03 Uhr",
+            "headline": "Sölden: Ausgezeichnete Gletscherpisten bei sonnigem, aber kaltem Wind",
+            "summary": "Rettenbach- und Tiefenbachgletscher bieten griffigen Schnee und Sonnenschein. Aufgrund mangelnder Schneeauflage bleiben die Talabfahrten vorerst noch geschlossen.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3985&start=150",
+            "image_url": "https://media.alpinfans.com/live/236/20261123-140443-8a1b90dd_l.jpg"
+          }
+        ]
       }
     },
     {
@@ -705,30 +661,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.054939392135699,
-          46.30370202011029
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "18.11.2026 02:03 Uhr",
-        "name": "Villars/Gryon/Les Diablerets",
-        "headline": "Glacier 3000: Schneesturm erzwingt vorübergehende Schließung",
-        "summary": "Aufgrund eines schweren Schneesturms bleibt das Gletscherskigebiet Glacier 3000 vom 16. bis 19. November komplett geschlossen. Die erwarteten Neuschneemengen lassen auf eine baldige Öffnung des Skilifts Quille du Diable hoffen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3957"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
         "headline": "Cervinia öffnet die Ventina-Talabfahrt",
