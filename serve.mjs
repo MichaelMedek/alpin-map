@@ -48,12 +48,10 @@ server.on("error", (error) => {
 });
 
 // Always rebuild the highlight-reports manifest before serving, so dropping a report JSON into data/reports/ is
-// enough — starting the server reindexes it. A failure here is non-fatal: log it and serve the existing index.
-try {
-  console.log("Reindexed highlight reports: " + (await reindex()) + " in data/reports/index.json");
-} catch (error) {
-  console.error("Reindex skipped (" + error.message + "); serving the existing index.json.");
-}
+// enough — starting the server reindexes it. A failure is FATAL on purpose: reindex runs the same strict
+// validateReportArtifact the viewer uses, so a malformed or empty report throws here and stops startup with the
+// error, surfacing the corruption loudly rather than serving a stale or wrong manifest.
+console.log("Reindexed highlight reports: " + (await reindex()) + " in data/reports/index.json");
 
 server.listen(PORT, () => {
   const url = "http://localhost:" + PORT + "/";

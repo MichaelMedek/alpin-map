@@ -616,7 +616,7 @@ function reportOverviewBody({ entry }) {
   // One highlight-report overview panel: who/when/where plus the original forum link AND the internal deep link
   // that opens the report on its own map. The internal link navigates the hash in the same tab (no target blank),
   // so it behaves exactly like selecting #/highlight-report-map-<id>; the forum link opens externally as usual.
-  const internal = el("a", { href: "#/highlight-report-map-" + entry.id, class: "button-link", text: "Open report on map" });
+  const internal = el("a", { href: "#/highlight-report-map-" + entry.id, class: "button-link button-link--report", text: "Open report on map" });
   return el("div", { class: "detail__content" },
     el("p", { class: "detail__status", text: entry.forum + " · " + entry.author + " · " + entry.date }),
     el("h2", { class: "detail__headline", text: entry.title }),

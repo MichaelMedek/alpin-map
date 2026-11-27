@@ -316,6 +316,7 @@ const reportArtifact = {
   report: { title: "Espace Lumière", author: "wso", forum: "alpinforum", source_url: "https://www.alpinforum.com/posts/5431562/", date: "2024-02-05", text: "x", post_id: 5431562 },
   center: [44.3, 6.57],
   placed_count: 2,
+  bearing_offset_deg: 270,
   lift_cats: reportLiftCats,
   lifts: [{ id: 1, name: "TSF4 Ubaguets", cat: "SB", coords: [[44.33, 6.58], [44.32, 6.585]] }],
   photos: [
@@ -367,6 +368,14 @@ test("validateReportArtifact rejects malformed report map data instead of mappin
   assert.throws(() =>
     validateReportArtifact({ value: { ...reportArtifact, photos: [{ ...reportArtifact.photos[0], url: "ftp://x/y.jpg" }] } }),
   );
+  // bearing_offset_deg is a producer-guaranteed key: a MISSING key is corruption (rejected), not coerced to null;
+  // null and the four quarter-turns are accepted, any other value rejected.
+  const withoutOffset = { ...reportArtifact };
+  delete withoutOffset.bearing_offset_deg;
+  assert.throws(() => validateReportArtifact({ value: withoutOffset }), /bearing_offset_deg/);
+  assert.throws(() => validateReportArtifact({ value: { ...reportArtifact, bearing_offset_deg: 45 } }), /0\/90\/180\/270/);
+  assert.equal(validateReportArtifact({ value: { ...reportArtifact, bearing_offset_deg: null } }).bearingOffsetDeg, null);
+  assert.equal(validateReportArtifact({ value: { ...reportArtifact, bearing_offset_deg: 0 } }).bearingOffsetDeg, 0);
 });
 
 test("reportWedgePoints builds a bearing-pointed triangle and null without a bearing", () => {

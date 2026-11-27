@@ -254,6 +254,17 @@ body {
   outline-offset: 2px;
 }
 
+/* The "Open report on map" action is the primary link on each highlight-report panel; it is red to match the
+   red (breaking preset) centroid markers it opens, setting it apart from the standard green source-link button. */
+.button-link--report {
+  background: #c81912;
+  border-color: #7a120c;
+}
+
+.button-link--report:focus-visible {
+  outline-color: #f0a9a3;
+}
+
 .tips {
   display: grid;
   gap: 1rem;

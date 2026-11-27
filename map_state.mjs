@@ -417,8 +417,10 @@ function validateLiftLine({ value, index, liftCats }) {
 function validateReportSnap({ value, context, liftCats, kind }) {
   // A photo's optional snapped lift or piste. A lift snap MUST name a legend class (so it can be coloured and
   // labelled, never "undefined · Lift"); a piste snap carries only a display name. The distance is required and
-  // nonnegative — the producer always supplies it as nonnegative metres.
-  if (value === null || value === undefined) return null;
+  // nonnegative — the producer always supplies it as nonnegative metres. The key's PRESENCE is guaranteed by the
+  // caller (validateReportPhoto), so only an explicit null is "no snap"; undefined would be a contract break and
+  // falls through to requireObject below, which rejects it.
+  if (value === null) return null;
   const snap = requireObject({ value: value, context: context });
   const result = {
     name: requireStringField({ value: snap.name, context: context + " name" }),
@@ -465,10 +467,16 @@ function validateReportPhoto({ value, index, liftCats }) {
   };
 }
 
-function validateBearingOffset({ value }) {
-  // The per-report view-direction correction: null when the producer could not derive one, else exactly one
-  // device-axis quarter-turn (degrees to subtract from each photo's recorded bearing). Any other value is a bug.
-  if (value === null || value === undefined) return null;
+function validateBearingOffset({ object, context }) {
+  // The per-report view-direction correction. The producer ALWAYS serializes bearing_offset_deg (null when it
+  // could not derive one), so a MISSING key is corruption and is rejected here, not coerced to null — matching
+  // the present-or-null contract of requireNullableNumber/requireNullableText. A present value is null, or
+  // exactly one device-axis quarter-turn to subtract from each recorded bearing.
+  if (!Object.hasOwn(object, "bearing_offset_deg")) {
+    throw new TypeError(context + " must carry bearing_offset_deg (null when not derivable).");
+  }
+  const value = object.bearing_offset_deg;
+  if (value === null) return null;
   if (value !== 0 && value !== 90 && value !== 180 && value !== 270) {
     throw new RangeError("Report bearing_offset_deg '" + value + "' must be null or one of 0/90/180/270.");
   }
@@ -501,7 +509,7 @@ export function validateReportArtifact({ value }) {
       date: requireText({ value: report.date, context: "Report date" }),
     },
     center: requireLatLon({ value: payload.center, context: "Report center" }),
-    bearingOffsetDeg: validateBearingOffset({ value: payload.bearing_offset_deg }),
+    bearingOffsetDeg: validateBearingOffset({ object: payload, context: "Report" }),
     liftCats: liftCats,
     // A report may be mapped purely by pistes, so its drawn-lift list is allowed to be empty, but it must be
     // an array; photos remain non-empty because a mapped report always has at least one placed photo.
