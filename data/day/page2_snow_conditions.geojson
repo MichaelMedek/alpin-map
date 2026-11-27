@@ -6,12 +6,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.5161584,
+          46.462958
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Adelboden-Lenk",
+        "headline": "Adelboden-Lenk: Eingeschränkter Wochenendbetrieb am Hahnenmoos",
+        "summary": "Das Schweizer Skigebiet Adelboden-Lenk startet am Wochenende auf ausgewählten Pisten am Hahnenmoos. Da noch nicht alle Talverbindungen geöffnet sind, erfolgt der Rückweg talauswärts stellenweise per Skibus oder zu Fuß.",
+        "source_url": "https://www.alpinforum.com/threads/72571/",
+        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-26-104540-webp.339946/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.0727454,
           46.4021759
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Aletsch Arena / Bellwald",
         "headline": "Aletsch Arena: Vorgezogener Saisonstart an der Flesch-Sesselbahn",
@@ -27,43 +46,6 @@
             "image_url": "https://www.alpinforum.com/attachments/2026-11-20-at-09-44-24-webp.339257/"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.8740902,
-          46.4971763
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Arabba / Marmolada",
-        "headline": "Arabba / Marmolada: Aktuelle Schneelage vor dem offiziellen Saisonstart",
-        "summary": "In den Dolomiten rund um Arabba zeigt sich die Kulisse bereits leicht angezuckert. Die Bergbahnen bereiten die Pisten für den Start der Sellaronda Anfang Dezember vor.",
-        "source_url": "https://www.alpinforum.com/threads/72465/",
-        "image_url": "https://www.alpinforum.com/attachments/img_0372-webp.339161/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.5660244,
-          46.7548885
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Arosa Lenzerheide",
-        "headline": "Arosa Lenzerheide: Saisonstart mit Hörnlibahn am 21. November",
-        "summary": "Arosa startet am Samstag mit der Sesselbahn Hörnli und geöffneter Hörnlihütte in die Vorsaison. Die Talabfahrt wird derzeit intensiv beschneit, Plattenhorn soll in Kürze folgen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3902"
       }
     },
     {
@@ -244,25 +226,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6648069,
-          47.0857251
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Hintertuxer Gletscher",
-        "headline": "Hintertuxer Gletscher: Komfortabler Betrieb mit 10er-Gondel und Beschneiung der Talabfahrt",
-        "summary": "Am Hintertuxer Gletscher läuft aktuell die 10EUB Gefrorene Wand. Trotz streckenweise unruhiger Präparierung laufen erste Beschneiungsversuche an der Schwarzen Pfanne.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3948&start=325",
-        "image_url": "https://media.alpinfans.com/live/1458/20261118-125727-120125f4_l.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.8756311,
           47.2888083
         ]
@@ -281,25 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.9613132,
-          46.5852463
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Jungfrau Region",
-        "headline": "Jungfrau Region: Stabile Erreichbarkeit des Schilthorns dank Funifor-Technik",
-        "summary": "Während stürmisches Wetter zahlreiche Bahnen in der Region ausbremste, bewährte sich das windstabile Funifor-System am Schilthorn und hielt die Verbindung aufrecht.",
-        "source_url": "https://www.alpinforum.com/threads/72493/",
-        "image_url": "https://www.alpinforum.com/attachments/screenshot-2026-11-18-120604-webp.339164/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.3972359,
           47.3664103
         ]
@@ -311,16 +255,7 @@
         "headline": "Kitzbühel: Intensive Schneeerzeugung am Hahnenkamm vor dem Eröffnungswochenende",
         "summary": "Am Hahnenkamm laufen die Beschneiungsanlagen bei Minusgraden auf Hochtouren. Kitzbühel peilt für das kommende Eröffnungswochenende ein umfangreiches Pistenangebot an, eventuell inklusive der Fleck-Talabfahrt.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3945",
-        "image_url": "https://alpinfans.com/download/file.php?id=126643",
-        "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "19.11.2026 02:03 Uhr",
-            "headline": "Kitzbühel: Teilweiser Saisonauftakt am Resterkogel und der Panoramabahn",
-            "summary": "KitzSki startet am 21. und 22. November am Resterkogel und der Panoramabahn in das erste Skiwochenende, während der Betrieb an Hahnenkamm, Fleckalm und Hornbahn Ende November folgt.",
-            "source_url": "https://www.alpinforum.com/threads/72632/"
-          }
-        ]
+        "image_url": "https://alpinfans.com/download/file.php?id=126643"
       }
     },
     {
@@ -365,6 +300,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.0234047,
+          47.2136222
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Kühtai",
+        "headline": "Kühtai: Vier Hauptanlagen eröffnen am Freitag die Wintersaison",
+        "summary": "Auf über 2000 Metern Höhe beginnt im Kühtai am Freitag der reguläre Liftbetrieb. Mit der Hochalterbahn, der Startbahn, der Dreiseenbahn und dem Alpenrosenlift stehen den Wintersportlern direkt mehrere lange Abfahrten zur Verfügung.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.997312,
+          45.256635
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Les 7 Laux – Prapoutel/Le Pleynet/Pipay",
+        "headline": "Les 7 Laux: Vorzeitiger Saisonstart am Wochenende im Sektor Pipay",
+        "summary": "In den französischen Alpen öffnet Les 7 Laux am kommenden Wochenende vorzeitig seine Pforten. Im Sektor Pipay gehen die Kombibahn Grand Cerf sowie die Sesselbahnen Eterlou und Oursière zu ermäßigten Tarifen in Betrieb.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=18626&st=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1359928,
+          46.5381734
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Livigno",
+        "headline": "Livigno startet am Samstag mit der Hälfte aller Lifte und Pisten in die Saison",
+        "summary": "Dank kräftiger Neuschneefälle und intensiver Beschneiung startet Livigno am Samstag mit einem Großangebot in den Winter: Rund 50 Prozent aller Lifte und Pisten gehen vor allem am Mottolino direkt in Betrieb.",
+        "source_url": "https://www.alpinforum.com/threads/72690/",
+        "image_url": "https://www.alpinforum.com/attachments/image-webp.339974/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.8270157,
           46.2269942
         ]
@@ -402,6 +392,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.935193850154844,
+          45.8532827638812
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
+        "headline": "Monterosa Ski: Wochenend-Auftakt zwischen Alagna und Gressoney",
+        "summary": "Monterosa Ski eröffnet die Saison am Wochenende mit Teilbetrieb: Die Verbindung über den Passo dei Salati zwischen Valsesia und dem Valle di Gressoney ist bereits befahrbar, bedient unter anderem durch die Funifor-Bahn und die Kabinenbahnen ab Staffal.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.8392428,
           46.4978958
         ]
@@ -426,7 +434,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
         "headline": "Ischgl/Samnaun: Intensive Schneevorbereitungen vor dem Opening",
@@ -600,7 +608,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Sölden",
         "headline": "Sölden: Top-Bedingungen und exzellente Gletscherschnee-Lage",
@@ -617,6 +625,42 @@
             "image_url": "https://media.alpinfans.com/live/236/20261123-140443-8a1b90dd_l.jpg"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0349311,
+          46.8221657
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Sörenberg",
+        "headline": "Sörenberg: Skibetrieb am Brienzer Rothorn auf den Bereich Eisee beschränkt",
+        "summary": "Am Brienzer Rothorn werden am Wochenende zwei Pisten im hochgelegenen Bereich Eisee für Skifahrer hergerichtet. Da die Talabfahrt noch nicht fahrbar ist, müssen Wintersportler für die Rückfahrt zu Fuß durch den Skistollen aufsteigen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=4012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0416316,
+          47.6717401
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Sudelfeld / Bayrischzell",
+        "headline": "Sudelfeld verschiebt den geplanten Saisonstart auf den 5. Dezember",
+        "summary": "Trotz der jüngsten Frostperiode reicht die Schneegrundlage am oberbayerischen Sudelfeld noch nicht für einen sicheren Skibetrieb aus. Die Bergbahnen haben den offiziellen Saisonstart daher um eine Woche auf den 5. Dezember verschoben.",
+        "source_url": "https://www.alpinforum.com/threads/72708/"
       }
     },
     {
