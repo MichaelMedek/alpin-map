@@ -74,23 +74,24 @@ function linkElement({ href, text, className }) {
 }
 
 async function fetchNoStore(url) {
-  // A cache-busting no-store GET shared by every data route; a non-2xx is surfaced rather than rendered.
+  // A cache-busting no-store GET shared by every data route. A non-2xx throws; the HTTP status is preserved on
+  // the error (error.status) so a caller can distinguish a 404 (missing resource) from, say, a 503 (transient).
   const response = await fetch(url + "?loaded=" + Date.now(), { cache: "no-store" });
-  if (response.ok === false) throw new Error("Request for " + url + " failed with HTTP " + response.status + ".");
+  if (response.ok === false) {
+    const error = new Error("Request for " + url + " failed with HTTP " + response.status + ".");
+    error.status = response.status;
+    throw error;
+  }
   return response;
 }
 
 function loadBriefing() {
   // Page 3 is fetched fresh on every read (cache: no-store), the same policy the map pages use, so a newly
-  // published run never shows a stale briefing or run date beside fresh map data. The header run date is updated
-  // from THIS validated briefing, so the header and the briefing content always reflect the same run.
+  // published run never shows a stale briefing or run date beside fresh map data. This loader is pure; the header
+  // run date is applied by activateRoute through its staleness guard (see the header refresh there).
   return fetchNoStore(BRIEFING_URL)
     .then((response) => response.json())
-    .then((payload) => {
-      const briefing = validateBriefing({ value: payload });
-      runTimestampElement.textContent = "Latest run: " + formatRunTimestamp({ value: briefing.generatedAt });
-      return briefing;
-    });
+    .then((payload) => validateBriefing({ value: payload }));
 }
 
 function ensureMap() {
@@ -767,6 +768,14 @@ async function activateRoute({ route }) {
   // Sync Leaflet to the now-visible container in the shared lifecycle, so even an empty map view (which returns
   // before any render) is laid out at the real size instead of staying 0x0 from being created while hidden.
   if (isMapView) map.invalidateSize();
+  // Refresh the header run date through THIS activation's guard: it runs for EVERY route (so a map-only
+  // navigation still updates the date) and applies the result only while this activation is current, so a slow
+  // or startup request can never overwrite a newer run's date. Fire-and-forget alongside the main render.
+  loadBriefing()
+    .then((briefing) => {
+      if (!stale()) runTimestampElement.textContent = "Latest run: " + formatRunTimestamp({ value: briefing.generatedAt });
+    })
+    .catch((error) => console.error("Could not read the latest run time.", error));
   showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
   try {
     if (route.view === "map") {
@@ -807,23 +816,26 @@ async function activateRoute({ route }) {
       renderReportsOverview({ index });
       map.invalidateSize();
     } else if (route.view === "report-by-id") {
-      // Only an UNKNOWN report recovers to the overview: an id that is not a valid token, or a file that is
-      // genuinely absent (HTTP 404). A transient failure (a network error, or a non-404 non-OK status like 503)
-      // and a fetched-but-malformed payload are genuine errors, surfaced through the shared catch below exactly
-      // as the daily report map surfaces them, rather than being disguised as "report missing".
+      // Only an UNKNOWN report recovers to the overview: an id that is not a valid token, or a genuinely absent
+      // file (HTTP 404). A transient failure (a network error, or a non-404 non-OK status like 503) and a
+      // malformed payload are genuine errors, surfaced through the shared catch below exactly as the daily report
+      // map surfaces them. The fetch reuses the shared helper (cache-busting, options, non-OK throw); only the
+      // 404 branch is handled here, off the status the helper preserves on the error.
       if (!isReportId(route.reportId)) {
         window.location.hash = "#/highlight-reports";
         return;
       }
-      // A raw no-store fetch (not fetchNoStore) so a 404 is inspected rather than thrown; a network failure still
-      // rejects and reaches the shared catch.
-      const response = await fetch(reportIdPath({ id: route.reportId }) + "?loaded=" + Date.now(), { cache: "no-store" });
-      if (stale()) return;
-      if (response.status === 404) {
-        window.location.hash = "#/highlight-reports";
-        return;
+      let response;
+      try {
+        response = await fetchNoStore(reportIdPath({ id: route.reportId }));
+      } catch (error) {
+        if (stale()) return;
+        if (error.status === 404) {
+          window.location.hash = "#/highlight-reports";
+          return;
+        }
+        throw error;
       }
-      if (response.ok === false) throw new Error("Request for report " + route.reportId + " failed with HTTP " + response.status + ".");
       const payload = await response.json();
       // Re-check staleness AFTER decoding: the await above yields, so a navigation during the decode must not let
       // this response overwrite the page the user moved to.
@@ -944,17 +956,6 @@ function handleRoute() {
   }
 }
 
-async function initRunTimestamp() {
-  // Populate the header run date at startup through the same loadBriefing the doc views use (it sets the header
-  // from the validated briefing), so the header is never driven by a separate path that could drift from content.
-  try {
-    await loadBriefing();
-  } catch (error) {
-    runTimestampElement.textContent = "";
-    console.error("Could not read the latest run time.", error);
-  }
-}
-
 // Browser bootstrap. Skipped under the Node render test, which imports the render helpers and drives them
 // directly so the suite actually loads and exercises this file instead of only validating data.
 if (globalThis.__ALPIN_VIEWER_TEST__ !== true) {
@@ -968,7 +969,6 @@ if (globalThis.__ALPIN_VIEWER_TEST__ !== true) {
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && detailPager !== null && lightbox === null) closeDetail({ restoreFocus: true });
   });
-  initRunTimestamp();
   handleRoute();
 }
 

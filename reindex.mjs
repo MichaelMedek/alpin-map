@@ -23,8 +23,11 @@ export async function computeReports() {
   const reports = [];
   for (const name of names) {
     const artifact = validateReportArtifact({ value: JSON.parse(await readFile(DIR + name, "utf8")) });
-    // A timestamp-only (unmapped) report has no photos to place, so it never joins the overview.
-    if (artifact === null) continue;
+    // Every file in data/reports MUST be a fully mapped report. The standalone never writes an unmapped report
+    // (no centre / no placed photos is skipped at the source), so an empty or timestamp-only payload here is
+    // corruption: validateReportArtifact throws on a null-centre body, and a timestamp-only payload (which it
+    // returns null for) is rejected explicitly. Nothing empty is tolerated.
+    if (artifact === null) throw new Error("Report file is not a mapped report (empty/timestamp-only): " + name);
     // Every field comes from the validated artifact: the centroid is the mean of the validated photos (so it is by
     // definition the published set's own mean), the count is the validated photo count, and source_url is the
     // HTTP-checked report URL.
