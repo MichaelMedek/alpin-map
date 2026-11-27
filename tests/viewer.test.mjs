@@ -16,6 +16,7 @@ function makeElement(tagName) {
     parentNode: null,
     attributes: {},
     listeners: {},
+    style: {},
     classList: {
       add: (name) => classes.add(name),
       remove: (name) => classes.delete(name),
@@ -90,7 +91,7 @@ globalThis.document = {
   },
 };
 
-const { renderWeekly, openLightbox, closeLightbox } = await import("../map.js");
+const { renderWeekly, openLightbox, closeLightbox, newsDetailBody, reportDetailBody } = await import("../map.js");
 
 function textOf(node) {
   // A text node carries its string; a leaf element carries textContent; a container concatenates its children.
@@ -185,4 +186,50 @@ test("the viewer entry script parses as valid JavaScript", () => {
   for (const file of ["map.js", "map_state.mjs"]) {
     assert.doesNotThrow(() => execFileSync(process.execPath, ["--check", file], { cwd: root, stdio: "pipe" }));
   }
+});
+
+test("newsDetailBody renders a resort news item with status, headline, image and source link", () => {
+  const body = newsDetailBody({
+    feature: { name: "Davos Klosters" },
+    newsItem: { recency: "breaking", timestamp: "2026-11-26 07:00", headline: "Gondel laeuft", summary: "Betrieb aufgenommen.", imageUrl: "https://img.example/1.jpg", sourceUrl: "https://forum.example/t/1" },
+  });
+  const text = textOf(body);
+  assert.ok(text.includes("Breaking News"));
+  assert.ok(text.includes("Gondel laeuft"));
+  assert.ok(text.includes("Betrieb aufgenommen."));
+  const images = collect(body, "img", []);
+  assert.equal(images.length, 1);
+  assert.equal(images[0].src, "https://img.example/1.jpg");
+  assert.equal(images[0].hidden, false);
+  assert.equal(collect(body, "a", [])[0].href, "https://forum.example/t/1");
+});
+
+test("newsDetailBody shows the placeholder, not a broken image, when a news item has no photo", () => {
+  const body = newsDetailBody({
+    feature: { name: "X" },
+    newsItem: { recency: "weekly", timestamp: "t", headline: "h", summary: "s", imageUrl: null, sourceUrl: "https://forum.example/t/2" },
+  });
+  assert.equal(collect(body, "img", [])[0].hidden, true);
+  assert.ok(textOf(body).includes("No photo for this update"));
+});
+
+test("reportDetailBody renders a photo with caption, image, snap facts and the report source link", () => {
+  const body = reportDetailBody({
+    artifact: { report: { sourceUrl: "https://forum.example/posts/5/" }, liftCats: { SB: { label: "Sesselbahn", color: "#c158d6" } } },
+    photo: { url: "https://img.example/p.jpg", description: "Start", bearing: 90, elevation: 1800, capturedAt: "2026-01-01T09:10:00+00:00", lift: { name: "TSD", cat: "SB", dist: 12 }, piste: null },
+  });
+  assert.equal(collect(body, "img", [])[0].src, "https://img.example/p.jpg");
+  const text = textOf(body);
+  assert.ok(text.includes("Start"));
+  assert.ok(text.includes("SB · TSD"));
+  assert.ok(text.includes("1800 m"));
+  assert.equal(collect(body, "a", [])[0].href, "https://forum.example/posts/5/");
+});
+
+test("reportDetailBody falls back to '(no caption)' for a captionless photo", () => {
+  const body = reportDetailBody({
+    artifact: { report: { sourceUrl: "https://forum.example/posts/6/" } },
+    photo: { url: "https://img.example/q.jpg", description: null, bearing: null, elevation: null, capturedAt: null, lift: null, piste: null },
+  });
+  assert.ok(textOf(body).includes("(no caption)"));
 });

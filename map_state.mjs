@@ -32,6 +32,20 @@ function requireRecency({ value, context }) {
   return value;
 }
 
+// The producer emits each per-item time as "DD.MM.YYYY HH:MM" (optionally a trailing " Uhr"); the first group
+// set is reused by the global navigator's sort key, so the format is validated once here.
+const DISPLAY_TIMESTAMP = /^(\d{2})\.(\d{2})\.(\d{4}) (\d{2}):(\d{2})/;
+
+function requireDisplayTimestamp({ value, context }) {
+  // Validate the producer's display-time format at load so a malformed time fails loudly instead of being
+  // silently sorted to the bottom of the cross-resort navigator (where it would hide broken run metadata).
+  const text = requireText({ value: value, context: context });
+  if (DISPLAY_TIMESTAMP.exec(text) === null) {
+    throw new TypeError(context + " must be in DD.MM.YYYY HH:MM format.");
+  }
+  return text;
+}
+
 function requireCoordinates({ value, context }) {
   if (!Array.isArray(value) || value.length !== 2) {
     throw new TypeError(context + " must contain exactly two coordinates.");
@@ -57,6 +71,14 @@ function requireArrayWithin({ value, min, max, context }) {
 function requireNonEmptyArray({ value, context }) {
   if (!Array.isArray(value) || value.length === 0) {
     throw new TypeError(context + " must be a non-empty array.");
+  }
+  return value;
+}
+
+function requireArray({ value, context }) {
+  // An array that is allowed to be empty (e.g. a report mapped by pistes alone draws no lifts).
+  if (!Array.isArray(value)) {
+    throw new TypeError(context + " must be an array.");
   }
   return value;
 }
@@ -97,7 +119,7 @@ export function validateNewsItem({ value, context }) {
   const item = requireObject({ value: value, context: context });
   return {
     recency: requireRecency({ value: item.recency, context: context + " recency" }),
-    timestamp: requireText({ value: item.timestamp, context: context + " timestamp" }),
+    timestamp: requireDisplayTimestamp({ value: item.timestamp, context: context + " timestamp" }),
     headline: requireText({ value: item.headline, context: context + " headline" }),
     imageUrl: Object.hasOwn(item, "image_url")
       ? requireHttpUrl({ value: item.image_url, context: context + " image_url" })
@@ -243,20 +265,253 @@ export function markerHasCategoryImage({ newsItems }) {
   throw new RangeError("Unsupported marker recency: " + primaryNews.recency);
 }
 
-export function newsPageState({ newsItems, activeIndex }) {
-  if (!Array.isArray(newsItems) || newsItems.length === 0) {
-    throw new TypeError("newsItems must be a non-empty array.");
+export function pagerState({ count, index, label }) {
+  // The shared pager state (counter text plus boundary-disabled flags) the detail panel's inner per-item and
+  // outer cross-resort navigators both render. Extracted so the exact production logic is unit-tested here
+  // rather than reimplemented inline, and used by both navigators so they can never drift apart.
+  if (!Number.isInteger(count) || count < 1) {
+    throw new TypeError("pagerState count must be a positive integer.");
   }
-  if (!Number.isInteger(activeIndex)) {
-    throw new TypeError("activeIndex must be an integer.");
-  }
-  if (activeIndex < 0 || activeIndex >= newsItems.length) {
-    throw new RangeError("activeIndex must identify an existing news page.");
+  if (!Number.isInteger(index) || index < 0 || index >= count) {
+    throw new RangeError("pagerState index must identify an existing page.");
   }
   return {
-    newsItem: newsItems[activeIndex],
-    pageCounterText: "Page " + (activeIndex + 1) + " of " + newsItems.length,
-    previousDisabled: activeIndex === 0,
-    nextDisabled: activeIndex === newsItems.length - 1,
+    counterText: label + " " + (index + 1) + " of " + count,
+    previousDisabled: index === 0,
+    nextDisabled: index === count - 1,
   };
+}
+
+export function featureRecencyKey({ feature }) {
+  // A sortable key ordering resorts in the global (cross-resort) navigator by their newest news time. The
+  // newest sub-page is newsItems[0] (primary, then older newest-to-oldest); its "DD.MM.YYYY HH:MM" display time
+  // becomes "YYYYMMDDHHMM" so a descending sort lists the most recent resort first (breaking today before older
+  // weekly). Every news timestamp was format-validated at load, so a non-match here is a broken invariant.
+  const match = DISPLAY_TIMESTAMP.exec(feature.newsItems[0].timestamp);
+  if (match === null) {
+    throw new TypeError("News timestamp '" + feature.newsItems[0].timestamp + "' is not in DD.MM.YYYY HH:MM format.");
+  }
+  const [, day, month, year, hour, minute] = match;
+  return year + month + day + hour + minute;
+}
+
+export function compareFeaturesForNav({ a, b }) {
+  // Global navigator order: newest DAY first (so breaking today leads), then within one day geographically from
+  // west to east (ascending longitude) so paging glides across the map. coordinates are [latitude, longitude].
+  const dayA = featureRecencyKey({ feature: a }).slice(0, 8);
+  const dayB = featureRecencyKey({ feature: b }).slice(0, 8);
+  if (dayA !== dayB) return dayB.localeCompare(dayA);
+  return a.coordinates[1] - b.coordinates[1];
+}
+
+// --- Report-on-map (page 4): the one report of the day, mapped to its lifts, slopes and photo wedges -----
+// The producer (alpin-api) writes page 4 on every run: always `generated_at`, plus the spatial artifact
+// fields ONLY when the report had geotagged, on-piste photos. Unlike GeoJSON, this artifact already stores
+// every coordinate as [latitude, longitude] (Leaflet order), so no swap is needed.
+
+function requireFiniteNumber({ value, context }) {
+  if (typeof value !== "number" || !Number.isFinite(value)) {
+    throw new TypeError(context + " must be a finite number.");
+  }
+  return value;
+}
+
+function requireLatLon({ value, context }) {
+  if (!Array.isArray(value) || value.length !== 2) {
+    throw new TypeError(context + " must be a [latitude, longitude] pair.");
+  }
+  const latitude = requireFiniteNumber({ value: value[0], context: context + " latitude" });
+  const longitude = requireFiniteNumber({ value: value[1], context: context + " longitude" });
+  if (latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180) {
+    throw new RangeError(context + " latitude/longitude is out of range.");
+  }
+  return [latitude, longitude];
+}
+
+function requireNullableNumber({ object, key, context }) {
+  // The producer always emits the documented key (null when the sensor lacked the value). A missing key or a
+  // non-numeric present value is malformed data, never a legitimate absence, so neither is silently coerced.
+  if (!Object.hasOwn(object, key)) throw new TypeError(context + " must be present (use null when absent).");
+  const value = object[key];
+  return value === null ? null : requireFiniteNumber({ value: value, context: context });
+}
+
+function requireNullableText({ object, key, context }) {
+  // Same present-or-null contract for optional text (a caption, a capture time): a number or an empty string is
+  // malformed, not a silent null, so a numeric caption can no longer vanish as an apparently legitimate absence.
+  if (!Object.hasOwn(object, key)) throw new TypeError(context + " must be present (use null when absent).");
+  const value = object[key];
+  return value === null ? null : requireText({ value: value, context: context });
+}
+
+function requireNonNegativeNumber({ value, context }) {
+  // Snap distances are nonnegative metres; a null or negative value is a producer contract violation.
+  const number = requireFiniteNumber({ value: value, context: context });
+  if (number < 0) throw new RangeError(context + " must be zero or greater.");
+  return number;
+}
+
+function requireStringField({ value, context }) {
+  // A display name that may legitimately be empty (an unnamed OSM lift or piste), but must be text when present.
+  if (typeof value !== "string") throw new TypeError(context + " must be text.");
+  return value;
+}
+
+function requireIntegerId({ value, context }) {
+  // A lift's OSM way id; it keys a drawn lift to the photos snapped to it, so it must be a real integer, not text.
+  if (typeof value !== "number" || !Number.isInteger(value)) throw new TypeError(context + " must be an integer id.");
+  return value;
+}
+
+function validateLiftCategories({ value }) {
+  // code -> {label, color}; the renderer colours every lift line and the legend from this closed map.
+  const categories = requireObject({ value: value, context: "Report lift_cats" });
+  const result = {};
+  for (const [code, entry] of Object.entries(categories)) {
+    const record = requireObject({ value: entry, context: "Report lift_cats " + code });
+    result[code] = {
+      label: requireText({ value: record.label, context: "Report lift_cats " + code + " label" }),
+      color: requireText({ value: record.color, context: "Report lift_cats " + code + " color" }),
+    };
+  }
+  return result;
+}
+
+function validateLiftLine({ value, index, liftCats }) {
+  const context = "Report lift " + index;
+  const lift = requireObject({ value: value, context: context });
+  const cat = requireText({ value: lift.cat, context: context + " cat" });
+  // A lift whose class is not in the legend cannot be coloured, so it is a producer error, not a silent default.
+  if (!Object.hasOwn(liftCats, cat)) throw new RangeError(context + " cat '" + cat + "' is not in lift_cats.");
+  // A lift line needs at least two points to be drawable; a single point cannot form a polyline.
+  if (!Array.isArray(lift.coords) || lift.coords.length < 2) {
+    throw new TypeError(context + " coords must contain at least two points to draw a line.");
+  }
+  const coordinates = lift.coords.map((point, pointIndex) =>
+    requireLatLon({ value: point, context: context + " coords " + pointIndex }),
+  );
+  return { id: requireIntegerId({ value: lift.id, context: context + " id" }), name: requireStringField({ value: lift.name, context: context + " name" }), cat: cat, coords: coordinates };
+}
+
+function validateReportSnap({ value, context, liftCats, kind }) {
+  // A photo's optional snapped lift or piste. A lift snap MUST name a legend class (so it can be coloured and
+  // labelled, never "undefined · Lift"); a piste snap carries only a display name. The distance is required and
+  // nonnegative — the producer always supplies it as nonnegative metres.
+  if (value === null || value === undefined) return null;
+  const snap = requireObject({ value: value, context: context });
+  const result = {
+    name: requireStringField({ value: snap.name, context: context + " name" }),
+    dist: requireNonNegativeNumber({ value: snap.dist, context: context + " dist" }),
+  };
+  if (kind === "lift") {
+    if (!Object.hasOwn(liftCats, snap.cat)) throw new RangeError(context + " cat '" + snap.cat + "' is not in lift_cats.");
+    result.cat = snap.cat;
+    // The OSM way id lets a drawn lift line open the first photo snapped to it; it is matched, never displayed.
+    result.id = requireIntegerId({ value: snap.id, context: context + " id" });
+  } else if (kind === "piste") {
+    // A piste carries its OSM difficulty and type (free-text, may be empty) so the detail panel can colour it.
+    result.diff = typeof snap.diff === "string" ? snap.diff : "";
+    result.ptype = typeof snap.ptype === "string" ? snap.ptype : "";
+  } else {
+    throw new RangeError("Unsupported snap kind: " + kind);
+  }
+  return result;
+}
+
+function validateReportPhoto({ value, index, liftCats }) {
+  const context = "Report photo " + index;
+  const photo = requireObject({ value: value, context: context });
+  const geo = requireObject({ value: photo.geo, context: context + " geo" });
+  // Reuse the coordinate-range validator so a photo latitude of 100 is rejected exactly as a center or lift is.
+  const [latitude, longitude] = requireLatLon({ value: [geo.latitude, geo.longitude], context: context + " geo" });
+  return {
+    url: requireHttpUrl({ value: photo.url, context: context + " url" }),
+    description: requireNullableText({ object: photo, key: "description", context: context + " description" }),
+    latitude: latitude,
+    longitude: longitude,
+    bearing: requireNullableNumber({ object: geo, key: "bearing_deg", context: context + " bearing" }),
+    elevation: requireNullableNumber({ object: geo, key: "elevation_m", context: context + " elevation" }),
+    capturedAt: requireNullableText({ object: geo, key: "captured_at", context: context + " captured_at" }),
+    lift: validateReportSnap({ value: photo.lift, context: context + " lift", liftCats: liftCats, kind: "lift" }),
+    piste: validateReportSnap({ value: photo.piste, context: context + " piste", liftCats: liftCats, kind: "piste" }),
+  };
+}
+
+function validateBearingOffset({ value }) {
+  // The per-report view-direction correction: null when the producer could not derive one, else exactly one
+  // device-axis quarter-turn (degrees to subtract from each photo's recorded bearing). Any other value is a bug.
+  if (value === null || value === undefined) return null;
+  if (value !== 0 && value !== 90 && value !== 180 && value !== 270) {
+    throw new RangeError("Report bearing_offset_deg '" + value + "' must be null or one of 0/90/180/270.");
+  }
+  return value;
+}
+
+export function validateReportArtifact({ value }) {
+  // Return null for an unmapped report-of-the-day (the producer wrote only `generated_at` because the report
+  // had no geotagged on-piste photos), else the validated spatial artifact the report-on-map view renders.
+  const payload = requireObject({ value: value, context: "Report map data" });
+  requireText({ value: payload.generated_at, context: "Report map generated_at" });
+  // The ONLY legitimate "nothing to map" payload is timestamp-only. A payload that omits `report` yet still
+  // carries spatial fields is a partial/corrupt artifact, not an empty one, so it is rejected rather than shown
+  // as an empty report that silently drops its photos and lifts.
+  if (!Object.hasOwn(payload, "report")) {
+    const spatialKeys = ["center", "lift_cats", "lifts", "photos", "bearing_offset_deg"];
+    const present = spatialKeys.filter((key) => Object.hasOwn(payload, key));
+    if (present.length > 0) {
+      throw new TypeError("Report map data without `report` must carry only `generated_at`, but also has: " + present.join(", ") + ".");
+    }
+    return null;
+  }
+  const report = requireObject({ value: payload.report, context: "Report map report" });
+  const liftCats = validateLiftCategories({ value: payload.lift_cats });
+  return {
+    report: {
+      title: requireText({ value: report.title, context: "Report title" }),
+      author: requireText({ value: report.author, context: "Report author" }),
+      forum: requireText({ value: report.forum, context: "Report forum" }),
+      sourceUrl: requireHttpUrl({ value: report.source_url, context: "Report source_url" }),
+      date: requireText({ value: report.date, context: "Report date" }),
+    },
+    center: requireLatLon({ value: payload.center, context: "Report center" }),
+    bearingOffsetDeg: validateBearingOffset({ value: payload.bearing_offset_deg }),
+    liftCats: liftCats,
+    // A report may be mapped purely by pistes, so its drawn-lift list is allowed to be empty, but it must be
+    // an array; photos remain non-empty because a mapped report always has at least one placed photo.
+    lifts: requireArray({ value: payload.lifts, context: "Report lifts" }).map((lift, index) =>
+      validateLiftLine({ value: lift, index: index, liftCats: liftCats }),
+    ),
+    photos: requireNonEmptyArray({ value: payload.photos, context: "Report photos" }).map((photo, index) =>
+      validateReportPhoto({ value: photo, index: index, liftCats: liftCats }),
+    ),
+  };
+}
+
+// Wedge geometry, shared so the round no-bearing marker can be built to the SAME area as the triangle.
+const WEDGE_RADIUS = 0.0024;
+const WEDGE_HALF_WIDTH = (20 * Math.PI) / 180;
+
+export function reportWedgePoints({ latitude, longitude, bearing }) {
+  // A small triangle pointing along the compass bearing (degrees clockwise from north) in [lat, lon] points,
+  // correcting longitude for the latitude so the wedge is not skewed; a null bearing has no direction.
+  if (bearing === null) return null;
+  const latitudeScale = Math.cos((latitude * Math.PI) / 180);
+  const heading = (bearing * Math.PI) / 180;
+  const point = (angle) => [latitude + WEDGE_RADIUS * Math.cos(angle), longitude + (WEDGE_RADIUS * Math.sin(angle)) / latitudeScale];
+  return [[latitude, longitude], point(heading - WEDGE_HALF_WIDTH), point(heading), point(heading + WEDGE_HALF_WIDTH)];
+}
+
+export function reportDotPoints({ latitude, longitude }) {
+  // A round marker for a photo with NO bearing: a circle of EQUAL AREA to the wedge triangle (same polygon
+  // style and colour, just round). The drawn wedge polygon has area R^2*sin(halfWidth), so the equal-area
+  // circle has radius R*sqrt(sin(halfWidth)/pi); longitude is latitude-corrected exactly as the wedge is.
+  const latitudeScale = Math.cos((latitude * Math.PI) / 180);
+  const radius = WEDGE_RADIUS * Math.sqrt(Math.sin(WEDGE_HALF_WIDTH) / Math.PI);
+  const steps = 32;
+  const ring = [];
+  for (let step = 0; step < steps; step += 1) {
+    const angle = (step / steps) * 2 * Math.PI;
+    ring.push([latitude + radius * Math.cos(angle), longitude + (radius * Math.sin(angle)) / latitudeScale]);
+  }
+  return ring;
 }
