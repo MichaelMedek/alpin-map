@@ -1,3 +1,724 @@
 {
-  "generated_at": "2026-11-27T01:03:00Z"
+  "generated_at": "2026-11-27T01:03:00Z",
+  "report": {
+    "post_id": 5515492,
+    "title": "Saisonauftakt mit Tourenski und Beschneiung in Willingen",
+    "author": "Hibbe",
+    "forum": "alpinforum",
+    "source_url": "https://www.alpinforum.com/posts/5515492/",
+    "date": "2026-11-26",
+    "post_date": "2026-11-26",
+    "text": "Da es hier im Forum ja leider gewünscht ist Winterberg vom Rest des Sauerlands abzukapseln eröffne ich mal den Thread für den ganzen Rest außerhalb. In Willingen wurde die letzten Tage auch beschneit. Ich wäre schon vorgestern auf die Ski gesprungen, war aber noch angeschlagen und habe daher erst heute die Saison mit Tourenski eröffnet. Am besten sieht es wie gewohnt am Sonnenlift aus. Da könnte man jetzt problemlos verteilen und öffnen. Nur oben am Ausstieg ist es noch kahl, weil keine Kanone direkt dort stand. Ansonsten ansehnliches Ergebnis. Wundert mich trotzdem, dass die Kanonen heute tagsüber aus waren. Die Betreiber sind ansonsten ja auch sehr ambitioniert und auch wenn die Temperaturen nachts sicher besser sind, so wäre es auch tagsüber außerhalb des Grenzbereichs möglich gewesen. Die Verbindungswiese unten Richtung Köhlerhagen würde man auch schon hinbekommen, wenn auch deutlich dünner. Am Köhlerhagen selbst ist die Verteilung recht inhomogen, da man folgerichtig erstmal möglichst auf Haufen beschneit hat. Trotzdem war es durchgängig auf Ski machbar. Nur unten an einer Stelle etwas dünn. Im Steilhang liegen zwar zum Teil größere Haufen, dazwischen aber auch noch sehr hohes Gras/Gestrüpp. Oben am Plateau auch ausreichend Schnee. Man könnte auch an diesem Hang problemlos in die Saison starten. Viele Reserven hats aber speziell unten noch nicht. Am Ettelsberg wäre noch nichts durchgehend auf Ski möglich. Da ist die Beschneiungsanlage generell deutlich schwächer und ich bin mir nicht sicher, ob es sich dort gelohnt haben wird, dass man jetzt schon anfängt. Ich hätte mich ggf. zunächst auf den Köhlerhagen konzentriert, damit der erstmal solide steht. Aber vielleicht haben wir dieses Jahr endlich mal das Glück, dass nicht wieder alles im Dezember wegtaut. Das war jetzt der dritte Winter in Folge, in dem ich schon im November auf Tourenski die Saison in Willingen eröffnen konnte (meine ich). Darf gerne zur neuen Regel werden. Wilddieb ist noch nicht beschneit worden. Nur Dorfwiese. Ritzhagen hat vermutlich am meisten Schnee (war allerdings nicht am Hang). Die Kanonendichte dort kann mit Winterberg konkurrieren. Die Betreiber machen einen tollen Job! Es gibt übrigens eine Webcam vom Speicherteich, die man über die Webseite der Ettelsberg-Seilbahn einsehen kann, falls einen der Füllstand vom Speicherteich interessiert. Aktuell ist da jedenfalls noch genügend Wasser drin. Daumen drücken, damit sich der erneut hohe Aufwand im November, dieses Jahr endlich mal für die Betreiber lohnt. Dein Browser kann dieses Video nicht abspielen."
+  },
+  "center": [
+    51.28703042929292,
+    8.592101893939397
+  ],
+  "placed_count": 22,
+  "photos": [
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2625-webp.339950/",
+      "description": "{\n\t\t\t\t\"lightbox_close\": \"Schließen\",\n\t\t\t\t\"lightbox_next\": \"Nächste\",\n\t\t\t\t\"lightbox_previous\": \"Vorherige\",\n\t\t\t\t\"lightbox_error\": \"Der angeforderte Inhalt kann nicht geladen werden. Bitte versuche es später noch einmal.\",\n\t\t\t\t\"lightbox_start_slideshow\": \"Slideshow starten\",\n\t\t\t\t\"lightbox_stop_slideshow\": \"Slideshow stoppen\",\n\t\t\t\t\"lightbox_full_screen\": \"Vollbild\",\n\t\t\t\t\"lightbox_thumbnails\": \"Vorschaubilder\",\n\t\t\t\t\"lightbox_download\": \"Download\",\n\t\t\t\t\"lightbox_share\": \"Teilen\",\n\t\t\t\t\"lightbox_zoom\": \"Vergrößern\",\n\t\t\t\t\"lightbox_new_window\": \"Neues Fenster\",\n\t\t\t\t\"lightbox_toggle_sidebar\": \"Seitenleiste umschalten\"\n\t\t\t}",
+      "geo": {
+        "latitude": 51.29127777777778,
+        "longitude": 8.592791666666667,
+        "elevation_m": 586.5107751688646,
+        "bearing_deg": 176.25,
+        "captured_at": "2026-11-26T15:12:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1396677587,
+        "name": "Rodel-/Skihanglift Sonnenhang",
+        "cat": "SL",
+        "dist": 32
+      },
+      "piste": {
+        "name": "Rodelhang",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 0
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2626-webp.339951/",
+      "description": null,
+      "geo": {
+        "latitude": 51.291275,
+        "longitude": 8.59278888888889,
+        "elevation_m": 586.8571347226967,
+        "bearing_deg": 143.16354378818738,
+        "captured_at": "2026-11-26T15:12:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1396677587,
+        "name": "Rodel-/Skihanglift Sonnenhang",
+        "cat": "SL",
+        "dist": 32
+      },
+      "piste": {
+        "name": "Rodelhang",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 1
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2632-webp.339952/",
+      "description": null,
+      "geo": {
+        "latitude": 51.291983333333334,
+        "longitude": 8.585461111111112,
+        "elevation_m": 674.2723358449946,
+        "bearing_deg": 247.08506787330316,
+        "captured_at": "2026-11-26T15:28:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549422,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 31
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 2
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2633-webp.339953/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29198888888889,
+        "longitude": 8.582202777777777,
+        "elevation_m": 745.946500777605,
+        "bearing_deg": 94.15318302387269,
+        "captured_at": "2026-11-26T15:34:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549422,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 29
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 3
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2634-webp.339954/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29198888888889,
+        "longitude": 8.582191666666667,
+        "elevation_m": 745.9040293040293,
+        "bearing_deg": 232.4166108506363,
+        "captured_at": "2026-11-26T15:34:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549422,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 29
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 4
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2636-webp.339955/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29174722222222,
+        "longitude": 8.578988888888889,
+        "elevation_m": 790.7779005524862,
+        "bearing_deg": 105.77392578125,
+        "captured_at": "2026-11-26T15:46:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549422,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 5
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2638-webp.339956/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29174722222222,
+        "longitude": 8.57906388888889,
+        "elevation_m": 791.8664072632944,
+        "bearing_deg": 269.982421875,
+        "captured_at": "2026-11-26T15:47:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549422,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 6
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2640-webp.339957/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29087777777777,
+        "longitude": 8.593569444444444,
+        "elevation_m": 582.531748978834,
+        "bearing_deg": 333.9151000606428,
+        "captured_at": "2026-11-26T16:01:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1396677587,
+        "name": "Rodel-/Skihanglift Sonnenhang",
+        "cat": "SL",
+        "dist": 59
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 7
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2641-webp.339958/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29088611111111,
+        "longitude": 8.593575000000001,
+        "elevation_m": 582.4405086285195,
+        "bearing_deg": 93.3636092022707,
+        "captured_at": "2026-11-26T16:01:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1396677587,
+        "name": "Rodel-/Skihanglift Sonnenhang",
+        "cat": "SL",
+        "dist": 59
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 8
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2642-webp.339959/",
+      "description": null,
+      "geo": {
+        "latitude": 51.29088888888889,
+        "longitude": 8.593569444444444,
+        "elevation_m": 581.5469798657718,
+        "bearing_deg": 288.81451414514146,
+        "captured_at": "2026-11-26T16:01:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1396677587,
+        "name": "Rodel-/Skihanglift Sonnenhang",
+        "cat": "SL",
+        "dist": 58
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 9
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2643-webp.339960/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28595,
+        "longitude": 8.59543611111111,
+        "elevation_m": 677.1636636636637,
+        "bearing_deg": 276.5104979004199,
+        "captured_at": "2026-11-26T16:17:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 10
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2647-webp.339962/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28496944444444,
+        "longitude": 8.595558333333335,
+        "elevation_m": 691.8047914818101,
+        "bearing_deg": 87.25299069561365,
+        "captured_at": "2026-11-26T16:19:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 11
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2650-webp.339963/",
+      "description": null,
+      "geo": {
+        "latitude": 51.283877777777775,
+        "longitude": 8.596125,
+        "elevation_m": 737.7237697307335,
+        "bearing_deg": 183.77183532127742,
+        "captured_at": "2026-11-26T16:24:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 29
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 12
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2652-webp.339964/",
+      "description": null,
+      "geo": {
+        "latitude": 51.283477777777776,
+        "longitude": 8.596302777777778,
+        "elevation_m": 756.3597989949749,
+        "bearing_deg": 334.43701171875,
+        "captured_at": "2026-11-26T16:27:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 37
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 13
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2654-webp.339965/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28205833333333,
+        "longitude": 8.596411111111111,
+        "elevation_m": 793.0243111831443,
+        "bearing_deg": 32.88031007751938,
+        "captured_at": "2026-11-26T16:30:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 14
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2655-webp.339966/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28200833333333,
+        "longitude": 8.596391666666667,
+        "elevation_m": 794.3925104022192,
+        "bearing_deg": 293.9574888779041,
+        "captured_at": "2026-11-26T16:31:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 15
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2656-webp.339967/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28199722222222,
+        "longitude": 8.596391666666667,
+        "elevation_m": 806.020262216925,
+        "bearing_deg": 100.13279733850845,
+        "captured_at": "2026-11-26T16:32:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 16
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2657-webp.339968/",
+      "description": null,
+      "geo": {
+        "latitude": 51.28200277777778,
+        "longitude": 8.596391666666667,
+        "elevation_m": 795.3130779392338,
+        "bearing_deg": 194.23980710214818,
+        "captured_at": "2026-11-26T16:32:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 17
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2658-webp.339969/",
+      "description": null,
+      "geo": {
+        "latitude": 51.281616666666665,
+        "longitude": 8.596094444444445,
+        "elevation_m": 812.3902627511592,
+        "bearing_deg": 187.06272869837952,
+        "captured_at": "2026-11-26T16:34:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 18
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2660-webp.339970/",
+      "description": "Dein Browser kann dieses Video nicht abspielen.",
+      "geo": {
+        "latitude": 51.27801111111111,
+        "longitude": 8.597100000000001,
+        "elevation_m": 849.330262225372,
+        "bearing_deg": 300.52307095773557,
+        "captured_at": "2026-11-26T16:40:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 41
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 19
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2675-webp.339972/",
+      "description": "Dein Browser kann dieses Video nicht abspielen.",
+      "geo": {
+        "latitude": 51.28811944444444,
+        "longitude": 8.594402777777779,
+        "elevation_m": 630.0448493342677,
+        "bearing_deg": 19.11192511192511,
+        "captured_at": "2026-11-26T16:54:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 20
+    },
+    {
+      "url": "https://www.alpinforum.com/attachments/img_2645-webp.339961/",
+      "description": null,
+      "geo": {
+        "latitude": 51.285919444444446,
+        "longitude": 8.595433333333334,
+        "elevation_m": 678.0027347310847,
+        "bearing_deg": 67.67422489588154,
+        "captured_at": "2026-11-26T16:17:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 43549557,
+        "name": "Sesselbahn Köhlerhagen K1",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 21
+    }
+  ],
+  "lifts": [
+    {
+      "id": 43549422,
+      "name": "Sonnenlift",
+      "cat": "SL",
+      "coords": [
+        [
+          51.2916681,
+          8.5898006
+        ],
+        [
+          51.2916735,
+          8.5891202
+        ],
+        [
+          51.2916922,
+          8.5867557
+        ],
+        [
+          51.2917022,
+          8.5854919
+        ],
+        [
+          51.291709,
+          8.5846295
+        ],
+        [
+          51.2917191,
+          8.5833452
+        ],
+        [
+          51.2917335,
+          8.581523
+        ],
+        [
+          51.2917458,
+          8.5799704
+        ],
+        [
+          51.291748,
+          8.5786611
+        ],
+        [
+          51.2917506,
+          8.5783607
+        ],
+        [
+          51.2917553,
+          8.5778051
+        ]
+      ]
+    },
+    {
+      "id": 43549557,
+      "name": "Sesselbahn Köhlerhagen K1",
+      "cat": "SB",
+      "coords": [
+        [
+          51.2909384,
+          8.5947595
+        ],
+        [
+          51.2906669,
+          8.5947979
+        ],
+        [
+          51.2903153,
+          8.5948417
+        ],
+        [
+          51.2894105,
+          8.5949899
+        ],
+        [
+          51.2880159,
+          8.5951831
+        ],
+        [
+          51.2866628,
+          8.5953705
+        ],
+        [
+          51.2851656,
+          8.595535
+        ],
+        [
+          51.2836819,
+          8.5957334
+        ],
+        [
+          51.2828674,
+          8.5958615
+        ],
+        [
+          51.2821458,
+          8.5959634
+        ],
+        [
+          51.2812329,
+          8.5961227
+        ],
+        [
+          51.2801788,
+          8.5962686
+        ],
+        [
+          51.2790595,
+          8.5964237
+        ],
+        [
+          51.2782854,
+          8.5964662
+        ],
+        [
+          51.2780292,
+          8.5965066
+        ]
+      ]
+    },
+    {
+      "id": 1396677587,
+      "name": "Rodel-/Skihanglift Sonnenhang",
+      "cat": "SL",
+      "coords": [
+        [
+          51.2909891,
+          8.5927476
+        ],
+        [
+          51.2913957,
+          8.5901812
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
 }
