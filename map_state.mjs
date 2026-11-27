@@ -33,15 +33,25 @@ function requireRecency({ value, context }) {
 }
 
 // The producer emits each per-item time as "DD.MM.YYYY HH:MM" (optionally a trailing " Uhr"); the first group
-// set is reused by the global navigator's sort key, so the format is validated once here.
-const DISPLAY_TIMESTAMP = /^(\d{2})\.(\d{2})\.(\d{4}) (\d{2}):(\d{2})/;
+// set is reused by the global navigator's sort key, so the whole string is validated once here. The " Uhr"
+// suffix is non-capturing so the five capture groups stay day/month/year/hour/minute for featureRecencyKey.
+const DISPLAY_TIMESTAMP = /^(\d{2})\.(\d{2})\.(\d{4}) (\d{2}):(\d{2})(?: Uhr)?$/;
 
 function requireDisplayTimestamp({ value, context }) {
-  // Validate the producer's display-time format at load so a malformed time fails loudly instead of being
-  // silently sorted to the bottom of the cross-resort navigator (where it would hide broken run metadata).
+  // Validate the producer's complete display time (the whole string, not just a numeric prefix) at load so a
+  // malformed time fails loudly instead of being silently sorted to the bottom of the cross-resort navigator.
   const text = requireText({ value: value, context: context });
-  if (DISPLAY_TIMESTAMP.exec(text) === null) {
+  const match = DISPLAY_TIMESTAMP.exec(text);
+  if (match === null) {
     throw new TypeError(context + " must be in DD.MM.YYYY HH:MM format.");
+  }
+  // A well-shaped but impossible instant (month 13, 31 February, 99:99) is still malformed: check each field
+  // against its range, with the day bounded by the real length of that month and year (so 29 February is only
+  // valid in a leap year). new Date(year, month, 0) is the last day of the 1-based month, i.e. its day count.
+  const [, day, month, year, hour, minute] = match.map(Number);
+  const daysInMonth = new Date(year, month, 0).getDate();
+  if (!(month >= 1 && month <= 12 && day >= 1 && day <= daysInMonth && hour <= 23 && minute <= 59)) {
+    throw new RangeError(context + " '" + text + "' is not a real calendar date and time.");
   }
   return text;
 }
@@ -344,10 +354,11 @@ function requireNullableText({ object, key, context }) {
   return value === null ? null : requireText({ value: value, context: context });
 }
 
-function requireNonNegativeNumber({ value, context }) {
-  // Snap distances are nonnegative metres; a null or negative value is a producer contract violation.
+function requireNonNegativeInteger({ value, context }) {
+  // Snap distances are nonnegative whole metres (the producer rounds every distance); a fractional, negative, or
+  // non-numeric value is a producer contract violation, not a value to silently keep or coerce.
   const number = requireFiniteNumber({ value: value, context: context });
-  if (number < 0) throw new RangeError(context + " must be zero or greater.");
+  if (!Number.isInteger(number) || number < 0) throw new RangeError(context + " must be a whole number of metres, zero or greater.");
   return number;
 }
 
@@ -401,7 +412,7 @@ function validateReportSnap({ value, context, liftCats, kind }) {
   const snap = requireObject({ value: value, context: context });
   const result = {
     name: requireStringField({ value: snap.name, context: context + " name" }),
-    dist: requireNonNegativeNumber({ value: snap.dist, context: context + " dist" }),
+    dist: requireNonNegativeInteger({ value: snap.dist, context: context + " dist" }),
   };
   if (kind === "lift") {
     if (!Object.hasOwn(liftCats, snap.cat)) throw new RangeError(context + " cat '" + snap.cat + "' is not in lift_cats.");
@@ -424,6 +435,11 @@ function validateReportPhoto({ value, index, liftCats }) {
   const geo = requireObject({ value: photo.geo, context: context + " geo" });
   // Reuse the coordinate-range validator so a photo latitude of 100 is rejected exactly as a center or lift is.
   const [latitude, longitude] = requireLatLon({ value: [geo.latitude, geo.longitude], context: context + " geo" });
+  // The producer always emits both snap keys (null when the photo snapped to neither lift nor piste). An absent
+  // key would silently become null in validateReportSnap, so it is rejected exactly as a missing nullable scalar.
+  for (const key of ["lift", "piste"]) {
+    if (!Object.hasOwn(photo, key)) throw new TypeError(context + " must carry a " + key + " key (null or an object).");
+  }
   return {
     url: requireHttpUrl({ value: photo.url, context: context + " url" }),
     description: requireNullableText({ object: photo, key: "description", context: context + " description" }),
@@ -452,14 +468,13 @@ export function validateReportArtifact({ value }) {
   // had no geotagged on-piste photos), else the validated spatial artifact the report-on-map view renders.
   const payload = requireObject({ value: value, context: "Report map data" });
   requireText({ value: payload.generated_at, context: "Report map generated_at" });
-  // The ONLY legitimate "nothing to map" payload is timestamp-only. A payload that omits `report` yet still
-  // carries spatial fields is a partial/corrupt artifact, not an empty one, so it is rejected rather than shown
-  // as an empty report that silently drops its photos and lifts.
+  // The ONLY legitimate "nothing to map" payload is exactly `{ generated_at }`. Any other key — a spatial field,
+  // or stray metadata such as placed_count — means a partial or corrupt artifact, not an empty one, so it is
+  // rejected rather than shown as an empty report that silently drops its photos and lifts.
   if (!Object.hasOwn(payload, "report")) {
-    const spatialKeys = ["center", "lift_cats", "lifts", "photos", "bearing_offset_deg"];
-    const present = spatialKeys.filter((key) => Object.hasOwn(payload, key));
-    if (present.length > 0) {
-      throw new TypeError("Report map data without `report` must carry only `generated_at`, but also has: " + present.join(", ") + ".");
+    const extraKeys = Object.keys(payload).filter((key) => key !== "generated_at");
+    if (extraKeys.length > 0) {
+      throw new TypeError("Report map data without `report` must carry only `generated_at`, but also has: " + extraKeys.join(", ") + ".");
     }
     return null;
   }

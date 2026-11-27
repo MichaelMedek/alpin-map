@@ -198,6 +198,17 @@ test("validators reject malformed page data instead of rendering it", () => {
   assert.throws(() => validateNewsItem({ value: { ...base, source_url: "not-a-url" }, context: "case" }));
   // The per-item timestamp is required for both the pin label and the popup status line.
   assert.throws(() => validateNewsItem({ value: { recency: "weekly", headline: "h", summary: "s", source_url: sourceUrl }, context: "case" }));
+  // The whole timestamp string is validated, not just a numeric prefix: trailing garbage after a valid time is
+  // rejected rather than silently accepted and sorted on its prefix.
+  assert.throws(() => validateNewsItem({ value: { ...base, timestamp: "31.10.2026 00:26 nonsense" }, context: "case" }), /format/);
+  // A well-shaped but impossible calendar date (31 February) or clock time (99:99) is malformed, not a real instant.
+  assert.throws(() => validateNewsItem({ value: { ...base, timestamp: "31.02.2026 00:26 Uhr" }, context: "case" }), /real calendar/);
+  assert.throws(() => validateNewsItem({ value: { ...base, timestamp: "10.10.2026 99:99 Uhr" }, context: "case" }), /real calendar/);
+  // Both real shapes the producer emits are accepted: with the trailing " Uhr" and the bare form, including the
+  // leap-day 29 February 2028 (a real leap year), so valid data always renders.
+  assert.doesNotThrow(() => validateNewsItem({ value: { ...base, timestamp: "26.11.2026 02:03 Uhr" }, context: "case" }));
+  assert.doesNotThrow(() => validateNewsItem({ value: { ...base, timestamp: "26.11.2026 02:03" }, context: "case" }));
+  assert.doesNotThrow(() => validateNewsItem({ value: { ...base, timestamp: "29.02.2028 12:00 Uhr" }, context: "case" }));
   const report = { headline: "h", summary: "s", source_url: sourceUrl, image_urls: [] };
   // Every valid tip and debate now carries a mandatory source_url, so the valid shapes include it.
   const tip = { headline: "h", summary: "s", source_url: sourceUrl };
@@ -333,6 +344,12 @@ test("validateReportArtifact returns null for an unmapped report (only generated
   // The daily writes just the run timestamp when the report had no geotagged on-piste photos; this is the
   // legitimate "nothing to map" state the viewer turns into a plain hint, never a validation error.
   assert.equal(validateReportArtifact({ value: { generated_at: "2026-11-26T05:15:00Z" } }), null);
+  // The empty shape is EXACTLY `{ generated_at }`: a payload with a stray extra key (here leftover run metadata)
+  // but no `report` is partial/corrupt, not empty, so it is rejected rather than silently treated as "nothing".
+  assert.throws(
+    () => validateReportArtifact({ value: { generated_at: "2026-11-26T05:15:00Z", placed_count: 1 } }),
+    /only `generated_at`/,
+  );
 });
 
 test("validateReportArtifact rejects malformed report map data instead of mapping it", () => {
@@ -386,8 +403,19 @@ test("validateReportArtifact enforces the photo, snap and lift contracts the pro
   );
   // A negative snap distance is rejected; the producer supplies nonnegative metres.
   assert.throws(
-    () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], lift: { name: "X", cat: "SB", dist: -1 } }) }),
+    () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], lift: { id: 1, name: "X", cat: "SB", dist: -1 } }) }),
     /zero or greater/,
+  );
+  // A fractional snap distance is rejected; the producer rounds every distance to whole metres.
+  assert.throws(
+    () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], lift: { id: 1, name: "X", cat: "SB", dist: 0.5 } }) }),
+    /whole number of metres/,
+  );
+  // An absent snap key is malformed data, not a legitimate null: both `lift` and `piste` must be present on every
+  // photo (null when the photo snapped to neither), so a photo that omits `piste` entirely is rejected.
+  assert.throws(
+    () => validateReportArtifact({ value: withPhoto({ url: reportArtifact.photos[0].url, description: null, geo: reportArtifact.photos[0].geo, placed: true, lift: null }) }),
+    /must carry a piste key/,
   );
   // A numeric caption is malformed data, not a silent absence.
   assert.throws(

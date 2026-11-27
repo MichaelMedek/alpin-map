@@ -99,6 +99,9 @@ body {
 
 .view-shell {
   position: relative;
+  /* Own stacking context, so the detail panel's high z-index stays scoped here (above the map's Leaflet controls)
+     and can never paint over the site header in the row above. */
+  z-index: 0;
   min-height: 0;
 }
 
@@ -462,10 +465,12 @@ body.lightbox-open {
   }
 }
 
-/* Split-view detail panel: a right-docked, closable box every map page fills, in the page palette. */
+/* Split-view detail panel: a right-docked, closable box every map page fills, in the page palette. It sits ABOVE
+   the Leaflet controls (which default to z-index 1000): the panel and the map selection it describes always win,
+   so the bottom-left legend and rotation control stay BEHIND it instead of covering the panel's content. */
 .detail-view {
   position: absolute;
-  z-index: 950;
+  z-index: 1100;
   top: 0;
   right: 0;
   bottom: 0;
@@ -710,6 +715,14 @@ body.lightbox-open {
   border: 1px solid #cad6ce;
   border-radius: 0.5rem;
   box-shadow: 0 1px 4px #15251d22;
+}
+
+/* On phones the lift legend is dropped entirely (the map is too small to spare the space); the rotation control
+   stays, and with the legend gone it sits alone at the very bottom-left. */
+@media (max-width: 44rem) {
+  .report-legend {
+    display: none;
+  }
 }
 
 .report-offset__select {

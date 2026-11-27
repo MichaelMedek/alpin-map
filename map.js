@@ -263,7 +263,7 @@ function renderDetail({ focus }) {
       disabled: outerNav.previousDisabled, on: { click: () => { if (outer.onPrevious !== null) outer.onPrevious(); } } });
     const outerNext = el("button", { type: "button", class: "detail__nav detail__nav--global", text: outer.label + " ›", "aria-label": "Next " + outer.label.toLowerCase(),
       disabled: outerNav.nextDisabled, on: { click: () => { if (outer.onNext !== null) outer.onNext(); } } });
-    const outerCounter = el("span", { class: "detail__counter detail__counter--global", text: outerNav.counterText });
+    const outerCounter = el("span", { class: "detail__counter detail__counter--global", "aria-live": "polite", "aria-atomic": "true", text: outerNav.counterText });
     children.push(el("div", { class: "detail__footer detail__footer--global" }, outerPrevious, outerCounter, outerNext));
     focusable["outer-prev"] = outerPrevious;
     focusable["outer-next"] = outerNext;
@@ -455,10 +455,10 @@ function reportLegendControl({ artifact }) {
 }
 
 function reportOffsetControl({ initial, derived, onChange }) {
-  // A small top-left control (under the zoom, clear of the right-side detail panel that covers top/bottom-right)
-  // to rotate every photo's view direction by a quarter-turn. The producer's derived offset is the default;
-  // "unverified" marks a report the producer could not calibrate. Built as CSP-safe DOM.
-  const control = L.control({ position: "topleft" });
+  // The view-direction rotation lives at the very bottom-left, added after the legend so it renders directly
+  // below it (and stays there when the legend is hidden on mobile). Bottom-left keeps it clear of the right-side
+  // detail panel and its top-right close button, so a click on × can never land on this dropdown. CSP-safe DOM.
+  const control = L.control({ position: "bottomleft" });
   control.onAdd = () => {
     const box = el("div", { class: "report-offset" },
       el("span", { class: "report-offset__label", text: derived ? "Rotate view" : "Rotate view (unverified)" }));
