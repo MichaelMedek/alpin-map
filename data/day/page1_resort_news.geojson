@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Aprica",
         "headline": "Aprica: Neue 4er-Sesselbahn Stella Alpina am Palabione angekündigt",
@@ -42,24 +42,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.879723,
-          45.125389
-        ]
-      },
-      "properties": {
-        "recency": "breaking",
-        "timestamp": "27.11.2026 11:01 Uhr",
-        "name": "Chamrousse",
-        "headline": "Chamrousse: Versetzung des Tapis de la Lauze vor Wochenend-Preopening abgeschlossen",
-        "summary": "Im Vorfeld des Wochenend-Saisonauftakts in Chamrousse wurden die Förderbänder im Anfängerbereich neu strukturiert. Der Tapis de la Lauze wurde in den Sektor Malamute verlegt, um die Aufstiegshilfe im Rodelbereich nachhaltig zu verbessern.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=6243&st=140"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.963894,
           45.792664
         ]
@@ -71,6 +53,24 @@
         "headline": "Neue 10er-Gondelbahnen Plan Chécrouit vor der Eröffnung",
         "summary": "In Courmayeur biegen die Arbeiten an den zwei neuen 10er-Kabinenbahnen Plan Chécrouit–Colle Chécrouit und Plan Chécrouit–Maison Vieille auf die Zielgerade ein, um rechtzeitig zur Wintersaison den Betrieb aufzunehmen.",
         "source_url": "https://www.funiforum.org/funiforum/node/312727/page4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8171312,
+          46.805189
+        ]
+      },
+      "properties": {
+        "recency": "weekly",
+        "timestamp": "20.11.2026 02:03 Uhr",
+        "name": "Davos Klosters",
+        "headline": "Davos Klosters: Freie ÖV-Fahrt mit Gästekarte und Bergbahnticket reaktiviert",
+        "summary": "Nach zweijährigen Verhandlungen entfallen die bisherigen Einschränkungen im öffentlichen Nahverkehr: Ab dem 20. November können Inhaber von Gästekarten sowie Wintersportler mit gültigem Bergbahnticket (ab Halbtageskarte, inklusive TopCard) Busse und die Rhätische Bahn zwischen Davos und Klosters wieder kostenfrei nutzen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=37&start=325"
       }
     },
     {
@@ -165,7 +165,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
         "headline": "Seiser Alm: Neue 8er-Sesselbahn Steger-Dellai im finalen Abnahmetest",
@@ -188,7 +188,16 @@
         "name": "Jungfrau Region",
         "headline": "Jungfraubahn Holding AG plant Übernahme der Schilthornbahn AG",
         "summary": "Die Jungfraubahn Holding AG unterbreitet ein öffentliches Kaufangebot für alle Aktien der Schilthornbahn AG. Nach den erheblichen Kostensteigerungen beim Großprojekt Schilthorn 20XX soll die Übernahme die finanzielle Zukunft sichern und die internationale Wettbewerbsfähigkeit der Jungfrau Region stärken.",
-        "source_url": "https://www.alpinforum.com/threads/10864/page-22"
+        "source_url": "https://www.alpinforum.com/threads/10864/page-22",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "20.11.2026 02:03 Uhr",
+            "headline": "Grindelwald-First: Sesselbahn Oberjoch plant künftig Sommer-Rundfahrten",
+            "summary": "Im Skigebiet First in der Jungfrau Region soll die kuppelbare Sesselbahn Oberjoch künftig auch im Sommerbetrieb laufen. Geplant ist eine rund 20-minütige Panorama-Rundfahrt für Ausflugsgäste ohne Ausstiegsmöglichkeit an der Bergstation.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=124&start=100"
+          }
+        ]
       }
     },
     {
@@ -206,7 +215,34 @@
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz startet in die Wintersaison mit drei neuen Aufstiegsanlagen",
         "summary": "Zum Saisonstart gehen gleich drei moderne Aufstiegsanlagen in Betrieb: die erneuerte 10er-Kabinenbahn Kronplatz 1+2, die neue 8er-Kabinenbahn Ruis sowie der 8er-Sessellift Dolomiti.",
-        "source_url": "https://www.alpinforum.com/threads/72710/"
+        "source_url": "https://www.alpinforum.com/threads/72710/",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "20.11.2026 02:03 Uhr",
+            "headline": "Kronplatz: Ladinische Bezeichnung 'Plan de Corones' kehrt ins Logo zurück",
+            "summary": "Der Lenkungsausschuss von Kronplatz Brand hat entschieden, den ladinischen Namen 'Plan de Corones' wieder fest in das offizielle Markenlogo aufzunehmen. Eine begleitende Arbeitsgruppe aus Bevölkerung, Tourismus und Bergbahnen soll die sprachliche und kulturelle Identität künftig noch stärker hervorheben.",
+            "source_url": "https://www.alpinforum.com/threads/1744/page-80"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7764321,
+          46.4131389
+        ]
+      },
+      "properties": {
+        "recency": "weekly",
+        "timestamp": "20.11.2026 02:03 Uhr",
+        "name": "Lauchernalp",
+        "headline": "Lötschental: Neue Luftseilbahn Wiler–Weissenried vor der Betriebsaufnahme",
+        "summary": "Im Rahmen der Schutz- und Wiederaufbaumaßnahmen nach dem Felssturz von Blatten steht die neue Pendelbahn zwischen Wiler und Weissenried kurz vor der Fertigstellung. Die Seilbahn überwindet knapp 270 Höhenmeter in unter fünf Minuten und soll Mitte Dezember den regulären Betrieb aufnehmen.",
+        "source_url": "https://www.alpinforum.com/threads/70956/page-10"
       }
     },
     {
@@ -237,7 +273,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Madonna di Campiglio / Pinzolo / Folgàrida / Marilleva",
         "headline": "Folgarida-Marilleva: Neue 6er-Sesselbahn Brenzi und Pistenverbreiterung",
@@ -273,21 +309,14 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
-        "timestamp": "27.11.2026 11:01 Uhr",
+        "recency": "weekly",
+        "timestamp": "25.11.2026 02:03 Uhr",
         "name": "Montgenèvre / Via Lattea",
-        "headline": "Montgenèvre: Gondelbahnen Chalvet und Fournéous starten mit provisorischen Stationen",
-        "summary": "Die Bauarbeiten an den neuen 10er-Gondelbahnen Chalvet und Fournéous stehen vor dem Saisonstart. Da der Betreiber auf den kostenintensiven Schichtbetrieb verzichtet hat, gehen die Anlagen im ersten Winter mit unvollendeten Stationsgebäuden im Übergangsbetrieb an den Start.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80",
+        "headline": "Fortschritte beim Bau der Sesselbahn Colletto Verde in Claviere",
+        "summary": "Die Talstation der neuen kuppelbaren 4er-Sesselbahn Gimont-Col Saurel / Colletto Verde wurde erfolgreich montiert. Das Seil und die Sessel stehen noch aus, sodass mit einer behördlichen Abnahme bis spätestens Ende Januar gerechnet wird.",
+        "source_url": "https://www.funiforum.org/funiforum/node/259940/page35",
+        "image_url": "https://www.funiforum.org/immagini_forum/26/20261124140805_WhatsAppImage20261124at14.06.27.jpeg",
         "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "25.11.2026 02:03 Uhr",
-            "headline": "Fortschritte beim Bau der Sesselbahn Colletto Verde in Claviere",
-            "summary": "Die Talstation der neuen kuppelbaren 4er-Sesselbahn Gimont-Col Saurel / Colletto Verde wurde erfolgreich montiert. Das Seil und die Sessel stehen noch aus, sodass mit einer behördlichen Abnahme bis spätestens Ende Januar gerechnet wird.",
-            "source_url": "https://www.funiforum.org/funiforum/node/259940/page35",
-            "image_url": "https://www.funiforum.org/immagini_forum/26/20261124140805_WhatsAppImage20261124at14.06.27.jpeg"
-          },
           {
             "recency": "weekly",
             "timestamp": "24.11.2026 02:03 Uhr",
@@ -295,26 +324,15 @@
             "summary": "Die Betreibergruppe investiert massiv in das Großraumskigebiet Via Lattea und Bardonecchia. Neben der Beschneiung von 80 % der Pisten in Bardonecchia kehrt der Nachtskilauf auf der Kandahar-Piste in Sestriere zurück.",
             "source_url": "https://www.alpinforum.com/threads/5492/page-10",
             "image_url": "https://www.alpinforum.com/proxy.php?image=https%3A%2F%2Fwww.dovesciare.it%2Fsites%2Fdefault%2Ffiles%2FVIALATTEA%252011%2520%25281%2529.jpg&hash=cf9b508429f5b612a0c8c7527a5ff54f&return_error=1"
+          },
+          {
+            "recency": "weekly",
+            "timestamp": "20.11.2026 02:03 Uhr",
+            "headline": "Montgenèvre: Endspurt beim Bau der Gondelbahnen Chalvet und Fournéous",
+            "summary": "Im französischen Teil der Via Lattea biegen die Arbeiten an den beiden neuen 10er-Gondelbahnen Chalvet und Fournéous auf die Zielgerade ein. Die Doppelmayr-Anlagen sollen rechtzeitig vor Beginn der Weihnachtsferien fertiggestellt werden und zwei zentrale Zubringerachsen modernisieren.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=42938&st=80"
           }
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2745415,
-          46.5638824
-        ]
-      },
-      "properties": {
-        "recency": "breaking",
-        "timestamp": "27.11.2026 11:01 Uhr",
-        "name": "Nassfeld",
-        "headline": "Nassfeld: Ehemals abgetragene Tröglbahn-Bergstation als Depot am Rastl neu aufgebaut",
-        "summary": "Die frühere Bergstation der Tröglbahn wurde am Rastl als Materiallager und Garage wiedererrichtet. Aufnahmen zeigen, dass die Sessel im Gegensatz zu früheren Planungen statt Einzelsitzen einen schlichten schwarzen Bezug erhalten haben.",
-        "source_url": "https://www.alpinforum.com/threads/2110/page-36"
       }
     },
     {
@@ -327,7 +345,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Oberengadin / St. Moritz",
         "headline": "Maloja: Skilift Aela stellt den Betrieb für bis zu fünf Jahre ein",
@@ -346,19 +364,12 @@
       },
       "properties": {
         "recency": "breaking",
-        "timestamp": "27.11.2026 11:01 Uhr",
+        "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Ischgl: Neue 8er-Sesselbahn Höllkarbahn startet ohne Hauben in die Saison",
-        "summary": "Die neu errichtete 8er-Sesselbahn Höllkarbahn geht zum Saisonauftakt überraschend ohne Wetterschutzhauben in Betrieb. Grund hierfür sind unerwartete Schwingungen und Pompagen an den Förderseilen während der Testfahrten. Hersteller Doppelmayr arbeitet an einer Lösung, um die Hauben bis zur Folgesaison nachzurüsten.",
-        "source_url": "https://www.funiforum.org/funiforum/node/340146",
+        "headline": "Samnaun: Garaventa modernisiert doppelstöckigen Twinliner mit neuen Kabinen",
+        "summary": "Über 30 Jahre nach der Inbetriebnahme der ersten doppelstöckigen Garaventa-Pendelbahn der Welt erhält der Twinliner in Samnaun zwei komplett neue Kabinen im modernisierten Schwarz-Silber-Design. Neben neuer Seilbahnsteuerung und Anpassungen an der Stationsinfrastruktur wurde die Bahn auch technisch für einen künftigen unbegleiteten Betrieb aufgerüstet.",
+        "source_url": "https://www.alpinforum.com/threads/285/page-336",
         "older_news": [
-          {
-            "recency": "weekly",
-            "timestamp": "27.11.2026 02:03 Uhr",
-            "headline": "Samnaun: Garaventa modernisiert doppelstöckigen Twinliner mit neuen Kabinen",
-            "summary": "Über 30 Jahre nach der Inbetriebnahme der ersten doppelstöckigen Garaventa-Pendelbahn der Welt erhält der Twinliner in Samnaun zwei komplett neue Kabinen im modernisierten Schwarz-Silber-Design. Neben neuer Seilbahnsteuerung und Anpassungen an der Stationsinfrastruktur wurde die Bahn auch technisch für einen künftigen unbegleiteten Betrieb aufgerüstet.",
-            "source_url": "https://www.alpinforum.com/threads/285/page-336"
-          },
           {
             "recency": "weekly",
             "timestamp": "21.11.2026 02:03 Uhr",
@@ -393,6 +404,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.9247055,
+          46.107342
+        ]
+      },
+      "properties": {
+        "recency": "weekly",
+        "timestamp": "20.11.2026 02:03 Uhr",
+        "name": "Saastal",
+        "headline": "Hohsaas: Bergbahnen Saas-Grund verzeichnen erneut schwieriges Geschäftsjahr",
+        "summary": "Die Bergbahnen Hohsaas AG in Saas-Grund stehen nach einer wirtschaftlich herausfordernden Saison weiterhin vor großen finanziellen Hürden. Trotz ihrer wichtigen Funktion als Zubringer für das Saastal bleibt die nachhaltige Konsolidierung der Bergbahngesellschaft eine zentrale Zukunftsaufgabe.",
+        "source_url": "https://www.alpinforum.com/threads/577/page-92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.0189339,
           47.8563733
         ]
@@ -416,7 +445,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Serfaus-Fiss-Ladis",
         "headline": "Serfaus-Fiss-Ladis: Großprojekt Möseralmbahn und Modernisierung der Zentralstation Fiss angekündigt",
@@ -535,7 +564,7 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
+        "recency": "breaking",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Val Cenis",
         "headline": "Val Cenis: Neuer Skilift Essarts mit optimierter Linienführung und Pistenkorrektur",
