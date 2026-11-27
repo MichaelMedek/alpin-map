@@ -419,7 +419,8 @@ function reportFacts({ artifact, photo }) {
   if (photo.piste !== null && photo.piste.name !== "") {
     const dot = el("span", { class: "report-facts__dot" });
     dot.style.backgroundColor = slopeColor(photo.piste);
-    facts.append(el("span", { class: "detail__fact" }, dot, el("span", { text: "Piste: " + photo.piste.name })));
+    // The piste carries its snap distance in metres exactly as the lift above does, so both snaps read alike.
+    facts.append(el("span", { class: "detail__fact" }, dot, el("span", { text: "Piste: " + photo.piste.name + " (" + photo.piste.dist + " m)" })));
   }
   return facts;
 }

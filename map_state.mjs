@@ -420,9 +420,11 @@ function validateReportSnap({ value, context, liftCats, kind }) {
     // The OSM way id lets a drawn lift line open the first photo snapped to it; it is matched, never displayed.
     result.id = requireIntegerId({ value: snap.id, context: context + " id" });
   } else if (kind === "piste") {
-    // A piste carries its OSM difficulty and type (free-text, may be empty) so the detail panel can colour it.
-    result.diff = typeof snap.diff === "string" ? snap.diff : "";
-    result.ptype = typeof snap.ptype === "string" ? snap.ptype : "";
+    // A piste carries its OSM difficulty and type so the detail panel can colour it. Both are present strings that
+    // may legitimately be empty (an unclassified piste), so the string validator keeps "" yet rejects a missing
+    // key or a non-string value rather than silently coercing it to "".
+    result.diff = requireStringField({ value: snap.diff, context: context + " diff" });
+    result.ptype = requireStringField({ value: snap.ptype, context: context + " ptype" });
   } else {
     throw new RangeError("Unsupported snap kind: " + kind);
   }

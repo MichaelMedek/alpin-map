@@ -417,6 +417,15 @@ test("validateReportArtifact enforces the photo, snap and lift contracts the pro
     () => validateReportArtifact({ value: withPhoto({ url: reportArtifact.photos[0].url, description: null, geo: reportArtifact.photos[0].geo, placed: true, lift: null }) }),
     /must carry a piste key/,
   );
+  // A piste's diff/ptype may be an empty string (an unclassified piste) but never a non-string or a missing key:
+  // an empty diff is accepted as-is, a numeric diff is rejected instead of being coerced to "".
+  assert.doesNotThrow(
+    () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], lift: null, piste: { name: "P", diff: "", ptype: "", dist: 3 } }) }),
+  );
+  assert.throws(
+    () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], lift: null, piste: { name: "P", diff: 2, ptype: "downhill", dist: 3 } }) }),
+    /diff must be text/,
+  );
   // A numeric caption is malformed data, not a silent absence.
   assert.throws(
     () => validateReportArtifact({ value: withPhoto({ ...reportArtifact.photos[0], description: 123 }) }),
