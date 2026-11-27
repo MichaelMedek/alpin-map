@@ -15,17 +15,17 @@ import {
 const DEFAULT_CENTER = [46.8, 10.2];
 const DEFAULT_ZOOM = 5;
 const DEFAULT_ROUTE = "resort-news";
-const BRIEFING_URL = "./page3_briefing.json";
-const WEEKLY_URL = "./weekly_briefing.md";
+const BRIEFING_URL = "./data/day/page3_briefing.json";
+const WEEKLY_URL = "./data/week/weekly_briefing.md";
 
 // One registry drives the nav chrome and dispatch; the two map routes share renderMapFeatures() (symmetric,
 // differing only by data url and labels), the three doc routes each render one section of the shared briefing,
 // and the weekly route renders the published markdown.
 const ROUTES = {
-  "resort-news": { title: "Resort news", subtitle: "Construction and infrastructure progress across the Alps.", view: "map", url: "./page1_resort_news.geojson" },
-  snow: { title: "Snow & conditions", subtitle: "Current snow, slope and mountain conditions.", view: "map", url: "./page2_snow_conditions.geojson" },
+  "resort-news": { title: "Resort news", subtitle: "Construction and infrastructure progress across the Alps.", view: "map", url: "./data/day/page1_resort_news.geojson" },
+  snow: { title: "Snow & conditions", subtitle: "Current snow, slope and mountain conditions.", view: "map", url: "./data/day/page2_snow_conditions.geojson" },
   report: { title: "Report of the day", subtitle: "The forum story of the day.", view: "doc", render: renderReport },
-  "report-map": { title: "Report on map", subtitle: "The report of the day, mapped to its lifts and slopes.", view: "report-map", url: "./page4_report_of_day.json" },
+  "report-map": { title: "Report on map", subtitle: "The report of the day, mapped to its lifts and slopes.", view: "report-map", url: "./data/day/page4_report_of_day.json" },
   tips: { title: "Tips", subtitle: "Practical tips from the forums.", view: "doc", render: renderTips },
   debates: { title: "Debates", subtitle: "Pro and contra debates from the forums.", view: "doc", render: renderDebates },
   weekly: { title: "Weekly briefing", subtitle: "The editor's condensed briefing of the week; updates weekly, not daily.", view: "weekly", url: WEEKLY_URL },

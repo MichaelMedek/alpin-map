@@ -115,7 +115,7 @@ function collect(node, tagName, found) {
 }
 
 test("renderWeekly renders the published weekly markdown into the expected DOM", async () => {
-  const markdown = await readFile(new URL("../weekly_briefing.md", import.meta.url), "utf8");
+  const markdown = await readFile(new URL("../data/week/weekly_briefing.md", import.meta.url), "utf8");
   const section = renderWeekly({ markdown: markdown });
 
   // Exactly one cover image with an absolute forum src, and its caption rendered as emphasis.

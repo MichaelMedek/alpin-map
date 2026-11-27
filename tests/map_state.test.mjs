@@ -122,7 +122,7 @@ test("formatRunTimestamp renders the run instant in Europe/Berlin wall-clock", (
 // asymmetry cannot pass. It guards the live backend->viewer contract AND the migration's core rule that the
 // data carries no formatting: recency is a bare token, the timestamp holds no markup, and headline/source_url
 // plus the newest-to-oldest older_news order survive validation exactly as served.
-for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions.geojson"]) {
+for (const mapFile of ["../data/day/page1_resort_news.geojson", "../data/day/page2_snow_conditions.geojson"]) {
   test("committed map data satisfies the feature contract: " + mapFile, async () => {
     const source = JSON.parse(await readFile(new URL(mapFile, import.meta.url), "utf8"));
     const features = validateFeatureCollection({ value: source });
@@ -171,7 +171,7 @@ for (const mapFile of ["../page1_resort_news.geojson", "../page2_snow_conditions
 // the committed file parses, its generated_at is a real instant the header can format, the gallery stays within
 // six images, and the bounded 1..3 tips / 1..3 debates layout is satisfied with non-empty argument columns.
 test("committed briefing data satisfies the collapsed page contract", async () => {
-  const source = JSON.parse(await readFile(new URL("../page3_briefing.json", import.meta.url), "utf8"));
+  const source = JSON.parse(await readFile(new URL("../data/day/page3_briefing.json", import.meta.url), "utf8"));
   const briefing = validateBriefing({ value: source });
 
   assert.equal(briefing.generatedAt, source.generated_at);
@@ -251,8 +251,8 @@ test("static bundle has the complete approved link inventory", async () => {
   ]);
 
   assert.deepEqual(
-    [...new Set([...script.matchAll(/"(\.\/[\w-]+\.(?:geojson|json|md))"/g)].map((match) => match[1]))].sort(),
-    ["./page1_resort_news.geojson", "./page2_snow_conditions.geojson", "./page3_briefing.json", "./page4_report_of_day.json", "./weekly_briefing.md"],
+    [...new Set([...script.matchAll(/"(\.\/[\w/-]+\.(?:geojson|json|md))"/g)].map((match) => match[1]))].sort(),
+    ["./data/day/page1_resort_news.geojson", "./data/day/page2_snow_conditions.geojson", "./data/day/page3_briefing.json", "./data/day/page4_report_of_day.json", "./data/week/weekly_briefing.md"],
   );
   assert.deepEqual(
     [...index.matchAll(/\shref="([^"]+)"/g)].map((match) => match[1]),
@@ -456,8 +456,8 @@ test("pagerState gives the shared counter text and boundary-disabled flags for b
 
 test("committed report-of-day data is the same run as the briefing and validates", async () => {
   const [page4, page3] = await Promise.all([
-    readFile(new URL("../page4_report_of_day.json", import.meta.url), "utf8").then(JSON.parse),
-    readFile(new URL("../page3_briefing.json", import.meta.url), "utf8").then(JSON.parse),
+    readFile(new URL("../data/day/page4_report_of_day.json", import.meta.url), "utf8").then(JSON.parse),
+    readFile(new URL("../data/day/page3_briefing.json", import.meta.url), "utf8").then(JSON.parse),
   ]);
   // Same run: the report-of-day map and the collapsed briefing must carry the identical run timestamp.
   assert.equal(page4.generated_at, page3.generated_at);
