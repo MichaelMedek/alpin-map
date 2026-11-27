@@ -15,6 +15,8 @@ import {
   validateFeatureCollection,
   validateNewsItem,
   validateReportArtifact,
+  validateReportIndex,
+  isReportId,
 } from "../map_state.mjs";
 
 const imageUrl = "https://example.com/news.jpg";
@@ -252,7 +254,7 @@ test("static bundle has the complete approved link inventory", async () => {
 
   assert.deepEqual(
     [...new Set([...script.matchAll(/"(\.\/[\w/-]+\.(?:geojson|json|md))"/g)].map((match) => match[1]))].sort(),
-    ["./data/day/page1_resort_news.geojson", "./data/day/page2_snow_conditions.geojson", "./data/day/page3_briefing.json", "./data/day/page4_report_of_day.json", "./data/week/weekly_briefing.md"],
+    ["./data/day/page1_resort_news.geojson", "./data/day/page2_snow_conditions.geojson", "./data/day/page3_briefing.json", "./data/day/page4_report_of_day.json", "./data/reports/index.json", "./data/week/weekly_briefing.md"],
   );
   assert.deepEqual(
     [...index.matchAll(/\shref="([^"]+)"/g)].map((match) => match[1]),
@@ -266,6 +268,7 @@ test("static bundle has the complete approved link inventory", async () => {
       "#/tips",
       "#/debates",
       "#/weekly",
+      "#/highlight-reports",
     ],
   );
   assert.deepEqual(
@@ -444,6 +447,59 @@ test("validateReportArtifact rejects a partial artifact that omits report but ke
     () => validateReportArtifact({ value: { generated_at: "2026-11-26T05:15:00Z", center: [44.3, 6.57], photos: reportArtifact.photos, lift_cats: reportLiftCats, lifts: [] } }),
     /only `generated_at`/,
   );
+});
+
+const reportIndexEntry = {
+  id: "alpinfans__hausi24__2026-01-15__les-sybelles__p53113",
+  forum: "alpinfans",
+  author: "hausi24",
+  date: "2026-01-15",
+  title: "Les Sybelles",
+  source_url: "https://alpinfans.com/viewtopic.php?p=53113",
+  centroid: [45.23, 6.3],
+  photo_count: 83,
+};
+const reportIndex = { generated_at: "2026-11-26T05:15:00Z", reports: [reportIndexEntry] };
+
+test("validateReportIndex accepts a well-formed index and normalizes each entry", () => {
+  const index = validateReportIndex({ value: reportIndex });
+  assert.equal(index.generatedAt, "2026-11-26T05:15:00Z");
+  assert.equal(index.reports.length, 1);
+  const entry = index.reports[0];
+  assert.equal(entry.id, reportIndexEntry.id);
+  assert.equal(entry.title, "Les Sybelles");
+  assert.equal(entry.sourceUrl, reportIndexEntry.source_url);
+  // GeoJSON order is preserved as [latitude, longitude], the same order the report centroid uses.
+  assert.deepEqual(entry.centroid, [45.23, 6.3]);
+  assert.equal(entry.photoCount, 83);
+  // An empty collection is valid (the overview shows a plain hint), not an error.
+  assert.deepEqual(validateReportIndex({ value: { generated_at: "2026-11-26T05:15:00Z", reports: [] } }).reports, []);
+});
+
+test("validateReportIndex rejects every malformed shape instead of dropping a marker", () => {
+  const withEntry = (overrides) => ({ generated_at: "2026-11-26T05:15:00Z", reports: [{ ...reportIndexEntry, ...overrides }] });
+  // The timestamp and the reports array are mandatory.
+  assert.throws(() => validateReportIndex({ value: { reports: [] } }), /generated_at/);
+  assert.throws(() => validateReportIndex({ value: { generated_at: "t", reports: "none" } }), /must be an array/);
+  // An id that could alter the file path or deep link is rejected; only lowercase/digit/underscore/dash pass.
+  assert.throws(() => validateReportIndex({ value: withEntry({ id: "../secret" }) }), /lowercase letters/);
+  assert.throws(() => validateReportIndex({ value: withEntry({ id: "UPPER" }) }), /lowercase letters/);
+  // A non-HTTP source, an out-of-range centroid, and a zero/fractional photo count are all malformed.
+  assert.throws(() => validateReportIndex({ value: withEntry({ source_url: "ftp://example.com/x" }) }), /HTTP/);
+  assert.throws(() => validateReportIndex({ value: withEntry({ centroid: [200, 6.3] }) }), /range/);
+  assert.throws(() => validateReportIndex({ value: withEntry({ photo_count: 0 }) }), /one or greater/);
+  assert.throws(() => validateReportIndex({ value: withEntry({ photo_count: 1.5 }) }), /one or greater/);
+  // A missing required key is malformed, never a silent default.
+  assert.throws(() => validateReportIndex({ value: withEntry({ title: undefined }) }), /title/);
+});
+
+test("isReportId accepts only safe path tokens, so a deep-link id cannot escape data/reports/", () => {
+  // The same guard that validates the index also gates the viewer's deep-link path builder; a crafted id must
+  // never produce a path outside data/reports/.
+  assert.equal(isReportId("alpinfans__hausi24__2026-01-15__p53113"), true);
+  for (const bad of ["../day/page3_briefing", "a/b", "a.b", "UPPER", "", "with space", "x\\y"]) {
+    assert.equal(isReportId(bad), false, "must reject: " + JSON.stringify(bad));
+  }
 });
 
 test("pagerState gives the shared counter text and boundary-disabled flags for both panel navigators", () => {

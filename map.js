@@ -1,6 +1,7 @@
 import {
   compareFeaturesForNav,
   formatRunTimestamp,
+  isReportId,
   markerHasCategoryImage,
   markerStyle,
   pagerState,
@@ -10,6 +11,7 @@ import {
   validateBriefing,
   validateFeatureCollection,
   validateReportArtifact,
+  validateReportIndex,
 } from "./map_state.mjs";
 
 const DEFAULT_CENTER = [46.8, 10.2];
@@ -29,7 +31,12 @@ const ROUTES = {
   tips: { title: "Tips", subtitle: "Practical tips from the forums.", view: "doc", render: renderTips },
   debates: { title: "Debates", subtitle: "Pro and contra debates from the forums.", view: "doc", render: renderDebates },
   weekly: { title: "Weekly briefing", subtitle: "The editor's condensed briefing of the week; updates weekly, not daily.", view: "weekly", url: WEEKLY_URL },
+  "highlight-reports": { title: "Highlight reports", subtitle: "A collection of hand-picked forum trip reports, each mapped to its lifts and slopes.", view: "reports-overview", url: "./data/reports/index.json" },
 };
+
+// The hidden per-report deep link #/highlight-report-map-<id>: reachable only from a link on the overview, never
+// a tab, and rendered by the exact report-on-map view. Parsed in handleRoute into a synthesized route.
+const HIGHLIGHT_REPORT_PREFIX = "highlight-report-map-";
 
 const mapElement = document.getElementById("map");
 const docElement = document.getElementById("doc");
@@ -40,9 +47,9 @@ let map = null;
 let markerGroup = null;
 let reportLegend = null;
 let reportOffset = null;
+let reportBack = null;
 let activeRoute = null;
 let activation = 0;
-let briefingPromise = null;
 let lightbox = null;
 
 // A tiny declarative element builder — the single helper that removes this file's create-assign-append
@@ -75,14 +82,12 @@ async function fetchNoStore(url) {
 }
 
 function loadBriefing() {
-  // Fetch and validate page 3 at most once: the header date (every page) and the briefing view share it, so
-  // there is a single source of truth and a single request for the collapsed page.
-  if (briefingPromise === null) {
-    briefingPromise = fetchNoStore(BRIEFING_URL)
-      .then((response) => response.json())
-      .then((payload) => validateBriefing({ value: payload }));
-  }
-  return briefingPromise;
+  // Page 3 is fetched fresh on every read (cache: no-store), the same policy the map pages use, so a newly
+  // published run never shows a stale briefing or run date beside fresh map data. It is small, and within one
+  // render the header and the briefing view each read it once.
+  return fetchNoStore(BRIEFING_URL)
+    .then((response) => response.json())
+    .then((payload) => validateBriefing({ value: payload }));
 }
 
 function ensureMap() {
@@ -111,8 +116,8 @@ function ensureMap() {
 }
 
 function clearReportLegend() {
-  // The lift legend and the view-direction control belong only to the report-on-map view; drop both when any
-  // other route takes the map.
+  // The lift legend, the view-direction control, and the deep-link back button belong only to a report-on-map
+  // view; drop all three when any other route takes the map.
   if (reportLegend !== null) {
     reportLegend.remove();
     reportLegend = null;
@@ -120,6 +125,10 @@ function clearReportLegend() {
   if (reportOffset !== null) {
     reportOffset.remove();
     reportOffset = null;
+  }
+  if (reportBack !== null) {
+    reportBack.remove();
+    reportBack = null;
   }
 }
 
@@ -248,8 +257,12 @@ function renderDetail({ focus }) {
   const children = [
     el("div", { class: "detail__header" }, el("p", { class: "detail__kicker", text: kicker }), closeButton),
     el("div", { class: "detail__body" }, buildBody(list[index])),
-    el("div", { class: "detail__footer" }, previousButton, counter, nextButton),
   ];
+  // A single-item list has nothing to page (every collected report sits alone at its own GPS centroid, and a
+  // resort can carry a single update), so its inner pager is omitted; only a real multi-item carousel renders it.
+  if (list.length > 1) {
+    children.push(el("div", { class: "detail__footer" }, previousButton, counter, nextButton));
+  }
   // The focusable controls keyed so that after a re-render focus returns to the control the user was operating,
   // instead of falling to document.body (which would stop keyboard paging after one press).
   const focusable = { close: closeButton, "inner-prev": previousButton, "inner-next": nextButton };
@@ -347,50 +360,74 @@ function highlightMarker({ markers, selectedIndex }) {
   selected.marker.bringToFront();
 }
 
-function renderMapFeatures({ features }) {
+// One shared marker-overview base: a set of map markers, each opening the shared detail panel at that item and
+// highlighting its marker, with a cross-item (outer) navigator so prev/next and a marker click reach the same
+// place. Resort-news, Snow and the Highlight-reports overview all render through this one function; each adapts
+// its own data into the `items` shape below, so the map+panel behaviour is defined exactly once.
+// Each item: { coordinates:[lat,lon], baseStyle, tooltipText, kicker, outerLabel, countLabel, innerList,
+//              buildBody(innerItem), preloadUrls? }. Items are pre-sorted by the caller (the outer order).
+function renderMarkerOverview({ items, maxZoom }) {
   const { map: leaflet, markerGroup: group } = ensureMap();
   group.clearLayers();
   closeDetail();
-  // Each feature owns one marker; a click opens the shared detail panel with that feature's news carousel and
-  // highlights the marker, so the reader sees where on the map the story is. News maps start with nothing open.
-  // Resorts are ordered newest DAY first, then west-to-east within a day, so the global navigator glides across
-  // the map; this order is orthogonal to the per-resort sub-page pager (breaking first, then older).
-  const ordered = features.slice().sort((a, b) => compareFeaturesForNav({ a, b }));
   const markers = [];
-  const openFeature = (featureIndex, focus = "close") => {
-    const feature = ordered[featureIndex];
-    const imageUrls = feature.newsItems.map((newsItem) => newsItem.imageUrl);
+  const openItem = (itemIndex, focus = "close") => {
+    const item = items[itemIndex];
     openDetailPanel({
-      kicker: feature.name,
-      list: feature.newsItems,
+      kicker: item.kicker,
+      list: item.innerList,
       index: 0,
-      countLabel: "Update",
+      countLabel: item.countLabel,
       focus,
-      buildBody: (newsItem) => newsDetailBody({ feature, newsItem }),
-      // Offset the pan to the still-visible map area so the panel never hides the selected marker. The locate
-      // receives the inner sub-page index, so warming the current image and its neighbours stays bounded.
-      locate: (innerIndex) => { highlightMarker({ markers, selectedIndex: featureIndex }); focusOnMap({ latlng: feature.coordinates }); preloadAround({ urls: imageUrls, index: innerIndex }); },
-      // The global (cross-resort) navigator; its prev/next re-open the neighbouring resort in the sorted order,
-      // restoring focus to the matching global button so keyboard paging never drops to the document body.
+      buildBody: item.buildBody,
+      // Highlight this item's marker and offset the pan so the panel never hides it; warm images only when the
+      // item supplies a preload list (the news carousel does; the report overview has no inner photos).
+      locate: (innerIndex) => {
+        highlightMarker({ markers, selectedIndex: itemIndex });
+        focusOnMap({ latlng: item.coordinates });
+        if (item.preloadUrls !== undefined) preloadAround({ urls: item.preloadUrls, index: innerIndex });
+      },
+      // The cross-item navigator steps to the neighbouring item in the caller's order, restoring focus to the
+      // matching global button so keyboard paging never drops to the document body.
       outer: {
-        label: "Resort",
-        index: featureIndex,
-        count: ordered.length,
-        onPrevious: featureIndex > 0 ? () => openFeature(featureIndex - 1, "outer-prev") : null,
-        onNext: featureIndex < ordered.length - 1 ? () => openFeature(featureIndex + 1, "outer-next") : null,
+        label: item.outerLabel,
+        index: itemIndex,
+        count: items.length,
+        onPrevious: itemIndex > 0 ? () => openItem(itemIndex - 1, "outer-prev") : null,
+        onNext: itemIndex < items.length - 1 ? () => openItem(itemIndex + 1, "outer-next") : null,
       },
     });
   };
-  ordered.forEach((feature, featureIndex) => {
-    const primaryNews = feature.newsItems[0];
-    const baseStyle = markerStyle({ kind: primaryNews.recency, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) });
-    const marker = L.circleMarker(feature.coordinates, baseStyle);
-    marker.bindTooltip(el("span", { text: feature.name + ": " + statusLabel({ recency: primaryNews.recency }) + " (" + primaryNews.timestamp + ")" }));
-    marker.on("click", () => openFeature(featureIndex));
-    markers.push({ marker, baseStyle });
+  items.forEach((item, itemIndex) => {
+    const marker = L.circleMarker(item.coordinates, item.baseStyle);
+    marker.bindTooltip(el("span", { text: item.tooltipText }));
+    marker.on("click", () => openItem(itemIndex));
+    markers.push({ marker, baseStyle: item.baseStyle });
     group.addLayer(marker);
   });
-  leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: 10, padding: [24, 24] });
+  leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: maxZoom, padding: [24, 24] });
+}
+
+function renderMapFeatures({ features }) {
+  // Resort-news / Snow adapter over the shared overview: resorts are ordered newest DAY first, then west-to-east
+  // within a day, so the cross-resort navigator glides across the map; each resort's news items are the inner
+  // carousel. This is one of the three callers of renderMarkerOverview.
+  const ordered = features.slice().sort((a, b) => compareFeaturesForNav({ a, b }));
+  const items = ordered.map((feature) => {
+    const primaryNews = feature.newsItems[0];
+    return {
+      coordinates: feature.coordinates,
+      baseStyle: markerStyle({ kind: primaryNews.recency, hasImage: markerHasCategoryImage({ newsItems: feature.newsItems }) }),
+      tooltipText: feature.name + ": " + statusLabel({ recency: primaryNews.recency }) + " (" + primaryNews.timestamp + ")",
+      kicker: feature.name,
+      outerLabel: "Resort",
+      countLabel: "Update",
+      innerList: feature.newsItems,
+      buildBody: (newsItem) => newsDetailBody({ feature, newsItem }),
+      preloadUrls: feature.newsItems.map((newsItem) => newsItem.imageUrl),
+    };
+  });
+  renderMarkerOverview({ items, maxZoom: 10 });
 }
 
 // OSM piste-difficulty colours (green/blue/red/black), with yellow for ski-tour/freeride; grey when unknown.
@@ -478,7 +515,20 @@ function reportOffsetControl({ initial, derived, onChange }) {
   return control;
 }
 
-function renderReportMap({ artifact }) {
+function reportBackControl({ href }) {
+  // A top-left control that returns to the highlight-reports overview. It is added only for a deep-linked report
+  // (#/highlight-report-map-<id>), which no tab reaches, so the reader always has an explicit way back. The link
+  // navigates the hash in the same tab, so it behaves exactly like selecting the Highlight reports tab.
+  const control = L.control({ position: "topleft" });
+  control.onAdd = () => {
+    const box = el("div", { class: "report-back" }, el("a", { href: href, class: "report-back__link", text: "‹ All reports" }));
+    L.DomEvent.disableClickPropagation(box);
+    return box;
+  };
+  return control;
+}
+
+function renderReportMap({ artifact, backHref }) {
   const { map: leaflet, markerGroup: group } = ensureMap();
   group.clearLayers();
   closeDetail();
@@ -557,10 +607,60 @@ function renderReportMap({ artifact }) {
     },
   });
   reportOffset.addTo(leaflet);
+  // A deep-linked report (not a tab) gets an explicit back-to-overview control; the daily report-of-day tab
+  // passes no backHref and shows none.
+  if (backHref !== null) {
+    reportBack = reportBackControl({ href: backHref });
+    reportBack.addTo(leaflet);
+  }
   leaflet.setView(artifact.center, 13);
   leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15, padding: [24, 24] });
   // The report-on-map view opens with its first photo already selected, so the reader lands on content.
   openReportAt(0);
+}
+
+// The collected-report centroid marker: the same intense breaking-news red, because orange is invisible against
+// the brown OpenTopoMap terrain. Matches markerStyle's breaking+image tone so the overview reads at a glance.
+const REPORT_MARKER_STYLE = { radius: 10, color: "#7a120c", weight: 3, fillColor: "#ff3024", fillOpacity: 1 };
+
+function reportOverviewBody({ entry }) {
+  // One highlight-report overview panel: who/when/where plus the original forum link AND the internal deep link
+  // that opens the report on its own map. The internal link navigates the hash in the same tab (no target blank),
+  // so it behaves exactly like selecting #/highlight-report-map-<id>; the forum link opens externally as usual.
+  const internal = el("a", { href: "#/highlight-report-map-" + entry.id, class: "button-link", text: "Open report on map" });
+  return el("div", { class: "detail__content" },
+    el("p", { class: "detail__status", text: entry.forum + " · " + entry.author + " · " + entry.date }),
+    el("h2", { class: "detail__headline", text: entry.title }),
+    el("p", { class: "detail__facts" }, el("span", { text: entry.photoCount + " photos" })),
+    el("div", { class: "detail__actions" },
+      internal,
+      linkElement({ href: entry.sourceUrl, text: "Open source forum page", className: "button-link" })));
+}
+
+function renderReportsOverview({ index }) {
+  // Highlight-reports overview adapter over the shared marker base (the third caller beside Resort-news/Snow):
+  // one centroid marker per collected report, ordered west-to-east so the cross-report navigator glides across
+  // the map. Each report is a single-entry inner list, so the panel shows that report's who/when/where and links.
+  const ordered = index.reports.slice().sort((a, b) => a.centroid[1] - b.centroid[1]);
+  const items = ordered.map((entry) => ({
+    coordinates: entry.centroid,
+    baseStyle: REPORT_MARKER_STYLE,
+    tooltipText: entry.title + " (" + entry.author + " · " + entry.forum + " · " + entry.date + ")",
+    kicker: entry.title,
+    outerLabel: "Report",
+    countLabel: "Report",
+    innerList: [entry],
+    buildBody: (one) => reportOverviewBody({ entry: one }),
+  }));
+  renderMarkerOverview({ items, maxZoom: 9 });
+}
+
+function reportIdPath({ id }) {
+  // A collected report's artifact lives at data/reports/<id>.json, the id being its file stem. The id is
+  // re-validated here against the shared pattern as defence in depth, so a crafted deep link (e.g.
+  // "../day/page3_briefing") can never build a path that escapes data/reports/.
+  if (!isReportId(id)) throw new RangeError("Refusing to build a report path for an invalid id: " + id);
+  return "./data/reports/" + id + ".json";
 }
 
 // Every doc page is one centered column headed by an h2; only the heading text and body vary.
@@ -663,14 +763,22 @@ async function activateRoute({ route }) {
   // navigated on is stale and must neither render nor overwrite the newly selected view.
   const token = (activation += 1);
   const stale = () => token !== activation;
-  const isMapView = route.view === "map" || route.view === "report-map";
+  // The map-backed views share the Leaflet surface and its marker reset below: the two GeoJSON maps, the report
+  // overview (centroid markers), the report-of-the-day and the per-report deep link (both the full report map).
+  const isMapView = route.view === "map" || route.view === "report-map" || route.view === "reports-overview" || route.view === "report-by-id";
   // Every navigation closes any open detail panel so it never lingers over the next page (map or doc).
   closeDetail();
-  if (route.view !== "report-map") clearReportLegend();
+  // Dispose the previous report's controls (legend, rotation, back) BEFORE the new load, so a slow load can never
+  // leave the old rotation control live — changing it would otherwise rebuild the previous report's markers under
+  // the new route. renderReportMap re-adds fresh controls for a report view; it is a no-op for every other view.
+  clearReportLegend();
   // Drop the previous page's markers before the new fetch resolves, so a stale marker can never be clicked
   // (and open a panel for the page the user just left) during a slow route switch.
   if (isMapView) ensureMap().markerGroup.clearLayers();
   showView({ view: isMapView ? "map" : "doc" });
+  // Sync Leaflet to the now-visible container in the shared lifecycle, so even an empty map view (which returns
+  // before any render) is laid out at the real size instead of staying 0x0 from being created while hidden.
+  if (isMapView) map.invalidateSize();
   showMessage({ text: "Loading " + route.title + "…", kind: "loading" });
   try {
     if (route.view === "map") {
@@ -696,7 +804,45 @@ async function activateRoute({ route }) {
         showMessage({ text: "The report of the day has no geotagged images and cannot be shown on the map.", kind: "empty" });
         return;
       }
-      renderReportMap({ artifact });
+      renderReportMap({ artifact, backHref: null });
+      map.invalidateSize();
+    } else if (route.view === "reports-overview") {
+      const payload = await (await fetchNoStore(route.url)).json();
+      if (stale()) return;
+      const index = validateReportIndex({ value: payload });
+      // An empty collection has nothing to place: clear the map and show a plain hint, mirroring the empty news map.
+      if (index.reports.length === 0) {
+        ensureMap().markerGroup.clearLayers();
+        showMessage({ text: "There are no highlight reports yet.", kind: "empty" });
+        return;
+      }
+      renderReportsOverview({ index });
+      map.invalidateSize();
+    } else if (route.view === "report-by-id") {
+      // An unknown report — an id that is not a valid token, or a file that does not exist — is a stale or
+      // hand-typed deep link, so it recovers to the overview. A fetched-but-malformed payload is a genuine data
+      // error, surfaced through the shared catch below exactly as the daily report map surfaces it.
+      let response = null;
+      try {
+        if (isReportId(route.reportId)) response = await fetchNoStore(reportIdPath({ id: route.reportId }));
+      } catch {
+        response = null;
+      }
+      if (stale()) return;
+      if (response === null) {
+        window.location.hash = "#/highlight-reports";
+        return;
+      }
+      // Parsing and validation stay OUTSIDE the recovery try, so a malformed payload reaches the shared catch.
+      const artifact = validateReportArtifact({ value: await response.json() });
+      if (artifact === null) {
+        // A directly-linked empty report (no geotagged photos) has nothing to map: the same plain hint as daily.
+        ensureMap().markerGroup.clearLayers();
+        mapElement.hidden = true;
+        showMessage({ text: "This report has no geotagged images and cannot be shown on the map.", kind: "empty" });
+        return;
+      }
+      renderReportMap({ artifact, backHref: "#/highlight-reports" });
       map.invalidateSize();
     } else if (route.view === "doc") {
       const briefing = await loadBriefing();
@@ -778,11 +924,25 @@ function renderWeekly({ markdown }) {
   return section;
 }
 
-function handleRoute() {
-  const requested = window.location.hash.replace(/^#\/?/, "");
-  // Fall back to the default page for an empty or unknown hash so a stray link never shows a blank view.
+function resolveRoute(requested) {
+  // Resolve a hash to its { routeName, route }. A deep link becomes a synthesized report-by-id route keyed by its
+  // full hash (so id-to-id navigation re-activates); every other hash is a tab route, defaulting on an unknown one.
+  if (requested.startsWith(HIGHLIGHT_REPORT_PREFIX)) {
+    const reportId = requested.slice(HIGHLIGHT_REPORT_PREFIX.length);
+    return {
+      routeName: requested,
+      route: { title: "Highlight report", subtitle: "A hand-picked forum trip report, mapped to its lifts and slopes.", view: "report-by-id", reportId: reportId },
+    };
+  }
   const routeName = Object.hasOwn(ROUTES, requested) ? requested : DEFAULT_ROUTE;
-  const route = ROUTES[routeName];
+  return { routeName, route: ROUTES[routeName] };
+}
+
+function handleRoute() {
+  // One path for every hash: resolve it, set the chrome, and (de-duped by the activation key) activate it. The
+  // deep-link and tab cases differ only in resolveRoute, so the activation bookkeeping lives in exactly one place.
+  const requested = window.location.hash.replace(/^#\/?/, "");
+  const { routeName, route } = resolveRoute(requested);
   setChrome({ routeName, route });
   if (routeName !== activeRoute) {
     activeRoute = routeName;

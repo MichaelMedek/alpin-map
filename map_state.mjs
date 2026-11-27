@@ -56,19 +56,24 @@ function requireDisplayTimestamp({ value, context }) {
   return text;
 }
 
+function requireLatLonValues({ latitude, longitude, context }) {
+  // The single finite-and-range check for one geographic point. The two order adapters below (GeoJSON [lon, lat]
+  // and the app's own [lat, lon]) each reduce to this, so the validation lives in exactly one place.
+  const lat = requireFiniteNumber({ value: latitude, context: context + " latitude" });
+  const lon = requireFiniteNumber({ value: longitude, context: context + " longitude" });
+  if (lat < -90 || lat > 90 || lon < -180 || lon > 180) {
+    throw new RangeError(context + " latitude/longitude is out of range.");
+  }
+  return [lat, lon];
+}
+
 function requireCoordinates({ value, context }) {
+  // GeoJSON stores [longitude, latitude]; adapt that order into the shared validator and return Leaflet's
+  // [latitude, longitude].
   if (!Array.isArray(value) || value.length !== 2) {
     throw new TypeError(context + " must contain exactly two coordinates.");
   }
-  const [longitude, latitude] = value;
-  const inRange =
-    Number.isFinite(longitude) && longitude >= -180 && longitude <= 180 &&
-    Number.isFinite(latitude) && latitude >= -90 && latitude <= 90;
-  if (!inRange) {
-    throw new TypeError(context + " must contain finite longitude and latitude values in range.");
-  }
-  // GeoJSON stores [longitude, latitude]; Leaflet expects [latitude, longitude].
-  return [latitude, longitude];
+  return requireLatLonValues({ latitude: value[1], longitude: value[0], context: context });
 }
 
 function requireArrayWithin({ value, min, max, context }) {
@@ -327,15 +332,12 @@ function requireFiniteNumber({ value, context }) {
 }
 
 function requireLatLon({ value, context }) {
+  // The app's own [latitude, longitude] pair: same finite-and-range validation as the GeoJSON adapter, in the
+  // app's input order.
   if (!Array.isArray(value) || value.length !== 2) {
     throw new TypeError(context + " must be a [latitude, longitude] pair.");
   }
-  const latitude = requireFiniteNumber({ value: value[0], context: context + " latitude" });
-  const longitude = requireFiniteNumber({ value: value[1], context: context + " longitude" });
-  if (latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180) {
-    throw new RangeError(context + " latitude/longitude is out of range.");
-  }
-  return [latitude, longitude];
+  return requireLatLonValues({ latitude: value[0], longitude: value[1], context: context });
 }
 
 function requireNullableNumber({ object, key, context }) {
@@ -359,6 +361,14 @@ function requireNonNegativeInteger({ value, context }) {
   // non-numeric value is a producer contract violation, not a value to silently keep or coerce.
   const number = requireFiniteNumber({ value: value, context: context });
   if (!Number.isInteger(number) || number < 0) throw new RangeError(context + " must be a whole number of metres, zero or greater.");
+  return number;
+}
+
+function requirePositiveInteger({ value, context }) {
+  // A count that must be a whole number of at least one (a report in the index has at least one placed photo);
+  // zero, a fraction, or a non-number is malformed producer data, not a value to keep.
+  const number = requireFiniteNumber({ value: value, context: context });
+  if (!Number.isInteger(number) || number < 1) throw new RangeError(context + " must be a whole number of one or greater.");
   return number;
 }
 
@@ -501,6 +511,45 @@ export function validateReportArtifact({ value }) {
     photos: requireNonEmptyArray({ value: payload.photos, context: "Report photos" }).map((photo, index) =>
       validateReportPhoto({ value: photo, index: index, liftCats: liftCats }),
     ),
+  };
+}
+
+// A report id is both the `data/reports/<id>.json` file stem and the `#/highlight-report-map-<id>` deep-link
+// fragment, so it must be a safe path/URL token: lowercase letters, digits, underscore and dash only. Shared by
+// the index validator and the viewer's deep-link resolver so a crafted id (e.g. "../day/page3_briefing") can
+// never escape data/reports/.
+const REPORT_ID_PATTERN = /^[a-z0-9_-]+$/;
+
+export function isReportId(value) {
+  return typeof value === "string" && REPORT_ID_PATTERN.test(value);
+}
+
+export function validateReportIndex({ value }) {
+  // The highlight-reports discovery index: one small entry per collected report, the only file the overview map
+  // loads (full artifacts are fetched lazily on open). Every entry is validated to the exact producer contract so
+  // a corrupt index fails loudly instead of dropping a marker, exactly as validateReportArtifact does for a report.
+  const payload = requireObject({ value: value, context: "Report index" });
+  requireText({ value: payload.generated_at, context: "Report index generated_at" });
+  return {
+    generatedAt: payload.generated_at,
+    reports: requireArray({ value: payload.reports, context: "Report index reports" }).map((entry, index) => {
+      const context = "Report index entry " + index;
+      const record = requireObject({ value: entry, context: context });
+      const id = requireText({ value: record.id, context: context + " id" });
+      // A report id keys both the file path and the deep link, so a stray character that could alter either is
+      // rejected rather than trusted.
+      if (!isReportId(id)) throw new RangeError(context + " id '" + id + "' must be lowercase letters, digits, underscore or dash.");
+      return {
+        id: id,
+        forum: requireText({ value: record.forum, context: context + " forum" }),
+        author: requireText({ value: record.author, context: context + " author" }),
+        date: requireText({ value: record.date, context: context + " date" }),
+        title: requireText({ value: record.title, context: context + " title" }),
+        sourceUrl: requireHttpUrl({ value: record.source_url, context: context + " source_url" }),
+        centroid: requireLatLon({ value: record.centroid, context: context + " centroid" }),
+        photoCount: requirePositiveInteger({ value: record.photo_count, context: context + " photo_count" }),
+      };
+    }),
   };
 }
 
