@@ -9,32 +9,34 @@
 import { readdir, readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
+import { validateReportArtifact } from "./map_state.mjs";
+
 const DIR = fileURLToPath(new URL("./data/reports/", import.meta.url));
 
 export async function computeReports() {
-  // Pure: read every <id>.json report file and return the sorted index entries, writing nothing. Shared by the
-  // writer below and by the CI freshness check, so the check can never disagree with what reindex would write.
+  // Pure: read every <id>.json report file and return the sorted index entries, writing nothing. Each file is run
+  // through the SAME validateReportArtifact the viewer uses, so the generator cannot diverge from the viewer:
+  // a malformed report fails loudly here (and in the CI freshness check) instead of silently dropping photos or
+  // emitting an invalid URL/count, and every index field is derived from the validated artifact.
   const names = (await readdir(DIR)).filter((name) => name.endsWith(".json") && name !== "index.json").sort();
+  const mean = (values) => values.reduce((sum, value) => sum + value, 0) / values.length;
   const reports = [];
   for (const name of names) {
-    const data = JSON.parse(await readFile(DIR + name, "utf8"));
-    // A report with no published photos cannot be placed, so it never joins the overview.
-    if (!Array.isArray(data.photos) || data.photos.length === 0) continue;
-    const r = data.report;
-    // The overview marker is the mean of THIS report's published photos — derived here, not copied from the
-    // file's `center`, so the index centroid is by definition the published photo set's own mean.
-    const lats = data.photos.map((photo) => photo.geo.latitude);
-    const lons = data.photos.map((photo) => photo.geo.longitude);
-    const mean = (values) => values.reduce((sum, value) => sum + value, 0) / values.length;
+    const artifact = validateReportArtifact({ value: JSON.parse(await readFile(DIR + name, "utf8")) });
+    // A timestamp-only (unmapped) report has no photos to place, so it never joins the overview.
+    if (artifact === null) continue;
+    // Every field comes from the validated artifact: the centroid is the mean of the validated photos (so it is by
+    // definition the published set's own mean), the count is the validated photo count, and source_url is the
+    // HTTP-checked report URL.
     reports.push({
       id: name.replace(/\.json$/, ""),
-      forum: r.forum,
-      author: r.author,
-      date: r.date,
-      title: r.title,
-      source_url: r.source_url,
-      centroid: [mean(lats), mean(lons)],
-      photo_count: data.placed_count || data.photos.length,
+      forum: artifact.report.forum,
+      author: artifact.report.author,
+      date: artifact.report.date,
+      title: artifact.report.title,
+      source_url: artifact.report.sourceUrl,
+      centroid: [mean(artifact.photos.map((photo) => photo.latitude)), mean(artifact.photos.map((photo) => photo.longitude))],
+      photo_count: artifact.photos.length,
     });
   }
   reports.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : a.id < b.id ? -1 : 1));

@@ -720,28 +720,7 @@ body.lightbox-open {
   box-shadow: 0 1px 4px #15251d22;
 }
 
-/* The deep-linked report's back-to-overview button (top-left), in the green nav palette so it reads as chrome. */
-.report-back__link {
-  display: inline-block;
-  padding: 0.4rem 0.7rem;
-  color: #ffffff;
-  background: #116149;
-  border: 1px solid #116149;
-  border-radius: 0.5rem;
-  font-size: 0.8rem;
-  font-weight: 650;
-  text-decoration: none;
-  box-shadow: 0 1px 4px #15251d33;
-}
-
-.report-back__link:hover {
-  background: #0d4f3b;
-}
-
-.report-back__link:focus-visible {
-  outline: 3px solid #9cd7c5;
-  outline-offset: 2px;
-}
+/* The back-to-overview link now lives in the detail panel as a .button-link, so no bespoke control style. */
 
 /* On phones the lift legend is dropped entirely (the map is too small to spare the space); the rotation control
    stays, and with the legend gone it sits alone at the very bottom-left. */

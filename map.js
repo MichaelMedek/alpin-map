@@ -47,7 +47,6 @@ let map = null;
 let markerGroup = null;
 let reportLegend = null;
 let reportOffset = null;
-let reportBack = null;
 let activeRoute = null;
 let activation = 0;
 let lightbox = null;
@@ -83,11 +82,15 @@ async function fetchNoStore(url) {
 
 function loadBriefing() {
   // Page 3 is fetched fresh on every read (cache: no-store), the same policy the map pages use, so a newly
-  // published run never shows a stale briefing or run date beside fresh map data. It is small, and within one
-  // render the header and the briefing view each read it once.
+  // published run never shows a stale briefing or run date beside fresh map data. The header run date is updated
+  // from THIS validated briefing, so the header and the briefing content always reflect the same run.
   return fetchNoStore(BRIEFING_URL)
     .then((response) => response.json())
-    .then((payload) => validateBriefing({ value: payload }));
+    .then((payload) => {
+      const briefing = validateBriefing({ value: payload });
+      runTimestampElement.textContent = "Latest run: " + formatRunTimestamp({ value: briefing.generatedAt });
+      return briefing;
+    });
 }
 
 function ensureMap() {
@@ -116,8 +119,8 @@ function ensureMap() {
 }
 
 function clearReportLegend() {
-  // The lift legend, the view-direction control, and the deep-link back button belong only to a report-on-map
-  // view; drop all three when any other route takes the map.
+  // The lift legend and the view-direction control belong only to a report-on-map view; drop both when any other
+  // route takes the map. (The back-to-overview link lives in the detail panel, so it needs no teardown here.)
   if (reportLegend !== null) {
     reportLegend.remove();
     reportLegend = null;
@@ -125,10 +128,6 @@ function clearReportLegend() {
   if (reportOffset !== null) {
     reportOffset.remove();
     reportOffset = null;
-  }
-  if (reportBack !== null) {
-    reportBack.remove();
-    reportBack = null;
   }
 }
 
@@ -462,15 +461,21 @@ function reportFacts({ artifact, photo }) {
   return facts;
 }
 
-function reportDetailBody({ artifact, photo }) {
+function reportDetailBody({ artifact, photo, backHref }) {
   // One report photo in the detail panel: the enlargeable image (via the shared media slot, so a failed load
-  // degrades to an "image unavailable" note rather than a broken zoom control), its caption, the snap facts,
-  // and the source link.
+  // degrades to an "image unavailable" note rather than a broken zoom control), its caption, the snap facts, and
+  // the action links. On a deep-linked report the "All reports" link sits beside the source link (mirroring the
+  // overview, where "Open report on map" sits beside it); the daily report-of-day tab passes no backHref.
+  const actions = [];
+  if (typeof backHref === "string") {
+    actions.push(el("a", { href: backHref, class: "button-link", text: "‹ All reports" }));
+  }
+  actions.push(linkElement({ href: artifact.report.sourceUrl, text: "Open source forum page", className: "button-link" }));
   return el("div", { class: "detail__content" },
     mediaSlot({ imageUrl: photo.url, alt: photo.description === null ? "Report photo." : photo.description }),
     el("p", { class: "detail__caption", text: photo.description === null ? "(no caption)" : photo.description }),
     reportFacts({ artifact, photo }),
-    el("div", { class: "detail__actions" }, linkElement({ href: artifact.report.sourceUrl, text: "Open source forum page", className: "button-link" })));
+    el("div", { class: "detail__actions" }, ...actions));
 }
 
 function reportLegendControl({ artifact }) {
@@ -509,19 +514,6 @@ function reportOffsetControl({ initial, derived, onChange }) {
     }
     select.addEventListener("change", (event) => onChange(event.target.value === "none" ? null : Number(event.target.value)));
     box.append(select);
-    L.DomEvent.disableClickPropagation(box);
-    return box;
-  };
-  return control;
-}
-
-function reportBackControl({ href }) {
-  // A top-left control that returns to the highlight-reports overview. It is added only for a deep-linked report
-  // (#/highlight-report-map-<id>), which no tab reaches, so the reader always has an explicit way back. The link
-  // navigates the hash in the same tab, so it behaves exactly like selecting the Highlight reports tab.
-  const control = L.control({ position: "topleft" });
-  control.onAdd = () => {
-    const box = el("div", { class: "report-back" }, el("a", { href: href, class: "report-back__link", text: "‹ All reports" }));
     L.DomEvent.disableClickPropagation(box);
     return box;
   };
@@ -576,7 +568,7 @@ function renderReportMap({ artifact, backHref }) {
       list: artifact.photos,
       index: index,
       countLabel: "Photo",
-      buildBody: (photo) => reportDetailBody({ artifact, photo }),
+      buildBody: (photo) => reportDetailBody({ artifact, photo, backHref }),
       locate: selectWedge,
     });
   function buildWedges() {
@@ -607,21 +599,17 @@ function renderReportMap({ artifact, backHref }) {
     },
   });
   reportOffset.addTo(leaflet);
-  // A deep-linked report (not a tab) gets an explicit back-to-overview control; the daily report-of-day tab
-  // passes no backHref and shows none.
-  if (backHref !== null) {
-    reportBack = reportBackControl({ href: backHref });
-    reportBack.addTo(leaflet);
-  }
+  // The back-to-overview link for a deep-linked report lives in the detail panel beside the source link (see
+  // reportDetailBody), not as a floating map control, mirroring the overview's "Open report on map" placement.
   leaflet.setView(artifact.center, 13);
   leaflet.fitBounds(group.getBounds().pad(0.15), { maxZoom: 15, padding: [24, 24] });
   // The report-on-map view opens with its first photo already selected, so the reader lands on content.
   openReportAt(0);
 }
 
-// The collected-report centroid marker: the same intense breaking-news red, because orange is invisible against
-// the brown OpenTopoMap terrain. Matches markerStyle's breaking+image tone so the overview reads at a glance.
-const REPORT_MARKER_STYLE = { radius: 10, color: "#7a120c", weight: 3, fillColor: "#ff3024", fillOpacity: 1 };
+// The collected-report centroid marker reuses the one intense breaking-news-with-image preset (orange is
+// invisible against the brown OpenTopoMap terrain), so there is a single source for that red style in the repo.
+const REPORT_MARKER_STYLE = markerStyle({ kind: "breaking", hasImage: true });
 
 function reportOverviewBody({ entry }) {
   // One highlight-report overview panel: who/when/where plus the original forum link AND the internal deep link
@@ -819,22 +807,28 @@ async function activateRoute({ route }) {
       renderReportsOverview({ index });
       map.invalidateSize();
     } else if (route.view === "report-by-id") {
-      // An unknown report — an id that is not a valid token, or a file that does not exist — is a stale or
-      // hand-typed deep link, so it recovers to the overview. A fetched-but-malformed payload is a genuine data
-      // error, surfaced through the shared catch below exactly as the daily report map surfaces it.
-      let response = null;
-      try {
-        if (isReportId(route.reportId)) response = await fetchNoStore(reportIdPath({ id: route.reportId }));
-      } catch {
-        response = null;
-      }
-      if (stale()) return;
-      if (response === null) {
+      // Only an UNKNOWN report recovers to the overview: an id that is not a valid token, or a file that is
+      // genuinely absent (HTTP 404). A transient failure (a network error, or a non-404 non-OK status like 503)
+      // and a fetched-but-malformed payload are genuine errors, surfaced through the shared catch below exactly
+      // as the daily report map surfaces them, rather than being disguised as "report missing".
+      if (!isReportId(route.reportId)) {
         window.location.hash = "#/highlight-reports";
         return;
       }
-      // Parsing and validation stay OUTSIDE the recovery try, so a malformed payload reaches the shared catch.
-      const artifact = validateReportArtifact({ value: await response.json() });
+      // A raw no-store fetch (not fetchNoStore) so a 404 is inspected rather than thrown; a network failure still
+      // rejects and reaches the shared catch.
+      const response = await fetch(reportIdPath({ id: route.reportId }) + "?loaded=" + Date.now(), { cache: "no-store" });
+      if (stale()) return;
+      if (response.status === 404) {
+        window.location.hash = "#/highlight-reports";
+        return;
+      }
+      if (response.ok === false) throw new Error("Request for report " + route.reportId + " failed with HTTP " + response.status + ".");
+      const payload = await response.json();
+      // Re-check staleness AFTER decoding: the await above yields, so a navigation during the decode must not let
+      // this response overwrite the page the user moved to.
+      if (stale()) return;
+      const artifact = validateReportArtifact({ value: payload });
       if (artifact === null) {
         // A directly-linked empty report (no geotagged photos) has nothing to map: the same plain hint as daily.
         ensureMap().markerGroup.clearLayers();
@@ -951,10 +945,10 @@ function handleRoute() {
 }
 
 async function initRunTimestamp() {
-  // The latest-run instant lives only in page 3; show it in the header on every page as a single source of truth.
+  // Populate the header run date at startup through the same loadBriefing the doc views use (it sets the header
+  // from the validated briefing), so the header is never driven by a separate path that could drift from content.
   try {
-    const briefing = await loadBriefing();
-    runTimestampElement.textContent = "Latest run: " + formatRunTimestamp({ value: briefing.generatedAt });
+    await loadBriefing();
   } catch (error) {
     runTimestampElement.textContent = "";
     console.error("Could not read the latest run time.", error);
