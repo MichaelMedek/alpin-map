@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 29934,
+    "title": "Voll im Brandnertal bei Sonne und eisigen Pisten",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=29934",
+    "date": "2024-12-28",
+    "post_date": "2024-12-28",
+    "text": "Heute kann ich direkt meine beim Alpinfans Adventskalender gewonnene Tageskarte fürs Brandnertal einlösen! Das Skigebiet ist nur eine Stunde Fahrt entfernt für mich, doch heute war es auf der Autobahn schon extrem voll, und die Anreise verzögerte sich um 20 Minuten. Und entsprechend voll sind auch die Parkplätze und die Warteschlangen am Lift, trotz stattlichen 71 Euro Tageskarte - ohne Gutschein wäre ich da lieber zum Arlberg gefahren. Dafür jetzt aber Sonne und ganz ok präparierte Pisten, und auf den Pisten aktuell auch nicht so voll. Aber am Lift dann wieder 5 bis 10 Minuten anstehen.\n[Image Descriptions: Die beiden Skirouten links der Glatjochbahn sind präpariert und gut zu fahren; Die Talabfahrt Palüdbahn sehr knollig und unten extrem eisig!; Niggenkopfbahn im Schneckentempo; Katastrophal eisige Bedingungen mit wenig Schnee auf der Bürsenberg Seite!; Die Skiroute rechts am Loischkopf ist fahrbar]"
+  },
+  "center": [
+    47.11544252136752,
+    9.722121581196582
+  ],
+  "placed_count": 13,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45893&mode=view",
+      "description": "PXL_20241228_080636232.jpg (575.85 KiB) 3127 mal betrachtet",
+      "geo": {
+        "latitude": 47.10324444444445,
+        "longitude": 9.715316666666666,
+        "elevation_m": 1647.5,
+        "bearing_deg": 259,
+        "captured_at": "2024-12-28T09:06:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 132
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 82
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45894&mode=view",
+      "description": "PXL_20241228_080018684.jpg (253.58 KiB) 3127 mal betrachtet",
+      "geo": {
+        "latitude": 47.10448888888889,
+        "longitude": 9.717941666666666,
+        "elevation_m": 1654.59,
+        "bearing_deg": 174,
+        "captured_at": "2024-12-28T09:00:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490160,
+        "name": "Palüdbahn",
+        "cat": "EUB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45895&mode=view",
+      "description": "PXL_20241228_080926267.jpg (586.96 KiB) 3127 mal betrachtet",
+      "geo": {
+        "latitude": 47.096675000000005,
+        "longitude": 9.734669444444444,
+        "elevation_m": 1991.52,
+        "bearing_deg": 287,
+        "captured_at": "2024-12-28T09:09:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490160,
+        "name": "Palüdbahn",
+        "cat": "EUB",
+        "dist": 127
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 119
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45896&mode=view",
+      "description": "PXL_20241228_081112419.jpg (532.92 KiB) 3127 mal betrachtet",
+      "geo": {
+        "latitude": 47.108402777777776,
+        "longitude": 9.697902777777777,
+        "elevation_m": 1960.09,
+        "bearing_deg": 27,
+        "captured_at": "2024-12-28T09:11:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45897&mode=view",
+      "description": "PXL_20241228_081124432.jpg (749.46 KiB) 3127 mal betrachtet",
+      "geo": {
+        "latitude": 47.108402777777776,
+        "longitude": 9.697902777777777,
+        "elevation_m": 1960.09,
+        "bearing_deg": 10,
+        "captured_at": "2024-12-28T09:11:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45902&mode=view",
+      "description": "PXL_20241228_083417064.jpg (516.82 KiB) 3119 mal betrachtet",
+      "geo": {
+        "latitude": 47.10411944444444,
+        "longitude": 9.717952777777779,
+        "elevation_m": 1649.5,
+        "bearing_deg": 219,
+        "captured_at": "2024-12-28T09:34:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 36
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45923&mode=view",
+      "description": "Die beiden Skirouten links der Glatjochbahn sind präpariert und gut zu fahren",
+      "geo": {
+        "latitude": 47.107219444444446,
+        "longitude": 9.693852777777778,
+        "elevation_m": 1969.43,
+        "bearing_deg": 196,
+        "captured_at": "2024-12-28T09:53:37"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45924&mode=view",
+      "description": "PXL_20241228_085144263.jpg (510.65 KiB) 3104 mal betrachtet",
+      "geo": {
+        "latitude": 47.108672222222225,
+        "longitude": 9.6972,
+        "elevation_m": 1969.28,
+        "bearing_deg": 51,
+        "captured_at": "2024-12-28T09:51:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "Lorenzital",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45925&mode=view",
+      "description": "Die Talabfahrt Palüdbahn sehr knollig und unten extrem eisig!",
+      "geo": {
+        "latitude": 47.10386944444445,
+        "longitude": 9.717802777777777,
+        "elevation_m": 1647.69,
+        "bearing_deg": 4,
+        "captured_at": "2024-12-28T09:57:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30490188,
+        "name": "Glattjochbahn",
+        "cat": "SB",
+        "dist": 25
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45967&mode=view",
+      "description": "Katastrophal eisige Bedingungen mit wenig Schnee auf der Bürsenberg Seite!",
+      "geo": {
+        "latitude": 47.138333333333335,
+        "longitude": 9.752958333333334,
+        "elevation_m": 1494.19,
+        "bearing_deg": 110,
+        "captured_at": "2024-12-28T11:42:09"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45968&mode=view",
+      "description": "PXL_20241228_111934716.jpg (475.73 KiB) 3065 mal betrachtet",
+      "geo": {
+        "latitude": 47.146163888888886,
+        "longitude": 9.760658333333334,
+        "elevation_m": 1210.3,
+        "bearing_deg": 135,
+        "captured_at": "2024-12-28T12:19:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1445126933,
+        "name": "Loischkopfbahn",
+        "cat": "EUB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Einhornbahn I Berg - Tal",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 49
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45969&mode=view",
+      "description": "Die Skiroute rechts am Loischkopf ist fahrbar",
+      "geo": {
+        "latitude": 47.135580555555556,
+        "longitude": 9.74171111111111,
+        "elevation_m": 1210.3,
+        "bearing_deg": 256,
+        "captured_at": "2024-12-28T11:49:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1445126933,
+        "name": "Loischkopfbahn",
+        "cat": "EUB",
+        "dist": 107
+      },
+      "piste": {
+        "name": "",
+        "diff": "expert",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=45971&mode=view",
+      "description": "PXL_20241228_105055707.jpg (400.71 KiB) 3059 mal betrachtet",
+      "geo": {
+        "latitude": 47.135580555555556,
+        "longitude": 9.74171111111111,
+        "elevation_m": 1210.3,
+        "bearing_deg": 345,
+        "captured_at": "2024-12-28T11:50:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1445126933,
+        "name": "Loischkopfbahn",
+        "cat": "EUB",
+        "dist": 107
+      },
+      "piste": {
+        "name": "",
+        "diff": "expert",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 12
+    }
+  ],
+  "lifts": [
+    {
+      "id": 30490160,
+      "name": "Palüdbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.0951378,
+          9.7347416
+        ],
+        [
+          47.0953213,
+          9.7344251
+        ],
+        [
+          47.095861,
+          9.733491
+        ],
+        [
+          47.0974813,
+          9.7306625
+        ],
+        [
+          47.0982411,
+          9.7293388
+        ],
+        [
+          47.0993917,
+          9.7273344
+        ],
+        [
+          47.1004079,
+          9.7255552
+        ],
+        [
+          47.1008539,
+          9.7247776
+        ],
+        [
+          47.1029371,
+          9.7211446
+        ],
+        [
+          47.1039484,
+          9.719381
+        ],
+        [
+          47.1043737,
+          9.7186394
+        ],
+        [
+          47.1046633,
+          9.7181343
+        ]
+      ]
+    },
+    {
+      "id": 30490188,
+      "name": "Glattjochbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1039911,
+          9.7175232
+        ],
+        [
+          47.1042017,
+          9.7165972
+        ],
+        [
+          47.1047145,
+          9.7143427
+        ],
+        [
+          47.1051148,
+          9.7125823
+        ],
+        [
+          47.1056499,
+          9.7102295
+        ],
+        [
+          47.1059265,
+          9.7090132
+        ],
+        [
+          47.1065127,
+          9.706436
+        ],
+        [
+          47.1070774,
+          9.7039529
+        ],
+        [
+          47.1077737,
+          9.700891
+        ],
+        [
+          47.1082427,
+          9.698829
+        ],
+        [
+          47.1084311,
+          9.6980002
+        ],
+        [
+          47.1088475,
+          9.6961692
+        ],
+        [
+          47.1092052,
+          9.6946301
+        ],
+        [
+          47.1092215,
+          9.6945474
+        ],
+        [
+          47.1093235,
+          9.6941286
+        ]
+      ]
+    },
+    {
+      "id": 1445126933,
+      "name": "Loischkopfbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.146127,
+          9.7600668
+        ],
+        [
+          47.1412905,
+          9.7522933
+        ],
+        [
+          47.1355876,
+          9.743128
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

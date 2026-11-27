@@ -1,0 +1,458 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 3302,
+    "title": "Traumhaftes Panorama am Thuner See",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=3302",
+    "date": "2023-12-09",
+    "post_date": "2023-12-09",
+    "text": "Hat sich gelohnt heute her zu kommen! Mein erstes Mal im Skigebiet hier mit dem wunderschönen Panorama! Und die Übernachtung ging wunderbar an einem abgelegenen Parkplatz direkt neben dem Rigips Werk am Thuner See, direkt am Wasser!"
+  },
+  "center": [
+    46.584900000000005,
+    7.962074074074075
+  ],
+  "placed_count": 9,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3066",
+      "description": "Dateianhänge",
+      "geo": {
+        "latitude": 46.588008333333335,
+        "longitude": 7.955519444444445,
+        "elevation_m": 2209.09,
+        "bearing_deg": 161,
+        "captured_at": "2023-12-09T09:06:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365636,
+        "name": "Lauberhorn",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 124
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3067",
+      "description": null,
+      "geo": {
+        "latitude": 46.590538888888894,
+        "longitude": 7.9484972222222225,
+        "elevation_m": 2380.39,
+        "bearing_deg": 138,
+        "captured_at": "2023-12-09T09:57:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365636,
+        "name": "Lauberhorn",
+        "cat": "SB",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Engi",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3068",
+      "description": null,
+      "geo": {
+        "latitude": 46.586108333333335,
+        "longitude": 7.960761111111111,
+        "elevation_m": 2115.79,
+        "bearing_deg": 321,
+        "captured_at": "2023-12-09T08:56:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 673701864,
+        "name": "",
+        "cat": "SL",
+        "dist": 37
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3069",
+      "description": null,
+      "geo": {
+        "latitude": 46.58654722222222,
+        "longitude": 7.947438888888889,
+        "elevation_m": 2424.04,
+        "bearing_deg": 268,
+        "captured_at": "2023-12-09T09:47:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365628,
+        "name": "Wixi",
+        "cat": "SB",
+        "dist": 32
+      },
+      "piste": {
+        "name": "Engi",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3070",
+      "description": null,
+      "geo": {
+        "latitude": 46.57503611111112,
+        "longitude": 7.974352777777778,
+        "elevation_m": 2436.16,
+        "bearing_deg": 172,
+        "captured_at": "2023-12-09T08:26:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52329528,
+        "name": "Eigernordwand",
+        "cat": "SB",
+        "dist": 77
+      },
+      "piste": {
+        "name": "26",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 58
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3071",
+      "description": null,
+      "geo": {
+        "latitude": 46.583219444444445,
+        "longitude": 7.974833333333334,
+        "elevation_m": 2025.14,
+        "bearing_deg": 275,
+        "captured_at": "2023-12-09T08:33:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52329528,
+        "name": "Eigernordwand",
+        "cat": "SB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "25",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3072",
+      "description": null,
+      "geo": {
+        "latitude": 46.58907777777778,
+        "longitude": 7.974411111111111,
+        "elevation_m": 1900.43,
+        "bearing_deg": 198,
+        "captured_at": "2023-12-09T08:39:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52329528,
+        "name": "Eigernordwand",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "22",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3073",
+      "description": null,
+      "geo": {
+        "latitude": 46.59053611111111,
+        "longitude": 7.9484972222222225,
+        "elevation_m": 2441.35,
+        "bearing_deg": 85,
+        "captured_at": "2023-12-09T09:55:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365636,
+        "name": "Lauberhorn",
+        "cat": "SB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Engi",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3074",
+      "description": null,
+      "geo": {
+        "latitude": 46.575027777777784,
+        "longitude": 7.974355555555555,
+        "elevation_m": 998,
+        "bearing_deg": 7,
+        "captured_at": "2023-12-09T08:24:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52329528,
+        "name": "Eigernordwand",
+        "cat": "SB",
+        "dist": 77
+      },
+      "piste": {
+        "name": "Black - Rock",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 57
+      },
+      "n": 8
+    }
+  ],
+  "lifts": [
+    {
+      "id": 27365628,
+      "name": "Wixi",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5727687,
+          7.9498236
+        ],
+        [
+          46.5740008,
+          7.9495729
+        ],
+        [
+          46.5753217,
+          7.949304
+        ],
+        [
+          46.5765243,
+          7.9490592
+        ],
+        [
+          46.5777401,
+          7.9488118
+        ],
+        [
+          46.578918,
+          7.948572
+        ],
+        [
+          46.580054,
+          7.9483408
+        ],
+        [
+          46.581004,
+          7.9481474
+        ],
+        [
+          46.5821724,
+          7.9479096
+        ],
+        [
+          46.5834643,
+          7.9476466
+        ],
+        [
+          46.5847441,
+          7.9473861
+        ],
+        [
+          46.5857739,
+          7.9471765
+        ],
+        [
+          46.5862301,
+          7.9470836
+        ],
+        [
+          46.5866466,
+          7.9469988
+        ]
+      ]
+    },
+    {
+      "id": 27365636,
+      "name": "Lauberhorn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5861699,
+          7.9598918
+        ],
+        [
+          46.586334,
+          7.9594933
+        ],
+        [
+          46.5864729,
+          7.9591558
+        ],
+        [
+          46.586739,
+          7.9585093
+        ],
+        [
+          46.5872854,
+          7.9571819
+        ],
+        [
+          46.587695,
+          7.9561871
+        ],
+        [
+          46.5879737,
+          7.9555099
+        ],
+        [
+          46.5885108,
+          7.9542052
+        ],
+        [
+          46.5892633,
+          7.952377
+        ],
+        [
+          46.5900418,
+          7.9504851
+        ],
+        [
+          46.5906329,
+          7.9490077
+        ],
+        [
+          46.5907734,
+          7.9486724
+        ]
+      ]
+    },
+    {
+      "id": 52329528,
+      "name": "Eigernordwand",
+      "cat": "SB",
+      "coords": [
+        [
+          46.590454,
+          7.9743548
+        ],
+        [
+          46.5898324,
+          7.9743398
+        ],
+        [
+          46.5882866,
+          7.9744292
+        ],
+        [
+          46.5874496,
+          7.9744776
+        ],
+        [
+          46.5851842,
+          7.9746086
+        ],
+        [
+          46.5838468,
+          7.974686
+        ],
+        [
+          46.5822355,
+          7.9747791
+        ],
+        [
+          46.580559,
+          7.9748761
+        ],
+        [
+          46.579906,
+          7.9749138
+        ],
+        [
+          46.5792339,
+          7.9749527
+        ],
+        [
+          46.578068,
+          7.9750201
+        ],
+        [
+          46.5768192,
+          7.9750923
+        ],
+        [
+          46.5754214,
+          7.9751857
+        ]
+      ]
+    },
+    {
+      "id": 673701864,
+      "name": "",
+      "cat": "SL",
+      "coords": [
+        [
+          46.5857767,
+          7.9605496
+        ],
+        [
+          46.5860627,
+          7.9601515
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

@@ -1,0 +1,2048 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 33260,
+    "title": "Adelboden Lenk und Engstligen Alp im Sonnenschein",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=33260",
+    "date": "2025-02-01",
+    "post_date": "2025-02-01",
+    "text": "Heute für mich zum ersten Mal seit etwa 20 Jahren (das letzte Mal war ich glaube ich 8) wieder Berner Oberland. Heute ist Adelboden - Lenk dran. Start am Sonnenhang am Betelberg, mit einer perfekt präparierten Sonnenpiste! Da kann auch der Nebel im Tal nichts ausmachen. Von oben sieht man in Richtung Crans Montana und dem etwa 3000 Meter hohen Weisshorn. Und wie ich jetzt gesehen habe gibt es dort sogar eine Seilbahn ! Schade dass man das ganze nicht direkt als Verbindung realisiert hat! Drüben im Adelboden Hausgebiet ist es inzwischen auch richtig voll, sowohl am Lift als auch auf der Piste. Wenn ich jetzt noch ab meine Tage in Frankreich zurück denke, bei denen es teilweise komplett leer war, dann ist das schon etwas ernüchternd. Daher habe ich mich jetzt spontan dazu entschlossen doch noch zur Engstligen Alp per Bus weiter zu fahren. Und das hat sich so richtig gelohnt! Einmalige Landschaft hier oben und super leer, wow! Das hat aus dem Tag ein Highlight gemacht!\n[Image Descriptions: Betelberg Talstation; Unten noch Nebel; Oben Sonne!; Bergstation Betelberg; Blaue Piste zur Mittelstation Stoss; Die rote Talabfahrt Tschuggen führt in den Nebel, unten leider dann die Piste auch sehr eisig.; Wieder oben mit der Sesselbahn; Auch hier die Talabfahrt unten verregnet hart; Nun per kurzer Autofahrt gewechselt auf die Hauptseite zum Metsch Stand Express. Man muss dem Skigebiet zur Gute halten dass die Parkplätze entgegen dem Trend immer noch kostenlos sind und auch um 10 Uhr am Stand Express noch genug zur Verfügung stehen!; Alles voll, hier am Metschstand; Metschstand; Brenggen; Sandiger Boden Blick nach Adelboden; Aebi, hier leider eisige zerfahrene Pisten; Für mich neue direkte Verbindung in den Adelboden Boden Sektor. Ich kenne noch den alten kurzen 2er; Toller Blick von der Bergstation zur Engstligen Alp - Daher die Idee da als nächstes hin!; Under dem Birg, weiter zur Engstligen All; Blick zu den Wasserfällen; Verbindungslift bei dem man überall aus und einsteigen kann - einmaliges flaches Platteau, wirkt fast wie ein zugefrorener See, obwohl es keiner ist; Wow!; Pisten oben am Doppelschlepplift, dem Hauptlift im Gebiet; Pisten fast alle leer und noch gut präpariert! Leider etwas vom Wind verblasen; Wow!; Blick Richtung Süden zum Wildstrubel und co, dahinter Grand Montana - auch hier könnte man eine gute Verbindung bauen!; Piste am kürzeren Schlepplift; Zur Stärkung ein Schweizer Alpkäse, direkt unten an der Talstation verkauft!; Mit dem Bus direkt durchgefahren nach Adelboden Oey; Zurück ins Hauptgebiet mit der Gondel Oey Bergläger; Pisten am Luegli auch zerfahren; Auch die Pisten am Lavey Zerfahren; Richtig schöne Piste nochmal ganz außen am Stand Express am aufgelassenen Guetfleck Schlepplift - schade dass der Lift nicht mehr fährt, gerade das obere Stück wäre toll zum wiederholen, gerade auch wenn die anderen Lifte so voll sind!; Feierabend um 16:30. Leider keine Abfahrt ins Tal, aber zumindest nochmal zur Mittelstation; Zum Abschluss noch eine Wanderung zu den Simmenfällen am Talende von Lenk]"
+  },
+  "center": [
+    46.448946002710024,
+    7.513982249322493
+  ],
+  "placed_count": 41,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53515&mode=view",
+      "description": "Unten noch Nebel",
+      "geo": {
+        "latitude": 46.44486388888888,
+        "longitude": 7.431786111111111,
+        "elevation_m": 1563.43,
+        "bearing_deg": 69,
+        "captured_at": "2025-02-01T08:42:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29376884,
+        "name": "Lenk - Stoss",
+        "cat": "EUB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 62
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53516&mode=view",
+      "description": "Oben Sonne!",
+      "geo": {
+        "latitude": 46.438377777777774,
+        "longitude": 7.425352777777778,
+        "elevation_m": 1751,
+        "bearing_deg": 337,
+        "captured_at": "2025-02-01T08:47:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4380591,
+        "name": "Stoss - Leiterli",
+        "cat": "EUB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "1 - Leiterli Stoss",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53517&mode=view",
+      "description": "Bergstation Betelberg",
+      "geo": {
+        "latitude": 46.42931111111111,
+        "longitude": 7.409244444444445,
+        "elevation_m": 1989.47,
+        "bearing_deg": 359,
+        "captured_at": "2025-02-01T08:56:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4380591,
+        "name": "Stoss - Leiterli",
+        "cat": "EUB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "1 - Leiterli Stoss",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53518&mode=view",
+      "description": "Blaue Piste zur Mittelstation Stoss",
+      "geo": {
+        "latitude": 46.432227777777776,
+        "longitude": 7.415094444444445,
+        "elevation_m": 1906.54,
+        "bearing_deg": 328,
+        "captured_at": "2025-02-01T08:57:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4380591,
+        "name": "Stoss - Leiterli",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "1 - Leiterli Stoss",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53519&mode=view",
+      "description": "PXL_20250201_075840591.jpg (471.67 KiB) 4772 mal betrachtet",
+      "geo": {
+        "latitude": 46.43595833333333,
+        "longitude": 7.421325,
+        "elevation_m": 1834.97,
+        "bearing_deg": 349,
+        "captured_at": "2025-02-01T08:58:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4380591,
+        "name": "Stoss - Leiterli",
+        "cat": "EUB",
+        "dist": 11
+      },
+      "piste": {
+        "name": "1 - Leiterli Stoss",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 46
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53532&mode=view",
+      "description": "Die rote Talabfahrt Tschuggen führt in den Nebel, unten leider dann die Piste auch sehr eisig.",
+      "geo": {
+        "latitude": 46.44768055555555,
+        "longitude": 7.418383333333334,
+        "elevation_m": 1567.35,
+        "bearing_deg": 11,
+        "captured_at": "2025-02-01T09:20:50"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Tschuggen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53533&mode=view",
+      "description": "Wieder oben mit der Sesselbahn",
+      "geo": {
+        "latitude": 46.43969166666666,
+        "longitude": 7.41046388888889,
+        "elevation_m": 1898.17,
+        "bearing_deg": 242,
+        "captured_at": "2025-02-01T09:40:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4380597,
+        "name": "Hasler",
+        "cat": "SL",
+        "dist": 64
+      },
+      "piste": {
+        "name": "Hasler",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53534&mode=view",
+      "description": "Auch hier die Talabfahrt unten verregnet hart",
+      "geo": {
+        "latitude": 46.45308055555556,
+        "longitude": 7.423038888888889,
+        "elevation_m": 1481.51,
+        "bearing_deg": 98,
+        "captured_at": "2025-02-01T09:49:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150786571,
+        "name": "Wallegg",
+        "cat": "SB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "10",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53535&mode=view",
+      "description": "Nun per kurzer Autofahrt gewechselt auf die Hauptseite zum Metsch Stand Express. Man muss dem Skigebiet zur Gute halten dass die Parkplätze entgegen dem Trend immer noch kostenlos sind und auch um 10 Uhr am Stand Express noch genug zur Verfügung stehen!",
+      "geo": {
+        "latitude": 46.444177777777774,
+        "longitude": 7.466266666666667,
+        "elevation_m": 1504.9,
+        "bearing_deg": 106,
+        "captured_at": "2025-02-01T10:11:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 307206289,
+        "name": "Stand-Xpress I",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 72
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53562&mode=view",
+      "description": "PXL_20250201_092018067.jpg (547.6 KiB) 4720 mal betrachtet",
+      "geo": {
+        "latitude": 46.44423333333333,
+        "longitude": 7.493947222222222,
+        "elevation_m": 2151.22,
+        "bearing_deg": 104,
+        "captured_at": "2025-02-01T10:20:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 330910426,
+        "name": "Stand-Xpress II",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "FIS",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53563&mode=view",
+      "description": "Alles voll, hier am Metschstand",
+      "geo": {
+        "latitude": 46.44710277777777,
+        "longitude": 7.4751972222222225,
+        "elevation_m": 1719.36,
+        "bearing_deg": 333,
+        "captured_at": "2025-02-01T10:22:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8402416,
+        "name": "Metschmaad - Metschstand",
+        "cat": "SB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Route 3",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53564&mode=view",
+      "description": "Metschstand",
+      "geo": {
+        "latitude": 46.44463333333333,
+        "longitude": 7.494377777777778,
+        "elevation_m": 2151.75,
+        "bearing_deg": 115,
+        "captured_at": "2025-02-01T10:31:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8402416,
+        "name": "Metschmaad - Metschstand",
+        "cat": "SB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53565&mode=view",
+      "description": "PXL_20250201_095105295.jpg (470.02 KiB) 4720 mal betrachtet",
+      "geo": {
+        "latitude": 46.45579444444445,
+        "longitude": 7.498569444444445,
+        "elevation_m": 1965.39,
+        "bearing_deg": 99,
+        "captured_at": "2025-02-01T10:51:05"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Hahnenmoos - Geils",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53566&mode=view",
+      "description": "Brenggen",
+      "geo": {
+        "latitude": 46.451100000000004,
+        "longitude": 7.4969777777777775,
+        "elevation_m": 2000.93,
+        "bearing_deg": 126,
+        "captured_at": "2025-02-01T10:37:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4388830,
+        "name": "Brenggen",
+        "cat": "SL",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Route 4",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53567&mode=view",
+      "description": "Sandiger Boden Blick nach Adelboden",
+      "geo": {
+        "latitude": 46.46532222222223,
+        "longitude": 7.503547222222222,
+        "elevation_m": 2134.11,
+        "bearing_deg": 336,
+        "captured_at": "2025-02-01T11:10:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 148806184,
+        "name": "Stand",
+        "cat": "SL",
+        "dist": 38
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53568&mode=view",
+      "description": "Aebi, hier leider eisige zerfahrene Pisten",
+      "geo": {
+        "latitude": 46.47516111111111,
+        "longitude": 7.51855,
+        "elevation_m": 1969.53,
+        "bearing_deg": 282,
+        "captured_at": "2025-02-01T11:32:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4389284,
+        "name": "Aebi-Sillerenbühl",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "Sillerenbühl - Aebi",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53605&mode=view",
+      "description": "Für mich neue direkte Verbindung in den Adelboden Boden Sektor. Ich kenne noch den alten kurzen 2er",
+      "geo": {
+        "latitude": 46.467105555555555,
+        "longitude": 7.5292055555555555,
+        "elevation_m": 1656.43,
+        "bearing_deg": 6,
+        "captured_at": "2025-02-01T11:52:22"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53606&mode=view",
+      "description": "Toller Blick von der Bergstation zur Engstligen Alp - Daher die Idee da als nächstes hin!",
+      "geo": {
+        "latitude": 46.46830833333333,
+        "longitude": 7.547577777777778,
+        "elevation_m": 1937.94,
+        "bearing_deg": 85,
+        "captured_at": "2025-02-01T11:58:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 388634786,
+        "name": "Bergläger - Höchsthorn",
+        "cat": "SB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Chuenisbärgli - Bergläger",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53607&mode=view",
+      "description": "PXL_20250201_110251589.jpg (629.36 KiB) 4708 mal betrachtet",
+      "geo": {
+        "latitude": 46.470441666666666,
+        "longitude": 7.546936111111111,
+        "elevation_m": 1864.99,
+        "bearing_deg": 252,
+        "captured_at": "2025-02-01T12:02:51"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Höchst - Chuenis",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53608&mode=view",
+      "description": "Under dem Birg, weiter zur Engstligen All",
+      "geo": {
+        "latitude": 46.459075000000006,
+        "longitude": 7.566472222222222,
+        "elevation_m": 1451.25,
+        "bearing_deg": 291,
+        "captured_at": "2025-02-01T12:43:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127855,
+        "name": "Unter dem Birg-Engstligenalp",
+        "cat": "PB",
+        "dist": 4
+      },
+      "piste": null,
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53634&mode=view",
+      "description": "Blick zu den Wasserfällen",
+      "geo": {
+        "latitude": 46.44942777777777,
+        "longitude": 7.564975,
+        "elevation_m": 2016.42,
+        "bearing_deg": 150,
+        "captured_at": "2025-02-01T12:53:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127855,
+        "name": "Unter dem Birg-Engstligenalp",
+        "cat": "PB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Zurbringerpiste",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53635&mode=view",
+      "description": "Verbindungslift bei dem man überall aus und einsteigen kann - einmaliges flaches Platteau, wirkt fast wie ein zugefrorener See, obwohl es keiner ist",
+      "geo": {
+        "latitude": 46.44908611111111,
+        "longitude": 7.565230555555555,
+        "elevation_m": 2018.4,
+        "bearing_deg": 62,
+        "captured_at": "2025-02-01T12:55:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127856,
+        "name": "",
+        "cat": "SL",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Zurbringerpiste",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53636&mode=view",
+      "description": "Wow!",
+      "geo": {
+        "latitude": 46.44244166666666,
+        "longitude": 7.567522222222222,
+        "elevation_m": 1999.36,
+        "bearing_deg": 93,
+        "captured_at": "2025-02-01T13:00:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127856,
+        "name": "",
+        "cat": "SL",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "nordic",
+        "dist": 18
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53637&mode=view",
+      "description": "Pisten oben am Doppelschlepplift, dem Hauptlift im Gebiet",
+      "geo": {
+        "latitude": 46.43116388888889,
+        "longitude": 7.579919444444444,
+        "elevation_m": 2399.13,
+        "bearing_deg": 29,
+        "captured_at": "2025-02-01T13:19:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332349995,
+        "name": "Dossen 1",
+        "cat": "SL",
+        "dist": 32
+      },
+      "piste": {
+        "name": "Gollet",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53638&mode=view",
+      "description": "PXL_20250201_121935696.jpg (472.7 KiB) 4689 mal betrachtet",
+      "geo": {
+        "latitude": 46.43166111111111,
+        "longitude": 7.5801694444444445,
+        "elevation_m": 2395.75,
+        "bearing_deg": 75,
+        "captured_at": "2025-02-01T13:19:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332349995,
+        "name": "Dossen 1",
+        "cat": "SL",
+        "dist": 85
+      },
+      "piste": {
+        "name": "Gollet",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53639&mode=view",
+      "description": "PXL_20250201_121036386.jpg (428.46 KiB) 4689 mal betrachtet",
+      "geo": {
+        "latitude": 46.430416666666666,
+        "longitude": 7.5797944444444445,
+        "elevation_m": 2398.2,
+        "bearing_deg": 95,
+        "captured_at": "2025-02-01T13:10:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332349995,
+        "name": "Dossen 1",
+        "cat": "SL",
+        "dist": 49
+      },
+      "piste": {
+        "name": "Strubel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53640&mode=view",
+      "description": "Pisten fast alle leer und noch gut präpariert! Leider etwas vom Wind verblasen",
+      "geo": {
+        "latitude": 46.43680277777777,
+        "longitude": 7.580688888888889,
+        "elevation_m": 2331.24,
+        "bearing_deg": 127,
+        "captured_at": "2025-02-01T13:22:21"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Gollet",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53641&mode=view",
+      "description": "Wow!",
+      "geo": {
+        "latitude": 46.43049444444444,
+        "longitude": 7.577522222222222,
+        "elevation_m": 2375.68,
+        "bearing_deg": 88,
+        "captured_at": "2025-02-01T13:10:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332349996,
+        "name": "Dossen 2",
+        "cat": "SL",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Dossen",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53642&mode=view",
+      "description": "PXL_20250201_121202127.jpg (375.82 KiB) 4689 mal betrachtet",
+      "geo": {
+        "latitude": 46.435224999999996,
+        "longitude": 7.570147222222222,
+        "elevation_m": 2126.13,
+        "bearing_deg": 48,
+        "captured_at": "2025-02-01T13:12:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332349996,
+        "name": "Dossen 2",
+        "cat": "SL",
+        "dist": 91
+      },
+      "piste": {
+        "name": "Dossen",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53643&mode=view",
+      "description": "Blick Richtung Süden zum Wildstrubel und co, dahinter Grand Montana - auch hier könnte man eine gute Verbindung bauen!",
+      "geo": {
+        "latitude": 46.442924999999995,
+        "longitude": 7.572977777777777,
+        "elevation_m": 2058.97,
+        "bearing_deg": 68,
+        "captured_at": "2025-02-01T13:47:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127857,
+        "name": "Bockmatti",
+        "cat": "SL",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Globis Rennpiste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 35
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53644&mode=view",
+      "description": "PXL_20250201_124450068.jpg (412.32 KiB) 4689 mal betrachtet",
+      "geo": {
+        "latitude": 46.441269444444444,
+        "longitude": 7.569444444444445,
+        "elevation_m": 2008.21,
+        "bearing_deg": 41,
+        "captured_at": "2025-02-01T13:44:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127857,
+        "name": "Bockmatti",
+        "cat": "SL",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Bockmatti",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53645&mode=view",
+      "description": "Piste am kürzeren Schlepplift",
+      "geo": {
+        "latitude": 46.44362222222222,
+        "longitude": 7.574436111111111,
+        "elevation_m": 2112.95,
+        "bearing_deg": 88,
+        "captured_at": "2025-02-01T13:48:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127857,
+        "name": "Bockmatti",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Globis Rennpiste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53648&mode=view",
+      "description": "Zur Stärkung ein Schweizer Alpkäse, direkt unten an der Talstation verkauft!",
+      "geo": {
+        "latitude": 46.459319444444446,
+        "longitude": 7.566461111111111,
+        "elevation_m": 1451.36,
+        "bearing_deg": 225,
+        "captured_at": "2025-02-01T14:08:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33127855,
+        "name": "Unter dem Birg-Engstligenalp",
+        "cat": "PB",
+        "dist": 17
+      },
+      "piste": null,
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53657&mode=view",
+      "description": "Mit dem Bus direkt durchgefahren nach Adelboden Oey",
+      "geo": {
+        "latitude": 46.48869444444445,
+        "longitude": 7.559911111111111,
+        "elevation_m": 1326.51,
+        "bearing_deg": 59,
+        "captured_at": "2025-02-01T14:27:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 167162763,
+        "name": "Adelboden-Oey",
+        "cat": "PB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 139
+      },
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53658&mode=view",
+      "description": "Zurück ins Hauptgebiet mit der Gondel Oey Bergläger",
+      "geo": {
+        "latitude": 46.48719166666667,
+        "longitude": 7.558683333333333,
+        "elevation_m": 1331.55,
+        "bearing_deg": 69,
+        "captured_at": "2025-02-01T14:31:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29569916,
+        "name": "Oey-Bergläger",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Rehärti - Oey",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 37
+      },
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53660&mode=view",
+      "description": "PXL_20250201_133928833.jpg (378.93 KiB) 4680 mal betrachtet",
+      "geo": {
+        "latitude": 46.47708333333333,
+        "longitude": 7.541630555555556,
+        "elevation_m": 1525.29,
+        "bearing_deg": 62,
+        "captured_at": "2025-02-01T14:39:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29569916,
+        "name": "Oey-Bergläger",
+        "cat": "EUB",
+        "dist": 1
+      },
+      "piste": null,
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53682&mode=view",
+      "description": "Pisten am Luegli auch zerfahren",
+      "geo": {
+        "latitude": 46.44099166666666,
+        "longitude": 7.508086111111111,
+        "elevation_m": 2185.32,
+        "bearing_deg": 0,
+        "captured_at": "2025-02-01T15:08:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4389265,
+        "name": "Geils-Luegli",
+        "cat": "SB",
+        "dist": 32
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53683&mode=view",
+      "description": "Auch die Pisten am Lavey Zerfahren",
+      "geo": {
+        "latitude": 46.46244166666667,
+        "longitude": 7.494511111111112,
+        "elevation_m": 2243.72,
+        "bearing_deg": 74,
+        "captured_at": "2025-02-01T15:42:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4389266,
+        "name": "Geils-Lavey",
+        "cat": "SB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Lavey - Hahnenmoos",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 37
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53684&mode=view",
+      "description": "Richtig schöne Piste nochmal ganz außen am Stand Express am aufgelassenen Guetfleck Schlepplift - schade dass der Lift nicht mehr fährt, gerade das obere Stück wäre toll zum wiederholen, gerade auch wenn die anderen Lifte so voll sind!",
+      "geo": {
+        "latitude": 46.44207222222222,
+        "longitude": 7.497111111111111,
+        "elevation_m": 2124.41,
+        "bearing_deg": 89,
+        "captured_at": "2025-02-01T16:03:57"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 38
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53685&mode=view",
+      "description": "Feierabend um 16:30. Leider keine Abfahrt ins Tal, aber zumindest nochmal zur Mittelstation",
+      "geo": {
+        "latitude": 46.44424722222222,
+        "longitude": 7.4943277777777775,
+        "elevation_m": 2147.03,
+        "bearing_deg": 71,
+        "captured_at": "2025-02-01T16:30:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 330910426,
+        "name": "Stand-Xpress II",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "FIS",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 39
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=53691&mode=view",
+      "description": "Zum Abschluss noch eine Wanderung zu den Simmenfällen am Talende von Lenk",
+      "geo": {
+        "latitude": 46.426561111111106,
+        "longitude": 7.477408333333334,
+        "elevation_m": 1167.71,
+        "bearing_deg": 345,
+        "captured_at": "2025-02-01T17:46:14"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "nordic",
+        "dist": 12
+      },
+      "n": 40
+    }
+  ],
+  "lifts": [
+    {
+      "id": 4380591,
+      "name": "Stoss - Leiterli",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.4404991,
+          7.4289035
+        ],
+        [
+          46.4400638,
+          7.4281642
+        ],
+        [
+          46.4388878,
+          7.4261437
+        ],
+        [
+          46.4377201,
+          7.4241375
+        ],
+        [
+          46.436682,
+          7.422354
+        ],
+        [
+          46.4357924,
+          7.4208256
+        ],
+        [
+          46.434457,
+          7.4185314
+        ],
+        [
+          46.432875,
+          7.4158135
+        ],
+        [
+          46.4317132,
+          7.4138178
+        ],
+        [
+          46.4303363,
+          7.4114525
+        ],
+        [
+          46.4292072,
+          7.4095129
+        ],
+        [
+          46.4288477,
+          7.4088953
+        ]
+      ]
+    },
+    {
+      "id": 4380597,
+      "name": "Hasler",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4410674,
+          7.4087625
+        ],
+        [
+          46.4405807,
+          7.4090462
+        ],
+        [
+          46.4392972,
+          7.4097945
+        ],
+        [
+          46.4383008,
+          7.4103753
+        ],
+        [
+          46.4368312,
+          7.411232
+        ],
+        [
+          46.4355196,
+          7.4119966
+        ],
+        [
+          46.4344819,
+          7.4126015
+        ],
+        [
+          46.4341134,
+          7.4128162
+        ]
+      ]
+    },
+    {
+      "id": 4388830,
+      "name": "Brenggen",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4504378,
+          7.4914609
+        ],
+        [
+          46.4504471,
+          7.4915911
+        ],
+        [
+          46.4505205,
+          7.4926122
+        ],
+        [
+          46.450633,
+          7.4941794
+        ],
+        [
+          46.4507909,
+          7.4963774
+        ],
+        [
+          46.4509055,
+          7.497972
+        ],
+        [
+          46.4509148,
+          7.4981014
+        ],
+        [
+          46.4509518,
+          7.498616
+        ]
+      ]
+    },
+    {
+      "id": 4389265,
+      "name": "Geils-Luegli",
+      "cat": "SB",
+      "coords": [
+        [
+          46.4563565,
+          7.5135033
+        ],
+        [
+          46.4561162,
+          7.5134119
+        ],
+        [
+          46.4547654,
+          7.5128982
+        ],
+        [
+          46.4536608,
+          7.5124781
+        ],
+        [
+          46.4528212,
+          7.5121588
+        ],
+        [
+          46.4511743,
+          7.5115325
+        ],
+        [
+          46.4506838,
+          7.5113459
+        ],
+        [
+          46.4491931,
+          7.510779
+        ],
+        [
+          46.4488443,
+          7.5106464
+        ],
+        [
+          46.448016,
+          7.5103314
+        ],
+        [
+          46.4464941,
+          7.5097527
+        ],
+        [
+          46.4459829,
+          7.5095583
+        ],
+        [
+          46.4455941,
+          7.5094105
+        ],
+        [
+          46.4454507,
+          7.5093559
+        ],
+        [
+          46.4447157,
+          7.5090765
+        ],
+        [
+          46.4431298,
+          7.5084734
+        ],
+        [
+          46.4422444,
+          7.5081368
+        ],
+        [
+          46.4412753,
+          7.5077683
+        ],
+        [
+          46.4411354,
+          7.5077151
+        ],
+        [
+          46.4409263,
+          7.5076356
+        ]
+      ]
+    },
+    {
+      "id": 4389266,
+      "name": "Geils-Lavey",
+      "cat": "SB",
+      "coords": [
+        [
+          46.4574839,
+          7.5137218
+        ],
+        [
+          46.4575452,
+          7.5134895
+        ],
+        [
+          46.4577115,
+          7.51286
+        ],
+        [
+          46.4579752,
+          7.511862
+        ],
+        [
+          46.4583141,
+          7.510579
+        ],
+        [
+          46.4587011,
+          7.5091137
+        ],
+        [
+          46.4590236,
+          7.5078927
+        ],
+        [
+          46.4599807,
+          7.5042692
+        ],
+        [
+          46.4603499,
+          7.5028715
+        ],
+        [
+          46.4608521,
+          7.5009704
+        ],
+        [
+          46.461198,
+          7.4996606
+        ],
+        [
+          46.4615182,
+          7.4984484
+        ],
+        [
+          46.4618586,
+          7.4971596
+        ],
+        [
+          46.4623116,
+          7.4954445
+        ],
+        [
+          46.4623491,
+          7.4953025
+        ],
+        [
+          46.4623852,
+          7.4951659
+        ],
+        [
+          46.4624875,
+          7.4947786
+        ]
+      ]
+    },
+    {
+      "id": 4389284,
+      "name": "Aebi-Sillerenbühl",
+      "cat": "SB",
+      "coords": [
+        [
+          46.4842687,
+          7.5195276
+        ],
+        [
+          46.4840589,
+          7.5194996
+        ],
+        [
+          46.4833203,
+          7.5194294
+        ],
+        [
+          46.482321,
+          7.5193399
+        ],
+        [
+          46.481916,
+          7.5193034
+        ],
+        [
+          46.481041,
+          7.5192128
+        ],
+        [
+          46.4802752,
+          7.51914
+        ],
+        [
+          46.4794154,
+          7.5190583
+        ],
+        [
+          46.4780001,
+          7.5189238
+        ],
+        [
+          46.4773915,
+          7.518866
+        ],
+        [
+          46.4760359,
+          7.5187371
+        ],
+        [
+          46.4747049,
+          7.5186107
+        ],
+        [
+          46.4733165,
+          7.5184787
+        ],
+        [
+          46.4726287,
+          7.5184134
+        ],
+        [
+          46.4725582,
+          7.5184067
+        ],
+        [
+          46.4723023,
+          7.5184051
+        ]
+      ]
+    },
+    {
+      "id": 8402416,
+      "name": "Metschmaad - Metschstand",
+      "cat": "SB",
+      "coords": [
+        [
+          46.4473859,
+          7.4751279
+        ],
+        [
+          46.4471912,
+          7.4764507
+        ],
+        [
+          46.4469872,
+          7.4778361
+        ],
+        [
+          46.446619,
+          7.4803375
+        ],
+        [
+          46.4462685,
+          7.4827185
+        ],
+        [
+          46.4460351,
+          7.484304
+        ],
+        [
+          46.4459407,
+          7.4849451
+        ],
+        [
+          46.4456409,
+          7.4869816
+        ],
+        [
+          46.4454002,
+          7.4886167
+        ],
+        [
+          46.4453132,
+          7.4892076
+        ],
+        [
+          46.4449552,
+          7.4916395
+        ],
+        [
+          46.4447207,
+          7.4932326
+        ],
+        [
+          46.4445339,
+          7.4945015
+        ],
+        [
+          46.4444398,
+          7.4951405
+        ]
+      ]
+    },
+    {
+      "id": 29376884,
+      "name": "Lenk - Stoss",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.4530123,
+          7.4369729
+        ],
+        [
+          46.4526228,
+          7.4367221
+        ],
+        [
+          46.4518828,
+          7.4362449
+        ],
+        [
+          46.4506981,
+          7.4354811
+        ],
+        [
+          46.4488184,
+          7.4342691
+        ],
+        [
+          46.4472763,
+          7.4332749
+        ],
+        [
+          46.4456418,
+          7.4322211
+        ],
+        [
+          46.4440119,
+          7.4311703
+        ],
+        [
+          46.4427138,
+          7.4303334
+        ],
+        [
+          46.4414018,
+          7.4294876
+        ],
+        [
+          46.4404991,
+          7.4289035
+        ]
+      ]
+    },
+    {
+      "id": 29569916,
+      "name": "Oey-Bergläger",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.4878013,
+          7.5601351
+        ],
+        [
+          46.4877022,
+          7.5599292
+        ],
+        [
+          46.4876207,
+          7.5597395
+        ],
+        [
+          46.4868928,
+          7.5580445
+        ],
+        [
+          46.4861236,
+          7.5562533
+        ],
+        [
+          46.4853025,
+          7.5543084
+        ],
+        [
+          46.484645,
+          7.5527669
+        ],
+        [
+          46.4839843,
+          7.5512215
+        ],
+        [
+          46.48309,
+          7.5491136
+        ],
+        [
+          46.4825026,
+          7.547729
+        ],
+        [
+          46.4821338,
+          7.5468416
+        ],
+        [
+          46.4819606,
+          7.5466787
+        ],
+        [
+          46.4819202,
+          7.5466374
+        ],
+        [
+          46.481666,
+          7.5463774
+        ],
+        [
+          46.4808685,
+          7.5456014
+        ],
+        [
+          46.4801516,
+          7.5448539
+        ],
+        [
+          46.4793726,
+          7.5440414
+        ],
+        [
+          46.4787434,
+          7.5433852
+        ],
+        [
+          46.4777132,
+          7.5423106
+        ],
+        [
+          46.4767325,
+          7.5412876
+        ],
+        [
+          46.475605,
+          7.5401115
+        ],
+        [
+          46.4743656,
+          7.5388188
+        ],
+        [
+          46.473115,
+          7.5375143
+        ],
+        [
+          46.4730448,
+          7.5374434
+        ],
+        [
+          46.4723418,
+          7.5367105
+        ],
+        [
+          46.4717147,
+          7.5360566
+        ],
+        [
+          46.4705128,
+          7.5348034
+        ],
+        [
+          46.4694347,
+          7.5336794
+        ],
+        [
+          46.4688248,
+          7.5330436
+        ],
+        [
+          46.4685758,
+          7.5327725
+        ]
+      ]
+    },
+    {
+      "id": 33127855,
+      "name": "Unter dem Birg-Engstligenalp",
+      "cat": "PB",
+      "coords": [
+        [
+          46.4591658,
+          7.5664293
+        ],
+        [
+          46.4508977,
+          7.5653377
+        ],
+        [
+          46.4494571,
+          7.5651476
+        ]
+      ]
+    },
+    {
+      "id": 33127856,
+      "name": "",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4380386,
+          7.5687373
+        ],
+        [
+          46.4451012,
+          7.5667235
+        ],
+        [
+          46.4493627,
+          7.5655083
+        ]
+      ]
+    },
+    {
+      "id": 33127857,
+      "name": "Bockmatti",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4408455,
+          7.568498
+        ],
+        [
+          46.4438683,
+          7.5749703
+        ],
+        [
+          46.4440384,
+          7.5753346
+        ]
+      ]
+    },
+    {
+      "id": 148806184,
+      "name": "Stand",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4707754,
+          7.5073426
+        ],
+        [
+          46.4706891,
+          7.5072734
+        ],
+        [
+          46.4705745,
+          7.5071915
+        ],
+        [
+          46.4698876,
+          7.5066409
+        ],
+        [
+          46.4687998,
+          7.5057689
+        ],
+        [
+          46.4682328,
+          7.5053145
+        ],
+        [
+          46.4676418,
+          7.5048408
+        ],
+        [
+          46.4669567,
+          7.5042916
+        ],
+        [
+          46.466449,
+          7.5038847
+        ],
+        [
+          46.4653635,
+          7.5030146
+        ],
+        [
+          46.4653083,
+          7.5029704
+        ],
+        [
+          46.4652911,
+          7.5029466
+        ],
+        [
+          46.4648615,
+          7.5026023
+        ]
+      ]
+    },
+    {
+      "id": 150786571,
+      "name": "Wallegg",
+      "cat": "SB",
+      "coords": [
+        [
+          46.458363,
+          7.4306763
+        ],
+        [
+          46.457232,
+          7.4289915
+        ],
+        [
+          46.4561945,
+          7.427446
+        ],
+        [
+          46.4553639,
+          7.4262088
+        ],
+        [
+          46.4544966,
+          7.4249169
+        ],
+        [
+          46.453535,
+          7.4234845
+        ],
+        [
+          46.4525766,
+          7.422057
+        ],
+        [
+          46.4518281,
+          7.4209422
+        ],
+        [
+          46.4509486,
+          7.4196322
+        ],
+        [
+          46.4501595,
+          7.4184568
+        ],
+        [
+          46.4494057,
+          7.4173341
+        ],
+        [
+          46.4479445,
+          7.4151578
+        ],
+        [
+          46.4475638,
+          7.4145908
+        ],
+        [
+          46.4474217,
+          7.4143792
+        ],
+        [
+          46.4472775,
+          7.4141644
+        ]
+      ]
+    },
+    {
+      "id": 167162763,
+      "name": "Adelboden-Oey",
+      "cat": "PB",
+      "coords": [
+        [
+          46.4878962,
+          7.5605344
+        ],
+        [
+          46.4880497,
+          7.5603757
+        ],
+        [
+          46.4882627,
+          7.5601554
+        ],
+        [
+          46.4889407,
+          7.5594542
+        ],
+        [
+          46.4896631,
+          7.5587071
+        ],
+        [
+          46.4898315,
+          7.5582208
+        ],
+        [
+          46.4901796,
+          7.5572155
+        ],
+        [
+          46.4903704,
+          7.5566644
+        ]
+      ]
+    },
+    {
+      "id": 307206289,
+      "name": "Stand-Xpress I",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.4420337,
+          7.457057
+        ],
+        [
+          46.4431899,
+          7.4619573
+        ],
+        [
+          46.4438476,
+          7.464776
+        ],
+        [
+          46.4442908,
+          7.4666754
+        ],
+        [
+          46.4443084,
+          7.4667507
+        ],
+        [
+          46.4443925,
+          7.4671113
+        ]
+      ]
+    },
+    {
+      "id": 330910426,
+      "name": "Stand-Xpress II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.4444068,
+          7.4672106
+        ],
+        [
+          46.444401,
+          7.46761
+        ],
+        [
+          46.4443995,
+          7.4677175
+        ],
+        [
+          46.4443798,
+          7.4689704
+        ],
+        [
+          46.4443581,
+          7.4710448
+        ],
+        [
+          46.4443234,
+          7.4741469
+        ],
+        [
+          46.4442997,
+          7.476258
+        ],
+        [
+          46.4442618,
+          7.479644
+        ],
+        [
+          46.4442314,
+          7.4823651
+        ],
+        [
+          46.4441787,
+          7.4870724
+        ],
+        [
+          46.4441525,
+          7.4894126
+        ],
+        [
+          46.4441266,
+          7.4917301
+        ],
+        [
+          46.4440819,
+          7.4939156
+        ],
+        [
+          46.4440795,
+          7.4945279
+        ]
+      ]
+    },
+    {
+      "id": 332349995,
+      "name": "Dossen 1",
+      "cat": "SL",
+      "coords": [
+        [
+          46.4377448,
+          7.5688536
+        ],
+        [
+          46.4318751,
+          7.5757676
+        ],
+        [
+          46.4307392,
+          7.5778783
+        ],
+        [
+          46.4307044,
+          7.5781281
+        ],
+        [
+          46.4308419,
+          7.5796212
+        ],
+        [
+          46.4309179,
+          7.580447
+        ]
+      ]
+    },
+    {
+      "id": 332349996,
+      "name": "Dossen 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.437608,
+          7.5688572
+        ],
+        [
+          46.4318317,
+          7.5757098
+        ],
+        [
+          46.4304827,
+          7.5781487
+        ],
+        [
+          46.4301995,
+          7.5786607
+        ]
+      ]
+    },
+    {
+      "id": 388634786,
+      "name": "Bergläger - Höchsthorn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.468265,
+          7.5333527
+        ],
+        [
+          46.4682667,
+          7.533732
+        ],
+        [
+          46.4682753,
+          7.5356057
+        ],
+        [
+          46.4682821,
+          7.5371013
+        ],
+        [
+          46.4682887,
+          7.5385325
+        ],
+        [
+          46.4682967,
+          7.5402917
+        ],
+        [
+          46.4683071,
+          7.5425726
+        ],
+        [
+          46.4683152,
+          7.5443309
+        ],
+        [
+          46.4683206,
+          7.5455139
+        ],
+        [
+          46.4683257,
+          7.5466315
+        ],
+        [
+          46.4683269,
+          7.546896
+        ],
+        [
+          46.4683288,
+          7.5473114
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 180
+}

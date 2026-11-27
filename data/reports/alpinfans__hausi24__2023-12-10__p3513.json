@@ -1,0 +1,756 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 3513,
+    "title": "Gemischter Skitag mit Schilthorn Aussicht und Freeride Abfahrt",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=3513",
+    "date": "2023-12-10",
+    "post_date": "2023-12-10",
+    "text": "Heute ein ziemlich gemischter Tag. Ich hab in Stechelberg angefangen und wollte direkt zum Schilthorn. Man ließ zwar alle Skifahrer hoch, aber am Ende waren beide Pisten, sowohl von Birg als auch vom Schilthorn gesperrt, offenbar wegen Sicherungsarbeiten. Ich hab die Gelegenheit dann genutzt zum Schilthorn hoch zu fahren und dort die Aussicht und das Museum anzuschauen. Schon ganz schön dort. Dann aber ging es wieder mit der Bahn ins Tal. Das hat auch problemlos mit dem Skipass funktioniert, entgegen dem was auf dem Pass abgedruckt ist. Kann man also auch jedem Fußgänger empfehlen Als.dann oben der Vierersessel doch noch aufgemacht hat bin ich dann doch nochmal hoch und habe dann das Highlight des Tages gehabt, die gesperrte schwarze Abfahrt von Birg nach Mürren, zu der man oben quer zum Hang auf der Inferno Route fahren musste. Dann ging es mir der historischen Bahn plus neuer Luftseilbahn nach Lauterbrunnen und dort dann nochmal hoch bis zur kleinen Scheidegg. Am Nachmittag kann dann am Wixi Sessel sogar noch kurz die Sonne raus! Per Talabfahrt dann mach Wengen und dann mit der Zahnradbahn und dem Bus zurück nach Stechelberg. Eigentlich hätte ich auch gleich auf dem neuen Park and Ride Parkplatz in Matten bei Interlaken parken können, die Bahn ist ja komplett im Skipass dabei. Trotzdem ein schöner Tag mit vielen neuen Eindrücken!"
+  },
+  "center": [
+    46.5712324074074,
+    7.88497824074074
+  ],
+  "placed_count": 12,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3493",
+      "description": "Dateianhänge",
+      "geo": {
+        "latitude": 46.55738611111111,
+        "longitude": 7.834766666666666,
+        "elevation_m": 2996.09,
+        "bearing_deg": 63,
+        "captured_at": "2023-12-10T09:58:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25010926,
+        "name": "Birg - Schilthorn",
+        "cat": "PB",
+        "dist": 47
+      },
+      "piste": {
+        "name": "10",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 65
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3494",
+      "description": null,
+      "geo": {
+        "latitude": 46.571311111111115,
+        "longitude": 7.8640888888888885,
+        "elevation_m": 2491.47,
+        "bearing_deg": 68,
+        "captured_at": "2023-12-10T12:42:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150259405,
+        "name": "Muttleren",
+        "cat": "SB",
+        "dist": 71
+      },
+      "piste": {
+        "name": "Variante Inferno",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3495",
+      "description": null,
+      "geo": {
+        "latitude": 46.55640833333333,
+        "longitude": 7.889222222222222,
+        "elevation_m": 1530.32,
+        "bearing_deg": 118,
+        "captured_at": "2023-12-10T10:43:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 208096176,
+        "name": "Schiltgrat",
+        "cat": "SB",
+        "dist": 20
+      },
+      "piste": {
+        "name": "Finel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3496",
+      "description": null,
+      "geo": {
+        "latitude": 46.55726388888888,
+        "longitude": 7.835036111111111,
+        "elevation_m": 3000.19,
+        "bearing_deg": 298,
+        "captured_at": "2023-12-10T09:40:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25010926,
+        "name": "Birg - Schilthorn",
+        "cat": "PB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "10",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 47
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3497",
+      "description": null,
+      "geo": {
+        "latitude": 46.57000277777778,
+        "longitude": 7.8627361111111105,
+        "elevation_m": 2439.52,
+        "bearing_deg": 53,
+        "captured_at": "2023-12-10T12:38:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150258430,
+        "name": "Riggli",
+        "cat": "SB",
+        "dist": 101
+      },
+      "piste": {
+        "name": "8",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3498",
+      "description": null,
+      "geo": {
+        "latitude": 46.58273611111112,
+        "longitude": 7.948930555555556,
+        "elevation_m": 2279.15,
+        "bearing_deg": 108,
+        "captured_at": "2023-12-10T15:40:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365628,
+        "name": "Wixi",
+        "cat": "SB",
+        "dist": 86
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3499",
+      "description": null,
+      "geo": {
+        "latitude": 46.571133333333336,
+        "longitude": 7.867069444444445,
+        "elevation_m": 2375,
+        "bearing_deg": 153,
+        "captured_at": "2023-12-10T12:43:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150259832,
+        "name": "Kandahar",
+        "cat": "SB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "15",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3500",
+      "description": null,
+      "geo": {
+        "latitude": 46.605075,
+        "longitude": 7.921627777777778,
+        "elevation_m": 1330.4,
+        "bearing_deg": 46,
+        "captured_at": "2023-12-10T16:21:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25075912,
+        "name": "Wengen LWM",
+        "cat": "PB",
+        "dist": 131
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 109
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3501",
+      "description": null,
+      "geo": {
+        "latitude": 46.56189166666666,
+        "longitude": 7.857558333333333,
+        "elevation_m": 2665.29,
+        "bearing_deg": 150,
+        "captured_at": "2023-12-10T12:20:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25010926,
+        "name": "Birg - Schilthorn",
+        "cat": "PB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "11",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3502",
+      "description": null,
+      "geo": {
+        "latitude": 46.56131111111111,
+        "longitude": 7.894661111111111,
+        "elevation_m": 1705.8,
+        "bearing_deg": 82,
+        "captured_at": "2023-12-10T11:11:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1132968019,
+        "name": "",
+        "cat": "SL",
+        "dist": 48
+      },
+      "piste": {
+        "name": "Palace-Run",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 93
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3503",
+      "description": null,
+      "geo": {
+        "latitude": 46.5784,
+        "longitude": 7.948675000000001,
+        "elevation_m": 2057.17,
+        "bearing_deg": 121,
+        "captured_at": "2023-12-10T15:35:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27365628,
+        "name": "Wixi",
+        "cat": "SB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Engi",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=3505",
+      "description": null,
+      "geo": {
+        "latitude": 46.58186944444445,
+        "longitude": 7.895366666666666,
+        "elevation_m": 1573.04,
+        "bearing_deg": 76,
+        "captured_at": "2023-12-10T13:04:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150270143,
+        "name": "Winteregg",
+        "cat": "SB",
+        "dist": 50
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 11
+    }
+  ],
+  "lifts": [
+    {
+      "id": 25010926,
+      "name": "Birg - Schilthorn",
+      "cat": "PB",
+      "coords": [
+        [
+          46.5617604,
+          7.8572772
+        ],
+        [
+          46.5574298,
+          7.8357722
+        ],
+        [
+          46.5573596,
+          7.8353781
+        ]
+      ]
+    },
+    {
+      "id": 25075912,
+      "name": "Wengen LWM",
+      "cat": "PB",
+      "coords": [
+        [
+          46.6062521,
+          7.9214951
+        ],
+        [
+          46.6118203,
+          7.937165
+        ],
+        [
+          46.6131638,
+          7.9409459
+        ]
+      ]
+    },
+    {
+      "id": 27365628,
+      "name": "Wixi",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5727687,
+          7.9498236
+        ],
+        [
+          46.5740008,
+          7.9495729
+        ],
+        [
+          46.5753217,
+          7.949304
+        ],
+        [
+          46.5765243,
+          7.9490592
+        ],
+        [
+          46.5777401,
+          7.9488118
+        ],
+        [
+          46.578918,
+          7.948572
+        ],
+        [
+          46.580054,
+          7.9483408
+        ],
+        [
+          46.581004,
+          7.9481474
+        ],
+        [
+          46.5821724,
+          7.9479096
+        ],
+        [
+          46.5834643,
+          7.9476466
+        ],
+        [
+          46.5847441,
+          7.9473861
+        ],
+        [
+          46.5857739,
+          7.9471765
+        ],
+        [
+          46.5862301,
+          7.9470836
+        ],
+        [
+          46.5866466,
+          7.9469988
+        ]
+      ]
+    },
+    {
+      "id": 150258430,
+      "name": "Riggli",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5692233,
+          7.8634169
+        ],
+        [
+          46.5690425,
+          7.8632574
+        ],
+        [
+          46.5689355,
+          7.863163
+        ],
+        [
+          46.568089,
+          7.8624161
+        ],
+        [
+          46.5675674,
+          7.8619559
+        ],
+        [
+          46.5665624,
+          7.8610692
+        ],
+        [
+          46.5660909,
+          7.8606532
+        ],
+        [
+          46.5649096,
+          7.859611
+        ],
+        [
+          46.5636542,
+          7.8585035
+        ],
+        [
+          46.5622706,
+          7.8572828
+        ],
+        [
+          46.5621554,
+          7.8571812
+        ],
+        [
+          46.5619076,
+          7.8569626
+        ]
+      ]
+    },
+    {
+      "id": 150259405,
+      "name": "Muttleren",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5670993,
+          7.8687858
+        ],
+        [
+          46.5671867,
+          7.8686949
+        ],
+        [
+          46.5673796,
+          7.868483
+        ],
+        [
+          46.5685621,
+          7.8672899
+        ],
+        [
+          46.5693514,
+          7.8664936
+        ],
+        [
+          46.5701462,
+          7.8656916
+        ],
+        [
+          46.5706609,
+          7.8651722
+        ],
+        [
+          46.5707503,
+          7.8650821
+        ],
+        [
+          46.5709224,
+          7.8649084
+        ],
+        [
+          46.5709662,
+          7.8648642
+        ]
+      ]
+    },
+    {
+      "id": 150259832,
+      "name": "Kandahar",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5689203,
+          7.8771069
+        ],
+        [
+          46.569153,
+          7.8757485
+        ],
+        [
+          46.5693857,
+          7.87439
+        ],
+        [
+          46.5694583,
+          7.8739663
+        ],
+        [
+          46.5695221,
+          7.8735939
+        ],
+        [
+          46.5696167,
+          7.8730414
+        ],
+        [
+          46.5698042,
+          7.8719471
+        ],
+        [
+          46.5700166,
+          7.8707075
+        ],
+        [
+          46.5702243,
+          7.8694946
+        ],
+        [
+          46.5705502,
+          7.8675923
+        ],
+        [
+          46.5706983,
+          7.8667274
+        ],
+        [
+          46.5709004,
+          7.8655479
+        ],
+        [
+          46.5709941,
+          7.865001
+        ],
+        [
+          46.5710081,
+          7.8649236
+        ]
+      ]
+    },
+    {
+      "id": 150270143,
+      "name": "Winteregg",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5815,
+          7.8957272
+        ],
+        [
+          46.5814161,
+          7.8956647
+        ],
+        [
+          46.5804662,
+          7.8949586
+        ],
+        [
+          46.5790192,
+          7.8938827
+        ],
+        [
+          46.5779346,
+          7.8930765
+        ],
+        [
+          46.5770311,
+          7.8924048
+        ],
+        [
+          46.5761604,
+          7.8917575
+        ],
+        [
+          46.5757855,
+          7.8914788
+        ],
+        [
+          46.5747848,
+          7.8907348
+        ],
+        [
+          46.5746442,
+          7.8906303
+        ],
+        [
+          46.5735719,
+          7.8898332
+        ],
+        [
+          46.5721097,
+          7.8887463
+        ],
+        [
+          46.5710676,
+          7.8879717
+        ],
+        [
+          46.5708852,
+          7.8878361
+        ],
+        [
+          46.5707924,
+          7.8877671
+        ]
+      ]
+    },
+    {
+      "id": 208096176,
+      "name": "Schiltgrat",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5565212,
+          7.8905065
+        ],
+        [
+          46.5565399,
+          7.8901669
+        ],
+        [
+          46.5565563,
+          7.8898439
+        ],
+        [
+          46.5566528,
+          7.8881836
+        ],
+        [
+          46.5567635,
+          7.8862096
+        ],
+        [
+          46.5568746,
+          7.8841202
+        ],
+        [
+          46.5569646,
+          7.8826147
+        ],
+        [
+          46.5570094,
+          7.8816175
+        ],
+        [
+          46.5570512,
+          7.880896
+        ],
+        [
+          46.5571363,
+          7.8794266
+        ],
+        [
+          46.557153,
+          7.8790541
+        ],
+        [
+          46.5572859,
+          7.8766447
+        ],
+        [
+          46.5573941,
+          7.8747883
+        ],
+        [
+          46.5575182,
+          7.8724342
+        ],
+        [
+          46.5575399,
+          7.8720405
+        ]
+      ]
+    },
+    {
+      "id": 1132968019,
+      "name": "",
+      "cat": "SL",
+      "coords": [
+        [
+          46.5613798,
+          7.8940419
+        ],
+        [
+          46.5616325,
+          7.8937051
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 90
+}

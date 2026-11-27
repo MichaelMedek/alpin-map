@@ -1,0 +1,1058 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 9558,
+    "title": "Les 2 Alpes Genialer Gletschertag mit super Carving Pisten",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=9558",
+    "date": "2024-01-21",
+    "post_date": "2024-01-22",
+    "text": "Am Wochenende war ich auf einem kurzen Frankreich Roadtrip mit Alpe d'Huez am Samstag und Les 2 Alpes am Sonntag. Beide Skigebiete waren für mich neu und standen weit oben auf meiner ToDo Liste. Es war in beiden Gebieten mega nice und auch vom Wetter und Schnee waren es zwei geniale Skitage! Es ging morgens direkt mit dem Jandri Express hoch zum Gletscher. Als dann langsam alle anderen hoch kamen ging es antizyklisch wieder runter ins gegenüberliegende Valle Blanche. Direkt im Ort am Jandri Express kostenlos parken. Wow! Gletscher am Morgen Gletscher am Morgen Zweite Sektion Jandri Express mit super schönen Carving Pisten! Die neue 3S Bahn ist schon fast fertig! Den Signal 4er Sessel gibt es wieder, mit toller Abfahrt Neue Kombibahn Belle Etoile Die blaue Piste Jandri in den Ort hinunter ist hoffnungslos überfüllt und eisig! Da tun mir die Anfänger sehr leid, die denken sie fahren eine blaue Piste! Die schwarze Piste Valentin war aber super gut und sehr griffig, die bin ich danach dann immer gefahren. Die recht neue Super Venosc Gondel auf der anderen Talseite, leider fast komplett leer die Gondel. Ich hoffe die wirt nicht wieder abgebaut. Es gibt ja jetzt schon eine neue grüne Piste da hin, ich denke da müsste man nochmal investieren und einige grüne Pisten bauen, und die andere Seite zum top Anfänger Berg in der Sonnen und abgelegen vom Trubel umzubauen! Neue Kombibahn Valle Blanche Als in der Mittagspause wieder kaum etwas los war ging es erneut hoch zum Gletscher, dieses mal aber auch mit allen anderen schönen modernen Seilbahnen und leeren Pisten auf der Hauptseite des Orts. Der Blick vom Dome de la Lauze war wirklich einmalig schön! Schade dass man in Richtung des noch höheren la Gave nicht mehr weiter kommt, dort sah es mit den Felsgipfeln einmalig schön aus! Die rote Abfahrt Vallons du Diable ist leider nicht präpariert. Schade, denn das wäre eine perfekte Piste recht abgelegen zum runter heizen mit schneller Kombibahn zum Piste wiederholen. Schöne schwarze Buckelpiste vom Fee zur Pierre Grosse Gondelbahn Wow! Nur der Zermatter Gletscher ist schöner finde ich. Da kann Österreich nicht mithalten! Tunnelbahn Wow! Blick vom Dome de la Lauze nach la Grave! Wo ist der Verbingslift zum Dome de la Lauze Lift hin? Man musste leider in beide Richtungen Langlauf machen. Eine Idee wäre doch, die Tunnelbahn zu verlängern. Von der jetzigen Bergstation ein nächster Halt am Dome de la Lauze und dann der nächste Halt recht weit oben bei la Grave und dann noch eine Sektion zur Bergstation der La Grave Gondel. Das wäre mal eine wahre hochalpine U-Bahn und ein Traum für Sommertouristen! Abends noch zum Toura Sessel und Funpark Nochmal eine Challange am Bellecombe Sessel und der schwarzen Buckelpiste, die schön steil ist! Super schöner Tagesauslklang am Cretes Sessel, der bis 17:00 Uhr fährt und dabei voll noch in der Sonne ist!"
+  },
+  "center": [
+    45.00204151234568,
+    6.181397839506173
+  ],
+  "placed_count": 18,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12159",
+      "description": "Gletscher am Morgen",
+      "geo": {
+        "latitude": 44.99706388888889,
+        "longitude": 6.215661111111111,
+        "elevation_m": 3423.51,
+        "bearing_deg": 357,
+        "captured_at": "2024-01-21T09:43:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 44607340,
+        "name": "Puy Salié 2",
+        "cat": "SL",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Jandri 5",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12160",
+      "description": "Gletscher am Morgen",
+      "geo": {
+        "latitude": 44.99751111111111,
+        "longitude": 6.221733333333334,
+        "elevation_m": 3473.39,
+        "bearing_deg": 172,
+        "captured_at": "2024-01-21T09:50:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 306822077,
+        "name": "Dôme Nord",
+        "cat": "SL",
+        "dist": 23
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12161",
+      "description": "Zweite Sektion Jandri Express mit super schönen Carving Pisten!",
+      "geo": {
+        "latitude": 44.99431111111111,
+        "longitude": 6.1934861111111115,
+        "elevation_m": 2782.2,
+        "bearing_deg": 345,
+        "captured_at": "2024-01-21T10:09:04"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Mura",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12162",
+      "description": "Die neue 3S Bahn ist schon fast fertig!",
+      "geo": {
+        "latitude": 44.99296944444445,
+        "longitude": 6.183286111111111,
+        "elevation_m": 2624.19,
+        "bearing_deg": 230,
+        "captured_at": "2024-01-21T10:10:17"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Glacier 4",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12163",
+      "description": "Den Signal 4er Sessel gibt es wieder, mit toller Abfahrt",
+      "geo": {
+        "latitude": 45.010675,
+        "longitude": 6.209563888888889,
+        "elevation_m": 2887.88,
+        "bearing_deg": 122,
+        "captured_at": "2024-01-21T10:52:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23425065,
+        "name": "Signal",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Signal",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12164",
+      "description": "Neue Kombibahn Belle Etoile",
+      "geo": {
+        "latitude": 45.008741666666666,
+        "longitude": 6.144861111111111,
+        "elevation_m": 2244.79,
+        "bearing_deg": 222,
+        "captured_at": "2024-01-21T12:00:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23425412,
+        "name": "Thuit Crêtes",
+        "cat": "SB",
+        "dist": 61
+      },
+      "piste": {
+        "name": "",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 16
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12165",
+      "description": "Die blaue Piste Jandri in den Ort hinunter ist hoffnungslos überfüllt und eisig! Da tun mir die Anfänger sehr leid, die denken sie fahren eine blaue Piste! Die schwarze Piste Valentin war aber super gut und sehr griffig, die bin ich danach dann immer gefahren.",
+      "geo": {
+        "latitude": 45.00776388888889,
+        "longitude": 6.139436111111111,
+        "elevation_m": 2167.61,
+        "bearing_deg": 80,
+        "captured_at": "2024-01-21T12:02:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1229057878,
+        "name": "Jandri I",
+        "cat": "EUB",
+        "dist": 144
+      },
+      "piste": {
+        "name": "Jandri 1",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12166",
+      "description": "Die recht neue Super Venosc Gondel auf der anderen Talseite, leider fast komplett leer die Gondel. Ich hoffe die wirt nicht wieder abgebaut. Es gibt ja jetzt schon eine neue grüne Piste da hin, ich denke da müsste man nochmal investieren und einige grüne Pisten bauen, und die andere Seite zum top Anfänger Berg in der Sonnen und abgelegen vom Trubel umzubauen!",
+      "geo": {
+        "latitude": 45.00834444444445,
+        "longitude": 6.105391666666666,
+        "elevation_m": 1709.3,
+        "bearing_deg": 22,
+        "captured_at": "2024-01-21T12:39:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 930510569,
+        "name": "Super Venosc",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Vallée Blanche",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12167",
+      "description": "Neue Kombibahn Valle Blanche",
+      "geo": {
+        "latitude": 45.004469444444446,
+        "longitude": 6.149166666666667,
+        "elevation_m": 2155.03,
+        "bearing_deg": 333,
+        "captured_at": "2024-01-21T12:28:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1229057878,
+        "name": "Jandri I",
+        "cat": "EUB",
+        "dist": 72
+      },
+      "piste": {
+        "name": "Jandri 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12168",
+      "description": "Die rote Abfahrt Vallons du Diable ist leider nicht präpariert. Schade, denn das wäre eine perfekte Piste recht abgelegen zum runter heizen mit schneller Kombibahn zum Piste wiederholen.",
+      "geo": {
+        "latitude": 45.00958333333333,
+        "longitude": 6.125086111111111,
+        "elevation_m": 1708,
+        "bearing_deg": 4,
+        "captured_at": "2024-01-21T13:42:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1348957622,
+        "name": "ESF",
+        "cat": "SL",
+        "dist": 99
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 113
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12169",
+      "description": "Schöne schwarze Buckelpiste vom Fee zur Pierre Grosse Gondelbahn",
+      "geo": {
+        "latitude": 45.00454444444444,
+        "longitude": 6.166833333333334,
+        "elevation_m": 2683.5,
+        "bearing_deg": 336,
+        "captured_at": "2024-01-21T14:19:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 148482936,
+        "name": "Sautet",
+        "cat": "SB",
+        "dist": 41
+      },
+      "piste": {
+        "name": "Sautet",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12170",
+      "description": "Wow! Nur der Zermatter Gletscher ist schöner finde ich. Da kann Österreich nicht mithalten!",
+      "geo": {
+        "latitude": 45.00074166666667,
+        "longitude": 6.200261111111112,
+        "elevation_m": 2683.5,
+        "bearing_deg": 18,
+        "captured_at": "2024-01-21T14:39:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 729373657,
+        "name": "Pierre Grosse",
+        "cat": "EUB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 1
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12171",
+      "description": "Tunnelbahn",
+      "geo": {
+        "latitude": 45.00074166666667,
+        "longitude": 6.200261111111112,
+        "elevation_m": 2683.5,
+        "bearing_deg": 66,
+        "captured_at": "2024-01-21T14:41:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 729373657,
+        "name": "Pierre Grosse",
+        "cat": "EUB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 1
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12172",
+      "description": "Wow! Blick vom Dome de la Lauze nach la Grave!",
+      "geo": {
+        "latitude": 44.99891944444445,
+        "longitude": 6.236069444444444,
+        "elevation_m": 3550.87,
+        "bearing_deg": 1,
+        "captured_at": "2024-01-21T15:02:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30483272,
+        "name": "Lauze",
+        "cat": "SL",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12173",
+      "description": "Wo ist der Verbingslift zum Dome de la Lauze Lift hin? Man musste leider in beide Richtungen Langlauf machen.",
+      "geo": {
+        "latitude": 44.99851666666667,
+        "longitude": 6.236,
+        "elevation_m": 3547.24,
+        "bearing_deg": 210,
+        "captured_at": "2024-01-21T15:05:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30483272,
+        "name": "Lauze",
+        "cat": "SL",
+        "dist": 43
+      },
+      "piste": {
+        "name": "Lauze 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12174",
+      "description": "Eine Idee wäre doch, die Tunnelbahn zu verlängern. Von der jetzigen Bergstation ein nächster Halt am Dome de la Lauze und dann der nächste Halt recht weit oben bei la Grave und dann noch eine Sektion zur Bergstation der La Grave Gondel. Das wäre mal eine wahre hochalpine U-Bahn und ein Traum für Sommertouristen!",
+      "geo": {
+        "latitude": 44.99930833333333,
+        "longitude": 6.233155555555555,
+        "elevation_m": 3556.75,
+        "bearing_deg": 5,
+        "captured_at": "2024-01-21T15:09:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30483272,
+        "name": "Lauze",
+        "cat": "SL",
+        "dist": 4
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12156",
+      "description": "Nochmal eine Challange am Bellecombe Sessel und der schwarzen Buckelpiste, die schön steil ist!",
+      "geo": {
+        "latitude": 44.99686111111111,
+        "longitude": 6.159694444444445,
+        "elevation_m": 2592,
+        "bearing_deg": 13,
+        "captured_at": "2024-01-21T16:30:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23425340,
+        "name": "Bellecombe",
+        "cat": "SB",
+        "dist": 47
+      },
+      "piste": {
+        "name": "Bellecombe 5",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12157",
+      "description": "Super schöner Tagesauslklang am Cretes Sessel, der bis 17:00 Uhr fährt und dabei voll noch in der Sonne ist!",
+      "geo": {
+        "latitude": 45.00568055555556,
+        "longitude": 6.14521388888889,
+        "elevation_m": 2460.19,
+        "bearing_deg": 138,
+        "captured_at": "2024-01-21T17:09:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1229057878,
+        "name": "Jandri I",
+        "cat": "EUB",
+        "dist": 89
+      },
+      "piste": {
+        "name": "Crêtes",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 17
+    }
+  ],
+  "lifts": [
+    {
+      "id": 23425065,
+      "name": "Signal",
+      "cat": "SB",
+      "coords": [
+        [
+          45.0105426,
+          6.2094279
+        ],
+        [
+          45.010435,
+          6.209312
+        ],
+        [
+          45.0099623,
+          6.2088029
+        ],
+        [
+          45.0088281,
+          6.2075814
+        ],
+        [
+          45.0079217,
+          6.2066052
+        ],
+        [
+          45.0077767,
+          6.2064491
+        ],
+        [
+          45.0064735,
+          6.2050455
+        ],
+        [
+          45.006053,
+          6.2045927
+        ],
+        [
+          45.0054666,
+          6.2039612
+        ],
+        [
+          45.0051956,
+          6.2036693
+        ],
+        [
+          45.0039799,
+          6.2023601
+        ],
+        [
+          45.003006,
+          6.2013114
+        ],
+        [
+          45.0025342,
+          6.2008033
+        ],
+        [
+          45.0023316,
+          6.200585
+        ],
+        [
+          45.0021423,
+          6.2003812
+        ],
+        [
+          45.0019775,
+          6.2002037
+        ]
+      ]
+    },
+    {
+      "id": 23425340,
+      "name": "Bellecombe",
+      "cat": "SB",
+      "coords": [
+        [
+          45.0023958,
+          6.1584111
+        ],
+        [
+          45.0022461,
+          6.1584626
+        ],
+        [
+          45.0015536,
+          6.1587007
+        ],
+        [
+          45.0007733,
+          6.158969
+        ],
+        [
+          44.9996517,
+          6.1593547
+        ],
+        [
+          44.9992054,
+          6.1595081
+        ],
+        [
+          44.9973343,
+          6.1601515
+        ],
+        [
+          44.9970096,
+          6.1602631
+        ],
+        [
+          44.9967896,
+          6.1603388
+        ],
+        [
+          44.9957514,
+          6.1606957
+        ],
+        [
+          44.9948344,
+          6.161011
+        ],
+        [
+          44.9943746,
+          6.1611691
+        ],
+        [
+          44.9926877,
+          6.1617491
+        ],
+        [
+          44.9924186,
+          6.1618416
+        ],
+        [
+          44.9923368,
+          6.1618697
+        ],
+        [
+          44.9922123,
+          6.1619125
+        ]
+      ]
+    },
+    {
+      "id": 23425412,
+      "name": "Thuit Crêtes",
+      "cat": "SB",
+      "coords": [
+        [
+          45.0112006,
+          6.1516491
+        ],
+        [
+          45.0111556,
+          6.1515272
+        ],
+        [
+          45.0111305,
+          6.1514591
+        ],
+        [
+          45.010635,
+          6.1501158
+        ],
+        [
+          45.0104808,
+          6.1496978
+        ],
+        [
+          45.0102746,
+          6.1491388
+        ],
+        [
+          45.0096641,
+          6.1474837
+        ],
+        [
+          45.0093447,
+          6.1466179
+        ],
+        [
+          45.0090761,
+          6.1458895
+        ],
+        [
+          45.009046,
+          6.145808
+        ],
+        [
+          45.0089581,
+          6.1455787
+        ]
+      ]
+    },
+    {
+      "id": 30483272,
+      "name": "Lauze",
+      "cat": "SL",
+      "coords": [
+        [
+          45.0000695,
+          6.2283991
+        ],
+        [
+          44.9999945,
+          6.2288907
+        ],
+        [
+          44.9998516,
+          6.2298268
+        ],
+        [
+          44.9996968,
+          6.2308403
+        ],
+        [
+          44.9995614,
+          6.231727
+        ],
+        [
+          44.9994017,
+          6.2327735
+        ],
+        [
+          44.9991989,
+          6.2341012
+        ],
+        [
+          44.9989862,
+          6.2354947
+        ],
+        [
+          44.9988565,
+          6.2363442
+        ],
+        [
+          44.9987447,
+          6.2370761
+        ]
+      ]
+    },
+    {
+      "id": 44607340,
+      "name": "Puy Salié 2",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9968177,
+          6.2054567
+        ],
+        [
+          44.9968286,
+          6.2057412
+        ],
+        [
+          44.9968596,
+          6.2070757
+        ],
+        [
+          44.9968917,
+          6.208453
+        ],
+        [
+          44.9969235,
+          6.209821
+        ],
+        [
+          44.9969593,
+          6.2113606
+        ],
+        [
+          44.9969995,
+          6.2130879
+        ],
+        [
+          44.9970354,
+          6.2146329
+        ],
+        [
+          44.9970635,
+          6.21584
+        ],
+        [
+          44.997099,
+          6.2173664
+        ],
+        [
+          44.9971402,
+          6.2191391
+        ],
+        [
+          44.9971773,
+          6.2207322
+        ],
+        [
+          44.9972035,
+          6.2218584
+        ],
+        [
+          44.9972108,
+          6.2221721
+        ],
+        [
+          44.9972277,
+          6.222902
+        ],
+        [
+          44.9972676,
+          6.2245948
+        ]
+      ]
+    },
+    {
+      "id": 148482936,
+      "name": "Sautet",
+      "cat": "SB",
+      "coords": [
+        [
+          45.000235,
+          6.1673983
+        ],
+        [
+          45.0009304,
+          6.1672858
+        ],
+        [
+          45.0014231,
+          6.1672063
+        ],
+        [
+          45.0024187,
+          6.1670455
+        ],
+        [
+          45.0032729,
+          6.1669076
+        ],
+        [
+          45.0038863,
+          6.1668085
+        ],
+        [
+          45.0040391,
+          6.1667839
+        ],
+        [
+          45.0041831,
+          6.1667606
+        ]
+      ]
+    },
+    {
+      "id": 306822077,
+      "name": "Dôme Nord",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9974962,
+          6.2096085
+        ],
+        [
+          44.9975162,
+          6.210715
+        ],
+        [
+          44.9975459,
+          6.2123671
+        ],
+        [
+          44.9975606,
+          6.2131798
+        ],
+        [
+          44.997585,
+          6.2145323
+        ],
+        [
+          44.9976042,
+          6.2155979
+        ],
+        [
+          44.9976333,
+          6.2172102
+        ],
+        [
+          44.9976763,
+          6.2195968
+        ],
+        [
+          44.9976984,
+          6.2208229
+        ],
+        [
+          44.99771,
+          6.2214684
+        ],
+        [
+          44.9977204,
+          6.2220447
+        ]
+      ]
+    },
+    {
+      "id": 729373657,
+      "name": "Pierre Grosse",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0141472,
+          6.1746677
+        ],
+        [
+          45.0138215,
+          6.17529
+        ],
+        [
+          45.0126504,
+          6.1775271
+        ],
+        [
+          45.0116904,
+          6.179361
+        ],
+        [
+          45.0103132,
+          6.1819917
+        ],
+        [
+          45.0091228,
+          6.1842657
+        ],
+        [
+          45.0083312,
+          6.1857778
+        ],
+        [
+          45.0081179,
+          6.1861852
+        ],
+        [
+          45.0070555,
+          6.1882145
+        ],
+        [
+          45.0055799,
+          6.1910332
+        ],
+        [
+          45.0046392,
+          6.1928299
+        ],
+        [
+          45.0041523,
+          6.19376
+        ],
+        [
+          45.0034063,
+          6.1951849
+        ],
+        [
+          45.0028582,
+          6.1962318
+        ],
+        [
+          45.0019488,
+          6.1979685
+        ],
+        [
+          45.0009962,
+          6.1997881
+        ],
+        [
+          45.000844,
+          6.2000787
+        ]
+      ]
+    },
+    {
+      "id": 930510569,
+      "name": "Super Venosc",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0063408,
+          6.1193923
+        ],
+        [
+          45.0063972,
+          6.1190474
+        ],
+        [
+          45.0064782,
+          6.1184799
+        ],
+        [
+          45.0067303,
+          6.1167126
+        ],
+        [
+          45.0070517,
+          6.1144592
+        ],
+        [
+          45.0075188,
+          6.1111845
+        ],
+        [
+          45.0078183,
+          6.1090855
+        ],
+        [
+          45.0078978,
+          6.1085277
+        ],
+        [
+          45.0082513,
+          6.1060501
+        ],
+        [
+          45.0083178,
+          6.1055619
+        ]
+      ]
+    },
+    {
+      "id": 1229057878,
+      "name": "Jandri I",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0098494,
+          6.1264823
+        ],
+        [
+          45.0096937,
+          6.1270636
+        ],
+        [
+          45.0069922,
+          6.1371493
+        ],
+        [
+          45.0047352,
+          6.1455542
+        ],
+        [
+          45.0023241,
+          6.1546204
+        ],
+        [
+          44.9987183,
+          6.1680556
+        ],
+        [
+          44.9978315,
+          6.1713933
+        ],
+        [
+          44.9976312,
+          6.1721473
+        ]
+      ]
+    },
+    {
+      "id": 1348957622,
+      "name": "ESF",
+      "cat": "SL",
+      "coords": [
+        [
+          45.0091845,
+          6.1262063
+        ],
+        [
+          45.0090915,
+          6.1271722
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

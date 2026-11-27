@@ -1,0 +1,1649 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 59169,
+    "title": "Portes du Soleil: Skitag in Morzine und Les Gets",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=59169",
+    "date": "2026-03-29",
+    "post_date": "2026-03-29",
+    "text": "Portes du Soleil, 29.03.2026 Heute zweiter Tag Chatel, Plan ist aber heute Morzine und Les Gets sowie Mont Cherry, den ich letztes Mal auslassen musste. Wetter soll im Tagesverlauf besser werden, es hat sogar leicht geschneit über Nacht. Pisten super gut zum Morgen und Sicht auch schon gut!\n[Image Descriptions: Stellenweise schon blauer Himmel! Schnee ist super gut präpariert!; Oben ist es recht windig, hoffen wir dass der Sessel nicht abstürzt. In Richtung Morzine sieht das Wetter besser aus, das passt gut in die heutige Planung!; Richtig schöne Wald Abfahrtrn bei der aktuellen Sicht am Pre la Joux; In Avoriaz wird's langsam sonniger!; Auf dem Weg nach Morzine, inzwischen Kaiserwetter!; Weiter geht's mit dem Petit Train, der passenderweise direkt eingefahren; Der Mont Cherry im Hintergrund ist das Ziel heute; Schon die Pleney Gondelbahn schleicht langsam vor sich hin, beim neuen Belevedere Sessellift ist es aber einfach nur dreist, das GPS zeigt mir eindeutig 3m/s, das ist einfach nur unverschämt!Im Gegensatz dazu ist der neue Linga Sessellift heute morgen, bei fast nichts losVollgas mit 6m/s gefahren!; Pralle Sonne am Mont Cherry und nichts los!; Blick ins Skigebiet Sommand, was nicht zu den Portes du Soleil dazu gehört; Nostalgische 2er Sessel mit toller Piste! Dafür reichlich unbequem der Lift leider.; Im Sektor Nyon, hier soll dir Pointe Nyon 3er Sesselbahn im Sommer ersetzt werden; Also erst mal nochmal hoch auf knapp 2000 Meter; Der Zwischenausstieg wurde schon entfernt; Die Piste nach unten ist nicht wirklich spannend, oben nur ein Ziehweg unten raus aber ganz gut; Zum ersten Mal seit vielen Mal hier fahr eich die Pendelbahn Nyon, die einzige Pendelbahn in den französischen Portes du Soleil. Die Rolltreppe funktioniert, das ist sehr positiv!; Immer mal wieder sonnige Abschnitte; Die gesperrte rote Piste am Pleney kommt man schon noch gut runter, Genuss ist sie aber nicht mehr]"
+  },
+  "center": [
+    46.17871903292181,
+    6.714756378600823
+  ],
+  "placed_count": 27,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111630&mode=view",
+      "description": "PXL_20260329_065941176.jpg (958.25 KiB) 1584 mal betrachtet",
+      "geo": {
+        "latitude": 46.24488888888889,
+        "longitude": 6.819419444444444,
+        "elevation_m": 1589,
+        "bearing_deg": 158,
+        "captured_at": "2026-03-29T08:59:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1010800534,
+        "name": "Linga",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111631&mode=view",
+      "description": "Stellenweise schon blauer Himmel! Schnee ist super gut präpariert!",
+      "geo": {
+        "latitude": 46.23874444444444,
+        "longitude": 6.818280555555555,
+        "elevation_m": 1777,
+        "bearing_deg": 72,
+        "captured_at": "2026-03-29T09:02:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1010800534,
+        "name": "Linga",
+        "cat": "SB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "La Leiche",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111635&mode=view",
+      "description": "Oben ist es recht windig, hoffen wir dass der Sessel nicht abstürzt. In Richtung Morzine sieht das Wetter besser aus, das passt gut in die heutige Planung!",
+      "geo": {
+        "latitude": 46.22875555555556,
+        "longitude": 6.815388888888888,
+        "elevation_m": 2038,
+        "bearing_deg": 202,
+        "captured_at": "2026-03-29T09:13:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24916937,
+        "name": "Combes",
+        "cat": "SB",
+        "dist": 78
+      },
+      "piste": {
+        "name": "Les Combes",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111636&mode=view",
+      "description": "Richtig schöne Wald Abfahrtrn bei der aktuellen Sicht am Pre la Joux",
+      "geo": {
+        "latitude": 46.22648888888889,
+        "longitude": 6.793955555555556,
+        "elevation_m": 1608,
+        "bearing_deg": 203,
+        "captured_at": "2026-03-29T09:31:10"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111646&mode=view",
+      "description": "In Avoriaz wird's langsam sonniger!",
+      "geo": {
+        "latitude": 46.19761666666666,
+        "longitude": 6.743763888888889,
+        "elevation_m": 1742,
+        "bearing_deg": 219,
+        "captured_at": "2026-03-29T10:20:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24916420,
+        "name": "Séraussaix",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Serraussaix",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 63
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111647&mode=view",
+      "description": "PXL_20260329_081513465.jpg (889.85 KiB) 1566 mal betrachtet",
+      "geo": {
+        "latitude": 46.195125,
+        "longitude": 6.761872222222222,
+        "elevation_m": 1768,
+        "bearing_deg": 208,
+        "captured_at": "2026-03-29T10:15:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24916421,
+        "name": "Proclou",
+        "cat": "SB",
+        "dist": 72
+      },
+      "piste": {
+        "name": "Proclou",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111648&mode=view",
+      "description": "PXL_20260329_082409403.jpg (902.49 KiB) 1564 mal betrachtet",
+      "geo": {
+        "latitude": 46.19588611111111,
+        "longitude": 6.735383333333333,
+        "elevation_m": 1789,
+        "bearing_deg": 359,
+        "captured_at": "2026-03-29T10:24:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30351719,
+        "name": "Baron",
+        "cat": "SL",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Les Gernes",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111649&mode=view",
+      "description": "Auf dem Weg nach Morzine, inzwischen Kaiserwetter!",
+      "geo": {
+        "latitude": 46.196147222222216,
+        "longitude": 6.731922222222222,
+        "elevation_m": 1807,
+        "bearing_deg": 166,
+        "captured_at": "2026-03-29T10:37:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30352096,
+        "name": "Zore",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111650&mode=view",
+      "description": "Weiter geht's mit dem Petit Train, der passenderweise direkt eingefahren",
+      "geo": {
+        "latitude": 46.18296944444444,
+        "longitude": 6.702477777777778,
+        "elevation_m": 1026,
+        "bearing_deg": 144,
+        "captured_at": "2026-03-29T10:52:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53165460,
+        "name": "Super-Morzine",
+        "cat": "EUB",
+        "dist": 104
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 81
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111653&mode=view",
+      "description": "Der Mont Cherry im Hintergrund ist das Ziel heute",
+      "geo": {
+        "latitude": 46.16961111111111,
+        "longitude": 6.692372222222223,
+        "elevation_m": 1592.88,
+        "bearing_deg": 195,
+        "captured_at": "2026-03-29T11:06:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30752181,
+        "name": "Pléney",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111654&mode=view",
+      "description": "Schon die Pleney Gondelbahn schleicht langsam vor sich hin, beim neuen Belevedere Sessellift ist es aber einfach nur dreist, das GPS zeigt mir eindeutig 3m/s, das ist einfach nur unverschämt!<br />Im Gegensatz dazu ist der neue Linga Sessellift heute morgen, bei fast nichts los<br /> Vollgas mit 6m/s gefahren!",
+      "geo": {
+        "latitude": 46.16918888888889,
+        "longitude": 6.691794444444445,
+        "elevation_m": 1570,
+        "bearing_deg": 84,
+        "captured_at": "2026-03-29T11:09:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30626081,
+        "name": "Belvédère",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Piste C/Corbeau",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111655&mode=view",
+      "description": "PXL_20260329_091708542.jpg (867 KiB) 1549 mal betrachtet",
+      "geo": {
+        "latitude": 46.15456388888889,
+        "longitude": 6.675855555555556,
+        "elevation_m": 1310,
+        "bearing_deg": 187,
+        "captured_at": "2026-03-29T11:17:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49511429,
+        "name": "Chavannes",
+        "cat": "EUB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Gentiane",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111663&mode=view",
+      "description": "Pralle Sonne am Mont Cherry und nichts los!",
+      "geo": {
+        "latitude": 46.16641666666666,
+        "longitude": 6.652394444444445,
+        "elevation_m": 1731,
+        "bearing_deg": 224,
+        "captured_at": "2026-03-29T11:55:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49511439,
+        "name": "La Pointe",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Stade de la Pointe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111664&mode=view",
+      "description": "PXL_20260329_095128509.jpg (609.25 KiB) 1542 mal betrachtet",
+      "geo": {
+        "latitude": 46.164791666666666,
+        "longitude": 6.658197222222222,
+        "elevation_m": 1582,
+        "bearing_deg": 201,
+        "captured_at": "2026-03-29T11:51:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49511439,
+        "name": "La Pointe",
+        "cat": "SB",
+        "dist": 49
+      },
+      "piste": {
+        "name": "Gazelle",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111666&mode=view",
+      "description": "PXL_20260329_101312740.jpg (951.64 KiB) 1528 mal betrachtet",
+      "geo": {
+        "latitude": 46.16848888888889,
+        "longitude": 6.648888888888888,
+        "elevation_m": 1861,
+        "bearing_deg": 13,
+        "captured_at": "2026-03-29T12:13:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1582367206,
+        "name": "Pointe Chery Express",
+        "cat": "SB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Chamois",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111667&mode=view",
+      "description": "Blick ins Skigebiet Sommand, was nicht zu den Portes du Soleil dazu gehört",
+      "geo": {
+        "latitude": 46.16759444444444,
+        "longitude": 6.645636111111111,
+        "elevation_m": 1853,
+        "bearing_deg": 158,
+        "captured_at": "2026-03-29T12:00:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49511439,
+        "name": "La Pointe",
+        "cat": "SB",
+        "dist": 126
+      },
+      "piste": {
+        "name": "Marmotte",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111668&mode=view",
+      "description": "Nostalgische 2er Sessel mit toller Piste! Dafür reichlich unbequem der Lift leider.",
+      "geo": {
+        "latitude": 46.17013055555555,
+        "longitude": 6.663783333333334,
+        "elevation_m": 1527,
+        "bearing_deg": 245,
+        "captured_at": "2026-03-29T12:24:23"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Lièvre",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111669&mode=view",
+      "description": "PXL_20260329_102232364.jpg (635.01 KiB) 1528 mal betrachtet",
+      "geo": {
+        "latitude": 46.16945277777778,
+        "longitude": 6.650661111111112,
+        "elevation_m": 1800,
+        "bearing_deg": 303,
+        "captured_at": "2026-03-29T12:22:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53180783,
+        "name": "Planeys",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111681&mode=view",
+      "description": "Im Sektor Nyon, hier soll dir Pointe Nyon 3er Sesselbahn im Sommer ersetzt werden",
+      "geo": {
+        "latitude": 46.153638888888885,
+        "longitude": 6.711719444444444,
+        "elevation_m": 1565,
+        "bearing_deg": 311,
+        "captured_at": "2026-03-29T13:33:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32312982,
+        "name": "Raverettes",
+        "cat": "SB",
+        "dist": 56
+      },
+      "piste": {
+        "name": "Les Raverettes",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111682&mode=view",
+      "description": "Also erst mal nochmal hoch auf knapp 2000 Meter",
+      "geo": {
+        "latitude": 46.158113888888884,
+        "longitude": 6.712122222222223,
+        "elevation_m": 1469,
+        "bearing_deg": 24,
+        "captured_at": "2026-03-29T13:33:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32312982,
+        "name": "Raverettes",
+        "cat": "SB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111683&mode=view",
+      "description": "Der Zwischenausstieg wurde schon entfernt",
+      "geo": {
+        "latitude": 46.15179444444444,
+        "longitude": 6.718555555555556,
+        "elevation_m": 1715,
+        "bearing_deg": 106,
+        "captured_at": "2026-03-29T13:42:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 96366493,
+        "name": "Pointe de Nyon",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "La Combe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111692&mode=view",
+      "description": "Die Piste nach unten ist nicht wirklich spannend, oben nur ein Ziehweg unten raus aber ganz gut",
+      "geo": {
+        "latitude": 46.147669444444446,
+        "longitude": 6.722294444444445,
+        "elevation_m": 2012,
+        "bearing_deg": 263,
+        "captured_at": "2026-03-29T13:46:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 96366493,
+        "name": "Pointe de Nyon",
+        "cat": "SB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111693&mode=view",
+      "description": "Zum ersten Mal seit vielen Mal hier fahr eich die Pendelbahn Nyon, die einzige Pendelbahn in den französischen Portes du Soleil. Die Rolltreppe funktioniert, das ist sehr positiv!",
+      "geo": {
+        "latitude": 46.16674722222222,
+        "longitude": 6.7155000000000005,
+        "elevation_m": 1073,
+        "bearing_deg": 287,
+        "captured_at": "2026-03-29T13:54:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32425248,
+        "name": "Nyon",
+        "cat": "PB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Lievre",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 48
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111694&mode=view",
+      "description": "PXL_20260329_115603641.jpg (863.79 KiB) 1516 mal betrachtet",
+      "geo": {
+        "latitude": 46.167069444444444,
+        "longitude": 6.715761111111111,
+        "elevation_m": 1086,
+        "bearing_deg": 207,
+        "captured_at": "2026-03-29T13:56:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32425248,
+        "name": "Nyon",
+        "cat": "PB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Lievre",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 89
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111697&mode=view",
+      "description": "PXL_20260329_120513569.jpg (810.64 KiB) 1515 mal betrachtet",
+      "geo": {
+        "latitude": 46.157944444444446,
+        "longitude": 6.713561111111111,
+        "elevation_m": 1479,
+        "bearing_deg": 272,
+        "captured_at": "2026-03-29T14:05:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32425248,
+        "name": "Nyon",
+        "cat": "PB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 3
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111698&mode=view",
+      "description": "Immer mal wieder sonnige Abschnitte",
+      "geo": {
+        "latitude": 46.13886111111111,
+        "longitude": 6.688269444444445,
+        "elevation_m": 1529,
+        "bearing_deg": 212,
+        "captured_at": "2026-03-29T14:23:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32344719,
+        "name": "Nauchets Express",
+        "cat": "SB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "Ambresalle",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111715&mode=view",
+      "description": "Die gesperrte rote Piste am Pleney kommt man schon noch gut runter, Genuss ist sie aber nicht mehr",
+      "geo": {
+        "latitude": 46.176713888888884,
+        "longitude": 6.698591666666667,
+        "elevation_m": 1202,
+        "bearing_deg": 277,
+        "captured_at": "2026-03-29T14:49:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30752181,
+        "name": "Pléney",
+        "cat": "EUB",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Le Stade",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 26
+    }
+  ],
+  "lifts": [
+    {
+      "id": 24916420,
+      "name": "Séraussaix",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1956714,
+          6.7511334
+        ],
+        [
+          46.1957305,
+          6.7509086
+        ],
+        [
+          46.195947,
+          6.7500855
+        ],
+        [
+          46.1964601,
+          6.7481342
+        ],
+        [
+          46.1968908,
+          6.7464964
+        ],
+        [
+          46.1973106,
+          6.7448996
+        ],
+        [
+          46.1977609,
+          6.743098
+        ],
+        [
+          46.1980845,
+          6.7419002
+        ],
+        [
+          46.1983695,
+          6.7408095
+        ],
+        [
+          46.1986621,
+          6.7396917
+        ],
+        [
+          46.1988306,
+          6.7390388
+        ]
+      ]
+    },
+    {
+      "id": 24916421,
+      "name": "Proclou",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1951924,
+          6.7522702
+        ],
+        [
+          46.1952089,
+          6.7525327
+        ],
+        [
+          46.1952706,
+          6.7535137
+        ],
+        [
+          46.1953692,
+          6.7552175
+        ],
+        [
+          46.1954576,
+          6.7566689
+        ],
+        [
+          46.1955612,
+          6.7583323
+        ],
+        [
+          46.1956643,
+          6.7601038
+        ],
+        [
+          46.1957198,
+          6.7610152
+        ],
+        [
+          46.1957727,
+          6.7618227
+        ],
+        [
+          46.195875,
+          6.7633668
+        ],
+        [
+          46.1959774,
+          6.7651194
+        ],
+        [
+          46.1961112,
+          6.7671051
+        ],
+        [
+          46.1961999,
+          6.7685353
+        ],
+        [
+          46.196269,
+          6.7698895
+        ],
+        [
+          46.1963579,
+          6.771381
+        ],
+        [
+          46.1964388,
+          6.7726287
+        ],
+        [
+          46.1964566,
+          6.772935
+        ]
+      ]
+    },
+    {
+      "id": 24916937,
+      "name": "Combes",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2290783,
+          6.7991323
+        ],
+        [
+          46.229003,
+          6.8002945
+        ],
+        [
+          46.2288838,
+          6.8021784
+        ],
+        [
+          46.2288048,
+          6.8034262
+        ],
+        [
+          46.2286626,
+          6.805674
+        ],
+        [
+          46.2286262,
+          6.8062494
+        ],
+        [
+          46.2284699,
+          6.8087184
+        ],
+        [
+          46.2283335,
+          6.8108745
+        ],
+        [
+          46.2282461,
+          6.8122551
+        ],
+        [
+          46.2281161,
+          6.8143089
+        ],
+        [
+          46.2280049,
+          6.8161517
+        ],
+        [
+          46.2278823,
+          6.8179794
+        ],
+        [
+          46.2277928,
+          6.8194851
+        ],
+        [
+          46.2277561,
+          6.8203409
+        ],
+        [
+          46.2277276,
+          6.8207428
+        ]
+      ]
+    },
+    {
+      "id": 30351719,
+      "name": "Baron",
+      "cat": "SL",
+      "coords": [
+        [
+          46.1950338,
+          6.7397208
+        ],
+        [
+          46.1951627,
+          6.7389268
+        ],
+        [
+          46.1953551,
+          6.7377419
+        ],
+        [
+          46.1955138,
+          6.7367643
+        ],
+        [
+          46.1956324,
+          6.7360339
+        ],
+        [
+          46.195714,
+          6.7355312
+        ],
+        [
+          46.1958764,
+          6.7345309
+        ]
+      ]
+    },
+    {
+      "id": 30352096,
+      "name": "Zore",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1903773,
+          6.7181591
+        ],
+        [
+          46.1904811,
+          6.7184104
+        ],
+        [
+          46.1907415,
+          6.7190298
+        ],
+        [
+          46.191307,
+          6.7203753
+        ],
+        [
+          46.1915692,
+          6.7209992
+        ],
+        [
+          46.1920464,
+          6.7221344
+        ],
+        [
+          46.1925961,
+          6.7234422
+        ],
+        [
+          46.1932633,
+          6.7250295
+        ],
+        [
+          46.1940374,
+          6.7268713
+        ],
+        [
+          46.1948505,
+          6.7288058
+        ],
+        [
+          46.1955266,
+          6.7304142
+        ],
+        [
+          46.1961042,
+          6.7317886
+        ],
+        [
+          46.1962036,
+          6.7320223
+        ]
+      ]
+    },
+    {
+      "id": 30626081,
+      "name": "Belvédère",
+      "cat": "SB",
+      "coords": [
+        [
+          46.171423,
+          6.6912753
+        ],
+        [
+          46.1707492,
+          6.6914374
+        ],
+        [
+          46.1700319,
+          6.6916101
+        ],
+        [
+          46.1694901,
+          6.6917405
+        ],
+        [
+          46.168365,
+          6.6920112
+        ],
+        [
+          46.1675198,
+          6.6922146
+        ],
+        [
+          46.1667876,
+          6.692364
+        ],
+        [
+          46.1659023,
+          6.6926039
+        ],
+        [
+          46.1657452,
+          6.6926417
+        ],
+        [
+          46.1651962,
+          6.6927738
+        ],
+        [
+          46.1640829,
+          6.6930386
+        ],
+        [
+          46.1635016,
+          6.6931925
+        ],
+        [
+          46.162893,
+          6.6933061
+        ]
+      ]
+    },
+    {
+      "id": 30752181,
+      "name": "Pléney",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1799048,
+          6.7019377
+        ],
+        [
+          46.1793676,
+          6.7014503
+        ],
+        [
+          46.1779656,
+          6.7001781
+        ],
+        [
+          46.1767878,
+          6.6991093
+        ],
+        [
+          46.1758794,
+          6.6982851
+        ],
+        [
+          46.1743039,
+          6.6968556
+        ],
+        [
+          46.1729409,
+          6.6956189
+        ],
+        [
+          46.171223,
+          6.6940602
+        ],
+        [
+          46.17059,
+          6.693486
+        ],
+        [
+          46.1695975,
+          6.6925855
+        ]
+      ]
+    },
+    {
+      "id": 32312982,
+      "name": "Raverettes",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1579006,
+          6.7119781
+        ],
+        [
+          46.157333,
+          6.7120428
+        ],
+        [
+          46.1560046,
+          6.7121943
+        ],
+        [
+          46.1548554,
+          6.7123253
+        ],
+        [
+          46.1535515,
+          6.7124602
+        ],
+        [
+          46.1524974,
+          6.7125692
+        ],
+        [
+          46.1521296,
+          6.7126174
+        ]
+      ]
+    },
+    {
+      "id": 32344719,
+      "name": "Nauchets Express",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1380056,
+          6.683251
+        ],
+        [
+          46.1380513,
+          6.6834926
+        ],
+        [
+          46.1381645,
+          6.6840906
+        ],
+        [
+          46.1384616,
+          6.6856609
+        ],
+        [
+          46.1387062,
+          6.6869538
+        ],
+        [
+          46.1390533,
+          6.6887884
+        ],
+        [
+          46.1393602,
+          6.6904105
+        ],
+        [
+          46.1395064,
+          6.6911834
+        ],
+        [
+          46.139848,
+          6.6929891
+        ],
+        [
+          46.1401342,
+          6.6944327
+        ],
+        [
+          46.1402099,
+          6.694825
+        ],
+        [
+          46.1402755,
+          6.6951624
+        ]
+      ]
+    },
+    {
+      "id": 32425248,
+      "name": "Nyon",
+      "cat": "PB",
+      "coords": [
+        [
+          46.1669618,
+          6.7155772
+        ],
+        [
+          46.1647918,
+          6.7150823
+        ],
+        [
+          46.1601501,
+          6.7140239
+        ],
+        [
+          46.157937,
+          6.7135193
+        ]
+      ]
+    },
+    {
+      "id": 49511429,
+      "name": "Chavannes",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1569639,
+          6.6687291
+        ],
+        [
+          46.1564958,
+          6.6698798
+        ],
+        [
+          46.1560881,
+          6.6708943
+        ],
+        [
+          46.1555246,
+          6.6722963
+        ],
+        [
+          46.1546059,
+          6.6745824
+        ],
+        [
+          46.1530984,
+          6.6783768
+        ],
+        [
+          46.152724,
+          6.6793244
+        ],
+        [
+          46.1524111,
+          6.6800998
+        ],
+        [
+          46.1517157,
+          6.6818618
+        ],
+        [
+          46.1512018,
+          6.6831641
+        ],
+        [
+          46.1504433,
+          6.6850658
+        ],
+        [
+          46.1502844,
+          6.6854888
+        ]
+      ]
+    },
+    {
+      "id": 49511439,
+      "name": "La Pointe",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1645258,
+          6.6576896
+        ],
+        [
+          46.1645562,
+          6.6576035
+        ],
+        [
+          46.1645829,
+          6.6575279
+        ],
+        [
+          46.1649332,
+          6.6565355
+        ],
+        [
+          46.1652733,
+          6.6555721
+        ],
+        [
+          46.1655613,
+          6.6547511
+        ],
+        [
+          46.1658998,
+          6.6537907
+        ],
+        [
+          46.1661788,
+          6.6529989
+        ],
+        [
+          46.1663991,
+          6.6523736
+        ],
+        [
+          46.166909,
+          6.6509268
+        ],
+        [
+          46.1671417,
+          6.6502664
+        ],
+        [
+          46.1675085,
+          6.6492254
+        ],
+        [
+          46.1678121,
+          6.6483641
+        ],
+        [
+          46.1680866,
+          6.6475849
+        ],
+        [
+          46.1682902,
+          6.6469215
+        ]
+      ]
+    },
+    {
+      "id": 53165460,
+      "name": "Super-Morzine",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1835453,
+          6.7035371
+        ],
+        [
+          46.1846102,
+          6.7055748
+        ],
+        [
+          46.1850943,
+          6.7064812
+        ],
+        [
+          46.185295,
+          6.7068613
+        ],
+        [
+          46.1863266,
+          6.7088166
+        ],
+        [
+          46.1869398,
+          6.7099757
+        ],
+        [
+          46.1873855,
+          6.7108134
+        ],
+        [
+          46.1879725,
+          6.7119235
+        ],
+        [
+          46.188501,
+          6.7129479
+        ],
+        [
+          46.1893426,
+          6.7145247
+        ],
+        [
+          46.1901197,
+          6.7159942
+        ],
+        [
+          46.1908271,
+          6.7173269
+        ],
+        [
+          46.1911508,
+          6.7179166
+        ]
+      ]
+    },
+    {
+      "id": 53180783,
+      "name": "Planeys",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1724618,
+          6.6619067
+        ],
+        [
+          46.1723698,
+          6.6615766
+        ],
+        [
+          46.1720158,
+          6.6602049
+        ],
+        [
+          46.171664,
+          6.658859
+        ],
+        [
+          46.1714371,
+          6.6579906
+        ],
+        [
+          46.1714223,
+          6.657934
+        ],
+        [
+          46.1709003,
+          6.6559406
+        ],
+        [
+          46.170561,
+          6.6546447
+        ],
+        [
+          46.1702815,
+          6.6535964
+        ],
+        [
+          46.1701562,
+          6.6531265
+        ],
+        [
+          46.1699703,
+          6.6524295
+        ],
+        [
+          46.169865,
+          6.6520343
+        ],
+        [
+          46.1695952,
+          6.6510462
+        ],
+        [
+          46.169534,
+          6.6507883
+        ]
+      ]
+    },
+    {
+      "id": 96366493,
+      "name": "Pointe de Nyon",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1579415,
+          6.712486
+        ],
+        [
+          46.1574886,
+          6.7128958
+        ],
+        [
+          46.1566094,
+          6.7137744
+        ],
+        [
+          46.1561119,
+          6.7142218
+        ],
+        [
+          46.1556434,
+          6.7146721
+        ],
+        [
+          46.1549945,
+          6.7153129
+        ],
+        [
+          46.1536459,
+          6.7166446
+        ],
+        [
+          46.1530082,
+          6.7172742
+        ],
+        [
+          46.151676,
+          6.7186469
+        ],
+        [
+          46.1510727,
+          6.7192331
+        ],
+        [
+          46.1510007,
+          6.7193034
+        ],
+        [
+          46.1509364,
+          6.7193662
+        ],
+        [
+          46.1502904,
+          6.7199885
+        ],
+        [
+          46.1498704,
+          6.7204068
+        ],
+        [
+          46.1486218,
+          6.7216358
+        ],
+        [
+          46.1478214,
+          6.7224068
+        ],
+        [
+          46.1477949,
+          6.7224324
+        ],
+        [
+          46.1477631,
+          6.7224629
+        ],
+        [
+          46.1476833,
+          6.7225398
+        ]
+      ]
+    },
+    {
+      "id": 1010800534,
+      "name": "Linga",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2542772,
+          6.821379
+        ],
+        [
+          46.2539778,
+          6.8213108
+        ],
+        [
+          46.2538958,
+          6.8212927
+        ],
+        [
+          46.2538216,
+          6.821279
+        ],
+        [
+          46.2535596,
+          6.8212317
+        ],
+        [
+          46.2521051,
+          6.8209427
+        ],
+        [
+          46.251129,
+          6.8207328
+        ],
+        [
+          46.2499554,
+          6.8204787
+        ],
+        [
+          46.2495696,
+          6.8203942
+        ],
+        [
+          46.2494194,
+          6.820364
+        ],
+        [
+          46.2491036,
+          6.820303
+        ],
+        [
+          46.2476527,
+          6.8199999
+        ],
+        [
+          46.2467674,
+          6.8197947
+        ],
+        [
+          46.2466139,
+          6.8197632
+        ],
+        [
+          46.2454773,
+          6.8195178
+        ],
+        [
+          46.244887,
+          6.8193897
+        ],
+        [
+          46.2430714,
+          6.8190155
+        ],
+        [
+          46.2416658,
+          6.8187097
+        ],
+        [
+          46.2399178,
+          6.8183436
+        ],
+        [
+          46.2397249,
+          6.8183047
+        ],
+        [
+          46.2393371,
+          6.8182223
+        ],
+        [
+          46.2388505,
+          6.8181228
+        ]
+      ]
+    },
+    {
+      "id": 1582367206,
+      "name": "Pointe Chery Express",
+      "cat": "SB",
+      "coords": [
+        [
+          46.166291,
+          6.6601
+        ],
+        [
+          46.16852,
+          6.64761
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

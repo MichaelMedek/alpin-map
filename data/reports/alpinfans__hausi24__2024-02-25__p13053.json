@@ -1,0 +1,758 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 13053,
+    "title": "Herrlicher Skitag am Schatzberg und Wilden Kaiser",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=13053",
+    "date": "2024-02-25",
+    "post_date": "2024-02-25",
+    "text": "Heute hier deutlich schöner als gestern am Wilden Kaiser, vor allem die kalte Nacht hat dem Schnee richtig gut getan! Die neue Hornbahn 2000 ist mit ein Highlight im Skigebiet mit vielen tollen Pisten. Nachmittags war es dann im Schatzberg Skigebiet deutlich leerer auf den Pisten und auch die meisten Pisten waren noch gut zu fahren und nicht abgefahren!"
+  },
+  "center": [
+    47.375829861111114,
+    11.954250694444445
+  ],
+  "placed_count": 16,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18125",
+      "description": "Dateianhänge",
+      "geo": {
+        "latitude": 47.357994444444444,
+        "longitude": 11.923974999999999,
+        "elevation_m": 2074.96,
+        "bearing_deg": 158,
+        "captured_at": "2024-02-25T09:29:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "53;58",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18126",
+      "description": null,
+      "geo": {
+        "latitude": 47.358025000000005,
+        "longitude": 11.924083333333332,
+        "elevation_m": 2069.69,
+        "bearing_deg": 20,
+        "captured_at": "2024-02-25T09:32:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18127",
+      "description": null,
+      "geo": {
+        "latitude": 47.37137777777778,
+        "longitude": 11.928869444444445,
+        "elevation_m": 1941.43,
+        "bearing_deg": 244,
+        "captured_at": "2024-02-25T10:56:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594396,
+        "name": "Wiedersbergerhornbahn (Sektion II)",
+        "cat": "EUB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18128",
+      "description": null,
+      "geo": {
+        "latitude": 47.357994444444444,
+        "longitude": 11.923974999999999,
+        "elevation_m": 2074.96,
+        "bearing_deg": 330,
+        "captured_at": "2024-02-25T09:29:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "53;58",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18129",
+      "description": null,
+      "geo": {
+        "latitude": 47.402563888888885,
+        "longitude": 11.988855555555554,
+        "elevation_m": 1827,
+        "bearing_deg": 144,
+        "captured_at": "2024-02-25T13:18:43"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schatzberg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 30
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18130",
+      "description": null,
+      "geo": {
+        "latitude": 47.35800833333334,
+        "longitude": 11.924069444444443,
+        "elevation_m": 2069.69,
+        "bearing_deg": 33,
+        "captured_at": "2024-02-25T09:28:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 11
+      },
+      "piste": {
+        "name": "53;58",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18131",
+      "description": null,
+      "geo": {
+        "latitude": 47.39086388888889,
+        "longitude": 11.984819444444444,
+        "elevation_m": 1822.59,
+        "bearing_deg": 192,
+        "captured_at": "2024-02-25T16:20:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 205604062,
+        "name": "Verbindungsbahn Alpbach-Wildschönau Sektion 2",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18132",
+      "description": null,
+      "geo": {
+        "latitude": 47.357997222222224,
+        "longitude": 11.924019444444443,
+        "elevation_m": 2073.5,
+        "bearing_deg": 286,
+        "captured_at": "2024-02-25T08:51:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "53;58",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18133",
+      "description": null,
+      "geo": {
+        "latitude": 47.35858888888889,
+        "longitude": 11.92902222222222,
+        "elevation_m": 1685.59,
+        "bearing_deg": 136,
+        "captured_at": "2024-02-25T08:59:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18134",
+      "description": null,
+      "geo": {
+        "latitude": 47.39123333333333,
+        "longitude": 11.98211388888889,
+        "elevation_m": 1919.59,
+        "bearing_deg": 193,
+        "captured_at": "2024-02-25T12:02:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 205604062,
+        "name": "Verbindungsbahn Alpbach-Wildschönau Sektion 2",
+        "cat": "EUB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18135",
+      "description": null,
+      "geo": {
+        "latitude": 47.35975833333333,
+        "longitude": 11.938044444444445,
+        "elevation_m": 1685.59,
+        "bearing_deg": 160,
+        "captured_at": "2024-02-25T08:45:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 20
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18136",
+      "description": null,
+      "geo": {
+        "latitude": 47.357997222222224,
+        "longitude": 11.924019444444443,
+        "elevation_m": 2073.5,
+        "bearing_deg": 73,
+        "captured_at": "2024-02-25T08:52:14"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50594400,
+        "name": "Hornbahn 2000",
+        "cat": "SB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "53;58",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18137",
+      "description": null,
+      "geo": {
+        "latitude": 47.40439444444444,
+        "longitude": 12.004827777777777,
+        "elevation_m": 1468,
+        "bearing_deg": 330,
+        "captured_at": "2024-02-25T12:32:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 38216389,
+        "name": "Schatzbergbahn I",
+        "cat": "EUB",
+        "dist": 132
+      },
+      "piste": {
+        "name": "2",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18138",
+      "description": null,
+      "geo": {
+        "latitude": 47.39173888888889,
+        "longitude": 11.986269444444444,
+        "elevation_m": 1916,
+        "bearing_deg": 272,
+        "captured_at": "2024-02-25T12:28:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 54376666,
+        "name": "Hahnkopfbahn",
+        "cat": "SB",
+        "dist": 65
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18139",
+      "description": null,
+      "geo": {
+        "latitude": 47.40051666666667,
+        "longitude": 11.987180555555554,
+        "elevation_m": 1827,
+        "bearing_deg": 133,
+        "captured_at": "2024-02-25T13:03:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 98422346,
+        "name": "Thalerkogllift",
+        "cat": "SL",
+        "dist": 21
+      },
+      "piste": {
+        "name": "3",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=18140",
+      "description": null,
+      "geo": {
+        "latitude": 47.394225,
+        "longitude": 11.993866666666666,
+        "elevation_m": 1060.7,
+        "bearing_deg": 133,
+        "captured_at": "2024-02-25T11:59:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 54376666,
+        "name": "Hahnkopfbahn",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 45
+      },
+      "n": 15
+    }
+  ],
+  "lifts": [
+    {
+      "id": 38216389,
+      "name": "Schatzbergbahn I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3976636,
+          11.9883058
+        ],
+        [
+          47.3979211,
+          11.9890741
+        ],
+        [
+          47.3982907,
+          11.9902216
+        ],
+        [
+          47.3987414,
+          11.9916221
+        ],
+        [
+          47.3999147,
+          11.9951819
+        ],
+        [
+          47.4007413,
+          11.9977046
+        ],
+        [
+          47.4015429,
+          12.0001686
+        ],
+        [
+          47.4025773,
+          12.0033197
+        ],
+        [
+          47.4039733,
+          12.0075541
+        ],
+        [
+          47.4045013,
+          12.0091341
+        ],
+        [
+          47.4049255,
+          12.0104421
+        ],
+        [
+          47.4052371,
+          12.0113684
+        ],
+        [
+          47.4053691,
+          12.0118238
+        ]
+      ]
+    },
+    {
+      "id": 50594396,
+      "name": "Wiedersbergerhornbahn (Sektion II)",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3833714,
+          11.9262657
+        ],
+        [
+          47.3831104,
+          11.9263228
+        ],
+        [
+          47.3830649,
+          11.9263328
+        ],
+        [
+          47.3830177,
+          11.9263431
+        ],
+        [
+          47.3821851,
+          11.9265253
+        ],
+        [
+          47.3808845,
+          11.9268099
+        ],
+        [
+          47.3799985,
+          11.9270038
+        ],
+        [
+          47.3787512,
+          11.9272768
+        ],
+        [
+          47.3773789,
+          11.9275771
+        ],
+        [
+          47.3755078,
+          11.9279865
+        ],
+        [
+          47.3749043,
+          11.9281186
+        ],
+        [
+          47.3738321,
+          11.9283532
+        ],
+        [
+          47.3734832,
+          11.9284296
+        ],
+        [
+          47.3720821,
+          11.9287361
+        ],
+        [
+          47.3719964,
+          11.9287549
+        ],
+        [
+          47.3715201,
+          11.9288591
+        ]
+      ]
+    },
+    {
+      "id": 50594400,
+      "name": "Hornbahn 2000",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3595893,
+          11.9381326
+        ],
+        [
+          47.3592362,
+          11.9349705
+        ],
+        [
+          47.3589806,
+          11.9326825
+        ],
+        [
+          47.3587999,
+          11.9310646
+        ],
+        [
+          47.3584529,
+          11.9273778
+        ],
+        [
+          47.3583045,
+          11.9259906
+        ],
+        [
+          47.358133,
+          11.9243871
+        ],
+        [
+          47.3581026,
+          11.9240309
+        ]
+      ]
+    },
+    {
+      "id": 54376666,
+      "name": "Hahnkopfbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3962208,
+          11.9987732
+        ],
+        [
+          47.3959318,
+          11.9980735
+        ],
+        [
+          47.395535,
+          11.9971131
+        ],
+        [
+          47.3954669,
+          11.9969481
+        ],
+        [
+          47.3945456,
+          11.9947178
+        ],
+        [
+          47.393921,
+          11.993206
+        ],
+        [
+          47.392983,
+          11.9909352
+        ],
+        [
+          47.3922846,
+          11.9892448
+        ],
+        [
+          47.3918504,
+          11.9881936
+        ],
+        [
+          47.3912695,
+          11.9867875
+        ],
+        [
+          47.3911449,
+          11.9864859
+        ],
+        [
+          47.3907126,
+          11.9854394
+        ],
+        [
+          47.3905269,
+          11.98499
+        ]
+      ]
+    },
+    {
+      "id": 98422346,
+      "name": "Thalerkogllift",
+      "cat": "SL",
+      "coords": [
+        [
+          47.4028582,
+          11.9946113
+        ],
+        [
+          47.4026489,
+          11.9940025
+        ],
+        [
+          47.4023346,
+          11.9930881
+        ],
+        [
+          47.402007,
+          11.9921352
+        ],
+        [
+          47.401746,
+          11.9913759
+        ],
+        [
+          47.4013717,
+          11.990287
+        ],
+        [
+          47.4010299,
+          11.9892925
+        ],
+        [
+          47.4006832,
+          11.9882841
+        ],
+        [
+          47.4004223,
+          11.987525
+        ],
+        [
+          47.400411,
+          11.987492
+        ],
+        [
+          47.4001958,
+          11.986866
+        ]
+      ]
+    },
+    {
+      "id": 205604062,
+      "name": "Verbindungsbahn Alpbach-Wildschönau Sektion 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3933201,
+          11.9671298
+        ],
+        [
+          47.3930947,
+          11.9688447
+        ],
+        [
+          47.3927971,
+          11.9711078
+        ],
+        [
+          47.3923486,
+          11.9745192
+        ],
+        [
+          47.3919358,
+          11.9776591
+        ],
+        [
+          47.3916817,
+          11.9795923
+        ],
+        [
+          47.3913405,
+          11.9821876
+        ],
+        [
+          47.3910192,
+          11.9846317
+        ],
+        [
+          47.3909416,
+          11.9852216
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 180
+}

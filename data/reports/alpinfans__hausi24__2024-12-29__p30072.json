@@ -1,0 +1,650 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 30072,
+    "title": "Chäserrugg Toggenburg: Einmaliges Panorama und neue Ostabfahrt",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=30072",
+    "date": "2024-12-29",
+    "post_date": "2024-12-29",
+    "text": "Heute mein erstes Mal Skifahren im Toggenburg, obwohl es doch für mich nur eine Stunde Fahrt entfernt ist. Lange habe ich auf die Wiedervereinigung gehofft, da das aber wohl nicht absehbar ist war es jetzt Zeit den Chäserrugg zu besuchen, als das größere und spannendere Skigebiet der beiden. Das Panorama vom Chäserrugg ist schon einmalig schön! Leider ist noch Recht wenig Schnee vorhanden aktuell, aber die Ostabfahrt hat zum Glück heute das erste Mal voll offen, womit eine weitere spannende Piste dazugekommen ist! Du Pisten sind bus jetzt den Schneehöhen entsprechend gut präpariert, und die Bahnen haben sogar schon 10 vor 8 aufgemacht und den ersten Schwung mit der Standseilbahn hoch befördert. Die Ostabfahrt war wirklich landschaftlich super schön, aber man kommt dem leider getrennten Skigebiet Wildhaus ziemlich nah, ohne es erreichen zu können. Unten dann sehr wenig Schnee und es ragen Hölzer durch die Piste, was im Vergleich zu Steinen aber ganz entspannt ist.\n[Image Descriptions: Dort hinten bei den Lawinen Gittern war am Fels die Verbindungspiste zum anderen Skigebiet, oder?; Unten auf der Ostabfahrt - aber lieber so als deswegen die gesamte Abfahrt schließen!; Kurz vor 10 und keine Wartezeiten, im Gegenteil eine fast leere Gondel! Wenn ich da denke wie lange man gestern im Brandnertal für den gleichen Tageskarten Preis anstehen musste!; Auf der Alt St Johann Seite sind die Pisten leider etwas eisiger]"
+  },
+  "center": [
+    47.16858688271605,
+    9.3161399691358
+  ],
+  "placed_count": 18,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46356&mode=view",
+      "description": "PXL_20241229_070035105.jpg (418.17 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.194652777777776,
+        "longitude": 9.309277777777778,
+        "elevation_m": 960.39,
+        "bearing_deg": 39,
+        "captured_at": "2024-12-29T08:00:35"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Burenwald",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46357&mode=view",
+      "description": "PXL_20241229_070918227.jpg (475.49 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.190530555555554,
+        "longitude": 9.311919444444445,
+        "elevation_m": 960.39,
+        "bearing_deg": 42,
+        "captured_at": "2024-12-29T08:09:18"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Burenwald",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46359&mode=view",
+      "description": "PXL_20241229_071835182.jpg (265.64 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.18507222222222,
+        "longitude": 9.311930555555556,
+        "elevation_m": 960.39,
+        "bearing_deg": 191,
+        "captured_at": "2024-12-29T08:18:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22722504,
+        "name": "Luftseilbahn Iltios-Chäserrugg",
+        "cat": "PB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46360&mode=view",
+      "description": "PXL_20241229_072734832.jpg (591.26 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.1552,
+        "longitude": 9.31276388888889,
+        "elevation_m": 1592.59,
+        "bearing_deg": 151,
+        "captured_at": "2024-12-29T08:27:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22722504,
+        "name": "Luftseilbahn Iltios-Chäserrugg",
+        "cat": "PB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Chäserrugg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46361&mode=view",
+      "description": "PXL_20241229_072727274.jpg (476.21 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.1552,
+        "longitude": 9.31276388888889,
+        "elevation_m": 1592.59,
+        "bearing_deg": 22,
+        "captured_at": "2024-12-29T08:27:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22722504,
+        "name": "Luftseilbahn Iltios-Chäserrugg",
+        "cat": "PB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Chäserrugg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46362&mode=view",
+      "description": "PXL_20241229_072730461.jpg (619.86 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.1552,
+        "longitude": 9.31276388888889,
+        "elevation_m": 1592.59,
+        "bearing_deg": 321,
+        "captured_at": "2024-12-29T08:27:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22722504,
+        "name": "Luftseilbahn Iltios-Chäserrugg",
+        "cat": "PB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Chäserrugg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46363&mode=view",
+      "description": "PXL_20241229_073000113.jpg (458.41 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.155852777777774,
+        "longitude": 9.314280555555555,
+        "elevation_m": 2367.44,
+        "bearing_deg": 11,
+        "captured_at": "2024-12-29T08:30:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Chäserrugg-Gamsalp;Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46364&mode=view",
+      "description": "PXL_20241229_073048140.jpg (455.26 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.155852777777774,
+        "longitude": 9.314280555555555,
+        "elevation_m": 2367.44,
+        "bearing_deg": 13,
+        "captured_at": "2024-12-29T08:30:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Chäserrugg-Gamsalp;Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46365&mode=view",
+      "description": "PXL_20241229_073156842.jpg (375.74 KiB) 5917 mal betrachtet",
+      "geo": {
+        "latitude": 47.15548888888889,
+        "longitude": 9.319327777777778,
+        "elevation_m": 2094,
+        "bearing_deg": 59,
+        "captured_at": "2024-12-29T08:31:56"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46366&mode=view",
+      "description": "Dort hinten bei den Lawinen Gittern war am Fels die Verbindungspiste zum anderen Skigebiet, oder?",
+      "geo": {
+        "latitude": 47.15548888888889,
+        "longitude": 9.319327777777778,
+        "elevation_m": 2094,
+        "bearing_deg": 55,
+        "captured_at": "2024-12-29T08:33:43"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46367&mode=view",
+      "description": "Unten auf der Ostabfahrt - aber lieber so als deswegen die gesamte Abfahrt schließen!",
+      "geo": {
+        "latitude": 47.19286944444444,
+        "longitude": 9.345877777777778,
+        "elevation_m": 1909.39,
+        "bearing_deg": 81,
+        "captured_at": "2024-12-29T08:37:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4960952,
+        "name": "Sesselbahn Wildhaus-Oberdorf",
+        "cat": "SB",
+        "dist": 61
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "sled",
+        "dist": 30
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46371&mode=view",
+      "description": "PXL_20241229_080219780.jpg (501.69 KiB) 5897 mal betrachtet",
+      "geo": {
+        "latitude": 47.159930555555555,
+        "longitude": 9.317655555555556,
+        "elevation_m": 2190.7,
+        "bearing_deg": 68,
+        "captured_at": "2024-12-29T09:02:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Chäserrugg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 60
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46372&mode=view",
+      "description": "PXL_20241229_080555470.jpg (644.2 KiB) 5897 mal betrachtet",
+      "geo": {
+        "latitude": 47.15593611111111,
+        "longitude": 9.313869444444444,
+        "elevation_m": 2190.7,
+        "bearing_deg": 39,
+        "captured_at": "2024-12-29T09:05:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Chäserrugg-Gamsalp;Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46373&mode=view",
+      "description": "PXL_20241229_080935736.jpg (429.82 KiB) 5897 mal betrachtet",
+      "geo": {
+        "latitude": 47.15593611111111,
+        "longitude": 9.313869444444444,
+        "elevation_m": 2190.7,
+        "bearing_deg": 32,
+        "captured_at": "2024-12-29T09:09:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Chäserrugg-Gamsalp;Chäserrugg Ostabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46374&mode=view",
+      "description": "PXL_20241229_081116700.jpg (449.03 KiB) 5897 mal betrachtet",
+      "geo": {
+        "latitude": 47.184219444444444,
+        "longitude": 9.31368888888889,
+        "elevation_m": 1375.8,
+        "bearing_deg": 39,
+        "captured_at": "2024-12-29T09:11:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23551051,
+        "name": "Skilift Iltios",
+        "cat": "SL",
+        "dist": 38
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46381&mode=view",
+      "description": "Kurz vor 10 und keine Wartezeiten, im Gegenteil eine fast leere Gondel! Wenn ich da denke wie lange man gestern im Brandnertal für den gleichen Tageskarten Preis anstehen musste!",
+      "geo": {
+        "latitude": 47.18523611111111,
+        "longitude": 9.311833333333334,
+        "elevation_m": 1395.8,
+        "bearing_deg": 188,
+        "captured_at": "2024-12-29T09:40:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22722504,
+        "name": "Luftseilbahn Iltios-Chäserrugg",
+        "cat": "PB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Burenwald",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46396&mode=view",
+      "description": "Auf der Alt St Johann Seite sind die Pisten leider etwas eisiger",
+      "geo": {
+        "latitude": 47.187099999999994,
+        "longitude": 9.322472222222222,
+        "elevation_m": 2309.9,
+        "bearing_deg": 59,
+        "captured_at": "2024-12-29T10:08:45"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Mittelschwendi",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 16
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=46415&mode=view",
+      "description": "IMG_1385.jpeg (443.71 KiB) 5821 mal betrachtet",
+      "geo": {
+        "latitude": 47.15479722222222,
+        "longitude": 9.312616666666667,
+        "elevation_m": 2250.66,
+        "bearing_deg": 164.9366149696561,
+        "captured_at": "2024-12-29T11:27:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4961027,
+        "name": "Skilift Ruggschopf-Chäserrugg",
+        "cat": "SL",
+        "dist": 48
+      },
+      "piste": {
+        "name": "Chäserrugg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 48
+      },
+      "n": 17
+    }
+  ],
+  "lifts": [
+    {
+      "id": 4960952,
+      "name": "Sesselbahn Wildhaus-Oberdorf",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1989358,
+          9.3421841
+        ],
+        [
+          47.1987856,
+          9.3422527
+        ],
+        [
+          47.1977176,
+          9.3427548
+        ],
+        [
+          47.1967242,
+          9.3432223
+        ],
+        [
+          47.1956602,
+          9.343723
+        ],
+        [
+          47.1945709,
+          9.3442356
+        ],
+        [
+          47.1938408,
+          9.3445792
+        ],
+        [
+          47.1926237,
+          9.3451502
+        ],
+        [
+          47.1925944,
+          9.3451639
+        ],
+        [
+          47.1922394,
+          9.3453305
+        ]
+      ]
+    },
+    {
+      "id": 4961027,
+      "name": "Skilift Ruggschopf-Chäserrugg",
+      "cat": "SL",
+      "coords": [
+        [
+          47.1701169,
+          9.3203733
+        ],
+        [
+          47.1693182,
+          9.3201583
+        ],
+        [
+          47.1682732,
+          9.3198769
+        ],
+        [
+          47.1671921,
+          9.3195859
+        ],
+        [
+          47.1660473,
+          9.3192777
+        ],
+        [
+          47.1649997,
+          9.3189957
+        ],
+        [
+          47.1637789,
+          9.318667
+        ],
+        [
+          47.1629752,
+          9.3184507
+        ],
+        [
+          47.1620031,
+          9.318189
+        ],
+        [
+          47.1610791,
+          9.3179403
+        ],
+        [
+          47.160263,
+          9.3177206
+        ],
+        [
+          47.1592543,
+          9.3174491
+        ],
+        [
+          47.1582751,
+          9.3171855
+        ],
+        [
+          47.157702,
+          9.3164774
+        ],
+        [
+          47.1569217,
+          9.3155134
+        ],
+        [
+          47.1561857,
+          9.3146042
+        ],
+        [
+          47.1555169,
+          9.3137818
+        ],
+        [
+          47.1550062,
+          9.3131683
+        ]
+      ]
+    },
+    {
+      "id": 22722504,
+      "name": "Luftseilbahn Iltios-Chäserrugg",
+      "cat": "PB",
+      "coords": [
+        [
+          47.1852542,
+          9.3118283
+        ],
+        [
+          47.1819973,
+          9.311883
+        ],
+        [
+          47.1797702,
+          9.3119082
+        ],
+        [
+          47.1752142,
+          9.3120172
+        ],
+        [
+          47.1719956,
+          9.3120791
+        ],
+        [
+          47.1615063,
+          9.3122827
+        ],
+        [
+          47.1560111,
+          9.3123907
+        ],
+        [
+          47.155214,
+          9.3124528
+        ]
+      ]
+    },
+    {
+      "id": 23551051,
+      "name": "Skilift Iltios",
+      "cat": "SL",
+      "coords": [
+        [
+          47.1839062,
+          9.3134875
+        ],
+        [
+          47.1799039,
+          9.3125314
+        ],
+        [
+          47.179411,
+          9.3124068
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

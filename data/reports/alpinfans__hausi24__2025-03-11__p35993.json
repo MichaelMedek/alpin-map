@@ -1,0 +1,1398 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 35993,
+    "title": "Sonnige Pisten und harter Schnee in Obertauern und Grosseck Speiereck",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=35993",
+    "date": "2025-03-11",
+    "post_date": "2025-03-11",
+    "text": "Heute geht es weiter in Obertauern, wo wir ein schönes Hotel mit Wellness Bereich gebucht haben, den Laaxerhof, nur unwesentlich von der Grünwaldkopfbahn entfernt. Die 3 Tages Karte ist auch im Skigebiet Grosseck - Speiereck gültig, wo man kostenlos mit dem Skibus hinfahren kann. Für etwa 10 Euro mehr wäre der Katschberg noch dabei gewesen, da halte ich mich aber dieses Mal zurück, da die Freundin in Obertauern Skikurs machen will. Also ist der Plan heute Nachmittag kurz zum Skigebiet Grosseck - Speiereck vorbei zu schauen. Trotz anderer Erwartungen mit dem Wetterbericht ist das Wetter heute sonnig und der Schnee ist wieder schön hart! Ein mega Upgrade zu gestern auf der 4 Berge Skischaukel! Und auch wenn es mittags dann immer wieder etwas bewölkt war, kam im Skigebiet Grosseck - Speiereck immer wieder die Sonne raus, und das ergab zusammen mit den wenigen Leuten hier tolle Pisten, inklusive der 1400 Höhenmeter Piste!\n[Image Descriptions: Morgendlicher Blick aus dem Hotelzimmer; Fußweg vom Hotel zur Grünwaldkopfbahn; Standard Blick von der Bergstation Grünwaldkopfbahn; Pisten an der Hochalm Bahn; Pisten an der Panorama Bahn; Tolle Piste hinten herum an der Seekar Spitz Bahn; Hauptpiste Seekar Spitz, hier schon etwas mehr los; Hundskogel; Präparierte Skiroute von der Hundskogel; Blick von der Plattenkar Bahn zur Gamsleiten 2, leider wohl wegen zu wenig Schnee geschlossen; Passhöhe von Süden aus; Zehnerkartbahn, hier ziemlich voll sich auf den Pisten und inzwischen leider nicht mehr voll sonnig; Seekareck, die talwärts rechte Piste ist gut zu fahren, die linke sehr voll. Generell ist es ab 11 Uhr extrem voll, kein Vergleich zu den Skitagen davor!; Und jetzt noch Monte Flu. Damit habe ich jetzt in 3 Stunden eigentlich das gesamte Skigebiet erledigt, Mal schauen was es dann die nächsten Tage noch zu machen gibt :D; Einkehrschwung an der Talstation Grünwaldkopfbahn; Mit etwas Rest Sonne geht's zur Passhöhe nach Obertauern; Und von dort geht es mit dem Bus weiter nach Mautendorf. Bessere Haltestelle wäre bei der Talstation Schaidbergbahn; Angekommen in Mautendorf and der Seilbahn.; Oben am der Gondelbahn; Schöne Grat Piste von der 4er Sesselbahn mit Haube aus; Die blaue Talabfahrt ist gesperrt, so muss ich jetzt den übungslift wieder nach oben nehmen und den Einstieg zur roten suchen, den ich offenbar verpasst habe vorher. Inzwischen schneit es auch leicht, trotzdem immer mal wieder einiges. Sonnige Abschnitte.; Die Sonne kommt raus auf der Talabfahrt in Richtung St. Michael! Und da hier kaum etwas los ist ist die Piste super zu fahren, hat richtig Spaß gemacht!; Blick aufs Aineck und die Katschberghöhe. Jetzt wäre ich schon noch gerne da rüber gewechselt, aber dafür hätte die Zeit eh nicht mehr gereicht, und die nächsten zwei Tage wollte ich ja in Obertauern verbringen.; Schlusshang und im Hintergrund ist noch das Schneeband von der Talabfahrt von der Katschberghöhe zu sehen. Dort gibt es aber keinen Lift mehr der hoch führt.; Turm am Speiereck; Speiereck Hütte mit Tiefblick ins Lungau Tal; Die Talabfahrt nach Mautendorf ist sehr gut zu fahren, selbst am Abend noch. Und auch am übungslift unten hat es noch Schnee.]"
+  },
+  "center": [
+    47.21771153846154,
+    13.58266420940171
+  ],
+  "placed_count": 26,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60615&mode=view",
+      "description": "Morgendlicher Blick aus dem Hotelzimmer",
+      "geo": {
+        "latitude": 47.25159166666667,
+        "longitude": 13.54101388888889,
+        "elevation_m": 1735.3,
+        "bearing_deg": 77,
+        "captured_at": "2025-03-11T08:27:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30978664,
+        "name": "Monte Flu-Bahn",
+        "cat": "SB",
+        "dist": 129
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 84
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60618&mode=view",
+      "description": "Fußweg vom Hotel zur Grünwaldkopfbahn",
+      "geo": {
+        "latitude": 47.251397222222224,
+        "longitude": 13.541072222222223,
+        "elevation_m": 1727.8,
+        "bearing_deg": 16,
+        "captured_at": "2025-03-11T08:38:31"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 104
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60619&mode=view",
+      "description": "Standard Blick von der Bergstation Grünwaldkopfbahn",
+      "geo": {
+        "latitude": 47.259883333333335,
+        "longitude": 13.543738888888889,
+        "elevation_m": 2018.88,
+        "bearing_deg": 291,
+        "captured_at": "2025-03-11T08:54:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23040323,
+        "name": "Grünwaldkopfbahn",
+        "cat": "EUB",
+        "dist": 32
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60620&mode=view",
+      "description": "Pisten an der Hochalm Bahn",
+      "geo": {
+        "latitude": 47.265388888888886,
+        "longitude": 13.547761111111111,
+        "elevation_m": 2071.87,
+        "bearing_deg": 156,
+        "captured_at": "2025-03-11T08:57:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23040327,
+        "name": "Hochalmbahn",
+        "cat": "SB",
+        "dist": 83
+      },
+      "piste": {
+        "name": "Panorama",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60621&mode=view",
+      "description": "PXL_20250311_075553725.jpg (397.72 KiB) 6243 mal betrachtet",
+      "geo": {
+        "latitude": 47.262505555555556,
+        "longitude": 13.546108333333333,
+        "elevation_m": 2015.51,
+        "bearing_deg": 272,
+        "captured_at": "2025-03-11T08:55:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23040327,
+        "name": "Hochalmbahn",
+        "cat": "SB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60622&mode=view",
+      "description": "Pisten an der Panorama Bahn",
+      "geo": {
+        "latitude": 47.26993888888889,
+        "longitude": 13.546505555555555,
+        "elevation_m": 2239.19,
+        "bearing_deg": 89,
+        "captured_at": "2025-03-11T09:03:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30978652,
+        "name": "Panoramabahn",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60623&mode=view",
+      "description": "Tolle Piste hinten herum an der Seekar Spitz Bahn",
+      "geo": {
+        "latitude": 47.27300555555556,
+        "longitude": 13.551388888888889,
+        "elevation_m": 2215.58,
+        "bearing_deg": 225,
+        "captured_at": "2025-03-11T09:10:14"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Seekarspitz",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60626&mode=view",
+      "description": "Hauptpiste Seekar Spitz, hier schon etwas mehr los",
+      "geo": {
+        "latitude": 47.26594444444444,
+        "longitude": 13.559000000000001,
+        "elevation_m": 1943.94,
+        "bearing_deg": 355,
+        "captured_at": "2025-03-11T09:11:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23045755,
+        "name": "Seekarspitzbahn",
+        "cat": "SB",
+        "dist": 42
+      },
+      "piste": {
+        "name": "Seekarspitz",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60627&mode=view",
+      "description": "Hundskogel",
+      "geo": {
+        "latitude": 47.26801666666667,
+        "longitude": 13.576858333333334,
+        "elevation_m": 2185.7,
+        "bearing_deg": 194,
+        "captured_at": "2025-03-11T09:43:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30978635,
+        "name": "Hundskogelbahn",
+        "cat": "SB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "Hundskogel",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60628&mode=view",
+      "description": "Präparierte Skiroute von der Hundskogel",
+      "geo": {
+        "latitude": 47.262772222222225,
+        "longitude": 13.573408333333333,
+        "elevation_m": 2036.13,
+        "bearing_deg": 264,
+        "captured_at": "2025-03-11T09:45:33"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Hundskogel",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60629&mode=view",
+      "description": "Blick von der Plattenkar Bahn zur Gamsleiten 2, leider wohl wegen zu wenig Schnee geschlossen",
+      "geo": {
+        "latitude": 47.252005555555556,
+        "longitude": 13.577458333333333,
+        "elevation_m": 2095.56,
+        "bearing_deg": 144,
+        "captured_at": "2025-03-11T09:59:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23112689,
+        "name": "Plattenkarbahn",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "Plattenkar",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60630&mode=view",
+      "description": "Passhöhe von Süden aus",
+      "geo": {
+        "latitude": 47.24193611111111,
+        "longitude": 13.569591666666666,
+        "elevation_m": 1696.98,
+        "bearing_deg": 271,
+        "captured_at": "2025-03-11T10:21:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31092558,
+        "name": "Achenrainbahn",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 38
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60631&mode=view",
+      "description": "Zehnerkartbahn, hier ziemlich voll sich auf den Pisten und inzwischen leider nicht mehr voll sonnig",
+      "geo": {
+        "latitude": 47.240944444444445,
+        "longitude": 13.534094444444444,
+        "elevation_m": 2239,
+        "bearing_deg": 135,
+        "captured_at": "2025-03-11T10:36:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1528325487,
+        "name": "Zehnerkarbahn",
+        "cat": "EUB",
+        "dist": 48
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60640&mode=view",
+      "description": "Seekareck, die talwärts rechte Piste ist gut zu fahren, die linke sehr voll. Generell ist es ab 11 Uhr extrem voll, kein Vergleich zu den Skitagen davor!",
+      "geo": {
+        "latitude": 47.263441666666665,
+        "longitude": 13.533905555555556,
+        "elevation_m": 2206.19,
+        "bearing_deg": 24,
+        "captured_at": "2025-03-11T11:15:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23040324,
+        "name": "Seekareckbahn",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "Seekareck",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60641&mode=view",
+      "description": "Und jetzt noch Monte Flu. Damit habe ich jetzt in 3 Stunden eigentlich das gesamte Skigebiet erledigt, Mal schauen was es dann die nächsten Tage noch zu machen gibt :D",
+      "geo": {
+        "latitude": 47.25272777777778,
+        "longitude": 13.538361111111112,
+        "elevation_m": 1815.06,
+        "bearing_deg": 206,
+        "captured_at": "2025-03-11T11:24:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30978664,
+        "name": "Monte Flu-Bahn",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60642&mode=view",
+      "description": "Einkehrschwung an der Talstation Grünwaldkopfbahn",
+      "geo": {
+        "latitude": 47.25120277777778,
+        "longitude": 13.544166666666667,
+        "elevation_m": 1718.3,
+        "bearing_deg": 132,
+        "captured_at": "2025-03-11T11:53:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23040323,
+        "name": "Grünwaldkopfbahn",
+        "cat": "EUB",
+        "dist": 32
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60643&mode=view",
+      "description": "Mit etwas Rest Sonne geht's zur Passhöhe nach Obertauern",
+      "geo": {
+        "latitude": 47.245469444444446,
+        "longitude": 13.548975,
+        "elevation_m": 1936.64,
+        "bearing_deg": 36,
+        "captured_at": "2025-03-11T12:24:21"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Zehnerkar",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60644&mode=view",
+      "description": "Und von dort geht es mit dem Bus weiter nach Mautendorf. Bessere Haltestelle wäre bei der Talstation Schaidbergbahn",
+      "geo": {
+        "latitude": 47.24850555555555,
+        "longitude": 13.557786111111112,
+        "elevation_m": 1804.19,
+        "bearing_deg": 353,
+        "captured_at": "2025-03-11T12:29:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31243558,
+        "name": "Pernerlift",
+        "cat": "SL",
+        "dist": 65
+      },
+      "piste": {
+        "name": "Pernerlift",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 66
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60645&mode=view",
+      "description": "Angekommen in Mautendorf and der Seilbahn.",
+      "geo": {
+        "latitude": 47.14208055555555,
+        "longitude": 13.662922222222223,
+        "elevation_m": 1216,
+        "bearing_deg": 100,
+        "captured_at": "2025-03-11T12:51:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 298198898,
+        "name": "Großeckbahn",
+        "cat": "EUB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 16
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60648&mode=view",
+      "description": "Oben am der Gondelbahn",
+      "geo": {
+        "latitude": 47.1284,
+        "longitude": 13.650291666666668,
+        "elevation_m": 2004.63,
+        "bearing_deg": 117,
+        "captured_at": "2025-03-11T13:02:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 298198898,
+        "name": "Großeckbahn",
+        "cat": "EUB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60649&mode=view",
+      "description": "Schöne Grat Piste von der 4er Sesselbahn mit Haube aus",
+      "geo": {
+        "latitude": 47.12102222222222,
+        "longitude": 13.642144444444444,
+        "elevation_m": 2068.97,
+        "bearing_deg": 205,
+        "captured_at": "2025-03-11T13:14:38"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60650&mode=view",
+      "description": "Die blaue Talabfahrt ist gesperrt, so muss ich jetzt den übungslift wieder nach oben nehmen und den Einstieg zur roten suchen, den ich offenbar verpasst habe vorher. Inzwischen schneit es auch leicht, trotzdem immer mal wieder einiges. Sonnige Abschnitte.",
+      "geo": {
+        "latitude": 47.121608333333334,
+        "longitude": 13.659372222222222,
+        "elevation_m": 1856.26,
+        "bearing_deg": 227,
+        "captured_at": "2025-03-11T13:17:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30688676,
+        "name": "Stockerboden",
+        "cat": "SL",
+        "dist": 25
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60651&mode=view",
+      "description": "Die Sonne kommt raus auf der Talabfahrt in Richtung St. Michael! Und da hier kaum etwas los ist ist die Piste super zu fahren, hat richtig Spaß gemacht!",
+      "geo": {
+        "latitude": 47.11889444444444,
+        "longitude": 13.647325,
+        "elevation_m": 1929.92,
+        "bearing_deg": 100,
+        "captured_at": "2025-03-11T13:25:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30688677,
+        "name": "Sonnenbahn",
+        "cat": "EUB",
+        "dist": 112
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60659&mode=view",
+      "description": "Turm am Speiereck",
+      "geo": {
+        "latitude": 47.130322222222226,
+        "longitude": 13.646191666666667,
+        "elevation_m": 2124.13,
+        "bearing_deg": 234,
+        "captured_at": "2025-03-11T15:15:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30189481,
+        "name": "Großeckbahn II",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60660&mode=view",
+      "description": "Speiereck Hütte mit Tiefblick ins Lungau Tal",
+      "geo": {
+        "latitude": 47.13037777777778,
+        "longitude": 13.646491666666666,
+        "elevation_m": 2123.5,
+        "bearing_deg": 322,
+        "captured_at": "2025-03-11T15:17:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30189481,
+        "name": "Großeckbahn II",
+        "cat": "SB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60661&mode=view",
+      "description": "Die Talabfahrt nach Mautendorf ist sehr gut zu fahren, selbst am Abend noch. Und auch am übungslift unten hat es noch Schnee.",
+      "geo": {
+        "latitude": 47.14111666666667,
+        "longitude": 13.66333611111111,
+        "elevation_m": 1219.19,
+        "bearing_deg": 141,
+        "captured_at": "2025-03-11T15:38:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150500202,
+        "name": "Übungslift Mauterndorf II",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 25
+    }
+  ],
+  "lifts": [
+    {
+      "id": 23040323,
+      "name": "Grünwaldkopfbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2509894,
+          13.543743
+        ],
+        [
+          47.2511914,
+          13.5437378
+        ],
+        [
+          47.2514984,
+          13.5437265
+        ],
+        [
+          47.2529849,
+          13.5436629
+        ],
+        [
+          47.2537621,
+          13.5436365
+        ],
+        [
+          47.2540473,
+          13.5436269
+        ],
+        [
+          47.25508,
+          13.5435856
+        ],
+        [
+          47.2556174,
+          13.5435642
+        ],
+        [
+          47.2563586,
+          13.5435415
+        ],
+        [
+          47.2570467,
+          13.5435112
+        ],
+        [
+          47.2583549,
+          13.5434679
+        ],
+        [
+          47.2592806,
+          13.5434343
+        ],
+        [
+          47.2596997,
+          13.5434212
+        ]
+      ]
+    },
+    {
+      "id": 23040324,
+      "name": "Seekareckbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2617829,
+          13.5427685
+        ],
+        [
+          47.2619135,
+          13.5421172
+        ],
+        [
+          47.2621893,
+          13.5407423
+        ],
+        [
+          47.2622992,
+          13.5401942
+        ],
+        [
+          47.2625752,
+          13.5388182
+        ],
+        [
+          47.2630279,
+          13.5365609
+        ],
+        [
+          47.2635074,
+          13.5341702
+        ],
+        [
+          47.2635592,
+          13.533912
+        ]
+      ]
+    },
+    {
+      "id": 23040327,
+      "name": "Hochalmbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2616242,
+          13.545304
+        ],
+        [
+          47.2622201,
+          13.5459132
+        ],
+        [
+          47.2632106,
+          13.5469174
+        ],
+        [
+          47.2648003,
+          13.5485015
+        ],
+        [
+          47.2650059,
+          13.5487107
+        ]
+      ]
+    },
+    {
+      "id": 23045755,
+      "name": "Seekarspitzbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2646138,
+          13.5636126
+        ],
+        [
+          47.2650763,
+          13.5624021
+        ],
+        [
+          47.2658751,
+          13.5603112
+        ],
+        [
+          47.2665417,
+          13.5585663
+        ],
+        [
+          47.2669359,
+          13.5575345
+        ],
+        [
+          47.2671499,
+          13.5569741
+        ],
+        [
+          47.2677148,
+          13.5554956
+        ],
+        [
+          47.2682233,
+          13.5541643
+        ],
+        [
+          47.2686991,
+          13.5529189
+        ],
+        [
+          47.2692124,
+          13.5515751
+        ],
+        [
+          47.2694315,
+          13.5510017
+        ],
+        [
+          47.2699718,
+          13.5495872
+        ],
+        [
+          47.2706793,
+          13.5477351
+        ],
+        [
+          47.2709451,
+          13.5470638
+        ]
+      ]
+    },
+    {
+      "id": 23112689,
+      "name": "Plattenkarbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2454245,
+          13.5679047
+        ],
+        [
+          47.2460165,
+          13.5687714
+        ],
+        [
+          47.2472279,
+          13.5705744
+        ],
+        [
+          47.2481243,
+          13.5719266
+        ],
+        [
+          47.2487001,
+          13.5727909
+        ],
+        [
+          47.249461,
+          13.5739458
+        ],
+        [
+          47.2503563,
+          13.5752969
+        ],
+        [
+          47.2508,
+          13.5759657
+        ],
+        [
+          47.2517121,
+          13.5773445
+        ],
+        [
+          47.2517752,
+          13.5774392
+        ],
+        [
+          47.2519751,
+          13.5777387
+        ]
+      ]
+    },
+    {
+      "id": 30189481,
+      "name": "Großeckbahn II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1291625,
+          13.6558012
+        ],
+        [
+          47.1291921,
+          13.6555277
+        ],
+        [
+          47.1292417,
+          13.6550696
+        ],
+        [
+          47.1292875,
+          13.6546468
+        ],
+        [
+          47.1295892,
+          13.6518598
+        ],
+        [
+          47.1297095,
+          13.6507483
+        ],
+        [
+          47.1298212,
+          13.6497163
+        ],
+        [
+          47.129843,
+          13.6495151
+        ],
+        [
+          47.129986,
+          13.6481943
+        ],
+        [
+          47.1301348,
+          13.6468198
+        ],
+        [
+          47.1301532,
+          13.6466499
+        ],
+        [
+          47.130187,
+          13.6463372
+        ],
+        [
+          47.1302127,
+          13.6461006
+        ]
+      ]
+    },
+    {
+      "id": 30688676,
+      "name": "Stockerboden",
+      "cat": "SL",
+      "coords": [
+        [
+          47.1218599,
+          13.6595163
+        ],
+        [
+          47.1218335,
+          13.6593241
+        ],
+        [
+          47.1217768,
+          13.6589112
+        ],
+        [
+          47.1215333,
+          13.6571396
+        ],
+        [
+          47.1207359,
+          13.6513369
+        ],
+        [
+          47.1204764,
+          13.649449
+        ],
+        [
+          47.1203503,
+          13.6485312
+        ]
+      ]
+    },
+    {
+      "id": 30688677,
+      "name": "Sonnenbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1009503,
+          13.6479241
+        ],
+        [
+          47.1017811,
+          13.6479602
+        ],
+        [
+          47.102603,
+          13.6479975
+        ],
+        [
+          47.1044488,
+          13.6480813
+        ],
+        [
+          47.1056824,
+          13.6481579
+        ],
+        [
+          47.1071666,
+          13.6482297
+        ],
+        [
+          47.108819,
+          13.6483001
+        ],
+        [
+          47.1107156,
+          13.6483987
+        ],
+        [
+          47.111967,
+          13.6484559
+        ],
+        [
+          47.1134583,
+          13.6485326
+        ],
+        [
+          47.1147732,
+          13.6485994
+        ],
+        [
+          47.1167068,
+          13.6487035
+        ],
+        [
+          47.1178587,
+          13.6487627
+        ],
+        [
+          47.1189462,
+          13.648803
+        ],
+        [
+          47.1199394,
+          13.648855
+        ]
+      ]
+    },
+    {
+      "id": 30978635,
+      "name": "Hundskogelbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2590889,
+          13.5656661
+        ],
+        [
+          47.2592231,
+          13.5658399
+        ],
+        [
+          47.2595839,
+          13.5663072
+        ],
+        [
+          47.2605435,
+          13.5675501
+        ],
+        [
+          47.2616068,
+          13.5689272
+        ],
+        [
+          47.2626021,
+          13.5702164
+        ],
+        [
+          47.2630274,
+          13.5707672
+        ],
+        [
+          47.2634346,
+          13.5712947
+        ],
+        [
+          47.2643462,
+          13.5724755
+        ],
+        [
+          47.2644639,
+          13.572628
+        ],
+        [
+          47.2650088,
+          13.5733337
+        ],
+        [
+          47.2661491,
+          13.5748107
+        ],
+        [
+          47.2673349,
+          13.5763468
+        ],
+        [
+          47.2674863,
+          13.5765428
+        ],
+        [
+          47.267788,
+          13.5769337
+        ]
+      ]
+    },
+    {
+      "id": 30978652,
+      "name": "Panoramabahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2627042,
+          13.5449325
+        ],
+        [
+          47.2639308,
+          13.5452174
+        ],
+        [
+          47.2648511,
+          13.5454311
+        ],
+        [
+          47.2660893,
+          13.5457186
+        ],
+        [
+          47.2673668,
+          13.5460153
+        ],
+        [
+          47.2683756,
+          13.5462496
+        ],
+        [
+          47.2698128,
+          13.5465834
+        ],
+        [
+          47.2703046,
+          13.5466976
+        ],
+        [
+          47.2705601,
+          13.546757
+        ]
+      ]
+    },
+    {
+      "id": 30978664,
+      "name": "Monte Flu-Bahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2526309,
+          13.540263
+        ],
+        [
+          47.2526401,
+          13.5400332
+        ],
+        [
+          47.2526712,
+          13.5392532
+        ],
+        [
+          47.2527023,
+          13.5384713
+        ],
+        [
+          47.2527576,
+          13.5370867
+        ],
+        [
+          47.2528364,
+          13.5351102
+        ],
+        [
+          47.2529042,
+          13.5334076
+        ],
+        [
+          47.252918,
+          13.5330627
+        ]
+      ]
+    },
+    {
+      "id": 31092558,
+      "name": "Achenrainbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2416731,
+          13.5708459
+        ],
+        [
+          47.2417344,
+          13.5705129
+        ],
+        [
+          47.2418132,
+          13.5700843
+        ],
+        [
+          47.2422265,
+          13.5678375
+        ],
+        [
+          47.242344,
+          13.5671985
+        ],
+        [
+          47.2429975,
+          13.5636452
+        ],
+        [
+          47.2431776,
+          13.5626658
+        ],
+        [
+          47.2434336,
+          13.561274
+        ],
+        [
+          47.2436107,
+          13.5603109
+        ]
+      ]
+    },
+    {
+      "id": 31243558,
+      "name": "Pernerlift",
+      "cat": "SL",
+      "coords": [
+        [
+          47.248857,
+          13.5584818
+        ],
+        [
+          47.249153,
+          13.5581066
+        ],
+        [
+          47.2496318,
+          13.5575527
+        ],
+        [
+          47.2499071,
+          13.5572305
+        ]
+      ]
+    },
+    {
+      "id": 150500202,
+      "name": "Übungslift Mauterndorf II",
+      "cat": "SL",
+      "coords": [
+        [
+          47.1414099,
+          13.663449
+        ],
+        [
+          47.1379601,
+          13.6621828
+        ],
+        [
+          47.1375749,
+          13.6620414
+        ]
+      ]
+    },
+    {
+      "id": 298198898,
+      "name": "Großeckbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1418269,
+          13.6630597
+        ],
+        [
+          47.1409778,
+          13.6622493
+        ],
+        [
+          47.1388933,
+          13.6602601
+        ],
+        [
+          47.1377397,
+          13.6591592
+        ],
+        [
+          47.1356504,
+          13.6571655
+        ],
+        [
+          47.1345434,
+          13.6561092
+        ],
+        [
+          47.1331752,
+          13.6548036
+        ],
+        [
+          47.1323193,
+          13.6539869
+        ],
+        [
+          47.131656,
+          13.653354
+        ],
+        [
+          47.1297324,
+          13.6515186
+        ],
+        [
+          47.1289263,
+          13.6507494
+        ],
+        [
+          47.1285895,
+          13.6504281
+        ]
+      ]
+    },
+    {
+      "id": 1528325487,
+      "name": "Zehnerkarbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2421736,
+          13.5413529
+        ],
+        [
+          47.2420669,
+          13.5408932
+        ],
+        [
+          47.2418648,
+          13.5400225
+        ],
+        [
+          47.2416027,
+          13.5388934
+        ],
+        [
+          47.2413061,
+          13.5376155
+        ],
+        [
+          47.2409995,
+          13.5362949
+        ],
+        [
+          47.240785,
+          13.5353708
+        ],
+        [
+          47.2405225,
+          13.5342398
+        ],
+        [
+          47.2403606,
+          13.5335425
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 180
+}

@@ -1,0 +1,519 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 45322,
+    "title": "Sonniger Vormittag und schönes Skiwochenende am Stubaier Gletscher",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=45322",
+    "date": "2025-10-26",
+    "post_date": "2025-10-26",
+    "text": "Heute geht es weiter an den Stubaier Gletscher. Das Wetter wird über den gestrigen Tag noch deutlich ins schlechte korrigiert, daher war zunächst unklar ob wir nicht einfach nach Hause fahren sollen wegen Schneefall und Wind. Aber jetzt kam heute morgen tatsächlich noch die Sonne raus, und gerade oben am Eisjoch war die Piste super schön zu fahren! Also auch wenn's gleich vielleicht schlechter wird, hat es sich doch noch gelohnt! Gegen Nachmittag hat es dann auch noch angefangen zu schneien, und die Pisten sind auch gerade an den bekannten engstellen immer eisiger und auch steiniger geworden aber trotzdem gab es schöne Bilder bei Sonne und es war ein insgesamt schönes skiwochenende.\n[Image Descriptions: Die Schaufeljoch Bahn hat nur für Fußgänger geöffnet, und man darf auch strikt keine Skier rein nehmen. Aber wir nutzen die Berg und Talfahrt für eine Frühstückspause; Inzwischen keine Sicht mehr]"
+  },
+  "center": [
+    46.985557638888885,
+    11.111037499999997
+  ],
+  "placed_count": 12,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78575&mode=view",
+      "description": "PXL_20251026_072616558.jpg (702.01 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.996430555555555,
+        "longitude": 11.118822222222223,
+        "elevation_m": 2682,
+        "bearing_deg": 90,
+        "captured_at": "2025-10-26T08:26:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27174768,
+        "name": "6er Sesselbahn Eisjoch",
+        "cat": "SB",
+        "dist": 43
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78576&mode=view",
+      "description": "PXL_20251026_074256243.jpg (935.18 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.98919444444444,
+        "longitude": 11.111916666666666,
+        "elevation_m": 2837,
+        "bearing_deg": 304,
+        "captured_at": "2025-10-26T08:42:56"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Seeblick",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78577&mode=view",
+      "description": "PXL_20251026_074113564.jpg (599.27 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.986247222222225,
+        "longitude": 11.111936111111111,
+        "elevation_m": 2928,
+        "bearing_deg": 324,
+        "captured_at": "2025-10-26T08:41:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27174768,
+        "name": "6er Sesselbahn Eisjoch",
+        "cat": "SB",
+        "dist": 96
+      },
+      "piste": {
+        "name": "Seeblick",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78578&mode=view",
+      "description": "PXL_20251026_073736595.jpg (905.45 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.97717222222222,
+        "longitude": 11.108327777777777,
+        "elevation_m": 3173,
+        "bearing_deg": 173,
+        "captured_at": "2025-10-26T08:37:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27174768,
+        "name": "6er Sesselbahn Eisjoch",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "Eisjochferner",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78579&mode=view",
+      "description": "PXL_20251026_074000186.jpg (581.69 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.98095,
+        "longitude": 11.10913888888889,
+        "elevation_m": 3052,
+        "bearing_deg": 267,
+        "captured_at": "2025-10-26T08:40:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27174768,
+        "name": "6er Sesselbahn Eisjoch",
+        "cat": "SB",
+        "dist": 87
+      },
+      "piste": {
+        "name": "Eisjoch",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 31
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78580&mode=view",
+      "description": "PXL_20251026_074045190.jpg (701.41 KiB) 4127 mal betrachtet",
+      "geo": {
+        "latitude": 46.98480277777778,
+        "longitude": 11.110619444444444,
+        "elevation_m": 2958,
+        "bearing_deg": 311,
+        "captured_at": "2025-10-26T08:40:45"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27174768,
+        "name": "6er Sesselbahn Eisjoch",
+        "cat": "SB",
+        "dist": 133
+      },
+      "piste": {
+        "name": "Eisjoch",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 58
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78584&mode=view",
+      "description": "PXL_20251026_080800480.jpg (713.42 KiB) 4114 mal betrachtet",
+      "geo": {
+        "latitude": 46.99648055555556,
+        "longitude": 11.107427777777778,
+        "elevation_m": 2799,
+        "bearing_deg": 312,
+        "captured_at": "2025-10-26T09:08:00"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78585&mode=view",
+      "description": "PXL_20251026_080550096.jpg (1.03 MiB) 4114 mal betrachtet",
+      "geo": {
+        "latitude": 46.98826388888889,
+        "longitude": 11.104763888888888,
+        "elevation_m": 3012,
+        "bearing_deg": 263,
+        "captured_at": "2025-10-26T09:05:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 28620915,
+        "name": "Schlepplift Daunferner I",
+        "cat": "SL",
+        "dist": 58
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 31
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78589&mode=view",
+      "description": "Die Schaufeljoch Bahn hat nur für Fußgänger geöffnet, und man darf auch strikt keine Skier rein nehmen. Aber wir nutzen die Berg und Talfahrt für eine Frühstückspause",
+      "geo": {
+        "latitude": 46.98605833333333,
+        "longitude": 11.114169444444444,
+        "elevation_m": 2934.9,
+        "bearing_deg": 75,
+        "captured_at": "2025-10-26T09:30:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26531292,
+        "name": "Schaufeljochbahn",
+        "cat": "EUB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Schaufelschuss",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78592&mode=view",
+      "description": "PXL_20251026_083825663.jpg (1.04 MiB) 4060 mal betrachtet",
+      "geo": {
+        "latitude": 46.97720833333334,
+        "longitude": 11.110641666666666,
+        "elevation_m": 3237,
+        "bearing_deg": 267,
+        "captured_at": "2025-10-26T09:38:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26531292,
+        "name": "Schaufeljochbahn",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Eisjoch",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78593&mode=view",
+      "description": "PXL_20251026_084110120.jpg (858.45 KiB) 4060 mal betrachtet",
+      "geo": {
+        "latitude": 46.97715,
+        "longitude": 11.11051111111111,
+        "elevation_m": 3235,
+        "bearing_deg": 70,
+        "captured_at": "2025-10-26T09:41:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26531292,
+        "name": "Schaufeljochbahn",
+        "cat": "EUB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "Eisjoch",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78596&mode=view",
+      "description": "Inzwischen keine Sicht mehr",
+      "geo": {
+        "latitude": 46.98673333333333,
+        "longitude": 11.114175,
+        "elevation_m": 2935.1,
+        "bearing_deg": 134,
+        "captured_at": "2025-10-26T10:53:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1576684995,
+        "name": "Zauberteppich Eisgrat",
+        "cat": "SL",
+        "dist": 4
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 11
+    }
+  ],
+  "lifts": [
+    {
+      "id": 26531292,
+      "name": "Schaufeljochbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.9870622,
+          11.114539
+        ],
+        [
+          46.9866985,
+          11.1144024
+        ],
+        [
+          46.9854834,
+          11.1139459
+        ],
+        [
+          46.9835562,
+          11.1132219
+        ],
+        [
+          46.982078,
+          11.1126666
+        ],
+        [
+          46.980036,
+          11.1118996
+        ],
+        [
+          46.9771581,
+          11.1108104
+        ]
+      ]
+    },
+    {
+      "id": 27174768,
+      "name": "6er Sesselbahn Eisjoch",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9960565,
+          11.1186865
+        ],
+        [
+          46.9958399,
+          11.1185674
+        ],
+        [
+          46.9949376,
+          11.1180699
+        ],
+        [
+          46.9938885,
+          11.1174914
+        ],
+        [
+          46.9925936,
+          11.1167775
+        ],
+        [
+          46.9922967,
+          11.1166138
+        ],
+        [
+          46.9910901,
+          11.1159486
+        ],
+        [
+          46.9897744,
+          11.1152232
+        ],
+        [
+          46.9881414,
+          11.114323
+        ],
+        [
+          46.9868345,
+          11.1136026
+        ],
+        [
+          46.9858074,
+          11.1130364
+        ],
+        [
+          46.9843616,
+          11.1122394
+        ],
+        [
+          46.9827837,
+          11.1113696
+        ],
+        [
+          46.9816545,
+          11.1107472
+        ],
+        [
+          46.9798408,
+          11.1097474
+        ],
+        [
+          46.9781936,
+          11.1088395
+        ],
+        [
+          46.9772452,
+          11.1083168
+        ]
+      ]
+    },
+    {
+      "id": 28620915,
+      "name": "Schlepplift Daunferner I",
+      "cat": "SL",
+      "coords": [
+        [
+          46.9930726,
+          11.1034486
+        ],
+        [
+          46.9928612,
+          11.1034728
+        ],
+        [
+          46.9928136,
+          11.1034782
+        ],
+        [
+          46.9917084,
+          11.1036047
+        ],
+        [
+          46.9901906,
+          11.1037783
+        ],
+        [
+          46.9888213,
+          11.103935
+        ],
+        [
+          46.9879728,
+          11.1040321
+        ],
+        [
+          46.9871487,
+          11.1041264
+        ],
+        [
+          46.9858973,
+          11.1042695
+        ],
+        [
+          46.9851915,
+          11.1043503
+        ],
+        [
+          46.9840667,
+          11.104479
+        ],
+        [
+          46.9831322,
+          11.1045859
+        ],
+        [
+          46.9829326,
+          11.1046087
+        ],
+        [
+          46.9809013,
+          11.1048411
+        ]
+      ]
+    },
+    {
+      "id": 1576684995,
+      "name": "Zauberteppich Eisgrat",
+      "cat": "SL",
+      "coords": [
+        [
+          46.9843204,
+          11.1128925
+        ],
+        [
+          46.9869128,
+          11.1143318
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

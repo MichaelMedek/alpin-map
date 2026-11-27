@@ -1,0 +1,1179 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 50829,
+    "title": "Ischgl und Samnaun mit griffigem Schnee",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=50829",
+    "date": "2025-12-27",
+    "post_date": "2025-12-27",
+    "text": "Heute geht's weiter in Ischgl. Kurz vor Öffnung um 8:30 schon einige Leute da. Öffnung dann um 8:29. Wetter sieht top aus, bin gespannt auf den Schnee!\n[Image Descriptions: Die erste Piste des Tages lässt sich super gut fahren, der Schnee ist sehr sehr angenehm griffig!Die Piste durch das Velliltal ist auch griffig, allerdings etwas unruhiger präpariert so dass man nicht voll durch carven kann. Wegen dem geringen Antrag fährt die sesselbahn leider nur mit weniger als 4 m/s.; Die Piste hinten runter am Pardatschgrat ist inzwischen schwarz und nicht mehr rot gekennzeichnet; In Samnaun ist die Piste gefühlt etwas besser präpariert, aber dann auch wieder nicht an der Alp Bella, da war's nicht mehr so gut; Die rote Piste von der Greitspitze über die viederjoch Bergstation direkt runter ins Hölkar war echt gut zu fahren!; Die Talabfahrt nach Samnaun ist schön zu fahren.; Schöne Piste am Übungslift um Schwung zu holen. Der Lift hat kein Drehkreuz, kann man hier also kostenlos Skifahren als Anfänger?; Man kommt dem Zielweg optimal durch Bus zur Talstation! Dort keine Wartezeiten und direkt in die Gondel, selbst um 10:45!; Die Talabfahrt nach Ischgl ist auch kurz vor 12 Uhr noch wunderbar in Schuss, leider wird man im Schwarzwasserlift eingeschneit.; Schöne abgelegene Piste vom Pardatschgrat; Ganz unten dann doch eisiger. Das Velliltal unten die schwarze ging aber am Mittag super!; Die Piste an der langen Wandbahn ist selbst um 14 Uhr noch absolut genial zu fahren, die bin ich direkt zweimal hintereinander gefahren!; Leere Pisten an der Nachtweide; 16:05 Uhr am höchsten, tolle Sonnenbeleuchtung hier noch mal! Jetzt geht's noch mal die schwarze runter und dann wird bis 16:30 Uhr Höllenbodenbahn gefahren, um es maximal auszureizen. Der GPS-Tracker ist schon bei 20.000 Höhenmetern angekommen!; Perfekt! Die letzte Fahrt mit der höllenbodenbahn erwischt, und jetzt um 16:35 Uhr zur Talabfahrt ansetzen! Sonne ist schon weg und Flutlicht ist an!; Sonnenuntergang ist schon vorbei, um 16:45 Uhr dann schließlich unten angekommen!; Es war ein absolut hammergeiler Tag, sind über 21.000 Höhenmeter geworden und über 100 km Pisten. Der Schnee war auch viel besser als gedacht, als Fazit also ein absoluter Neun-Punkte-Tag, wo nur die Heidelberger Hütte und die Piz Val Gronda Bahn für die 10 Punkte gefehlt hätten!]"
+  },
+  "center": [
+    46.97963180555555,
+    10.323475416666668
+  ],
+  "placed_count": 20,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89087&mode=view",
+      "description": "PXL_20251227_072736382.jpg (886.7 KiB) 3128 mal betrachtet",
+      "geo": {
+        "latitude": 47.013216666666665,
+        "longitude": 10.294433333333334,
+        "elevation_m": 1418.55,
+        "bearing_deg": 121,
+        "captured_at": "2025-12-27T08:27:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142587945,
+        "name": "Pardatschgratbahn",
+        "cat": "EUB",
+        "dist": 60
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89091&mode=view",
+      "description": "Die erste Piste des Tages lässt sich super gut fahren, der Schnee ist sehr sehr angenehm griffig!<br />Die Piste durch das Velliltal ist auch griffig, allerdings etwas unruhiger präpariert so dass man nicht voll durch carven kann. Wegen dem geringen Antrag fährt die sesselbahn leider nur mit weniger als 4 m/s.",
+      "geo": {
+        "latitude": 46.991422222222226,
+        "longitude": 10.324588888888888,
+        "elevation_m": 2662,
+        "bearing_deg": 261,
+        "captured_at": "2025-12-27T08:42:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32346046,
+        "name": "Velilleckbahn",
+        "cat": "SB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "4",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89097&mode=view",
+      "description": "PXL_20251227_075453029.jpg (727.07 KiB) 3086 mal betrachtet",
+      "geo": {
+        "latitude": 46.99011111111111,
+        "longitude": 10.324794444444445,
+        "elevation_m": 2670.9,
+        "bearing_deg": 255,
+        "captured_at": "2025-12-27T08:54:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22995188,
+        "name": "Gratbahn",
+        "cat": "SB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89098&mode=view",
+      "description": "Die Piste hinten runter am Pardatschgrat ist inzwischen schwarz und nicht mehr rot gekennzeichnet",
+      "geo": {
+        "latitude": 46.9898,
+        "longitude": 10.325236111111112,
+        "elevation_m": 2674,
+        "bearing_deg": 14,
+        "captured_at": "2025-12-27T09:08:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32346046,
+        "name": "Velilleckbahn",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "6a",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89099&mode=view",
+      "description": "In Samnaun ist die Piste gefühlt etwas besser präpariert, aber dann auch wieder nicht an der Alp Bella, da war's nicht mehr so gut",
+      "geo": {
+        "latitude": 46.97966111111111,
+        "longitude": 10.340308333333335,
+        "elevation_m": 2798,
+        "bearing_deg": 333,
+        "captured_at": "2025-12-27T09:19:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22995155,
+        "name": "Flimsattelbahn",
+        "cat": "SB",
+        "dist": 33
+      },
+      "piste": {
+        "name": "63",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89100&mode=view",
+      "description": "PXL_20251227_083034635.jpg (673.61 KiB) 3086 mal betrachtet",
+      "geo": {
+        "latitude": 46.988255555555554,
+        "longitude": 10.372691666666666,
+        "elevation_m": 2680,
+        "bearing_deg": 345,
+        "captured_at": "2025-12-27T09:30:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22995175,
+        "name": "Visnitzbahn",
+        "cat": "SB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89108&mode=view",
+      "description": "Die rote Piste von der Greitspitze über die viederjoch Bergstation direkt runter ins Hölkar war echt gut zu fahren!",
+      "geo": {
+        "latitude": 46.97432777777778,
+        "longitude": 10.312947222222222,
+        "elevation_m": 2216,
+        "bearing_deg": 229,
+        "captured_at": "2025-12-27T09:58:14"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32322742,
+        "name": "Höllkarbahn",
+        "cat": "SB",
+        "dist": 56
+      },
+      "piste": {
+        "name": "12",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89117&mode=view",
+      "description": "Die Talabfahrt nach Samnaun ist schön zu fahren.",
+      "geo": {
+        "latitude": 46.94531666666666,
+        "longitude": 10.307872222222223,
+        "elevation_m": 2730,
+        "bearing_deg": 353,
+        "captured_at": "2025-12-27T10:28:24"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "40",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89118&mode=view",
+      "description": "PXL_20251227_093023772.jpg (1023.54 KiB) 3038 mal betrachtet",
+      "geo": {
+        "latitude": 46.94292222222222,
+        "longitude": 10.327311111111111,
+        "elevation_m": 2254,
+        "bearing_deg": 58,
+        "captured_at": "2025-12-27T10:30:23"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89119&mode=view",
+      "description": "Schöne Piste am Übungslift um Schwung zu holen. Der Lift hat kein Drehkreuz, kann man hier also kostenlos Skifahren als Anfänger?",
+      "geo": {
+        "latitude": 46.944449999999996,
+        "longitude": 10.353769444444444,
+        "elevation_m": 1997,
+        "bearing_deg": 344,
+        "captured_at": "2025-12-27T10:37:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142587943,
+        "name": "Musellalift",
+        "cat": "SL",
+        "dist": 13
+      },
+      "piste": {
+        "name": "Übungspisten Samnaun - Dorf",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89120&mode=view",
+      "description": "Man kommt dem Zielweg optimal durch Bus zur Talstation! Dort keine Wartezeiten und direkt in die Gondel, selbst um 10:45!",
+      "geo": {
+        "latitude": 46.94984722222222,
+        "longitude": 10.368622222222223,
+        "elevation_m": 1831,
+        "bearing_deg": 329,
+        "captured_at": "2025-12-27T10:39:49"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Samnaun valley – valley station Ravaisch",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89143&mode=view",
+      "description": "Die Talabfahrt nach Ischgl ist auch kurz vor 12 Uhr noch wunderbar in Schuss, leider wird man im Schwarzwasserlift eingeschneit.",
+      "geo": {
+        "latitude": 46.987919444444444,
+        "longitude": 10.29903611111111,
+        "elevation_m": 1739,
+        "bearing_deg": 266,
+        "captured_at": "2025-12-27T11:22:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32320200,
+        "name": "Schwarzwasserlift",
+        "cat": "SL",
+        "dist": 2
+      },
+      "piste": {
+        "name": "3",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89159&mode=view",
+      "description": "Schöne abgelegene Piste vom Pardatschgrat",
+      "geo": {
+        "latitude": 46.98798333333333,
+        "longitude": 10.319372222222222,
+        "elevation_m": 2538,
+        "bearing_deg": 258,
+        "captured_at": "2025-12-27T11:43:31"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89160&mode=view",
+      "description": "Ganz unten dann doch eisiger. Das Velliltal unten die schwarze ging aber am Mittag super!",
+      "geo": {
+        "latitude": 47.007102777777774,
+        "longitude": 10.299222222222221,
+        "elevation_m": 1600,
+        "bearing_deg": 237,
+        "captured_at": "2025-12-27T11:49:22"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "1a",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89173&mode=view",
+      "description": "Die Piste an der langen Wandbahn ist selbst um 14 Uhr noch absolut genial zu fahren, die bin ich direkt zweimal hintereinander gefahren!",
+      "geo": {
+        "latitude": 46.970275,
+        "longitude": 10.333013888888889,
+        "elevation_m": 2881,
+        "bearing_deg": 175,
+        "captured_at": "2025-12-27T13:50:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32345117,
+        "name": "Greitspitzlift",
+        "cat": "SL",
+        "dist": 72
+      },
+      "piste": {
+        "name": "14a",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89204&mode=view",
+      "description": "Leere Pisten an der Nachtweide",
+      "geo": {
+        "latitude": 46.98265833333333,
+        "longitude": 10.311022222222222,
+        "elevation_m": 2248,
+        "bearing_deg": 109,
+        "captured_at": "2025-12-27T15:04:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31909729,
+        "name": "Nachtweidebahn",
+        "cat": "SB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "2b",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89225&mode=view",
+      "description": "16:05 Uhr am höchsten, tolle Sonnenbeleuchtung hier noch mal! Jetzt geht's noch mal die schwarze runter und dann wird bis 16:30 Uhr Höllenbodenbahn gefahren, um es maximal auszureizen. Der GPS-Tracker ist schon bei 20.000 Höhenmetern angekommen!",
+      "geo": {
+        "latitude": 46.9692,
+        "longitude": 10.333555555555556,
+        "elevation_m": 2891,
+        "bearing_deg": 182,
+        "captured_at": "2025-12-27T16:04:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 83705826,
+        "name": "Lange Wandbahn",
+        "cat": "SB",
+        "dist": 64
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89227&mode=view",
+      "description": "Perfekt! Die letzte Fahrt mit der höllenbodenbahn erwischt, und jetzt um 16:35 Uhr zur Talabfahrt ansetzen! Sonne ist schon weg und Flutlicht ist an!",
+      "geo": {
+        "latitude": 46.98422222222222,
+        "longitude": 10.312561111111112,
+        "elevation_m": 2283,
+        "bearing_deg": 125,
+        "captured_at": "2025-12-27T16:35:11"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89228&mode=view",
+      "description": "PXL_20251227_153448477.jpg (534.12 KiB) 2887 mal betrachtet",
+      "geo": {
+        "latitude": 46.98435277777778,
+        "longitude": 10.31258888888889,
+        "elevation_m": 2284,
+        "bearing_deg": 36,
+        "captured_at": "2025-12-27T16:34:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1547810965,
+        "name": "Silvrettabahn II",
+        "cat": "EUB",
+        "dist": 143
+      },
+      "piste": {
+        "name": "1 Idalp - Mittelstation Silvrettabahn A1",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=89229&mode=view",
+      "description": "Sonnenuntergang ist schon vorbei, um 16:45 Uhr dann schließlich unten angekommen!",
+      "geo": {
+        "latitude": 47.009591666666665,
+        "longitude": 10.29656111111111,
+        "elevation_m": 1546,
+        "bearing_deg": 244,
+        "captured_at": "2025-12-27T16:42:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142587945,
+        "name": "Pardatschgratbahn",
+        "cat": "EUB",
+        "dist": 123
+      },
+      "piste": {
+        "name": "1a",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 30
+      },
+      "n": 19
+    }
+  ],
+  "lifts": [
+    {
+      "id": 22995155,
+      "name": "Flimsattelbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9777901,
+          10.3752066
+        ],
+        [
+          46.977838,
+          10.3744358
+        ],
+        [
+          46.9779007,
+          10.3734251
+        ],
+        [
+          46.9779648,
+          10.3723939
+        ],
+        [
+          46.978088,
+          10.3704101
+        ],
+        [
+          46.9781338,
+          10.3696716
+        ],
+        [
+          46.9782593,
+          10.3676513
+        ],
+        [
+          46.9783568,
+          10.3660803
+        ],
+        [
+          46.978454,
+          10.3645153
+        ],
+        [
+          46.9785291,
+          10.363307
+        ],
+        [
+          46.9786262,
+          10.3617422
+        ],
+        [
+          46.9787359,
+          10.3599761
+        ],
+        [
+          46.9787613,
+          10.3595672
+        ],
+        [
+          46.9788948,
+          10.3574171
+        ],
+        [
+          46.9790771,
+          10.3544814
+        ],
+        [
+          46.9791374,
+          10.3535111
+        ],
+        [
+          46.979143,
+          10.3534201
+        ],
+        [
+          46.9791751,
+          10.3529035
+        ],
+        [
+          46.9792603,
+          10.3515313
+        ],
+        [
+          46.9793403,
+          10.3502436
+        ],
+        [
+          46.979383,
+          10.3495555
+        ],
+        [
+          46.9793926,
+          10.3494017
+        ],
+        [
+          46.9795353,
+          10.3471028
+        ],
+        [
+          46.9795451,
+          10.3469454
+        ],
+        [
+          46.9796288,
+          10.3455972
+        ],
+        [
+          46.979688,
+          10.3446441
+        ],
+        [
+          46.9797862,
+          10.3430627
+        ],
+        [
+          46.9799564,
+          10.3403217
+        ]
+      ]
+    },
+    {
+      "id": 22995175,
+      "name": "Visnitzbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9782922,
+          10.3760563
+        ],
+        [
+          46.9790065,
+          10.3758098
+        ],
+        [
+          46.97992,
+          10.3754945
+        ],
+        [
+          46.9803884,
+          10.3753328
+        ],
+        [
+          46.9819971,
+          10.3747775
+        ],
+        [
+          46.9831778,
+          10.37437
+        ],
+        [
+          46.9842314,
+          10.3740063
+        ],
+        [
+          46.9850488,
+          10.3737242
+        ],
+        [
+          46.9861953,
+          10.3733284
+        ],
+        [
+          46.9872645,
+          10.3729593
+        ],
+        [
+          46.9881839,
+          10.3726419
+        ],
+        [
+          46.9885748,
+          10.372507
+        ]
+      ]
+    },
+    {
+      "id": 22995188,
+      "name": "Gratbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9834708,
+          10.3165578
+        ],
+        [
+          46.9843309,
+          10.3176114
+        ],
+        [
+          46.9853062,
+          10.3188061
+        ],
+        [
+          46.9862734,
+          10.3199909
+        ],
+        [
+          46.9871684,
+          10.3210874
+        ],
+        [
+          46.9884234,
+          10.3226247
+        ],
+        [
+          46.9893816,
+          10.3237987
+        ],
+        [
+          46.9896916,
+          10.3241783
+        ],
+        [
+          46.9899893,
+          10.3245431
+        ]
+      ]
+    },
+    {
+      "id": 31909729,
+      "name": "Nachtweidebahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9799021,
+          10.305633
+        ],
+        [
+          46.9799949,
+          10.3059421
+        ],
+        [
+          46.9802044,
+          10.3066163
+        ],
+        [
+          46.9804882,
+          10.3075009
+        ],
+        [
+          46.9809335,
+          10.3088885
+        ],
+        [
+          46.9814563,
+          10.3105181
+        ],
+        [
+          46.9818084,
+          10.3116154
+        ],
+        [
+          46.9821758,
+          10.3127604
+        ],
+        [
+          46.9824924,
+          10.3137472
+        ],
+        [
+          46.9828545,
+          10.3148759
+        ],
+        [
+          46.9831598,
+          10.3158273
+        ],
+        [
+          46.9838622,
+          10.3179394
+        ],
+        [
+          46.9842596,
+          10.319173
+        ],
+        [
+          46.9848844,
+          10.3210966
+        ],
+        [
+          46.9854972,
+          10.3230184
+        ],
+        [
+          46.9858179,
+          10.3239768
+        ],
+        [
+          46.9859731,
+          10.324457
+        ],
+        [
+          46.9861273,
+          10.3249646
+        ]
+      ]
+    },
+    {
+      "id": 32320200,
+      "name": "Schwarzwasserlift",
+      "cat": "SL",
+      "coords": [
+        [
+          46.9856429,
+          10.2987291
+        ],
+        [
+          46.9860707,
+          10.29878
+        ],
+        [
+          46.9918557,
+          10.2995137
+        ],
+        [
+          46.9921368,
+          10.2995493
+        ]
+      ]
+    },
+    {
+      "id": 32322742,
+      "name": "Höllkarbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9746103,
+          10.3119216
+        ],
+        [
+          46.9739646,
+          10.3123957
+        ],
+        [
+          46.9731018,
+          10.3130291
+        ],
+        [
+          46.971791,
+          10.3139915
+        ],
+        [
+          46.9717239,
+          10.3140413
+        ],
+        [
+          46.9706746,
+          10.3148204
+        ],
+        [
+          46.9695474,
+          10.3156573
+        ],
+        [
+          46.9678699,
+          10.3169029
+        ],
+        [
+          46.9671749,
+          10.317419
+        ],
+        [
+          46.9667337,
+          10.3177465
+        ],
+        [
+          46.9655397,
+          10.3186331
+        ],
+        [
+          46.9650266,
+          10.319014
+        ],
+        [
+          46.9636701,
+          10.3200211
+        ],
+        [
+          46.9622401,
+          10.3210828
+        ],
+        [
+          46.9614408,
+          10.3216762
+        ]
+      ]
+    },
+    {
+      "id": 32345117,
+      "name": "Greitspitzlift",
+      "cat": "SL",
+      "coords": [
+        [
+          46.974864,
+          10.3362354
+        ],
+        [
+          46.9730592,
+          10.3345624
+        ],
+        [
+          46.9703142,
+          10.333962
+        ]
+      ]
+    },
+    {
+      "id": 32346046,
+      "name": "Velilleckbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.0056994,
+          10.3173143
+        ],
+        [
+          47.0048063,
+          10.3177634
+        ],
+        [
+          47.0039977,
+          10.3181699
+        ],
+        [
+          47.0023537,
+          10.3189965
+        ],
+        [
+          47.0012122,
+          10.3195704
+        ],
+        [
+          46.999823,
+          10.3202689
+        ],
+        [
+          46.9990829,
+          10.3206409
+        ],
+        [
+          46.9984688,
+          10.3209497
+        ],
+        [
+          46.9978611,
+          10.3212552
+        ],
+        [
+          46.9973116,
+          10.3215315
+        ],
+        [
+          46.9956464,
+          10.3223686
+        ],
+        [
+          46.9944818,
+          10.3229541
+        ],
+        [
+          46.992729,
+          10.3238352
+        ],
+        [
+          46.9916429,
+          10.3243812
+        ],
+        [
+          46.9909671,
+          10.3247209
+        ],
+        [
+          46.9900231,
+          10.3251954
+        ],
+        [
+          46.9897344,
+          10.3253405
+        ]
+      ]
+    },
+    {
+      "id": 83705826,
+      "name": "Lange Wandbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          46.9714864,
+          10.3149071
+        ],
+        [
+          46.9713165,
+          10.3160148
+        ],
+        [
+          46.9711139,
+          10.3173348
+        ],
+        [
+          46.9709245,
+          10.3185695
+        ],
+        [
+          46.9706325,
+          10.3204728
+        ],
+        [
+          46.9703539,
+          10.3222889
+        ],
+        [
+          46.9700831,
+          10.3240535
+        ],
+        [
+          46.9698293,
+          10.3257078
+        ],
+        [
+          46.9695116,
+          10.3277785
+        ],
+        [
+          46.9692662,
+          10.3293784
+        ],
+        [
+          46.9690617,
+          10.3307107
+        ],
+        [
+          46.9688686,
+          10.3319697
+        ],
+        [
+          46.9687547,
+          10.3327121
+        ],
+        [
+          46.9686833,
+          10.3331773
+        ]
+      ]
+    },
+    {
+      "id": 142587943,
+      "name": "Musellalift",
+      "cat": "SL",
+      "coords": [
+        [
+          46.9439168,
+          10.3587527
+        ],
+        [
+          46.9439292,
+          10.3586034
+        ],
+        [
+          46.9443359,
+          10.3537132
+        ],
+        [
+          46.9443544,
+          10.3534902
+        ]
+      ]
+    },
+    {
+      "id": 142587945,
+      "name": "Pardatschgratbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.0126825,
+          10.2945027
+        ],
+        [
+          47.0117079,
+          10.2958329
+        ],
+        [
+          47.0103633,
+          10.2977129
+        ],
+        [
+          47.008387,
+          10.3004763
+        ],
+        [
+          47.0025993,
+          10.3085682
+        ],
+        [
+          46.995644,
+          10.318299
+        ],
+        [
+          46.9925219,
+          10.3226555
+        ],
+        [
+          46.9918043,
+          10.3237343
+        ],
+        [
+          46.9915465,
+          10.3241219
+        ]
+      ]
+    },
+    {
+      "id": 1547810965,
+      "name": "Silvrettabahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.9961173,
+          10.3022061
+        ],
+        [
+          46.9957257,
+          10.3026294
+        ],
+        [
+          46.9940212,
+          10.3044722
+        ],
+        [
+          46.9931485,
+          10.3054156
+        ],
+        [
+          46.9920175,
+          10.3066382
+        ],
+        [
+          46.9899053,
+          10.3089216
+        ],
+        [
+          46.9879799,
+          10.3110029
+        ],
+        [
+          46.9869668,
+          10.312098
+        ],
+        [
+          46.9858868,
+          10.3132654
+        ],
+        [
+          46.985737,
+          10.3134273
+        ],
+        [
+          46.9855822,
+          10.3135946
+        ],
+        [
+          46.9833029,
+          10.3160583
+        ],
+        [
+          46.9824785,
+          10.3169493
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

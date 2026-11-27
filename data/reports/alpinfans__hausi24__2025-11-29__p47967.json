@@ -1,0 +1,1023 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 47967,
+    "title": "Ochsenalmbahn und Weißseejochbahn mit tollen Pisten bei wechselhaftem Wetter",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=47967",
+    "date": "2025-11-29",
+    "post_date": "2025-11-29",
+    "text": "Gerade ist unser Bus stecken geblieben auf der Straße nach der Ochsenalmbahn I, denn der Busfahrer hat die Schneeketten Pflicht ignoriert, die dort begonnen hat. Hatten wir mal unten direkt geparkt oder dort Schneeketten montiert Dafür heute alle Lifte offen. Inzwischen hat der Bus es auch mit Schneeketten nach oben geschafft, die anderen Busse haben dann unten an der Ochsenalmbahn geparkt. Die Pisten sind gut präpariert und gut zu fahren. Auch die gesperrte Tunnel Piste ging ganz ok, nur im Tunnel selbst müsste man laufen.\n[Image Descriptions: An der Weißseejochbahn auch gut zu fahren; Es klärt stellenweise auch etwas auf!; Erster amtlich genehmigter zwischenausstieg in Österreich; Von der bergstation des schlepplifts kommt man bis in den ski tunnel; 19,90.€ fürs mini Schnitzel aber schmeckt gut!; Später steigt hier die schneebebenparty; Inzwischen ist das Wetter schon etwas freundlicher geworden; Gesperrte Tunnel Piste; Im Tunnel selbst musste man laufen; Schneebeben \"Party\"]"
+  },
+  "center": [
+    46.86554574074073,
+    10.708222500000002
+  ],
+  "placed_count": 30,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82404&mode=view",
+      "description": "PXL_20251129_065443262.jpg (629.52 KiB) 3307 mal betrachtet",
+      "geo": {
+        "latitude": 46.875083333333336,
+        "longitude": 10.711133333333333,
+        "elevation_m": null,
+        "bearing_deg": 161,
+        "captured_at": "2025-11-29T07:54:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 954007493,
+        "name": "Weißseejochbahn",
+        "cat": "EUB",
+        "dist": 101
+      },
+      "piste": {
+        "name": "Adlerpiste",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 146
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82428&mode=view",
+      "description": "PXL_20251129_075030186.jpg (537.91 KiB) 3253 mal betrachtet",
+      "geo": {
+        "latitude": 46.86432222222222,
+        "longitude": 10.712844444444444,
+        "elevation_m": 2803,
+        "bearing_deg": 85,
+        "captured_at": "2025-11-29T08:50:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 44800656,
+        "name": "Ochsenalmbahn 2",
+        "cat": "SB",
+        "dist": 117
+      },
+      "piste": {
+        "name": "Verbindung Ochsenalmbahn - Falginjochbahn - Karlesjochbahn",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 113
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82429&mode=view",
+      "description": "PXL_20251129_081132816.jpg (611.2 KiB) 3253 mal betrachtet",
+      "geo": {
+        "latitude": 46.84880555555556,
+        "longitude": 10.702047222222221,
+        "elevation_m": 3090.4,
+        "bearing_deg": 84,
+        "captured_at": "2025-11-29T09:11:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 740374955,
+        "name": "Falginjochbahn",
+        "cat": "PB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "Weissseeclasic",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82430&mode=view",
+      "description": "PXL_20251129_081920872.jpg (345.46 KiB) 3253 mal betrachtet",
+      "geo": {
+        "latitude": 46.87726388888889,
+        "longitude": 10.716680555555556,
+        "elevation_m": 2425,
+        "bearing_deg": 158,
+        "captured_at": "2025-11-29T09:19:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1526165266,
+        "name": "Ochsenalmbahn 1",
+        "cat": "SB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Kanonenrohr",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82431&mode=view",
+      "description": "PXL_20251129_081516970.jpg (322.54 KiB) 3253 mal betrachtet",
+      "geo": {
+        "latitude": 46.86076388888889,
+        "longitude": 10.711236111111111,
+        "elevation_m": 2823,
+        "bearing_deg": 82,
+        "captured_at": "2025-11-29T09:15:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 740374955,
+        "name": "Falginjochbahn",
+        "cat": "PB",
+        "dist": 40
+      },
+      "piste": {
+        "name": "Promenade",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82432&mode=view",
+      "description": "PXL_20251129_081509564.jpg (306.83 KiB) 3253 mal betrachtet",
+      "geo": {
+        "latitude": 46.86076388888889,
+        "longitude": 10.711236111111111,
+        "elevation_m": 2823,
+        "bearing_deg": 83,
+        "captured_at": "2025-11-29T09:15:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 740374955,
+        "name": "Falginjochbahn",
+        "cat": "PB",
+        "dist": 40
+      },
+      "piste": {
+        "name": "Promenade",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82455&mode=view",
+      "description": "An der Weißseejochbahn auch gut zu fahren",
+      "geo": {
+        "latitude": 46.866616666666665,
+        "longitude": 10.691272222222223,
+        "elevation_m": 3015,
+        "bearing_deg": 97,
+        "captured_at": "2025-11-29T09:49:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 954007493,
+        "name": "Weißseejochbahn",
+        "cat": "EUB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Schmugglerin",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82456&mode=view",
+      "description": "PXL_20251129_085023317.jpg (201.76 KiB) 3239 mal betrachtet",
+      "geo": {
+        "latitude": 46.86732777777778,
+        "longitude": 10.69411388888889,
+        "elevation_m": 2912,
+        "bearing_deg": 149,
+        "captured_at": "2025-11-29T09:50:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 954007493,
+        "name": "Weißseejochbahn",
+        "cat": "EUB",
+        "dist": 58
+      },
+      "piste": {
+        "name": "Schmugglerin",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82457&mode=view",
+      "description": "Es klärt stellenweise auch etwas auf!",
+      "geo": {
+        "latitude": 46.867352777777775,
+        "longitude": 10.693011111111112,
+        "elevation_m": 2944,
+        "bearing_deg": 91,
+        "captured_at": "2025-11-29T10:05:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 954007493,
+        "name": "Weißseejochbahn",
+        "cat": "EUB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Wallfahrer",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82461&mode=view",
+      "description": "Erster amtlich genehmigter zwischenausstieg in Österreich",
+      "geo": {
+        "latitude": 46.862,
+        "longitude": 10.711708333333332,
+        "elevation_m": 2807,
+        "bearing_deg": 121,
+        "captured_at": "2025-11-29T10:26:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1512990096,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Wiesejaggl",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 36
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82462&mode=view",
+      "description": "PXL_20251129_092502567.jpg (466.22 KiB) 3232 mal betrachtet",
+      "geo": {
+        "latitude": 46.86309166666667,
+        "longitude": 10.713911111111111,
+        "elevation_m": 2799,
+        "bearing_deg": 117,
+        "captured_at": "2025-11-29T10:25:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 740374955,
+        "name": "Falginjochbahn",
+        "cat": "PB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "7",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82494&mode=view",
+      "description": "Von der bergstation des schlepplifts kommt man bis in den ski tunnel",
+      "geo": {
+        "latitude": 46.86025,
+        "longitude": 10.706299999999999,
+        "elevation_m": 2923,
+        "bearing_deg": 149,
+        "captured_at": "2025-11-29T10:29:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1512990096,
+        "name": "Sonnenlift",
+        "cat": "SL",
+        "dist": 15
+      },
+      "piste": {
+        "name": "Wiesejaggl",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82495&mode=view",
+      "description": "PXL_20251129_094303711.jpg (505.52 KiB) 3211 mal betrachtet",
+      "geo": {
+        "latitude": 46.857866666666666,
+        "longitude": 10.69913888888889,
+        "elevation_m": 3031,
+        "bearing_deg": 149,
+        "captured_at": "2025-11-29T10:43:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 65
+      },
+      "piste": {
+        "name": "Karles-Expert",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82525&mode=view",
+      "description": "Später steigt hier die schneebebenparty",
+      "geo": {
+        "latitude": 46.86373611111111,
+        "longitude": 10.712497222222222,
+        "elevation_m": 2803,
+        "bearing_deg": 124,
+        "captured_at": "2025-11-29T12:40:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 79
+      },
+      "piste": {
+        "name": "Südtiroler Weg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 63
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82564&mode=view",
+      "description": "Inzwischen ist das Wetter schon etwas freundlicher geworden",
+      "geo": {
+        "latitude": 46.870044444444446,
+        "longitude": 10.704830555555555,
+        "elevation_m": 2700,
+        "bearing_deg": 85,
+        "captured_at": "2025-11-29T13:46:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schmugglerin",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82565&mode=view",
+      "description": "PXL_20251129_130437880.jpg (627.52 KiB) 3169 mal betrachtet",
+      "geo": {
+        "latitude": 46.88670555555556,
+        "longitude": 10.71906388888889,
+        "elevation_m": 2227,
+        "bearing_deg": 117,
+        "captured_at": "2025-11-29T14:04:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1526165266,
+        "name": "Ochsenalmbahn 1",
+        "cat": "SB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "Murmel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82581&mode=view",
+      "description": "PXL_20251129_135603033.jpg (592.09 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.86383055555556,
+        "longitude": 10.714169444444444,
+        "elevation_m": 2815.01,
+        "bearing_deg": 120,
+        "captured_at": "2025-11-29T14:56:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 44800656,
+        "name": "Ochsenalmbahn 2",
+        "cat": "SB",
+        "dist": 57
+      },
+      "piste": {
+        "name": "Verbindung Ochsenalmbahn - Falginjochbahn - Karlesjochbahn",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 1
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82582&mode=view",
+      "description": "PXL_20251129_134534667.jpg (680.48 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.87300555555556,
+        "longitude": 10.713133333333333,
+        "elevation_m": 2521,
+        "bearing_deg": 78,
+        "captured_at": "2025-11-29T14:45:34"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schmugglerin",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82583&mode=view",
+      "description": "PXL_20251129_130437880.jpg (627.52 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.88670555555556,
+        "longitude": 10.71906388888889,
+        "elevation_m": 2227,
+        "bearing_deg": 117,
+        "captured_at": "2025-11-29T14:04:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1526165266,
+        "name": "Ochsenalmbahn 1",
+        "cat": "SB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "Murmel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82584&mode=view",
+      "description": "PXL_20251129_134211194.jpg (542.07 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.866625,
+        "longitude": 10.691277777777778,
+        "elevation_m": 3016,
+        "bearing_deg": 114,
+        "captured_at": "2025-11-29T14:42:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 954007493,
+        "name": "Weißseejochbahn",
+        "cat": "EUB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "Schmugglerin",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82585&mode=view",
+      "description": "PXL_20251129_132740275.jpg (485.87 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.86522777777778,
+        "longitude": 10.70636111111111,
+        "elevation_m": 2783,
+        "bearing_deg": 82,
+        "captured_at": "2025-11-29T14:27:40"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Vronitunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82586&mode=view",
+      "description": "Gesperrte Tunnel Piste",
+      "geo": {
+        "latitude": 46.865225,
+        "longitude": 10.70636111111111,
+        "elevation_m": 2783,
+        "bearing_deg": 99,
+        "captured_at": "2025-11-29T14:27:45"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Vronitunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82587&mode=view",
+      "description": "PXL_20251129_132553398.jpg (392 KiB) 3157 mal betrachtet",
+      "geo": {
+        "latitude": 46.862180555555554,
+        "longitude": 10.70533611111111,
+        "elevation_m": 2909,
+        "bearing_deg": 182,
+        "captured_at": "2025-11-29T14:25:53"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Vronitunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82588&mode=view",
+      "description": "Im Tunnel selbst musste man laufen",
+      "geo": {
+        "latitude": 46.86100555555556,
+        "longitude": 10.707749999999999,
+        "elevation_m": 2920,
+        "bearing_deg": 140,
+        "captured_at": "2025-11-29T14:23:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 37
+      },
+      "piste": {
+        "name": "18 Wiesejaggl",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82610&mode=view",
+      "description": "PXL_20251129_150424215.jpg (377.64 KiB) 3147 mal betrachtet",
+      "geo": {
+        "latitude": 46.85236388888889,
+        "longitude": 10.70831111111111,
+        "elevation_m": 3036.91,
+        "bearing_deg": 120,
+        "captured_at": "2025-11-29T16:04:24"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Weissseegenuss",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82611&mode=view",
+      "description": "PXL_20251129_151615295.jpg (499.08 KiB) 3147 mal betrachtet",
+      "geo": {
+        "latitude": 46.86360555555556,
+        "longitude": 10.71261111111111,
+        "elevation_m": 2803,
+        "bearing_deg": 118,
+        "captured_at": "2025-11-29T16:16:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 62
+      },
+      "piste": {
+        "name": "Südtiroler Weg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 47
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82612&mode=view",
+      "description": "Schneebeben \"Party\"",
+      "geo": {
+        "latitude": 46.86360277777778,
+        "longitude": 10.712625,
+        "elevation_m": 2806,
+        "bearing_deg": 139,
+        "captured_at": "2025-11-29T16:17:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 62
+      },
+      "piste": {
+        "name": "Südtiroler Weg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 46
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82668&mode=view",
+      "description": "PXL_20251129_171848609.NIGHT.jpg (519.22 KiB) 3122 mal betrachtet",
+      "geo": {
+        "latitude": 46.86360277777778,
+        "longitude": 10.71336111111111,
+        "elevation_m": 2800.2,
+        "bearing_deg": 91,
+        "captured_at": "2025-11-29T18:18:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 740374955,
+        "name": "Falginjochbahn",
+        "cat": "PB",
+        "dist": 51
+      },
+      "piste": {
+        "name": "Verbindung Ochsenalmbahn - Falginjochbahn - Karlesjochbahn",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 36
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82669&mode=view",
+      "description": "PXL_20251129_160133460.jpg (600.56 KiB) 3122 mal betrachtet",
+      "geo": {
+        "latitude": 46.86366944444445,
+        "longitude": 10.712713888888889,
+        "elevation_m": 2803,
+        "bearing_deg": 97,
+        "captured_at": "2025-11-29T17:01:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 65
+      },
+      "piste": {
+        "name": "Südtiroler Weg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 53
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=82670&mode=view",
+      "description": "PXL_20251129_165047002.jpg (348.96 KiB) 3122 mal betrachtet",
+      "geo": {
+        "latitude": 46.86372777777778,
+        "longitude": 10.712575,
+        "elevation_m": 2803,
+        "bearing_deg": 55,
+        "captured_at": "2025-11-29T17:50:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 60925598,
+        "name": "Karlesjochbahn",
+        "cat": "EUB",
+        "dist": 76
+      },
+      "piste": {
+        "name": "Südtiroler Weg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 61
+      },
+      "n": 29
+    }
+  ],
+  "lifts": [
+    {
+      "id": 44800656,
+      "name": "Ochsenalmbahn 2",
+      "cat": "SB",
+      "coords": [
+        [
+          46.8757501,
+          10.7155831
+        ],
+        [
+          46.8749813,
+          10.7155056
+        ],
+        [
+          46.8739286,
+          10.7153938
+        ],
+        [
+          46.8725486,
+          10.7152472
+        ],
+        [
+          46.8714207,
+          10.7151273
+        ],
+        [
+          46.8709548,
+          10.7150778
+        ],
+        [
+          46.8699912,
+          10.7149754
+        ],
+        [
+          46.8687147,
+          10.7148398
+        ],
+        [
+          46.8669287,
+          10.7146501
+        ],
+        [
+          46.8668435,
+          10.714641
+        ],
+        [
+          46.8664902,
+          10.7146035
+        ],
+        [
+          46.865228,
+          10.7144694
+        ],
+        [
+          46.8646088,
+          10.7144036
+        ],
+        [
+          46.8643224,
+          10.7143732
+        ]
+      ]
+    },
+    {
+      "id": 60925598,
+      "name": "Karlesjochbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8631355,
+          10.7130712
+        ],
+        [
+          46.8630282,
+          10.7127476
+        ],
+        [
+          46.8627488,
+          10.7119047
+        ],
+        [
+          46.8617945,
+          10.7090263
+        ],
+        [
+          46.8609404,
+          10.7064501
+        ],
+        [
+          46.8604546,
+          10.7049847
+        ],
+        [
+          46.8601861,
+          10.7041748
+        ],
+        [
+          46.8585789,
+          10.6993272
+        ],
+        [
+          46.8578536,
+          10.6971397
+        ],
+        [
+          46.8568709,
+          10.6941757
+        ]
+      ]
+    },
+    {
+      "id": 740374955,
+      "name": "Falginjochbahn",
+      "cat": "PB",
+      "coords": [
+        [
+          46.8633277,
+          10.7138952
+        ],
+        [
+          46.8616558,
+          10.7125529
+        ],
+        [
+          46.8496602,
+          10.7029235
+        ],
+        [
+          46.8487577,
+          10.7021991
+        ]
+      ]
+    },
+    {
+      "id": 954007493,
+      "name": "Weißseejochbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8753598,
+          10.7147505
+        ],
+        [
+          46.875014,
+          10.7137917
+        ],
+        [
+          46.874478,
+          10.7123056
+        ],
+        [
+          46.8736892,
+          10.7101191
+        ],
+        [
+          46.8720919,
+          10.7056909
+        ],
+        [
+          46.8705531,
+          10.7014252
+        ],
+        [
+          46.8693552,
+          10.6981046
+        ],
+        [
+          46.8685447,
+          10.6958579
+        ],
+        [
+          46.866963,
+          10.6914736
+        ],
+        [
+          46.8668417,
+          10.6911372
+        ]
+      ]
+    },
+    {
+      "id": 1512990096,
+      "name": "Sonnenlift",
+      "cat": "SL",
+      "coords": [
+        [
+          46.862438,
+          10.713102
+        ],
+        [
+          46.861543,
+          10.7105014
+        ],
+        [
+          46.8602515,
+          10.7067488
+        ],
+        [
+          46.8600419,
+          10.7061399
+        ]
+      ]
+    },
+    {
+      "id": 1526165266,
+      "name": "Ochsenalmbahn 1",
+      "cat": "SB",
+      "coords": [
+        [
+          46.886672,
+          10.7191486
+        ],
+        [
+          46.8864145,
+          10.7190645
+        ],
+        [
+          46.8861827,
+          10.7189889
+        ],
+        [
+          46.884631,
+          10.7184822
+        ],
+        [
+          46.8836575,
+          10.7181644
+        ],
+        [
+          46.8827973,
+          10.7178836
+        ],
+        [
+          46.8810476,
+          10.7173124
+        ],
+        [
+          46.8807993,
+          10.7172313
+        ],
+        [
+          46.8794936,
+          10.7168051
+        ],
+        [
+          46.8777157,
+          10.7162247
+        ],
+        [
+          46.8768371,
+          10.7159379
+        ],
+        [
+          46.8762483,
+          10.7157457
+        ],
+        [
+          46.8757501,
+          10.7155831
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

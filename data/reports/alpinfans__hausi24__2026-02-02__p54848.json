@@ -1,0 +1,2058 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 54848,
+    "title": "Kaiserwetter und tolle Pisten an der Resterhöhe Kitzbühel",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=54848",
+    "date": "2026-02-02",
+    "post_date": "2026-02-02",
+    "text": "Heute geht es zum Abschluss nach Kitzbühel, Stadt am letzten Flecken Camping freundlichen Salzburg an der Resterhöhe, bevor es nach Tirol geht. Der Parkplatz hier hat eine Schranke, der Mitarbeiter heute morgen meinte dass die Schranke aber beim Ausfahren einfach ausgeht, ansonsten kann man mit Skipass kostenlos ausfahren. Wie das ist wenn man den Skipass aber am Abend für Pfand abgegeben hat konnte er nicht beantworten, mal schauen wie ich heute Abend rauskommen werde aber das wird schon klappen. Heute erneut Kaiserwetter, unten in Mittersill gab es heute morgen noch Hochnebel, hier oben ist es aber schon perfekt sonnig.\n[Image Descriptions: Parkplatz an der Resterhöhe; Leider muss man immer noch einen langsamen vierersessel hier in Premium Skigebiet fahren, gleich geht's weiter zum hochgelegenen Teil des Skigebiets; Nebelmeer über Mittersill; Tolle Pisten am ersten 6er Sessel!; Auch hier gute Piste, der Untergrund ist aber etwas wellig; Am höchsten Punkt auf knapp unter 2000 m; Auf dem Weg Richtung Kitzbühel geht es erstmal über eine grüne Wiese; Unten raus nicht viel Schnee an den Sonnen Hängen; Es geht rüber nach Kitzbühel in einer der Pioniere der 3S Bahnen; Auf der anderen Seite leider etwas voller, und auch die Pisten etwas eisiger; Der obere Lift auf der gegenseite läuft leider nicht, wäre schön in der Sonne gelegen; Hier ist es auch schon langsam ziemlich voll um 11:30 Uhr, war wahrscheinlich nur heute morgen in der anderen Seite etwas leer; Weiter in Richtung Hahnenkamm; Die nächsten langsamen Vierer konnte ich zum Glück umfahren durch die Sesselbahn Brunn; Steinbergkogel; Hahnenkamm Streif Weltcup Piste, leider nur der langweilige Teil davon befahrbar; Fleckalm Abfahrt auch schon abgerutscht und eisig; Oben bei der fleckalmbahn gab es dann schönes Bratkartoffel Speck Gemisch mit Spiegelei, hat gut geschmeckt; Pisten inzwischen alle sehr zerfahren; Wieder zurück im linken Teil des Skigebiets; Und erneut muss der langsame Vierer zur Resterhöhe gefahren werden; Vor der letzten Talabfahrt am letzten Tag gibt's noch Feierabendbier an einem schönen sonnigen Spot!; Unten angekommen um 16:45 Uhr, die letzte Talabfahrt war noch mal ziemlich hart, aber der sonnige letzte Blick hat sich oben noch mal richtig gelohnt. In Summe auch wieder ein guter Skitag bei nicht so gutem Schnee, 8 von 10 Punkten]"
+  },
+  "center": [
+    47.35424847883597,
+    12.366245039682543
+  ],
+  "placed_count": 42,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98727&mode=view",
+      "description": "Parkplatz an der Resterhöhe",
+      "geo": {
+        "latitude": 47.311477777777775,
+        "longitude": 12.404744444444445,
+        "elevation_m": 1316.8,
+        "bearing_deg": 80,
+        "captured_at": "2026-02-02T08:06:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857542,
+        "name": "Resterhöhe",
+        "cat": "SB",
+        "dist": 54
+      },
+      "piste": {
+        "name": "Pass Thurn Direktabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 38
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98728&mode=view",
+      "description": "Leider muss man immer noch einen langsamen vierersessel hier in Premium Skigebiet fahren, gleich geht's weiter zum hochgelegenen Teil des Skigebiets",
+      "geo": {
+        "latitude": 47.312374999999996,
+        "longitude": 12.382491666666667,
+        "elevation_m": 1817.65,
+        "bearing_deg": 145,
+        "captured_at": "2026-02-02T08:38:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98730&mode=view",
+      "description": "PXL_20260202_074259041.jpg (680.29 KiB) 2608 mal betrachtet",
+      "geo": {
+        "latitude": 47.30715277777777,
+        "longitude": 12.382497222222222,
+        "elevation_m": 1934.5,
+        "bearing_deg": 332,
+        "captured_at": "2026-02-02T08:42:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 3
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98731&mode=view",
+      "description": "Nebelmeer über Mittersill",
+      "geo": {
+        "latitude": 47.30715277777777,
+        "longitude": 12.382497222222222,
+        "elevation_m": 1934.5,
+        "bearing_deg": 130,
+        "captured_at": "2026-02-02T08:43:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 3
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98732&mode=view",
+      "description": "Tolle Pisten am ersten 6er Sessel!",
+      "geo": {
+        "latitude": 47.314027777777774,
+        "longitude": 12.370266666666668,
+        "elevation_m": 1976,
+        "bearing_deg": 285,
+        "captured_at": "2026-02-02T08:54:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856931,
+        "name": "Hanglalm",
+        "cat": "SB",
+        "dist": 44
+      },
+      "piste": {
+        "name": "Hanglalm",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98733&mode=view",
+      "description": "PXL_20260202_075322627.jpg (833.59 KiB) 2608 mal betrachtet",
+      "geo": {
+        "latitude": 47.31388333333333,
+        "longitude": 12.369386111111112,
+        "elevation_m": 1986,
+        "bearing_deg": 9,
+        "captured_at": "2026-02-02T08:53:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856931,
+        "name": "Hanglalm",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 3
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98734&mode=view",
+      "description": "PXL_20260202_074601677.jpg (1.05 MiB) 2608 mal betrachtet",
+      "geo": {
+        "latitude": 47.31646666666666,
+        "longitude": 12.377622222222223,
+        "elevation_m": 1755.21,
+        "bearing_deg": 301,
+        "captured_at": "2026-02-02T08:46:01"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Resterkogel-Hanglalm",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98735&mode=view",
+      "description": "PXL_20260202_074524691.jpg (1.18 MiB) 2608 mal betrachtet",
+      "geo": {
+        "latitude": 47.30715277777777,
+        "longitude": 12.382497222222222,
+        "elevation_m": 1758.05,
+        "bearing_deg": 248,
+        "captured_at": "2026-02-02T08:45:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 3
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98736&mode=view",
+      "description": "PXL_20260202_074608478.jpg (870.52 KiB) 2608 mal betrachtet",
+      "geo": {
+        "latitude": 47.31646666666666,
+        "longitude": 12.377622222222223,
+        "elevation_m": 1755.21,
+        "bearing_deg": 125,
+        "captured_at": "2026-02-02T08:46:08"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Resterkogel-Hanglalm",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98737&mode=view",
+      "description": "Auch hier gute Piste, der Untergrund ist aber etwas wellig",
+      "geo": {
+        "latitude": 47.32434722222222,
+        "longitude": 12.369544444444445,
+        "elevation_m": 1731.12,
+        "bearing_deg": 182,
+        "captured_at": "2026-02-02T09:06:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856928,
+        "name": "Hartkaser",
+        "cat": "SB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Hartkaser",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98738&mode=view",
+      "description": "PXL_20260202_080909094.jpg (932.64 KiB) 2605 mal betrachtet",
+      "geo": {
+        "latitude": 47.32240555555556,
+        "longitude": 12.366158333333333,
+        "elevation_m": 1856,
+        "bearing_deg": 160,
+        "captured_at": "2026-02-02T09:09:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856928,
+        "name": "Hartkaser",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98741&mode=view",
+      "description": "PXL_20260202_083452578.jpg (948.45 KiB) 2580 mal betrachtet",
+      "geo": {
+        "latitude": 47.32195277777778,
+        "longitude": 12.352313888888888,
+        "elevation_m": 1981,
+        "bearing_deg": 4,
+        "captured_at": "2026-02-02T09:34:52"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98742&mode=view",
+      "description": "Am höchsten Punkt auf knapp unter 2000 m",
+      "geo": {
+        "latitude": 47.32131944444445,
+        "longitude": 12.34941388888889,
+        "elevation_m": 2040,
+        "bearing_deg": 278,
+        "captured_at": "2026-02-02T09:34:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856221,
+        "name": "Zweitausender",
+        "cat": "SB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "Zweitausender",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98743&mode=view",
+      "description": "PXL_20260202_083328853.jpg (729.02 KiB) 2580 mal betrachtet",
+      "geo": {
+        "latitude": 47.32071388888889,
+        "longitude": 12.348325,
+        "elevation_m": 2040,
+        "bearing_deg": 0,
+        "captured_at": "2026-02-02T09:33:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856221,
+        "name": "Zweitausender",
+        "cat": "SB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98744&mode=view",
+      "description": "Auf dem Weg Richtung Kitzbühel geht es erstmal über eine grüne Wiese",
+      "geo": {
+        "latitude": 47.33139166666667,
+        "longitude": 12.358933333333333,
+        "elevation_m": 1575,
+        "bearing_deg": 226,
+        "captured_at": "2026-02-02T09:38:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1153493641,
+        "name": "Trattenbach",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Rettenstein",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98773&mode=view",
+      "description": "PXL_20260202_084200014.jpg (952.02 KiB) 2555 mal betrachtet",
+      "geo": {
+        "latitude": 47.337275000000005,
+        "longitude": 12.355916666666666,
+        "elevation_m": 1864,
+        "bearing_deg": 321,
+        "captured_at": "2026-02-02T09:42:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1153493641,
+        "name": "Trattenbach",
+        "cat": "SB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Verbindung - Trattenbach",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98775&mode=view",
+      "description": "Unten raus nicht viel Schnee an den Sonnen Hängen",
+      "geo": {
+        "latitude": 47.35151944444445,
+        "longitude": 12.394047222222222,
+        "elevation_m": 1554,
+        "bearing_deg": 275,
+        "captured_at": "2026-02-02T09:53:43"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Bärenbadkogel Nord",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98776&mode=view",
+      "description": "Es geht rüber nach Kitzbühel in einer der Pioniere der 3S Bahnen",
+      "geo": {
+        "latitude": 47.36548333333334,
+        "longitude": 12.380677777777779,
+        "elevation_m": 1832,
+        "bearing_deg": 146,
+        "captured_at": "2026-02-02T10:04:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30854221,
+        "name": "3S Bahn",
+        "cat": "PB",
+        "dist": 15
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98804&mode=view",
+      "description": "Auf der anderen Seite leider etwas voller, und auch die Pisten etwas eisiger",
+      "geo": {
+        "latitude": 47.39286666666666,
+        "longitude": 12.329033333333333,
+        "elevation_m": 1513,
+        "bearing_deg": 93,
+        "captured_at": "2026-02-02T10:19:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 139921083,
+        "name": "Hieslegg",
+        "cat": "SB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Hieslegg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98846&mode=view",
+      "description": "Der obere Lift auf der gegenseite läuft leider nicht, wäre schön in der Sonne gelegen",
+      "geo": {
+        "latitude": 47.384163888888885,
+        "longitude": 12.346297222222223,
+        "elevation_m": 1984,
+        "bearing_deg": 16,
+        "captured_at": "2026-02-02T10:28:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 139921083,
+        "name": "Hieslegg",
+        "cat": "SB",
+        "dist": 47
+      },
+      "piste": {
+        "name": "Hieslegg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98847&mode=view",
+      "description": "PXL_20260202_100825610.jpg (770.67 KiB) 2507 mal betrachtet",
+      "geo": {
+        "latitude": 47.38413888888889,
+        "longitude": 12.345769444444445,
+        "elevation_m": 1985,
+        "bearing_deg": 261,
+        "captured_at": "2026-02-02T11:08:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 139921083,
+        "name": "Hieslegg",
+        "cat": "SB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Hieslegg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98848&mode=view",
+      "description": "Hier ist es auch schon langsam ziemlich voll um 11:30 Uhr, war wahrscheinlich nur heute morgen in der anderen Seite etwas leer",
+      "geo": {
+        "latitude": 47.398561111111114,
+        "longitude": 12.326638888888889,
+        "elevation_m": 1454,
+        "bearing_deg": 263,
+        "captured_at": "2026-02-02T11:30:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30853847,
+        "name": "Pengelstein II",
+        "cat": "SB",
+        "dist": 37
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98849&mode=view",
+      "description": "Weiter in Richtung Hahnenkamm",
+      "geo": {
+        "latitude": 47.400705555555554,
+        "longitude": 12.341275000000001,
+        "elevation_m": 1601,
+        "bearing_deg": 42,
+        "captured_at": "2026-02-02T11:48:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 364622315,
+        "name": "Brunn",
+        "cat": "SB",
+        "dist": 64
+      },
+      "piste": {
+        "name": "Brunn-Kälberwald",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98864&mode=view",
+      "description": "Die nächsten langsamen Vierer konnte ich zum Glück umfahren durch die Sesselbahn Brunn",
+      "geo": {
+        "latitude": 47.399163888888886,
+        "longitude": 12.354375,
+        "elevation_m": 1945,
+        "bearing_deg": 92,
+        "captured_at": "2026-02-02T11:55:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 364622315,
+        "name": "Brunn",
+        "cat": "SB",
+        "dist": 11
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98865&mode=view",
+      "description": "Steinbergkogel",
+      "geo": {
+        "latitude": 47.402280555555556,
+        "longitude": 12.36743888888889,
+        "elevation_m": 2068.16,
+        "bearing_deg": 318,
+        "captured_at": "2026-02-02T12:05:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857742,
+        "name": "Steinbergkogel",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Griesalm",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98868&mode=view",
+      "description": "PXL_20260202_111616201.jpg (756.5 KiB) 2481 mal betrachtet",
+      "geo": {
+        "latitude": 47.418641666666666,
+        "longitude": 12.359305555555554,
+        "elevation_m": 1846,
+        "bearing_deg": 256,
+        "captured_at": "2026-02-02T12:16:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857859,
+        "name": "Ehrenbachhöhe",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Sonnenrast",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98869&mode=view",
+      "description": "Hahnenkamm Streif Weltcup Piste, leider nur der langweilige Teil davon befahrbar",
+      "geo": {
+        "latitude": 47.43091111111111,
+        "longitude": 12.369502777777779,
+        "elevation_m": 1436,
+        "bearing_deg": 268,
+        "captured_at": "2026-02-02T12:22:44"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Streif-Rennstrecke",
+        "diff": "expert",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98870&mode=view",
+      "description": "PXL_20260202_115100220.jpg (975.51 KiB) 2469 mal betrachtet",
+      "geo": {
+        "latitude": 47.4265,
+        "longitude": 12.371380555555556,
+        "elevation_m": 1707,
+        "bearing_deg": 158,
+        "captured_at": "2026-02-02T12:51:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150132245,
+        "name": "Starthaus",
+        "cat": "SL",
+        "dist": 20
+      },
+      "piste": {
+        "name": "Streif-Rennstrecke",
+        "diff": "expert",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98871&mode=view",
+      "description": "PXL_20260202_115133104.jpg (1 MiB) 2469 mal betrachtet",
+      "geo": {
+        "latitude": 47.427458333333334,
+        "longitude": 12.370758333333335,
+        "elevation_m": 1658,
+        "bearing_deg": 211,
+        "captured_at": "2026-02-02T12:51:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150132245,
+        "name": "Starthaus",
+        "cat": "SL",
+        "dist": 135
+      },
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98872&mode=view",
+      "description": "Fleckalm Abfahrt auch schon abgerutscht und eisig",
+      "geo": {
+        "latitude": 47.435674999999996,
+        "longitude": 12.345569444444445,
+        "elevation_m": 1266,
+        "bearing_deg": 240,
+        "captured_at": "2026-02-02T13:08:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30854288,
+        "name": "Fleckalmbahn",
+        "cat": "EUB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Fleck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98873&mode=view",
+      "description": "PXL_20260202_120542033.jpg (1.04 MiB) 2469 mal betrachtet",
+      "geo": {
+        "latitude": 47.42509166666667,
+        "longitude": 12.357161111111111,
+        "elevation_m": 1659.96,
+        "bearing_deg": 239,
+        "captured_at": "2026-02-02T13:05:42"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Fleck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98874&mode=view",
+      "description": "Oben bei der fleckalmbahn gab es dann schönes Bratkartoffel Speck Gemisch mit Spiegelei, hat gut geschmeckt",
+      "geo": {
+        "latitude": 47.41728611111111,
+        "longitude": 12.359277777777777,
+        "elevation_m": 1830,
+        "bearing_deg": 63,
+        "captured_at": "2026-02-02T13:37:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857860,
+        "name": "Sonnenrast",
+        "cat": "SB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "Hannenkamm",
+        "diff": "novice",
+        "ptype": "hike",
+        "dist": 50
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98896&mode=view",
+      "description": "Pisten inzwischen alle sehr zerfahren",
+      "geo": {
+        "latitude": 47.362947222222225,
+        "longitude": 12.382988888888889,
+        "elevation_m": 1699,
+        "bearing_deg": 13,
+        "captured_at": "2026-02-02T14:58:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30854222,
+        "name": "Talsen",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98897&mode=view",
+      "description": "PXL_20260202_131015669.jpg (1.03 MiB) 2434 mal betrachtet",
+      "geo": {
+        "latitude": 47.43770277777777,
+        "longitude": 12.33025,
+        "elevation_m": 1111.9,
+        "bearing_deg": 190,
+        "captured_at": "2026-02-02T14:10:15"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Kaser",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98898&mode=view",
+      "description": "Wieder zurück im linken Teil des Skigebiets",
+      "geo": {
+        "latitude": 47.31798888888889,
+        "longitude": 12.359741666666666,
+        "elevation_m": 2020,
+        "bearing_deg": 137,
+        "captured_at": "2026-02-02T15:36:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856928,
+        "name": "Hartkaser",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Hartkaser",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98899&mode=view",
+      "description": "PXL_20260202_142633759.jpg (1 MiB) 2434 mal betrachtet",
+      "geo": {
+        "latitude": 47.32070277777778,
+        "longitude": 12.348547222222223,
+        "elevation_m": 2041,
+        "bearing_deg": 6,
+        "captured_at": "2026-02-02T15:26:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30856221,
+        "name": "Zweitausender",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Pass Thurn Direktabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98900&mode=view",
+      "description": "PXL_20260202_141501101.jpg (793.83 KiB) 2434 mal betrachtet",
+      "geo": {
+        "latitude": 47.339725,
+        "longitude": 12.38091388888889,
+        "elevation_m": 1923.61,
+        "bearing_deg": 178,
+        "captured_at": "2026-02-02T15:15:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30854843,
+        "name": "Bärenbadkogel II",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98901&mode=view",
+      "description": "Und erneut muss der langsame Vierer zur Resterhöhe gefahren werden",
+      "geo": {
+        "latitude": 47.31119722222222,
+        "longitude": 12.373855555555556,
+        "elevation_m": 1922,
+        "bearing_deg": 10,
+        "captured_at": "2026-02-02T15:48:50"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 37
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98902&mode=view",
+      "description": "Vor der letzten Talabfahrt am letzten Tag gibt's noch Feierabendbier an einem schönen sonnigen Spot!",
+      "geo": {
+        "latitude": 47.30877777777778,
+        "longitude": 12.383166666666668,
+        "elevation_m": 1919,
+        "bearing_deg": 229,
+        "captured_at": "2026-02-02T16:03:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 38
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98917&mode=view",
+      "description": "PXL_20260202_153438731.jpg (674.87 KiB) 2424 mal betrachtet",
+      "geo": {
+        "latitude": 47.30887222222222,
+        "longitude": 12.383283333333333,
+        "elevation_m": 1916,
+        "bearing_deg": 125,
+        "captured_at": "2026-02-02T16:34:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857579,
+        "name": "Resterkogel",
+        "cat": "SB",
+        "dist": 62
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 39
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98918&mode=view",
+      "description": "PXL_20260202_153644023.jpg (744.57 KiB) 2422 mal betrachtet",
+      "geo": {
+        "latitude": 47.31298333333333,
+        "longitude": 12.386044444444444,
+        "elevation_m": 1828,
+        "bearing_deg": 124,
+        "captured_at": "2026-02-02T16:36:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857542,
+        "name": "Resterhöhe",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 40
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98933&mode=view",
+      "description": "Unten angekommen um 16:45 Uhr, die letzte Talabfahrt war noch mal ziemlich hart, aber der sonnige letzte Blick hat sich oben noch mal richtig gelohnt. In Summe auch wieder ein guter Skitag bei nicht so gutem Schnee, 8 von 10 Punkten",
+      "geo": {
+        "latitude": 47.31153055555555,
+        "longitude": 12.404761111111112,
+        "elevation_m": 1317,
+        "bearing_deg": 75,
+        "captured_at": "2026-02-02T16:47:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30857542,
+        "name": "Resterhöhe",
+        "cat": "SB",
+        "dist": 60
+      },
+      "piste": {
+        "name": "Pass Thurn Direktabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 40
+      },
+      "n": 41
+    }
+  ],
+  "lifts": [
+    {
+      "id": 30853847,
+      "name": "Pengelstein II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4000589,
+          12.3238367
+        ],
+        [
+          47.3997926,
+          12.3245068
+        ],
+        [
+          47.3994493,
+          12.3253708
+        ],
+        [
+          47.3989571,
+          12.3266096
+        ],
+        [
+          47.3983913,
+          12.3280334
+        ],
+        [
+          47.3981942,
+          12.3285295
+        ],
+        [
+          47.3979669,
+          12.3291218
+        ],
+        [
+          47.3973566,
+          12.3307119
+        ],
+        [
+          47.3968344,
+          12.3320622
+        ],
+        [
+          47.3963532,
+          12.3333121
+        ],
+        [
+          47.3961062,
+          12.3339382
+        ],
+        [
+          47.3955551,
+          12.3353354
+        ],
+        [
+          47.3950277,
+          12.3366721
+        ],
+        [
+          47.3948135,
+          12.3372152
+        ],
+        [
+          47.3944751,
+          12.3380768
+        ],
+        [
+          47.3936476,
+          12.3401839
+        ],
+        [
+          47.3933103,
+          12.3410426
+        ],
+        [
+          47.3929202,
+          12.3420358
+        ],
+        [
+          47.3922331,
+          12.3437854
+        ],
+        [
+          47.3917495,
+          12.3450167
+        ],
+        [
+          47.3914089,
+          12.3458838
+        ],
+        [
+          47.3911436,
+          12.3465534
+        ],
+        [
+          47.3908434,
+          12.3473111
+        ],
+        [
+          47.3907251,
+          12.3476097
+        ],
+        [
+          47.3905585,
+          12.3480256
+        ]
+      ]
+    },
+    {
+      "id": 30854221,
+      "name": "3S Bahn",
+      "cat": "PB",
+      "coords": [
+        [
+          47.3892365,
+          12.3469532
+        ],
+        [
+          47.3888828,
+          12.3474562
+        ],
+        [
+          47.3886841,
+          12.3477388
+        ],
+        [
+          47.3822587,
+          12.3568757
+        ],
+        [
+          47.3659771,
+          12.3800231
+        ],
+        [
+          47.3655973,
+          12.380563
+        ]
+      ]
+    },
+    {
+      "id": 30854222,
+      "name": "Talsen",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3573519,
+          12.3934673
+        ],
+        [
+          47.3578071,
+          12.3926171
+        ],
+        [
+          47.3582474,
+          12.3917948
+        ],
+        [
+          47.3589179,
+          12.3905424
+        ],
+        [
+          47.3597437,
+          12.3890001
+        ],
+        [
+          47.3600529,
+          12.3884225
+        ],
+        [
+          47.3611071,
+          12.3864534
+        ],
+        [
+          47.3617116,
+          12.3853243
+        ],
+        [
+          47.3625717,
+          12.3837178
+        ],
+        [
+          47.3631169,
+          12.3826994
+        ],
+        [
+          47.3639268,
+          12.3811866
+        ],
+        [
+          47.3647675,
+          12.3796163
+        ],
+        [
+          47.3649846,
+          12.3792107
+        ]
+      ]
+    },
+    {
+      "id": 30854288,
+      "name": "Fleckalmbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4503755,
+          12.3350822
+        ],
+        [
+          47.4501164,
+          12.335264
+        ],
+        [
+          47.4497672,
+          12.3355089
+        ],
+        [
+          47.4487987,
+          12.3361588
+        ],
+        [
+          47.4465363,
+          12.3377035
+        ],
+        [
+          47.4454839,
+          12.3384207
+        ],
+        [
+          47.4430162,
+          12.3401132
+        ],
+        [
+          47.4415306,
+          12.3411307
+        ],
+        [
+          47.4396509,
+          12.3424192
+        ],
+        [
+          47.4380021,
+          12.3435444
+        ],
+        [
+          47.4361671,
+          12.3447944
+        ],
+        [
+          47.4343594,
+          12.3460319
+        ],
+        [
+          47.4325457,
+          12.3472838
+        ],
+        [
+          47.4300113,
+          12.349084
+        ],
+        [
+          47.4280995,
+          12.3504494
+        ],
+        [
+          47.4255848,
+          12.3522766
+        ],
+        [
+          47.4247048,
+          12.352916
+        ],
+        [
+          47.4221894,
+          12.3547436
+        ],
+        [
+          47.4207519,
+          12.3557879
+        ],
+        [
+          47.4197646,
+          12.3565052
+        ],
+        [
+          47.4189381,
+          12.3571057
+        ],
+        [
+          47.418288,
+          12.3575779
+        ],
+        [
+          47.4179325,
+          12.3578362
+        ]
+      ]
+    },
+    {
+      "id": 30854843,
+      "name": "Bärenbadkogel II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3414713,
+          12.3950463
+        ],
+        [
+          47.3413363,
+          12.3939381
+        ],
+        [
+          47.3411807,
+          12.3926607
+        ],
+        [
+          47.3409541,
+          12.3908003
+        ],
+        [
+          47.3407019,
+          12.388729
+        ],
+        [
+          47.3405356,
+          12.3873637
+        ],
+        [
+          47.340271,
+          12.385192
+        ],
+        [
+          47.3401928,
+          12.3845499
+        ],
+        [
+          47.3399323,
+          12.3824111
+        ],
+        [
+          47.3398596,
+          12.3818137
+        ],
+        [
+          47.3397372,
+          12.3808094
+        ],
+        [
+          47.3396718,
+          12.3802722
+        ]
+      ]
+    },
+    {
+      "id": 30856221,
+      "name": "Zweitausender",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3310472,
+          12.3582599
+        ],
+        [
+          47.3303146,
+          12.3575531
+        ],
+        [
+          47.3302208,
+          12.3574633
+        ],
+        [
+          47.3299533,
+          12.3572069
+        ],
+        [
+          47.3294268,
+          12.3566761
+        ],
+        [
+          47.3281298,
+          12.3554395
+        ],
+        [
+          47.3277823,
+          12.3551265
+        ],
+        [
+          47.3273116,
+          12.3546655
+        ],
+        [
+          47.3267131,
+          12.3541019
+        ],
+        [
+          47.3256087,
+          12.3530436
+        ],
+        [
+          47.3249118,
+          12.3523759
+        ],
+        [
+          47.3236223,
+          12.3511403
+        ],
+        [
+          47.3232651,
+          12.3507927
+        ],
+        [
+          47.3228979,
+          12.3504366
+        ],
+        [
+          47.3216035,
+          12.3491902
+        ],
+        [
+          47.3210161,
+          12.3486417
+        ],
+        [
+          47.3208601,
+          12.3484937
+        ]
+      ]
+    },
+    {
+      "id": 30856928,
+      "name": "Hartkaser",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3245219,
+          12.3693431
+        ],
+        [
+          47.3243451,
+          12.3690835
+        ],
+        [
+          47.3239416,
+          12.3684914
+        ],
+        [
+          47.322903,
+          12.3669669
+        ],
+        [
+          47.3224977,
+          12.366372
+        ],
+        [
+          47.3215231,
+          12.3649417
+        ],
+        [
+          47.3204565,
+          12.3633763
+        ],
+        [
+          47.3200398,
+          12.3627647
+        ],
+        [
+          47.3187214,
+          12.3608299
+        ],
+        [
+          47.3182176,
+          12.3600905
+        ],
+        [
+          47.3179494,
+          12.3596969
+        ]
+      ]
+    },
+    {
+      "id": 30856931,
+      "name": "Hanglalm",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3220539,
+          12.3790528
+        ],
+        [
+          47.3219042,
+          12.3788749
+        ],
+        [
+          47.3214529,
+          12.3783383
+        ],
+        [
+          47.3206547,
+          12.3773895
+        ],
+        [
+          47.3197782,
+          12.3763476
+        ],
+        [
+          47.3190355,
+          12.3754648
+        ],
+        [
+          47.3182982,
+          12.3745883
+        ],
+        [
+          47.3170306,
+          12.3730815
+        ],
+        [
+          47.316029,
+          12.371891
+        ],
+        [
+          47.3148887,
+          12.3705356
+        ],
+        [
+          47.3141173,
+          12.3696187
+        ],
+        [
+          47.3138833,
+          12.3693406
+        ]
+      ]
+    },
+    {
+      "id": 30857542,
+      "name": "Resterhöhe",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3109456,
+          12.4051444
+        ],
+        [
+          47.3109796,
+          12.4048254
+        ],
+        [
+          47.3111352,
+          12.403367
+        ],
+        [
+          47.3114273,
+          12.400653
+        ],
+        [
+          47.3116407,
+          12.398671
+        ],
+        [
+          47.3117586,
+          12.3975758
+        ],
+        [
+          47.3119211,
+          12.3960661
+        ],
+        [
+          47.3120924,
+          12.3944743
+        ],
+        [
+          47.3122607,
+          12.3929107
+        ],
+        [
+          47.3124036,
+          12.3915832
+        ],
+        [
+          47.3125882,
+          12.3898685
+        ],
+        [
+          47.312757,
+          12.3883003
+        ],
+        [
+          47.3129507,
+          12.3865008
+        ],
+        [
+          47.3129879,
+          12.3861553
+        ]
+      ]
+    },
+    {
+      "id": 30857579,
+      "name": "Resterkogel",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3131045,
+          12.3824882
+        ],
+        [
+          47.3129482,
+          12.3824872
+        ],
+        [
+          47.3123272,
+          12.3824832
+        ],
+        [
+          47.3110644,
+          12.3824751
+        ],
+        [
+          47.3100367,
+          12.3824684
+        ],
+        [
+          47.3089232,
+          12.3824613
+        ],
+        [
+          47.3079148,
+          12.3824548
+        ],
+        [
+          47.3074307,
+          12.3824517
+        ]
+      ]
+    },
+    {
+      "id": 30857742,
+      "name": "Steinbergkogel",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4132543,
+          12.367437
+        ],
+        [
+          47.4129408,
+          12.3674363
+        ],
+        [
+          47.4122362,
+          12.3674347
+        ],
+        [
+          47.4110999,
+          12.3674322
+        ],
+        [
+          47.4099819,
+          12.3674297
+        ],
+        [
+          47.4088049,
+          12.3674271
+        ],
+        [
+          47.4072624,
+          12.3674321
+        ],
+        [
+          47.4061711,
+          12.3674311
+        ],
+        [
+          47.4052366,
+          12.3674304
+        ],
+        [
+          47.4039357,
+          12.3674293
+        ],
+        [
+          47.4026361,
+          12.3674282
+        ],
+        [
+          47.4024896,
+          12.3674281
+        ],
+        [
+          47.4022648,
+          12.3674279
+        ]
+      ]
+    },
+    {
+      "id": 30857859,
+      "name": "Ehrenbachhöhe",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4139699,
+          12.3684522
+        ],
+        [
+          47.4145022,
+          12.3674109
+        ],
+        [
+          47.4152226,
+          12.3660014
+        ],
+        [
+          47.4158344,
+          12.3648045
+        ],
+        [
+          47.4163835,
+          12.3637303
+        ],
+        [
+          47.4170601,
+          12.3624065
+        ],
+        [
+          47.4175989,
+          12.3613522
+        ],
+        [
+          47.4178837,
+          12.3607951
+        ],
+        [
+          47.4183733,
+          12.3598371
+        ],
+        [
+          47.418473,
+          12.3596421
+        ],
+        [
+          47.4186399,
+          12.3593155
+        ]
+      ]
+    },
+    {
+      "id": 30857860,
+      "name": "Sonnenrast",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4088077,
+          12.3601427
+        ],
+        [
+          47.4091281,
+          12.3600985
+        ],
+        [
+          47.4100679,
+          12.3599689
+        ],
+        [
+          47.4115761,
+          12.3597608
+        ],
+        [
+          47.412698,
+          12.359606
+        ],
+        [
+          47.414599,
+          12.3593437
+        ],
+        [
+          47.4149035,
+          12.3593017
+        ],
+        [
+          47.4164349,
+          12.3590904
+        ],
+        [
+          47.4173942,
+          12.3589581
+        ],
+        [
+          47.418139,
+          12.3588553
+        ],
+        [
+          47.4184612,
+          12.3588108
+        ]
+      ]
+    },
+    {
+      "id": 139921083,
+      "name": "Hieslegg",
+      "cat": "SB",
+      "coords": [
+        [
+          47.392474,
+          12.3288655
+        ],
+        [
+          47.3919949,
+          12.3298451
+        ],
+        [
+          47.3909791,
+          12.3319224
+        ],
+        [
+          47.3908176,
+          12.3322525
+        ],
+        [
+          47.390207,
+          12.3335011
+        ],
+        [
+          47.3896517,
+          12.3346366
+        ],
+        [
+          47.3890926,
+          12.3357798
+        ],
+        [
+          47.3883341,
+          12.3373308
+        ],
+        [
+          47.3878721,
+          12.3382755
+        ],
+        [
+          47.3877713,
+          12.3384815
+        ],
+        [
+          47.3866839,
+          12.3407049
+        ],
+        [
+          47.3859479,
+          12.3422099
+        ],
+        [
+          47.3858602,
+          12.342389
+        ],
+        [
+          47.385267,
+          12.3436019
+        ],
+        [
+          47.3850554,
+          12.3440346
+        ],
+        [
+          47.3842483,
+          12.3456848
+        ]
+      ]
+    },
+    {
+      "id": 150132245,
+      "name": "Starthaus",
+      "cat": "SL",
+      "coords": [
+        [
+          47.4263659,
+          12.371554
+        ],
+        [
+          47.4258976,
+          12.3709218
+        ]
+      ]
+    },
+    {
+      "id": 364622315,
+      "name": "Brunn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4020983,
+          12.3361204
+        ],
+        [
+          47.401938,
+          12.3371465
+        ],
+        [
+          47.4015759,
+          12.3394651
+        ],
+        [
+          47.4012791,
+          12.3413653
+        ],
+        [
+          47.4008973,
+          12.3438098
+        ],
+        [
+          47.4007797,
+          12.344563
+        ],
+        [
+          47.4004987,
+          12.3463623
+        ],
+        [
+          47.4003641,
+          12.347224
+        ],
+        [
+          47.4002059,
+          12.3482371
+        ],
+        [
+          47.399946,
+          12.3499005
+        ],
+        [
+          47.3997086,
+          12.3514211
+        ],
+        [
+          47.3995974,
+          12.3521325
+        ],
+        [
+          47.3995189,
+          12.3526352
+        ],
+        [
+          47.3993426,
+          12.353764
+        ],
+        [
+          47.3992546,
+          12.3543272
+        ]
+      ]
+    },
+    {
+      "id": 1153493641,
+      "name": "Trattenbach",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3308473,
+          12.359332
+        ],
+        [
+          47.3314162,
+          12.358945
+        ],
+        [
+          47.3321716,
+          12.3584312
+        ],
+        [
+          47.3328585,
+          12.357964
+        ],
+        [
+          47.3333272,
+          12.3576452
+        ],
+        [
+          47.3337919,
+          12.357329
+        ],
+        [
+          47.3342325,
+          12.3570294
+        ],
+        [
+          47.3347781,
+          12.3566582
+        ],
+        [
+          47.3354813,
+          12.3561799
+        ],
+        [
+          47.3359769,
+          12.3558428
+        ],
+        [
+          47.3364937,
+          12.3554912
+        ],
+        [
+          47.3369204,
+          12.3552009
+        ],
+        [
+          47.3371864,
+          12.35502
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

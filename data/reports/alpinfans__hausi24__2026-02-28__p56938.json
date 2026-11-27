@@ -1,0 +1,943 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 56938,
+    "title": "Gitschberg Jochtal Sonnenschein und harter Frühlingsschnee",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=56938",
+    "date": "2026-02-28",
+    "post_date": "2026-02-28",
+    "text": "Gitschberg Jochtal, 28. Februar 2026 Heute der erste Tag meiner 5 Tage Dolomiten Tour. Mein letztes Mal hier ist auch schon fast 10 Jahre her. Morgen kann ich dann auch meinen Adventskalender Gewinn an den drei Zinnen einlösen. Heute erst mal Gitschberg Jochtal, Erstbefahrung für mich. Ursprünglich wollte ich am Mittag zur Plose wechseln, aber angeblich gilt das Tagesticket dort nicht. Und beim genauen nachschauen ist dem auch so, leider. Naja, dann bin ich früher im Wellness heute Nachmittag Wetter soll die ganze Woche toll sein, Schnee ist aber leider nicht mehr viel da. Bin gespannt wie sich die Pisten gehalten haben.\n[Image Descriptions: Kostenloser Parkplatz in Meransen; Harter Schnee am Morgen, wird ordentlich weich werden heute; Ski Express mit schönem Sonnenhang; Der Ski Express endet leider am interessantesten Gipfel...; Gipfelstation; Bevor es rüber auf die andere Seite geht zuerst noch einmal die gemütliche Talabfahrt mitnehmen; Hier unten ist die Piste schon um 9:30 Uhr weich, trotzdem gut zu fahren; Auf dem Weg vom Gitschberg in Richtung Jochtal mit der Gaisjoch Bahn; Der Mittelpunkt der verbindungsbahn, ab hier kann man ins Jochtal abfahren. Das Stück zurück an Gitschberg muss man später die Gondelbahn wieder nehmen.; Hier gibt es einen Schlepplift mit perfekter anfängerpiste, konstant flach und lang hier lässt sich sicher gut lernen; Schöner Gipfel Bereich am Jochtal mit zwei modernen aber leider kurzen Sesselbahnen. Hier auch Recht voll.; Die Steinermandl Bahn wird nun im Schnecken Tempo leer gefahren, kein Einstieg mehr möglich. Zum Glück bin ich sie vorher schon gefahren; Inzwischen wieder zurück am Gitschberg, und gerade hatte ich auch noch Graubündenfan kennen lernen dürfen, der heute auch zufällig vor Ort war!; Eine der besten Pisten heute war die rote Piste an der oberen Sektion der zubringerbahn im Gebiet Gitschberg. Etwa eine halbe Stunde vorzeitig beende ich den Skitag, um noch etwas mehr von wellnessbereich im Hotel später zu haben]"
+  },
+  "center": [
+    46.8425654040404,
+    11.658716035353537
+  ],
+  "placed_count": 22,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104289&mode=view",
+      "description": "Harter Schnee am Morgen, wird ordentlich weich werden heute",
+      "geo": {
+        "latitude": 46.846561111111114,
+        "longitude": 11.684697222222223,
+        "elevation_m": 2161,
+        "bearing_deg": 40,
+        "captured_at": "2026-02-28T08:48:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1549430847,
+        "name": "Ski Express II",
+        "cat": "EUB",
+        "dist": 51
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104290&mode=view",
+      "description": "PXL_20260228_074848879.jpg (845.1 KiB) 2926 mal betrachtet",
+      "geo": {
+        "latitude": 46.84653333333333,
+        "longitude": 11.684558333333333,
+        "elevation_m": 2162,
+        "bearing_deg": 279,
+        "captured_at": "2026-02-28T08:48:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 325840089,
+        "name": "Nesselbahn",
+        "cat": "EUB",
+        "dist": 46
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104291&mode=view",
+      "description": "PXL_20260228_074925494.jpg (663.88 KiB) 2926 mal betrachtet",
+      "geo": {
+        "latitude": 46.84422777777778,
+        "longitude": 11.685516666666667,
+        "elevation_m": 2099,
+        "bearing_deg": 66,
+        "captured_at": "2026-02-28T08:49:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27463455,
+        "name": "Ski Express I",
+        "cat": "EUB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Segerwiese",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104292&mode=view",
+      "description": "Ski Express mit schönem Sonnenhang",
+      "geo": {
+        "latitude": 46.83643888888889,
+        "longitude": 11.683719444444444,
+        "elevation_m": 1787,
+        "bearing_deg": 50,
+        "captured_at": "2026-02-28T08:50:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27463455,
+        "name": "Ski Express I",
+        "cat": "EUB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Wastl Huber",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104299&mode=view",
+      "description": "PXL_20260228_075039238.jpg (811.7 KiB) 2924 mal betrachtet",
+      "geo": {
+        "latitude": 46.83643888888889,
+        "longitude": 11.683719444444444,
+        "elevation_m": 1787,
+        "bearing_deg": 278,
+        "captured_at": "2026-02-28T08:50:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 27463455,
+        "name": "Ski Express I",
+        "cat": "EUB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Wastl Huber",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104300&mode=view",
+      "description": "Der Ski Express endet leider am interessantesten Gipfel...",
+      "geo": {
+        "latitude": 46.85148888888889,
+        "longitude": 11.686172222222222,
+        "elevation_m": 2268,
+        "bearing_deg": 257,
+        "captured_at": "2026-02-28T09:01:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1549430847,
+        "name": "Ski Express II",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104301&mode=view",
+      "description": "PXL_20260228_080217257.jpg (792.83 KiB) 2924 mal betrachtet",
+      "geo": {
+        "latitude": 46.851275,
+        "longitude": 11.686175,
+        "elevation_m": 2267,
+        "bearing_deg": 173,
+        "captured_at": "2026-02-28T09:02:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1549430847,
+        "name": "Ski Express II",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104305&mode=view",
+      "description": "Gipfelstation",
+      "geo": {
+        "latitude": 46.85914722222223,
+        "longitude": 11.6872,
+        "elevation_m": 2549,
+        "bearing_deg": 156,
+        "captured_at": "2026-02-28T09:22:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 86850666,
+        "name": "Gitschberg - Monte Cuzzo",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Gitsch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104306&mode=view",
+      "description": "PXL_20260228_082237108.jpg (735.94 KiB) 2920 mal betrachtet",
+      "geo": {
+        "latitude": 46.859141666666666,
+        "longitude": 11.687183333333333,
+        "elevation_m": 2549,
+        "bearing_deg": 231,
+        "captured_at": "2026-02-28T09:22:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 86850666,
+        "name": "Gitschberg - Monte Cuzzo",
+        "cat": "SB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "Gitsch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104307&mode=view",
+      "description": "Bevor es rüber auf die andere Seite geht zuerst noch einmal die gemütliche Talabfahrt mitnehmen",
+      "geo": {
+        "latitude": 46.82887222222222,
+        "longitude": 11.6621,
+        "elevation_m": 1572,
+        "bearing_deg": 72,
+        "captured_at": "2026-02-28T09:28:32"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Family Slope",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104310&mode=view",
+      "description": "Hier unten ist die Piste schon um 9:30 Uhr weich, trotzdem gut zu fahren",
+      "geo": {
+        "latitude": 46.823172222222226,
+        "longitude": 11.662808333333334,
+        "elevation_m": 1508,
+        "bearing_deg": 11,
+        "captured_at": "2026-02-28T09:29:53"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "29",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104315&mode=view",
+      "description": "Auf dem Weg vom Gitschberg in Richtung Jochtal mit der Gaisjoch Bahn",
+      "geo": {
+        "latitude": 46.83507222222222,
+        "longitude": 11.668838888888889,
+        "elevation_m": 1684,
+        "bearing_deg": 237,
+        "captured_at": "2026-02-28T09:39:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142074616,
+        "name": "Gaisjoch",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "sled",
+        "dist": 15
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104318&mode=view",
+      "description": "PXL_20260228_084421454.jpg (900.44 KiB) 2914 mal betrachtet",
+      "geo": {
+        "latitude": 46.84012222222223,
+        "longitude": 11.653172222222222,
+        "elevation_m": 1784,
+        "bearing_deg": 121,
+        "captured_at": "2026-02-28T09:44:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142074616,
+        "name": "Gaisjoch",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": null,
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104319&mode=view",
+      "description": "Der Mittelpunkt der verbindungsbahn, ab hier kann man ins Jochtal abfahren. Das Stück zurück an Gitschberg muss man später die Gondelbahn wieder nehmen.",
+      "geo": {
+        "latitude": 46.84233888888889,
+        "longitude": 11.646347222222222,
+        "elevation_m": 1855,
+        "bearing_deg": 318,
+        "captured_at": "2026-02-28T09:47:14"
+      },
+      "placed": true,
+      "lift": {
+        "id": 142074616,
+        "name": "Gaisjoch",
+        "cat": "EUB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 5
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104320&mode=view",
+      "description": "Hier gibt es einen Schlepplift mit perfekter anfängerpiste, konstant flach und lang hier lässt sich sicher gut lernen",
+      "geo": {
+        "latitude": 46.8462,
+        "longitude": 11.631997222222223,
+        "elevation_m": 1529,
+        "bearing_deg": 107,
+        "captured_at": "2026-02-28T09:49:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 98042933,
+        "name": "Tasa",
+        "cat": "SL",
+        "dist": 102
+      },
+      "piste": {
+        "name": "Schilling",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104321&mode=view",
+      "description": "PXL_20260228_085105560.jpg (698.75 KiB) 2914 mal betrachtet",
+      "geo": {
+        "latitude": 46.835525000000004,
+        "longitude": 11.630313888888889,
+        "elevation_m": 1359,
+        "bearing_deg": 252,
+        "captured_at": "2026-02-28T09:51:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 98042933,
+        "name": "Tasa",
+        "cat": "SL",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Tasa",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104392&mode=view",
+      "description": "Schöner Gipfel Bereich am Jochtal mit zwei modernen aber leider kurzen Sesselbahnen. Hier auch Recht voll.",
+      "geo": {
+        "latitude": 46.84215277777778,
+        "longitude": 11.593469444444445,
+        "elevation_m": 2140,
+        "bearing_deg": 67,
+        "captured_at": "2026-02-28T10:22:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 97901949,
+        "name": "Hinterberg",
+        "cat": "SB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "Hinterberg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104393&mode=view",
+      "description": "PXL_20260228_091454924.jpg (688.58 KiB) 2905 mal betrachtet",
+      "geo": {
+        "latitude": 46.83388888888889,
+        "longitude": 11.60013611111111,
+        "elevation_m": 2200.22,
+        "bearing_deg": 238,
+        "captured_at": "2026-02-28T10:14:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 97901946,
+        "name": "Steinermandl",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104394&mode=view",
+      "description": "PXL_20260228_090939943.jpg (766.99 KiB) 2905 mal betrachtet",
+      "geo": {
+        "latitude": 46.843872222222224,
+        "longitude": 11.600227777777777,
+        "elevation_m": 2060,
+        "bearing_deg": 125,
+        "captured_at": "2026-02-28T10:09:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 101787476,
+        "name": "Manovia Restaurant",
+        "cat": "SL",
+        "dist": 13
+      },
+      "piste": {
+        "name": "Restaurant",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104405&mode=view",
+      "description": "Die Steinermandl Bahn wird nun im Schnecken Tempo leer gefahren, kein Einstieg mehr möglich. Zum Glück bin ich sie vorher schon gefahren",
+      "geo": {
+        "latitude": 46.83806666666667,
+        "longitude": 11.606530555555555,
+        "elevation_m": 1870,
+        "bearing_deg": 92,
+        "captured_at": "2026-02-28T11:10:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 97901949,
+        "name": "Hinterberg",
+        "cat": "SB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Hinterberg",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104434&mode=view",
+      "description": "Inzwischen wieder zurück am Gitschberg, und gerade hatte ich auch noch Graubündenfan kennen lernen dürfen, der heute auch zufällig vor Ort war!",
+      "geo": {
+        "latitude": 46.85357777777778,
+        "longitude": 11.686075,
+        "elevation_m": 2276,
+        "bearing_deg": 96,
+        "captured_at": "2026-02-28T12:44:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 86850666,
+        "name": "Gitschberg - Monte Cuzzo",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Gitsch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 88
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=104470&mode=view",
+      "description": "Eine der besten Pisten heute war die rote Piste an der oberen Sektion der zubringerbahn im Gebiet Gitschberg. Etwa eine halbe Stunde vorzeitig beende ich den Skitag, um noch etwas mehr von wellnessbereich im Hotel später zu haben",
+      "geo": {
+        "latitude": 46.842325,
+        "longitude": 11.680794444444444,
+        "elevation_m": 1988,
+        "bearing_deg": 157,
+        "captured_at": "2026-02-28T15:33:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 325840089,
+        "name": "Nesselbahn",
+        "cat": "EUB",
+        "dist": 111
+      },
+      "piste": {
+        "name": "Gaisraste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 21
+    }
+  ],
+  "lifts": [
+    {
+      "id": 27463455,
+      "name": "Ski Express I",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8352455,
+          11.6839386
+        ],
+        [
+          46.8361445,
+          11.6840518
+        ],
+        [
+          46.8377387,
+          11.6842524
+        ],
+        [
+          46.8393821,
+          11.6844593
+        ],
+        [
+          46.8408584,
+          11.6846451
+        ],
+        [
+          46.8422412,
+          11.6848192
+        ],
+        [
+          46.8430046,
+          11.6849153
+        ],
+        [
+          46.8440272,
+          11.685044
+        ],
+        [
+          46.8443945,
+          11.6850902
+        ]
+      ]
+    },
+    {
+      "id": 86850666,
+      "name": "Gitschberg - Monte Cuzzo",
+      "cat": "SB",
+      "coords": [
+        [
+          46.8524038,
+          11.6859303
+        ],
+        [
+          46.8538658,
+          11.6861542
+        ],
+        [
+          46.8544308,
+          11.6862407
+        ],
+        [
+          46.8548613,
+          11.6863066
+        ],
+        [
+          46.855839,
+          11.6864563
+        ],
+        [
+          46.8564102,
+          11.6865438
+        ],
+        [
+          46.8584967,
+          11.6868633
+        ],
+        [
+          46.8589439,
+          11.6869318
+        ],
+        [
+          46.8592162,
+          11.6869735
+        ]
+      ]
+    },
+    {
+      "id": 97901946,
+      "name": "Steinermandl",
+      "cat": "SB",
+      "coords": [
+        [
+          46.8378019,
+          11.6065291
+        ],
+        [
+          46.8376985,
+          11.6063587
+        ],
+        [
+          46.8375035,
+          11.6060373
+        ],
+        [
+          46.836901,
+          11.6050444
+        ],
+        [
+          46.8362601,
+          11.6039881
+        ],
+        [
+          46.8355891,
+          11.6028823
+        ],
+        [
+          46.8348682,
+          11.6016941
+        ],
+        [
+          46.8343719,
+          11.6008762
+        ],
+        [
+          46.8339805,
+          11.6002311
+        ],
+        [
+          46.8337141,
+          11.5997922
+        ],
+        [
+          46.8335368,
+          11.5995
+        ]
+      ]
+    },
+    {
+      "id": 97901949,
+      "name": "Hinterberg",
+      "cat": "SB",
+      "coords": [
+        [
+          46.8382877,
+          11.6063637
+        ],
+        [
+          46.838579,
+          11.6054328
+        ],
+        [
+          46.8388254,
+          11.6046458
+        ],
+        [
+          46.839246,
+          11.6033019
+        ],
+        [
+          46.8396922,
+          11.6018761
+        ],
+        [
+          46.8400083,
+          11.6008663
+        ],
+        [
+          46.8404793,
+          11.5993615
+        ],
+        [
+          46.8410318,
+          11.597596
+        ],
+        [
+          46.8415391,
+          11.5959752
+        ],
+        [
+          46.8421049,
+          11.5941673
+        ],
+        [
+          46.8422156,
+          11.5938136
+        ],
+        [
+          46.8423263,
+          11.5934598
+        ]
+      ]
+    },
+    {
+      "id": 98042933,
+      "name": "Tasa",
+      "cat": "SL",
+      "coords": [
+        [
+          46.8355114,
+          11.6303713
+        ],
+        [
+          46.8459827,
+          11.6306964
+        ]
+      ]
+    },
+    {
+      "id": 101787476,
+      "name": "Manovia Restaurant",
+      "cat": "SL",
+      "coords": [
+        [
+          46.8437491,
+          11.5979948
+        ],
+        [
+          46.8439931,
+          11.6002586
+        ]
+      ]
+    },
+    {
+      "id": 142074616,
+      "name": "Gaisjoch",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8349272,
+          11.6692308
+        ],
+        [
+          46.8350716,
+          11.6687819
+        ],
+        [
+          46.8363865,
+          11.6646945
+        ],
+        [
+          46.8375428,
+          11.6610999
+        ],
+        [
+          46.8381208,
+          11.6593032
+        ],
+        [
+          46.8393551,
+          11.6554661
+        ],
+        [
+          46.8414045,
+          11.6490947
+        ],
+        [
+          46.8422994,
+          11.6463126
+        ]
+      ]
+    },
+    {
+      "id": 325840089,
+      "name": "Nesselbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8353965,
+          11.6698075
+        ],
+        [
+          46.8354552,
+          11.6698586
+        ],
+        [
+          46.8357533,
+          11.6702483
+        ],
+        [
+          46.8363234,
+          11.6709936
+        ],
+        [
+          46.8368767,
+          11.6717169
+        ],
+        [
+          46.8378067,
+          11.6729327
+        ],
+        [
+          46.8386093,
+          11.673982
+        ],
+        [
+          46.8393266,
+          11.6749197
+        ],
+        [
+          46.840215,
+          11.6760811
+        ],
+        [
+          46.8412536,
+          11.6774389
+        ],
+        [
+          46.8427129,
+          11.6793468
+        ],
+        [
+          46.8441545,
+          11.6812317
+        ],
+        [
+          46.8454879,
+          11.6829948
+        ],
+        [
+          46.8459769,
+          11.6836371
+        ],
+        [
+          46.8460133,
+          11.6836873
+        ],
+        [
+          46.8462909,
+          11.6840652
+        ]
+      ]
+    },
+    {
+      "id": 1549430847,
+      "name": "Ski Express II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.8443945,
+          11.6850902
+        ],
+        [
+          46.8453538,
+          11.685211
+        ],
+        [
+          46.8471457,
+          11.6854366
+        ],
+        [
+          46.8486919,
+          11.6856312
+        ],
+        [
+          46.8504602,
+          11.6858539
+        ],
+        [
+          46.8510722,
+          11.6859309
+        ],
+        [
+          46.8514113,
+          11.6859736
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

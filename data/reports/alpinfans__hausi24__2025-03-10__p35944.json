@@ -1,0 +1,1778 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 35944,
+    "title": "Reiteralm und Dachstein Gletscher im Sulz",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=35944",
+    "date": "2025-03-10",
+    "post_date": "2025-03-10",
+    "text": "Heute geht's weiter auf der Ski Amade Tour zur 4 Berge Skischaukel mit Einstieg auf der Reiteralm. Leider ist das Sonnenwetter vorbei heute, die warmen Temperaturen sind aber geblieben und morgens ist es heute sogar noch wärmer wie die letzten Tage. Entsprechend sind die Pisten extrem weich. Aufgrund der Anreise aus Bad Gastein, konnte ich heute auch erst um 8:45 in die Gondel steigen, anstatt um 8:15. Als es dann den ganzen Tag immer schlimmer mit den sulzigen Pisten geworden ist, habe ich mich spontan entschlossen zum Dachstein Gletscher zu fahren. Und es war eine super Entscheidung! Tolles Panorama und endlich wieder Winter Feeling! Schade dass die Skilifte seit einigen Jahren angebaut sind, so bin ich nun als Fußgänger oben. Dachstein Gletscher, das Highlight heute! Dich nun der eigentliche Ski- und Gletscher-Bericht:\n[Image Descriptions: Reiteralm Bergstation Sessellift; Breite Waldpiste mit Blick aufs Dachstein Massiv. Schnee extrem weich, und das schon am Morgen. Dafür deutlich weniger los als am Wochenende.; Letztes Stück der Piste an der DSB Reiteralm auf dem Weg zum Hochwurzen. Lange hält die Piste nicht mehr durch.; Hochwurzen; Verhältnismäßig in Ordnung Pisten an der Obertalbahn; Wieder alles weich an der Talabfahrt in Rohrmoos in Richtung Planai; Plainai; Die Gipfelbahn am Hauser Kaibling ist geschlossen, obwohl die den ganzen Tag und auch jetzt noch als geöffnet auf allen online und vor Ort Plänen markiert wurde. Ich fühle mich verarscht von diesem Skigebiet. Macht heute alles keinen Spaß...; Betrug! Wäre ich lieber an den Hochkönig gefahren heute...; Die nicht erreichbare Piste vom Gipfel im Hintergrund. Übrigens sind auch einige Verbindungspisten geschlossen, obwohl sie am Plan geöffnet sind, was mich jetzt schon wieder zum gleichen Lift gezwungen hat...; Weiter zur Tauern Seilbahn, um etwas Nostalgie zu erleben. Ums Skifahren geht's ja heute nicht wirklich. Vielleicht höre ich heute früher auf und nutze die Ski Amade Karte noch um die Dachstein Seilbahn als Fußgänger zu fahren.; Mittelstation; Der einzige hochalpin wirkende Lift im Gebiet, der Alm 6er; Eine der wenigen guten Pisten heute; Sulzschlacht zurück am Planai West; Gelungene neue D Line Sesselbahn oben an der Reiteralm mit guter Piste; Für die letzte Talabfahrt zurück zum Startpunkt kommt die Sonne raus. Ich bin nun 14:30 am Auto. Weiter geht's zum Dachstein Gletscher!; Vorbei an einem kleinen Skigebiet bei Ramsau mit Kombibahn; Auf der Mautstraße zur Dachstein Seilbahn, mautfrei wenn man die Seilbahn benutzt; Fancy Kabinen!; Talstation, schon auf 1700 Metern, fast so hoch wie die \"Gipfel\" der Skischaukel; Aussichtspunkt an der Bergstation auf 2700 Metern; Blick zurück zur Talstation auf einer netten Hochebene; Dachstein Gletscher mit Bundesheer Seilbahn zu einem Sendemast; Die Bundesheer Seilbahn; Start der ehemaligen Pisten, zurück geht es per Förderband. Links ist die Hängebrücke zum Eispalast, aber nicht im Ticket inklusive. Hinter dem Förderband kam früher der Schlepplifte vol Gletscher an.; Hochebene auf über 2000 Metern; Aussichts Treppe vom Restaurant; Schönes Restaurant!]"
+  },
+  "center": [
+    47.41716153198653,
+    13.65969377104377
+  ],
+  "placed_count": 33,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60530&mode=view",
+      "description": "Dachstein Gletscher, das Highlight heute!",
+      "geo": {
+        "latitude": 47.46731666666667,
+        "longitude": 13.626297222222222,
+        "elevation_m": 2734.51,
+        "bearing_deg": 28,
+        "captured_at": "2025-03-10T15:11:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 99
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60462&mode=view",
+      "description": "Reiteralm Bergstation Sessellift",
+      "geo": {
+        "latitude": 47.358958333333334,
+        "longitude": 13.589294444444445,
+        "elevation_m": 1906.67,
+        "bearing_deg": 309,
+        "captured_at": "2025-03-10T09:00:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 37600588,
+        "name": "Gasselhöhe II",
+        "cat": "SB",
+        "dist": 15
+      },
+      "piste": {
+        "name": "Gasselhöhe-Piste, Weltcupstrecke",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60463&mode=view",
+      "description": "Breite Waldpiste mit Blick aufs Dachstein Massiv. Schnee extrem weich, und das schon am Morgen. Dafür deutlich weniger los als am Wochenende.",
+      "geo": {
+        "latitude": 47.36329444444445,
+        "longitude": 13.60248611111111,
+        "elevation_m": 1675.56,
+        "bearing_deg": 289,
+        "captured_at": "2025-03-10T09:02:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 90590135,
+        "name": "Preunegg Jet",
+        "cat": "EUB",
+        "dist": 139
+      },
+      "piste": {
+        "name": "Holzerabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60464&mode=view",
+      "description": "Letztes Stück der Piste an der DSB Reiteralm auf dem Weg zum Hochwurzen. Lange hält die Piste nicht mehr durch.",
+      "geo": {
+        "latitude": 47.38377777777778,
+        "longitude": 13.610766666666667,
+        "elevation_m": 934.96,
+        "bearing_deg": 308,
+        "captured_at": "2025-03-10T09:20:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 38537124,
+        "name": "Reiteralm I",
+        "cat": "SB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Reiteralm Talabfahrt (Pichl)",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60468&mode=view",
+      "description": "Hochwurzen",
+      "geo": {
+        "latitude": 47.36437222222222,
+        "longitude": 13.637094444444443,
+        "elevation_m": 1750.46,
+        "bearing_deg": 308,
+        "captured_at": "2025-03-10T09:38:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 51510455,
+        "name": "Hochwurzen 2",
+        "cat": "SB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "FIS Abfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 50
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60469&mode=view",
+      "description": "Verhältnismäßig in Ordnung Pisten an der Obertalbahn",
+      "geo": {
+        "latitude": 47.36893333333333,
+        "longitude": 13.65033888888889,
+        "elevation_m": 1421.64,
+        "bearing_deg": 310,
+        "captured_at": "2025-03-10T09:43:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 92335800,
+        "name": "Obertalbahn",
+        "cat": "EUB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "Obertalabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60470&mode=view",
+      "description": "Wieder alles weich an der Talabfahrt in Rohrmoos in Richtung Planai",
+      "geo": {
+        "latitude": 47.38116388888889,
+        "longitude": 13.658555555555555,
+        "elevation_m": 1097.09,
+        "bearing_deg": 317,
+        "captured_at": "2025-03-10T09:55:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 91414574,
+        "name": "Rohrmoos II",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Rohrmooser Plateau",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60472&mode=view",
+      "description": "Plainai",
+      "geo": {
+        "latitude": 47.370475,
+        "longitude": 13.725311111111111,
+        "elevation_m": 1941.28,
+        "bearing_deg": 245,
+        "captured_at": "2025-03-10T10:22:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32679077,
+        "name": "Burgstallalmbahn",
+        "cat": "SB",
+        "dist": 70
+      },
+      "piste": {
+        "name": "WM Herrenstrecke oben",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60473&mode=view",
+      "description": "Die Gipfelbahn am Hauser Kaibling ist geschlossen, obwohl die den ganzen Tag und auch jetzt noch als geöffnet auf allen online und vor Ort Plänen markiert wurde. Ich fühle mich verarscht von diesem Skigebiet. Macht heute alles keinen Spaß...",
+      "geo": {
+        "latitude": 47.37701388888889,
+        "longitude": 13.771275000000001,
+        "elevation_m": 1909.28,
+        "bearing_deg": 20,
+        "captured_at": "2025-03-10T10:57:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32654780,
+        "name": "Kaiblinggrat",
+        "cat": "SB",
+        "dist": 47
+      },
+      "piste": {
+        "name": "6 - Skiweg Kaiblingalm",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60474&mode=view",
+      "description": "Betrug! Wäre ich lieber an den Hochkönig gefahren heute...",
+      "geo": {
+        "latitude": 47.38900833333333,
+        "longitude": 13.786855555555556,
+        "elevation_m": 1527.91,
+        "bearing_deg": 85,
+        "captured_at": "2025-03-10T11:12:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32654805,
+        "name": "Höfi-Express II",
+        "cat": "SB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "Ausstieg Höfi-Express I",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60475&mode=view",
+      "description": "Die nicht erreichbare Piste vom Gipfel im Hintergrund. Übrigens sind auch einige Verbindungspisten geschlossen, obwohl sie am Plan geöffnet sind, was mich jetzt schon wieder zum gleichen Lift gezwungen hat...",
+      "geo": {
+        "latitude": 47.37831666666667,
+        "longitude": 13.782569444444444,
+        "elevation_m": 1854.02,
+        "bearing_deg": 131,
+        "captured_at": "2025-03-10T11:19:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32654805,
+        "name": "Höfi-Express II",
+        "cat": "SB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60476&mode=view",
+      "description": "Weiter zur Tauern Seilbahn, um etwas Nostalgie zu erleben. Ums Skifahren geht's ja heute nicht wirklich. Vielleicht höre ich heute früher auf und nutze die Ski Amade Karte noch um die Dachstein Seilbahn als Fußgänger zu fahren.",
+      "geo": {
+        "latitude": 47.40615,
+        "longitude": 13.766622222222223,
+        "elevation_m": 865.79,
+        "bearing_deg": 83,
+        "captured_at": "2025-03-10T11:50:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 41773492,
+        "name": "Schladminger Tauern Seilbahn",
+        "cat": "PB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Fußweg Tauern Seilbahn",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 6
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60477&mode=view",
+      "description": "Mittelstation",
+      "geo": {
+        "latitude": 47.39266666666666,
+        "longitude": 13.76736388888889,
+        "elevation_m": 1355.44,
+        "bearing_deg": 141,
+        "captured_at": "2025-03-10T12:00:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 41773492,
+        "name": "Schladminger Tauern Seilbahn",
+        "cat": "PB",
+        "dist": 1
+      },
+      "piste": null,
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60478&mode=view",
+      "description": "Der einzige hochalpin wirkende Lift im Gebiet, der Alm 6er",
+      "geo": {
+        "latitude": 47.361275,
+        "longitude": 13.777127777777778,
+        "elevation_m": 1918.32,
+        "bearing_deg": 14,
+        "captured_at": "2025-03-10T12:33:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 147948708,
+        "name": "Alm 6er",
+        "cat": "SB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "XXL Funslope",
+        "diff": "easy",
+        "ptype": "snow_park",
+        "dist": 11
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60479&mode=view",
+      "description": "Eine der wenigen guten Pisten heute",
+      "geo": {
+        "latitude": 47.35961944444445,
+        "longitude": 13.779772222222222,
+        "elevation_m": 1974.05,
+        "bearing_deg": 256,
+        "captured_at": "2025-03-10T12:35:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 147948708,
+        "name": "Alm 6er",
+        "cat": "SB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "Kaiblingalm-Abfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60480&mode=view",
+      "description": "Sulzschlacht zurück am Planai West",
+      "geo": {
+        "latitude": 47.38261388888889,
+        "longitude": 13.689105555555555,
+        "elevation_m": 1058.88,
+        "bearing_deg": 212,
+        "captured_at": "2025-03-10T13:05:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 326893907,
+        "name": "Planai West II",
+        "cat": "EUB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Über die freien Wiesen",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60487&mode=view",
+      "description": "Gelungene neue D Line Sesselbahn oben an der Reiteralm mit guter Piste",
+      "geo": {
+        "latitude": 47.355644444444444,
+        "longitude": 13.593786111111111,
+        "elevation_m": 1790.9,
+        "bearing_deg": 304,
+        "captured_at": "2025-03-10T14:15:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 777171482,
+        "name": "Schoberbahn",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "Schoberbahn (Almanger)",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60488&mode=view",
+      "description": "Für die letzte Talabfahrt zurück zum Startpunkt kommt die Sonne raus. Ich bin nun 14:30 am Auto. Weiter geht's zum Dachstein Gletscher!",
+      "geo": {
+        "latitude": 47.385133333333336,
+        "longitude": 13.594052777777778,
+        "elevation_m": 922.3,
+        "bearing_deg": 300,
+        "captured_at": "2025-03-10T14:24:24"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Gleiming - Talabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60513&mode=view",
+      "description": "Vorbei an einem kleinen Skigebiet bei Ramsau mit Kombibahn",
+      "geo": {
+        "latitude": 47.42486944444444,
+        "longitude": 13.631411111111111,
+        "elevation_m": 1253.52,
+        "bearing_deg": 129,
+        "captured_at": "2025-03-10T14:45:24"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "hike",
+        "dist": 40
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60514&mode=view",
+      "description": "Auf der Mautstraße zur Dachstein Seilbahn, mautfrei wenn man die Seilbahn benutzt",
+      "geo": {
+        "latitude": 47.44713888888889,
+        "longitude": 13.607058333333333,
+        "elevation_m": 1597.23,
+        "bearing_deg": 1,
+        "captured_at": "2025-03-10T14:53:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "hike",
+        "dist": 20
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60516&mode=view",
+      "description": "Fancy Kabinen!",
+      "geo": {
+        "latitude": 47.45091666666667,
+        "longitude": 13.617708333333335,
+        "elevation_m": 1742.5,
+        "bearing_deg": 221,
+        "captured_at": "2025-03-10T14:58:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 26
+      },
+      "piste": null,
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60517&mode=view",
+      "description": "Talstation, schon auf 1700 Metern, fast so hoch wie die \"Gipfel\" der Skischaukel",
+      "geo": {
+        "latitude": 47.45055555555556,
+        "longitude": 13.617186111111112,
+        "elevation_m": 1742.4,
+        "bearing_deg": 317,
+        "captured_at": "2025-03-10T14:56:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 80
+      },
+      "piste": {
+        "name": "",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 146
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60518&mode=view",
+      "description": "Aussichtspunkt an der Bergstation auf 2700 Metern",
+      "geo": {
+        "latitude": 47.46740555555556,
+        "longitude": 13.626280555555557,
+        "elevation_m": 2732.26,
+        "bearing_deg": 82,
+        "captured_at": "2025-03-10T15:10:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 89
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60519&mode=view",
+      "description": "PXL_20250310_141139846.jpg (555.55 KiB) 4629 mal betrachtet",
+      "geo": {
+        "latitude": 47.467311111111115,
+        "longitude": 13.626294444444445,
+        "elevation_m": 2734.65,
+        "bearing_deg": 110,
+        "captured_at": "2025-03-10T15:11:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 100
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60520&mode=view",
+      "description": "Blick zurück zur Talstation auf einer netten Hochebene",
+      "geo": {
+        "latitude": 47.467311111111115,
+        "longitude": 13.626294444444445,
+        "elevation_m": 2734.29,
+        "bearing_deg": 56,
+        "captured_at": "2025-03-10T15:11:47"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 100
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60521&mode=view",
+      "description": "PXL_20250310_140759508.jpg (398.51 KiB) 4629 mal betrachtet",
+      "geo": {
+        "latitude": 47.46745833333333,
+        "longitude": 13.62628888888889,
+        "elevation_m": 2735.62,
+        "bearing_deg": 144,
+        "captured_at": "2025-03-10T15:07:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30339198,
+        "name": "Dachstein Südwandbahn",
+        "cat": "PB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 84
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60523&mode=view",
+      "description": "Dachstein Gletscher mit Bundesheer Seilbahn zu einem Sendemast",
+      "geo": {
+        "latitude": 47.46820833333334,
+        "longitude": 13.626444444444445,
+        "elevation_m": 2735.01,
+        "bearing_deg": 143,
+        "captured_at": "2025-03-10T15:15:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60524&mode=view",
+      "description": "Die Bundesheer Seilbahn",
+      "geo": {
+        "latitude": 47.468155555555555,
+        "longitude": 13.626419444444444,
+        "elevation_m": 2732.79,
+        "bearing_deg": 4,
+        "captured_at": "2025-03-10T15:45:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60525&mode=view",
+      "description": "Start der ehemaligen Pisten, zurück geht es per Förderband. Links ist die Hängebrücke zum Eispalast, aber nicht im Ticket inklusive. Hinter dem Förderband kam früher der Schlepplifte vol Gletscher an.",
+      "geo": {
+        "latitude": 47.46828333333333,
+        "longitude": 13.625969444444445,
+        "elevation_m": 2733.61,
+        "bearing_deg": 252,
+        "captured_at": "2025-03-10T15:19:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 41
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60526&mode=view",
+      "description": "Hochebene auf über 2000 Metern",
+      "geo": {
+        "latitude": 47.46888055555556,
+        "longitude": 13.625611111111112,
+        "elevation_m": 2711.54,
+        "bearing_deg": 334,
+        "captured_at": "2025-03-10T15:25:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 109
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60527&mode=view",
+      "description": "Aussichts Treppe vom Restaurant",
+      "geo": {
+        "latitude": 47.46800277777778,
+        "longitude": 13.626025,
+        "elevation_m": 2737.86,
+        "bearing_deg": 15,
+        "captured_at": "2025-03-10T15:47:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60528&mode=view",
+      "description": "Schönes Restaurant!",
+      "geo": {
+        "latitude": 47.468050000000005,
+        "longitude": 13.62611388888889,
+        "elevation_m": 2735.24,
+        "bearing_deg": 107,
+        "captured_at": "2025-03-10T15:48:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=60529&mode=view",
+      "description": "PXL_20250310_144838426.jpg (390.5 KiB) 4628 mal betrachtet",
+      "geo": {
+        "latitude": 47.468050000000005,
+        "longitude": 13.62611388888889,
+        "elevation_m": 2735.24,
+        "bearing_deg": 289,
+        "captured_at": "2025-03-10T15:48:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1313455826,
+        "name": "Bundesheer-Seilbahn",
+        "cat": "PB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Skitour Dachsteinüberquerung",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 32
+    }
+  ],
+  "lifts": [
+    {
+      "id": 30339198,
+      "name": "Dachstein Südwandbahn",
+      "cat": "PB",
+      "coords": [
+        [
+          47.4509912,
+          13.6180368
+        ],
+        [
+          47.4675497,
+          13.6261879
+        ]
+      ]
+    },
+    {
+      "id": 32654780,
+      "name": "Kaiblinggrat",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3896305,
+          13.7761252
+        ],
+        [
+          47.3894121,
+          13.7760341
+        ],
+        [
+          47.388951,
+          13.7758418
+        ],
+        [
+          47.3885196,
+          13.7756619
+        ],
+        [
+          47.3868521,
+          13.7749664
+        ],
+        [
+          47.385428,
+          13.7743725
+        ],
+        [
+          47.3841323,
+          13.7738321
+        ],
+        [
+          47.3830188,
+          13.7733678
+        ],
+        [
+          47.3814585,
+          13.7727171
+        ],
+        [
+          47.3806082,
+          13.7723625
+        ],
+        [
+          47.3793014,
+          13.7718176
+        ],
+        [
+          47.377791,
+          13.7711878
+        ],
+        [
+          47.3774021,
+          13.7710256
+        ]
+      ]
+    },
+    {
+      "id": 32654805,
+      "name": "Höfi-Express II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3889925,
+          13.7869807
+        ],
+        [
+          47.3887677,
+          13.7868882
+        ],
+        [
+          47.3887217,
+          13.7868693
+        ],
+        [
+          47.3877911,
+          13.7864863
+        ],
+        [
+          47.3868565,
+          13.7861018
+        ],
+        [
+          47.3851549,
+          13.7854016
+        ],
+        [
+          47.3833203,
+          13.7846467
+        ],
+        [
+          47.3823759,
+          13.7842582
+        ],
+        [
+          47.3812494,
+          13.7837947
+        ],
+        [
+          47.3809599,
+          13.7836756
+        ],
+        [
+          47.3795365,
+          13.7830899
+        ],
+        [
+          47.3786794,
+          13.7827373
+        ],
+        [
+          47.3783926,
+          13.7826193
+        ]
+      ]
+    },
+    {
+      "id": 32679077,
+      "name": "Burgstallalmbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3778819,
+          13.7304474
+        ],
+        [
+          47.377683,
+          13.7303361
+        ],
+        [
+          47.377614,
+          13.7302975
+        ],
+        [
+          47.3768775,
+          13.7298854
+        ],
+        [
+          47.3753689,
+          13.7290413
+        ],
+        [
+          47.3741406,
+          13.728354
+        ],
+        [
+          47.3727517,
+          13.727577
+        ],
+        [
+          47.3713595,
+          13.726798
+        ],
+        [
+          47.3700928,
+          13.7260894
+        ],
+        [
+          47.3698148,
+          13.7259338
+        ],
+        [
+          47.3696497,
+          13.7258415
+        ]
+      ]
+    },
+    {
+      "id": 37600588,
+      "name": "Gasselhöhe II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3719254,
+          13.5915126
+        ],
+        [
+          47.3717805,
+          13.59149
+        ],
+        [
+          47.3717399,
+          13.5914837
+        ],
+        [
+          47.3713829,
+          13.5914282
+        ],
+        [
+          47.3706525,
+          13.5913145
+        ],
+        [
+          47.3701068,
+          13.5912296
+        ],
+        [
+          47.3695474,
+          13.5911426
+        ],
+        [
+          47.3677803,
+          13.5908676
+        ],
+        [
+          47.3666644,
+          13.590694
+        ],
+        [
+          47.3651655,
+          13.5904608
+        ],
+        [
+          47.3647105,
+          13.59039
+        ],
+        [
+          47.3637643,
+          13.5902428
+        ],
+        [
+          47.3632091,
+          13.5901564
+        ],
+        [
+          47.3614956,
+          13.5898898
+        ],
+        [
+          47.3606264,
+          13.5897546
+        ],
+        [
+          47.3601176,
+          13.5896754
+        ],
+        [
+          47.3595979,
+          13.5895945
+        ],
+        [
+          47.3595588,
+          13.5895885
+        ],
+        [
+          47.3592466,
+          13.5895399
+        ],
+        [
+          47.3591961,
+          13.589532
+        ],
+        [
+          47.3588924,
+          13.5894848
+        ]
+      ]
+    },
+    {
+      "id": 38537124,
+      "name": "Reiteralm I",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3862636,
+          13.6124305
+        ],
+        [
+          47.386147,
+          13.6123279
+        ],
+        [
+          47.3860748,
+          13.6122644
+        ],
+        [
+          47.3855682,
+          13.6118188
+        ],
+        [
+          47.3841813,
+          13.610599
+        ],
+        [
+          47.383188,
+          13.6097253
+        ],
+        [
+          47.3823053,
+          13.608949
+        ],
+        [
+          47.3822552,
+          13.6089049
+        ],
+        [
+          47.3822325,
+          13.6088849
+        ],
+        [
+          47.3821387,
+          13.6088025
+        ],
+        [
+          47.3818332,
+          13.6085406
+        ],
+        [
+          47.3816829,
+          13.6084148
+        ],
+        [
+          47.3810034,
+          13.607804
+        ],
+        [
+          47.3798125,
+          13.6067566
+        ],
+        [
+          47.3789888,
+          13.6060321
+        ],
+        [
+          47.3780756,
+          13.6052291
+        ],
+        [
+          47.3773699,
+          13.6046084
+        ],
+        [
+          47.377083,
+          13.6043561
+        ],
+        [
+          47.3762657,
+          13.6036373
+        ],
+        [
+          47.3751196,
+          13.6026295
+        ],
+        [
+          47.3739412,
+          13.6015932
+        ],
+        [
+          47.3735752,
+          13.6012714
+        ],
+        [
+          47.3734985,
+          13.6012039
+        ],
+        [
+          47.3734595,
+          13.6011696
+        ],
+        [
+          47.3732955,
+          13.6010254
+        ]
+      ]
+    },
+    {
+      "id": 41773492,
+      "name": "Schladminger Tauern Seilbahn",
+      "cat": "PB",
+      "coords": [
+        [
+          47.4062239,
+          13.7666346
+        ],
+        [
+          47.4046926,
+          13.7667178
+        ],
+        [
+          47.4023782,
+          13.7668436
+        ],
+        [
+          47.3973496,
+          13.7671168
+        ],
+        [
+          47.3926712,
+          13.767371
+        ],
+        [
+          47.3926274,
+          13.7673734
+        ],
+        [
+          47.3911908,
+          13.7674515
+        ],
+        [
+          47.3876976,
+          13.7676413
+        ],
+        [
+          47.3840054,
+          13.7678418
+        ],
+        [
+          47.3797849,
+          13.7680711
+        ],
+        [
+          47.3791614,
+          13.7680891
+        ]
+      ]
+    },
+    {
+      "id": 51510455,
+      "name": "Hochwurzen 2",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3754714,
+          13.6320538
+        ],
+        [
+          47.3753164,
+          13.6321242
+        ],
+        [
+          47.3752789,
+          13.6321412
+        ],
+        [
+          47.3752403,
+          13.6321587
+        ],
+        [
+          47.3745954,
+          13.6324514
+        ],
+        [
+          47.3730874,
+          13.6331358
+        ],
+        [
+          47.3720581,
+          13.6336029
+        ],
+        [
+          47.3716044,
+          13.6338088
+        ],
+        [
+          47.3705975,
+          13.6342658
+        ],
+        [
+          47.3702006,
+          13.6344459
+        ],
+        [
+          47.369578,
+          13.6347284
+        ],
+        [
+          47.3689467,
+          13.635015
+        ],
+        [
+          47.3683541,
+          13.6352839
+        ],
+        [
+          47.3678138,
+          13.6355291
+        ],
+        [
+          47.3669746,
+          13.6359099
+        ],
+        [
+          47.3665838,
+          13.6360872
+        ],
+        [
+          47.3656747,
+          13.6364997
+        ],
+        [
+          47.3644873,
+          13.6370386
+        ],
+        [
+          47.364081,
+          13.637223
+        ],
+        [
+          47.3628299,
+          13.6377907
+        ],
+        [
+          47.3627745,
+          13.6378158
+        ],
+        [
+          47.3620814,
+          13.6381303
+        ],
+        [
+          47.3609034,
+          13.6386648
+        ],
+        [
+          47.3604197,
+          13.6388842
+        ],
+        [
+          47.3603653,
+          13.6389089
+        ],
+        [
+          47.3601049,
+          13.6390271
+        ]
+      ]
+    },
+    {
+      "id": 90590135,
+      "name": "Preunegg Jet",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.374683,
+          13.6135455
+        ],
+        [
+          47.3745226,
+          13.6133566
+        ],
+        [
+          47.3737919,
+          13.6124963
+        ],
+        [
+          47.3730291,
+          13.6115981
+        ],
+        [
+          47.3715638,
+          13.6098729
+        ],
+        [
+          47.3700427,
+          13.608082
+        ],
+        [
+          47.3691194,
+          13.606995
+        ],
+        [
+          47.3680992,
+          13.6057938
+        ],
+        [
+          47.3668429,
+          13.6043148
+        ],
+        [
+          47.3655569,
+          13.6028009
+        ],
+        [
+          47.3644396,
+          13.6014855
+        ],
+        [
+          47.3633932,
+          13.6002537
+        ],
+        [
+          47.3623291,
+          13.5990011
+        ],
+        [
+          47.3615575,
+          13.5980928
+        ],
+        [
+          47.3601472,
+          13.5964327
+        ],
+        [
+          47.3600965,
+          13.596373
+        ],
+        [
+          47.3597413,
+          13.5959549
+        ]
+      ]
+    },
+    {
+      "id": 91414574,
+      "name": "Rohrmoos II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3854243,
+          13.6651414
+        ],
+        [
+          47.3852981,
+          13.664956
+        ],
+        [
+          47.385262,
+          13.664903
+        ],
+        [
+          47.3848719,
+          13.6643301
+        ],
+        [
+          47.3843911,
+          13.6636239
+        ],
+        [
+          47.3841854,
+          13.6633218
+        ],
+        [
+          47.3833209,
+          13.6620522
+        ],
+        [
+          47.3819967,
+          13.6601074
+        ],
+        [
+          47.3809577,
+          13.6585817
+        ],
+        [
+          47.3801232,
+          13.6573561
+        ],
+        [
+          47.3792694,
+          13.6561023
+        ],
+        [
+          47.3782025,
+          13.6545357
+        ],
+        [
+          47.3772428,
+          13.6531263
+        ],
+        [
+          47.3766935,
+          13.6523197
+        ],
+        [
+          47.3763652,
+          13.6518376
+        ]
+      ]
+    },
+    {
+      "id": 92335800,
+      "name": "Obertalbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3754355,
+          13.6624892
+        ],
+        [
+          47.3753078,
+          13.6622467
+        ],
+        [
+          47.3748477,
+          13.6613729
+        ],
+        [
+          47.374034,
+          13.6598277
+        ],
+        [
+          47.3731579,
+          13.6581639
+        ],
+        [
+          47.3721687,
+          13.6562854
+        ],
+        [
+          47.3709801,
+          13.6540282
+        ],
+        [
+          47.3698842,
+          13.6519471
+        ],
+        [
+          47.3688937,
+          13.6500662
+        ],
+        [
+          47.3678316,
+          13.6480494
+        ],
+        [
+          47.3677786,
+          13.6479489
+        ],
+        [
+          47.3676805,
+          13.6477625
+        ]
+      ]
+    },
+    {
+      "id": 147948708,
+      "name": "Alm 6er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3676388,
+          13.7655624
+        ],
+        [
+          47.3675025,
+          13.7658075
+        ],
+        [
+          47.3674717,
+          13.7658629
+        ],
+        [
+          47.3672352,
+          13.7662879
+        ],
+        [
+          47.3665208,
+          13.7675721
+        ],
+        [
+          47.3654089,
+          13.7695709
+        ],
+        [
+          47.3643676,
+          13.7714428
+        ],
+        [
+          47.36386,
+          13.7723553
+        ],
+        [
+          47.3632531,
+          13.7734463
+        ],
+        [
+          47.3624046,
+          13.7749715
+        ],
+        [
+          47.3612517,
+          13.7770437
+        ],
+        [
+          47.3604855,
+          13.778421
+        ],
+        [
+          47.3594421,
+          13.7802965
+        ],
+        [
+          47.3592145,
+          13.7807055
+        ]
+      ]
+    },
+    {
+      "id": 326893907,
+      "name": "Planai West II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3833642,
+          13.6861548
+        ],
+        [
+          47.3832551,
+          13.686563
+        ],
+        [
+          47.3832243,
+          13.6866781
+        ],
+        [
+          47.3830044,
+          13.6875007
+        ],
+        [
+          47.3825134,
+          13.6893369
+        ],
+        [
+          47.3818568,
+          13.6917927
+        ],
+        [
+          47.3810064,
+          13.6949736
+        ],
+        [
+          47.3805111,
+          13.6968258
+        ],
+        [
+          47.3800744,
+          13.6984592
+        ],
+        [
+          47.3794676,
+          13.7007286
+        ],
+        [
+          47.3790544,
+          13.7022743
+        ],
+        [
+          47.379031,
+          13.7023615
+        ],
+        [
+          47.3789423,
+          13.702718
+        ],
+        [
+          47.3788719,
+          13.7029567
+        ]
+      ]
+    },
+    {
+      "id": 777171482,
+      "name": "Schoberbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3610762,
+          13.6037332
+        ],
+        [
+          47.3609897,
+          13.6035792
+        ],
+        [
+          47.360799,
+          13.6032397
+        ],
+        [
+          47.3601478,
+          13.6020801
+        ],
+        [
+          47.3594595,
+          13.6008545
+        ],
+        [
+          47.3587972,
+          13.5996751
+        ],
+        [
+          47.358072,
+          13.5983838
+        ],
+        [
+          47.3567189,
+          13.5959745
+        ],
+        [
+          47.3561361,
+          13.5949368
+        ],
+        [
+          47.3556734,
+          13.5941128
+        ],
+        [
+          47.3555384,
+          13.5938726
+        ]
+      ]
+    },
+    {
+      "id": 1313455826,
+      "name": "Bundesheer-Seilbahn",
+      "cat": "PB",
+      "coords": [
+        [
+          47.4680488,
+          13.6263872
+        ],
+        [
+          47.4665699,
+          13.6387021
+        ],
+        [
+          47.4663395,
+          13.6406208
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

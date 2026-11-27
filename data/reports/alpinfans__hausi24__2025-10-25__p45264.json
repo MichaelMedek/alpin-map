@@ -1,0 +1,475 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 45264,
+    "title": "Hintertuxer Gletscher mit guten Bedingungen und eisigen Pisten",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=45264",
+    "date": "2025-10-25",
+    "post_date": "2025-10-25",
+    "text": "Heute bin ich seit langem mal wieder am Hintertuxer Gletscher. Leider die Abfahrten zur unteren Mittelstation geschlossen, trotzdem oben ganz gute Verhältnis und stellenweise trotz schlechter Vorhersage Sonne! Die Pisten sind ganz gut zu fahren, einige Stellen aber auch sehr eisig. Die offpiste Variante am 6er Sessel ging gut zu fahren nur einige Steine gab es dort."
+  },
+  "center": [
+    47.0619141025641,
+    11.662659829059832
+  ],
+  "placed_count": 13,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78444&mode=view",
+      "description": "PXL_20251025_070539224.jpg (1.02 MiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.05916666666666,
+        "longitude": 11.660977777777779,
+        "elevation_m": 3154,
+        "bearing_deg": 251,
+        "captured_at": "2025-10-25T09:05:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4388475,
+        "name": "Olperer 1",
+        "cat": "SL",
+        "dist": 118
+      },
+      "piste": {
+        "name": "Olperer 1",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78445&mode=view",
+      "description": "PXL_20251025_065505882.jpg (886.18 KiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.06046944444444,
+        "longitude": 11.660202777777778,
+        "elevation_m": 3163,
+        "bearing_deg": 32,
+        "captured_at": "2025-10-25T08:55:05"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Kaserereck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78446&mode=view",
+      "description": "PXL_20251025_065525698.jpg (1.05 MiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.05942777777778,
+        "longitude": 11.66108611111111,
+        "elevation_m": 3137,
+        "bearing_deg": 140,
+        "captured_at": "2025-10-25T08:55:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4388475,
+        "name": "Olperer 1",
+        "cat": "SL",
+        "dist": 141
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78447&mode=view",
+      "description": "PXL_20251025_064700958.jpg (652.86 KiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.06521111111111,
+        "longitude": 11.671130555555555,
+        "elevation_m": 3017,
+        "bearing_deg": 191,
+        "captured_at": "2025-10-25T08:47:00"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Eissattel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78448&mode=view",
+      "description": "PXL_20251025_065335948.jpg (933.36 KiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.06307777777778,
+        "longitude": 11.658144444444444,
+        "elevation_m": 3179,
+        "bearing_deg": 19,
+        "captured_at": "2025-10-25T08:53:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 390185349,
+        "name": "Lärmstange 2",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Höllscharte",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78449&mode=view",
+      "description": "PXL_20251025_065533146.jpg (1.09 MiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.05941388888888,
+        "longitude": 11.661152777777778,
+        "elevation_m": 3136,
+        "bearing_deg": 332,
+        "captured_at": "2025-10-25T08:55:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4388475,
+        "name": "Olperer 1",
+        "cat": "SL",
+        "dist": 138
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78450&mode=view",
+      "description": "PXL_20251025_065452961.jpg (1.03 MiB) 6628 mal betrachtet",
+      "geo": {
+        "latitude": 47.06133333333333,
+        "longitude": 11.66051388888889,
+        "elevation_m": 3173,
+        "bearing_deg": 118,
+        "captured_at": "2025-10-25T08:54:52"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Kaserereck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78483&mode=view",
+      "description": "PXL_20251025_080220439.jpg (988.29 KiB) 6575 mal betrachtet",
+      "geo": {
+        "latitude": 47.05725555555555,
+        "longitude": 11.658333333333333,
+        "elevation_m": 3242,
+        "bearing_deg": 332,
+        "captured_at": "2025-10-25T10:02:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 4388475,
+        "name": "Olperer 1",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Olperer 1",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78532&mode=view",
+      "description": "PXL_20251025_114144570.jpg (819.75 KiB) 6396 mal betrachtet",
+      "geo": {
+        "latitude": 47.063824999999994,
+        "longitude": 11.658980555555557,
+        "elevation_m": 3133,
+        "bearing_deg": 293,
+        "captured_at": "2025-10-25T13:41:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 390185349,
+        "name": "Lärmstange 2",
+        "cat": "SB",
+        "dist": 41
+      },
+      "piste": {
+        "name": "Sonnenhang",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78533&mode=view",
+      "description": "PXL_20251025_114139544.jpg (910.77 KiB) 6396 mal betrachtet",
+      "geo": {
+        "latitude": 47.063805555555554,
+        "longitude": 11.658980555555557,
+        "elevation_m": 3135,
+        "bearing_deg": 193,
+        "captured_at": "2025-10-25T13:41:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 390185349,
+        "name": "Lärmstange 2",
+        "cat": "SB",
+        "dist": 42
+      },
+      "piste": {
+        "name": "Sonnenhang",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78534&mode=view",
+      "description": "PXL_20251025_095146679.jpg (831.12 KiB) 6396 mal betrachtet",
+      "geo": {
+        "latitude": 47.06159444444444,
+        "longitude": 11.680291666666665,
+        "elevation_m": 3280,
+        "bearing_deg": 106,
+        "captured_at": "2025-10-25T11:51:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1536770200,
+        "name": "",
+        "cat": "SL",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Riepensattel",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78535&mode=view",
+      "description": "PXL_20251025_113253227.jpg (1.12 MiB) 6396 mal betrachtet",
+      "geo": {
+        "latitude": 47.066947222222225,
+        "longitude": 11.666077777777778,
+        "elevation_m": 2943,
+        "bearing_deg": 237,
+        "captured_at": "2025-10-25T13:32:53"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Eissattel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=78536&mode=view",
+      "description": "PXL_20251025_114101459.jpg (795.79 KiB) 6396 mal betrachtet",
+      "geo": {
+        "latitude": 47.06335555555555,
+        "longitude": 11.658705555555557,
+        "elevation_m": 3158,
+        "bearing_deg": 291,
+        "captured_at": "2025-10-25T13:41:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 390185349,
+        "name": "Lärmstange 2",
+        "cat": "SB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "Sonnenhang",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 12
+    }
+  ],
+  "lifts": [
+    {
+      "id": 4388475,
+      "name": "Olperer 1",
+      "cat": "SL",
+      "coords": [
+        [
+          47.0606288,
+          11.670104
+        ],
+        [
+          47.0605565,
+          11.6698515
+        ],
+        [
+          47.0603834,
+          11.6692467
+        ],
+        [
+          47.0603668,
+          11.6691886
+        ],
+        [
+          47.0601771,
+          11.6685257
+        ],
+        [
+          47.0596986,
+          11.6668539
+        ],
+        [
+          47.059385,
+          11.6657582
+        ],
+        [
+          47.0590247,
+          11.6644993
+        ],
+        [
+          47.0586881,
+          11.6633231
+        ],
+        [
+          47.0582662,
+          11.6618488
+        ],
+        [
+          47.0580135,
+          11.6609662
+        ],
+        [
+          47.0575836,
+          11.6594641
+        ],
+        [
+          47.0570383,
+          11.6575587
+        ],
+        [
+          47.0570256,
+          11.6575144
+        ],
+        [
+          47.0568399,
+          11.6568656
+        ]
+      ]
+    },
+    {
+      "id": 390185349,
+      "name": "Lärmstange 2",
+      "cat": "SB",
+      "coords": [
+        [
+          47.0720428,
+          11.6609189
+        ],
+        [
+          47.071397,
+          11.6607103
+        ],
+        [
+          47.0703173,
+          11.6603849
+        ],
+        [
+          47.0685754,
+          11.65986
+        ],
+        [
+          47.0673661,
+          11.6594956
+        ],
+        [
+          47.0655641,
+          11.6589526
+        ],
+        [
+          47.0643047,
+          11.6585731
+        ],
+        [
+          47.063395,
+          11.658299
+        ],
+        [
+          47.0629462,
+          11.6581638
+        ],
+        [
+          47.062855,
+          11.6581363
+        ]
+      ]
+    },
+    {
+      "id": 1536770200,
+      "name": "",
+      "cat": "SL",
+      "coords": [
+        [
+          47.0617489,
+          11.6803906
+        ],
+        [
+          47.0622652,
+          11.6804157
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

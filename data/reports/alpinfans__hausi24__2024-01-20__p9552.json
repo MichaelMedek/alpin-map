@@ -1,0 +1,1348 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 9552,
+    "title": "Genialer Skitag im sonnigen Alpe d Huez",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=9552",
+    "date": "2024-01-20",
+    "post_date": "2024-01-22",
+    "text": "Am Wochenende war ich auf einem kurzen Frankreich Roadtrip mit Alpe d'Huez am Samstag und Les 2 Alpes am Sonntag. Beide Skigebiete waren für mich neu und standen weit oben auf meiner ToDo Liste. Es war in beiden Gebieten mega nice und auch vom Wetter und Schnee waren es zwei geniale Skitage! Eingestiegen bin ich in Allemond an dem recht neuen Eau d’Olle Express. Es ging dan weiter über Alpette und Dome des Rousses zum Pic Blank. Die Tunnelpiste hatt leider noch zu, daher ging es erst mal die Sarenne Piste herunter. Eau d’Olle Express Camping im beheizten Auto über Nacht direkt am Stausee von Allemond zusammen mit meinem Mitfahrer Oz Alpette Pic Blanc Pic Blanc Pic Blanc Sarenne/Tunnel Starthang Tunnel leider noch zu Herpie leider auch zu, obwohl es schon 10:10 Uhr ist. Den oberen 4er Sessel hat man leider ganz entfernt. Sarenne Sarenne Sarenne Da es leider generell um den Hauptort herum extrem voll war mit den Wartezeiten, und um in einem Tag natürlich möglichst viel zu sehen, ging es dann erst mal den Tag über in die Randgebiete. Zuerst nach Villards, dann nach Auris und schließlich nach Vaujany. Auris war echt schön ruhig vom Ort her mit tollem Blick auf Les 2 Alpes und einer schönen schwarzen Abfahrt vom Signale de l'Homme zur neuen Chalvet Sesselbahn. Vaujany war landschaftlich aber am schönsten es gibt dort viele Höhenmeter die man machen kann, und auch dort war kaum etwas los. Alpe d'Huez Alpe d'Huez DMC mit langen Wartezeiten, wie jeder Lift im Ort Alpe d'Huez vom Signal Neuer Huez Express komplett leer Auris Blick vom Signal de l'Homme nach Les 2 Alpes wo ich morgen Skifahren bin Nuer Chalvet Sessel Piste zur Alpette Neue Bartholet Kombibahn Clos Giraud (Die leider mehrmals wegen der Fahrt stehen bleibt, und das den ganzen Tag über...) Vaujany Talabfahrt zur Gondelbahn Montfrais Das Highlight kam dann zum Schluss! Die Tunnel Abfahrt in perfektem Sonnenschein! Ganz kanpp um 15:00 Uhr noch in die Warteschlange gekommen der Pic Blanc Bahn, danach wurde die Schlange zugemacht, da man mindestens 30 Minuten warten musste, und die letzte Fahrt um 15:30 war, für mich ging es dann mit der letzten Gondel nach 40 Minuten anstehen um 15:40 Uhr hoch. Glück gehabt! Tunnel Tunnel Piste Tunnel Piste Tunnel Piste Tunnel Piste Tunnel Piste Tunnel Piste Tunnel Piste mit Sekt zum Abschluss des Tages Tunnel Piste Talabfahrt nach Oz Nochmal 30 Minuten anstehen für die Talfahrt nach Allemond"
+  },
+  "center": [
+    45.109622053872066,
+    6.100913215488215
+  ],
+  "placed_count": 33,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12095",
+      "description": "Eau d’Olle Express",
+      "geo": {
+        "latitude": 45.12611666666667,
+        "longitude": 6.038022222222222,
+        "elevation_m": 781.2,
+        "bearing_deg": 32,
+        "captured_at": "2024-01-20T08:31:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 799307375,
+        "name": "Eau d'Olle Express",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": null,
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12096",
+      "description": "Oz",
+      "geo": {
+        "latitude": 45.12737777777778,
+        "longitude": 6.072697222222222,
+        "elevation_m": 1484.03,
+        "bearing_deg": 143,
+        "captured_at": "2024-01-20T08:48:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 799307375,
+        "name": "Eau d'Olle Express",
+        "cat": "EUB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Roche Noire",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12097",
+      "description": "Alpette",
+      "geo": {
+        "latitude": 45.13921388888889,
+        "longitude": 6.093274999999999,
+        "elevation_m": 2100.69,
+        "bearing_deg": 31,
+        "captured_at": "2024-01-20T09:09:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 184501659,
+        "name": "Vaujany-Alpette",
+        "cat": "PB",
+        "dist": 36
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 1
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12098",
+      "description": "Pic Blanc",
+      "geo": {
+        "latitude": 45.118161111111114,
+        "longitude": 6.104033333333333,
+        "elevation_m": 2859.19,
+        "bearing_deg": 331,
+        "captured_at": "2024-01-20T09:43:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12099",
+      "description": "Pic Blanc",
+      "geo": {
+        "latitude": 45.125025,
+        "longitude": 6.127111111111111,
+        "elevation_m": 3375.47,
+        "bearing_deg": 41,
+        "captured_at": "2024-01-20T09:54:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12100",
+      "description": "Pic Blanc",
+      "geo": {
+        "latitude": 45.12490833333333,
+        "longitude": 6.127605555555555,
+        "elevation_m": 3379,
+        "bearing_deg": 194,
+        "captured_at": "2024-01-20T09:57:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12101",
+      "description": "Sarenne/Tunnel Starthang",
+      "geo": {
+        "latitude": 45.12475555555556,
+        "longitude": 6.128480555555555,
+        "elevation_m": 3359,
+        "bearing_deg": 32,
+        "captured_at": "2024-01-20T09:59:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 100
+      },
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 31
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12102",
+      "description": "Tunnel leider noch zu",
+      "geo": {
+        "latitude": 45.01804722222222,
+        "longitude": 6.125130555555555,
+        "elevation_m": 3165.28,
+        "bearing_deg": 196,
+        "captured_at": "2024-01-20T10:04:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30483406,
+        "name": "Vallée Blanche",
+        "cat": "EUB",
+        "dist": 94
+      },
+      "piste": {
+        "name": "Vallée Blanche",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 81
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12103",
+      "description": "Herpie leider auch zu, obwohl es schon 10:10 Uhr ist. Den oberen 4er Sessel hat man leider ganz entfernt.",
+      "geo": {
+        "latitude": 45.10676388888889,
+        "longitude": 6.1259749999999995,
+        "elevation_m": 2792,
+        "bearing_deg": 239,
+        "captured_at": "2024-01-20T10:10:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23257799,
+        "name": "Herpie",
+        "cat": "SB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12104",
+      "description": "Sarenne",
+      "geo": {
+        "latitude": 45.09863611111111,
+        "longitude": 6.126294444444444,
+        "elevation_m": 2556,
+        "bearing_deg": 85,
+        "captured_at": "2024-01-20T10:13:11"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12105",
+      "description": "Sarenne",
+      "geo": {
+        "latitude": 45.09863611111111,
+        "longitude": 6.126294444444444,
+        "elevation_m": 2556,
+        "bearing_deg": 279,
+        "captured_at": "2024-01-20T10:13:14"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12106",
+      "description": "Sarenne",
+      "geo": {
+        "latitude": 45.09863611111111,
+        "longitude": 6.126294444444444,
+        "elevation_m": 2556,
+        "bearing_deg": 205,
+        "captured_at": "2024-01-20T10:16:16"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sarenne",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12116",
+      "description": "Alpe d'Huez",
+      "geo": {
+        "latitude": 45.092488888888894,
+        "longitude": 6.0853166666666665,
+        "elevation_m": 1907.2,
+        "bearing_deg": 150,
+        "captured_at": "2024-01-20T10:33:32"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Altiport",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12115",
+      "description": "Alpe d'Huez DMC mit langen Wartezeiten, wie jeder Lift im Ort",
+      "geo": {
+        "latitude": 45.09775277777778,
+        "longitude": 6.069419444444444,
+        "elevation_m": 1917.3,
+        "bearing_deg": 345,
+        "captured_at": "2024-01-20T10:48:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 184501664,
+        "name": "Pic Blanc 1",
+        "cat": "EUB",
+        "dist": 51
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 5
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12114",
+      "description": "Alpe d'Huez vom Signal",
+      "geo": {
+        "latitude": 45.09813611111112,
+        "longitude": 6.0595944444444445,
+        "elevation_m": 1915.09,
+        "bearing_deg": 4,
+        "captured_at": "2024-01-20T11:34:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 184501641,
+        "name": "Grande Sure",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12113",
+      "description": "Neuer Huez Express komplett leer",
+      "geo": {
+        "latitude": 45.08746388888889,
+        "longitude": 6.057413888888889,
+        "elevation_m": 1632.4,
+        "bearing_deg": 46,
+        "captured_at": "2024-01-20T11:51:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1453146524,
+        "name": "Huez Express",
+        "cat": "EUB",
+        "dist": 101
+      },
+      "piste": {
+        "name": "Village",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12112",
+      "description": "Auris",
+      "geo": {
+        "latitude": 45.05667777777777,
+        "longitude": 6.076169444444444,
+        "elevation_m": 1652.8,
+        "bearing_deg": 66,
+        "captured_at": "2024-01-20T12:35:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1109991077,
+        "name": "Sures",
+        "cat": "EUB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 16
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12111",
+      "description": "Blick vom Signal de l'Homme nach Les 2 Alpes wo ich morgen Skifahren bin",
+      "geo": {
+        "latitude": 45.06783888888889,
+        "longitude": 6.0863805555555555,
+        "elevation_m": 2071,
+        "bearing_deg": 52,
+        "captured_at": "2024-01-20T12:54:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23424332,
+        "name": "Fontfroide",
+        "cat": "SB",
+        "dist": 40
+      },
+      "piste": {
+        "name": "Col de Cluy",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12110",
+      "description": "Nuer Chalvet Sessel",
+      "geo": {
+        "latitude": 45.07036666666667,
+        "longitude": 6.093969444444444,
+        "elevation_m": 1869.52,
+        "bearing_deg": 267,
+        "captured_at": "2024-01-20T12:59:41"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Col de Cluy",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12109",
+      "description": "Piste zur Alpette",
+      "geo": {
+        "latitude": 45.119819444444445,
+        "longitude": 6.099644444444444,
+        "elevation_m": 2550.04,
+        "bearing_deg": 252,
+        "captured_at": "2024-01-20T13:54:13"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Rousses",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12108",
+      "description": "Neue Bartholet Kombibahn Clos Giraud (Die leider mehrmals wegen der Fahrt stehen bleibt, und das den ganzen Tag über...)",
+      "geo": {
+        "latitude": 45.13654722222222,
+        "longitude": 6.095030555555555,
+        "elevation_m": 2100.69,
+        "bearing_deg": 70,
+        "captured_at": "2024-01-20T13:57:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256886,
+        "name": "Alpette-Rousses",
+        "cat": "PB",
+        "dist": 99
+      },
+      "piste": {
+        "name": "Rousses",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12107",
+      "description": "Vaujany Talabfahrt zur Gondelbahn Montfrais",
+      "geo": {
+        "latitude": 45.16616944444444,
+        "longitude": 6.0963416666666665,
+        "elevation_m": 1343.8,
+        "bearing_deg": 141,
+        "captured_at": "2024-01-20T14:05:22"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Vaujaniate",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12132",
+      "description": "Tunnel",
+      "geo": {
+        "latitude": 45.12414722222222,
+        "longitude": 6.129113888888888,
+        "elevation_m": 3302,
+        "bearing_deg": 272,
+        "captured_at": "2024-01-20T15:57:21"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12142",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.123269444444446,
+        "longitude": 6.125208333333333,
+        "elevation_m": 3169,
+        "bearing_deg": 282,
+        "captured_at": "2024-01-20T15:58:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 122
+      },
+      "piste": {
+        "name": "Tunnel des Grandes Rousses",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12141",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.120244444444445,
+        "longitude": 6.109244444444444,
+        "elevation_m": 3130.45,
+        "bearing_deg": 244,
+        "captured_at": "2024-01-20T16:00:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 42
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12140",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.123552777777775,
+        "longitude": 6.123605555555555,
+        "elevation_m": 3048.61,
+        "bearing_deg": 169,
+        "captured_at": "2024-01-20T16:02:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12139",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.123552777777775,
+        "longitude": 6.123605555555555,
+        "elevation_m": 2959.61,
+        "bearing_deg": 167,
+        "captured_at": "2024-01-20T16:03:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 45
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12138",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.10180277777778,
+        "longitude": 6.074675,
+        "elevation_m": 1941.2,
+        "bearing_deg": 140,
+        "captured_at": "2024-01-20T16:07:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 224985996,
+        "name": "Jeux",
+        "cat": "EUB",
+        "dist": 91
+      },
+      "piste": {
+        "name": "Jeux",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12137",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.123044444444446,
+        "longitude": 6.117569444444444,
+        "elevation_m": 2915.3,
+        "bearing_deg": 128,
+        "captured_at": "2024-01-20T16:10:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 82
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12136",
+      "description": "Tunnel Piste mit Sekt zum Abschluss des Tages",
+      "geo": {
+        "latitude": 45.12264444444445,
+        "longitude": 6.117288888888888,
+        "elevation_m": 2894.66,
+        "bearing_deg": 78,
+        "captured_at": "2024-01-20T16:14:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 49
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 29
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12135",
+      "description": "Tunnel Piste",
+      "geo": {
+        "latitude": 45.12213888888889,
+        "longitude": 6.112372222222222,
+        "elevation_m": 2751.07,
+        "bearing_deg": 150,
+        "captured_at": "2024-01-20T16:31:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23256294,
+        "name": "Pic Blanc 3",
+        "cat": "PB",
+        "dist": 144
+      },
+      "piste": {
+        "name": "Tunnel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12134",
+      "description": "Talabfahrt nach Oz",
+      "geo": {
+        "latitude": 45.105941666666666,
+        "longitude": 6.084466666666667,
+        "elevation_m": 2158.69,
+        "bearing_deg": 290,
+        "captured_at": "2024-01-20T16:54:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 924769372,
+        "name": "Poutran 2",
+        "cat": "EUB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "École",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 37
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=12133",
+      "description": "Nochmal 30 Minuten anstehen für die Talfahrt nach Allemond",
+      "geo": {
+        "latitude": 45.12765,
+        "longitude": 6.072491666666666,
+        "elevation_m": 1308.98,
+        "bearing_deg": 262,
+        "captured_at": "2024-01-20T17:14:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 799307375,
+        "name": "Eau d'Olle Express",
+        "cat": "EUB",
+        "dist": 39
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 32
+    }
+  ],
+  "lifts": [
+    {
+      "id": 23256294,
+      "name": "Pic Blanc 3",
+      "cat": "PB",
+      "coords": [
+        [
+          45.1182195,
+          6.1036462
+        ],
+        [
+          45.1199996,
+          6.1098022
+        ],
+        [
+          45.1250528,
+          6.1272785
+        ]
+      ]
+    },
+    {
+      "id": 23256886,
+      "name": "Alpette-Rousses",
+      "cat": "PB",
+      "coords": [
+        [
+          45.1392398,
+          6.0937897
+        ],
+        [
+          45.1285468,
+          6.1048953
+        ]
+      ]
+    },
+    {
+      "id": 23257799,
+      "name": "Herpie",
+      "cat": "SB",
+      "coords": [
+        [
+          45.1069557,
+          6.1257736
+        ],
+        [
+          45.1070998,
+          6.1256742
+        ],
+        [
+          45.1076943,
+          6.1252601
+        ],
+        [
+          45.1083107,
+          6.1248309
+        ],
+        [
+          45.1094086,
+          6.124112
+        ],
+        [
+          45.1105368,
+          6.1233342
+        ],
+        [
+          45.1113887,
+          6.1227495
+        ],
+        [
+          45.1122443,
+          6.1221701
+        ],
+        [
+          45.1134178,
+          6.1213601
+        ],
+        [
+          45.1142658,
+          6.1207807
+        ],
+        [
+          45.1145567,
+          6.1205558
+        ]
+      ]
+    },
+    {
+      "id": 23424332,
+      "name": "Fontfroide",
+      "cat": "SB",
+      "coords": [
+        [
+          45.07895,
+          6.085342
+        ],
+        [
+          45.0780957,
+          6.0853836
+        ],
+        [
+          45.0770832,
+          6.0854328
+        ],
+        [
+          45.0757356,
+          6.0854984
+        ],
+        [
+          45.0743454,
+          6.085566
+        ],
+        [
+          45.0728844,
+          6.085637
+        ],
+        [
+          45.0712349,
+          6.0857173
+        ],
+        [
+          45.0702331,
+          6.085766
+        ],
+        [
+          45.0686406,
+          6.0858435
+        ],
+        [
+          45.0678917,
+          6.0858799
+        ]
+      ]
+    },
+    {
+      "id": 30483406,
+      "name": "Vallée Blanche",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0180712,
+          6.1239411
+        ],
+        [
+          45.017845,
+          6.1234855
+        ],
+        [
+          45.0174991,
+          6.1227716
+        ],
+        [
+          45.0167511,
+          6.1212279
+        ],
+        [
+          45.015946,
+          6.1195664
+        ],
+        [
+          45.0155302,
+          6.1187082
+        ],
+        [
+          45.014377,
+          6.1163283
+        ],
+        [
+          45.0133893,
+          6.11429
+        ],
+        [
+          45.0130269,
+          6.1135421
+        ],
+        [
+          45.0119245,
+          6.1112671
+        ],
+        [
+          45.0111506,
+          6.1096701
+        ],
+        [
+          45.0101636,
+          6.1076332
+        ],
+        [
+          45.0095564,
+          6.1063804
+        ],
+        [
+          45.0094381,
+          6.1061361
+        ]
+      ]
+    },
+    {
+      "id": 184501641,
+      "name": "Grande Sure",
+      "cat": "SB",
+      "coords": [
+        [
+          45.0921475,
+          6.0604724
+        ],
+        [
+          45.0925,
+          6.0604107
+        ],
+        [
+          45.093035,
+          6.060317
+        ],
+        [
+          45.0938835,
+          6.0601685
+        ],
+        [
+          45.0947588,
+          6.0600153
+        ],
+        [
+          45.0956627,
+          6.059857
+        ],
+        [
+          45.0965882,
+          6.059695
+        ],
+        [
+          45.0973909,
+          6.0595545
+        ],
+        [
+          45.0979821,
+          6.059451
+        ],
+        [
+          45.0986335,
+          6.0593369
+        ],
+        [
+          45.0991909,
+          6.0592393
+        ],
+        [
+          45.0994728,
+          6.05919
+        ]
+      ]
+    },
+    {
+      "id": 184501659,
+      "name": "Vaujany-Alpette",
+      "cat": "PB",
+      "coords": [
+        [
+          45.1573788,
+          6.0790409
+        ],
+        [
+          45.147067,
+          6.0874057
+        ],
+        [
+          45.1439938,
+          6.0898893
+        ],
+        [
+          45.1402888,
+          6.092899
+        ],
+        [
+          45.1392871,
+          6.0937533
+        ]
+      ]
+    },
+    {
+      "id": 184501664,
+      "name": "Pic Blanc 1",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0977733,
+          6.0700688
+        ],
+        [
+          45.0987223,
+          6.0718132
+        ],
+        [
+          45.1010326,
+          6.0760596
+        ],
+        [
+          45.1019847,
+          6.0778096
+        ],
+        [
+          45.1026798,
+          6.0790871
+        ],
+        [
+          45.1039242,
+          6.0813746
+        ],
+        [
+          45.104986,
+          6.0833263
+        ],
+        [
+          45.1057453,
+          6.0847221
+        ]
+      ]
+    },
+    {
+      "id": 224985996,
+      "name": "Jeux",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0985077,
+          6.0704439
+        ],
+        [
+          45.0986523,
+          6.0707131
+        ],
+        [
+          45.0991623,
+          6.0716627
+        ],
+        [
+          45.1000865,
+          6.0733836
+        ],
+        [
+          45.1009799,
+          6.0750471
+        ],
+        [
+          45.1016592,
+          6.0763118
+        ],
+        [
+          45.1023166,
+          6.0775359
+        ],
+        [
+          45.1032523,
+          6.0792782
+        ],
+        [
+          45.1040768,
+          6.0808135
+        ],
+        [
+          45.1047623,
+          6.0820899
+        ],
+        [
+          45.1054392,
+          6.0833505
+        ],
+        [
+          45.1056166,
+          6.0836809
+        ]
+      ]
+    },
+    {
+      "id": 799307375,
+      "name": "Eau d'Olle Express",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.1260201,
+          6.0381324
+        ],
+        [
+          45.1260293,
+          6.0383766
+        ],
+        [
+          45.126032,
+          6.0384463
+        ],
+        [
+          45.1260429,
+          6.0387348
+        ],
+        [
+          45.1261339,
+          6.041144
+        ],
+        [
+          45.1261854,
+          6.0425058
+        ],
+        [
+          45.1263251,
+          6.0461998
+        ],
+        [
+          45.1264168,
+          6.048625
+        ],
+        [
+          45.1266552,
+          6.0549336
+        ],
+        [
+          45.1267584,
+          6.0576626
+        ],
+        [
+          45.1268423,
+          6.0598822
+        ],
+        [
+          45.1269311,
+          6.0622294
+        ],
+        [
+          45.1269578,
+          6.0629361
+        ],
+        [
+          45.1269837,
+          6.0636214
+        ],
+        [
+          45.1270815,
+          6.0662103
+        ],
+        [
+          45.1272056,
+          6.0694911
+        ],
+        [
+          45.1273055,
+          6.0721347
+        ],
+        [
+          45.1273141,
+          6.0723613
+        ]
+      ]
+    },
+    {
+      "id": 924769372,
+      "name": "Poutran 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.1149178,
+          6.0788333
+        ],
+        [
+          45.1060141,
+          6.0844659
+        ]
+      ]
+    },
+    {
+      "id": 1109991077,
+      "name": "Sures",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0565047,
+          6.0758596
+        ],
+        [
+          45.0563717,
+          6.0678398
+        ]
+      ]
+    },
+    {
+      "id": 1453146524,
+      "name": "Huez Express",
+      "cat": "EUB",
+      "coords": [
+        [
+          45.0867064,
+          6.058227
+        ],
+        [
+          45.0867452,
+          6.0582469
+        ],
+        [
+          45.0867637,
+          6.0582571
+        ],
+        [
+          45.0867769,
+          6.0582648
+        ],
+        [
+          45.0867896,
+          6.0582768
+        ],
+        [
+          45.0867982,
+          6.0582895
+        ],
+        [
+          45.0868053,
+          6.0583024
+        ],
+        [
+          45.0868144,
+          6.0583242
+        ],
+        [
+          45.0868237,
+          6.0583516
+        ],
+        [
+          45.0868483,
+          6.0584239
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

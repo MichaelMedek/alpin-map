@@ -1,0 +1,1589 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 54655,
+    "title": "Hochkönig: Kaiserwetter bei der Erstbefahrung",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=54655",
+    "date": "2026-01-31",
+    "post_date": "2026-01-31",
+    "text": "Heute meine Erstbefahrung am Hochkönig, am Morgen ist der Parkplatz schon sehr schnell voll zum Glück sind wir rechtzeitig da gewesen. Wetter wieder Kaiserwetter, mal schauen wie das Schnee in der geringen Höhenlage sich den Tag über verhält. Die Anfahrt über den Filzensattel war schon mal landschaftlich sehr schön!\n[Image Descriptions: Schlafplatz unmittelbar neben der Passhöhe; Kurz vor dem Sonnenaufgang gab es heute den Monduntergang zu sehen; Schöne Anfahrt; Angekommen am kostenlosen Parkplatz direkt neben der Karbachbahn, sie warten bis 8:30 Uhr mit der Öffnung, und die Leute stehen schon ziemlich lange als Schlange; Pisten morgens wieder ganz gut; Super tolle rote Piste am 6er Sessel!; Auch eine tolle Piste in der Sonne und super präpariert an der Kings Cab Gondelbahn, aber etwas flach, perfekt für Anfänger sicher; Super gute schwarze Piste an der Zachofalm Vierersessel Bahn; Dafür die Talabfahrt am 6er mit orangenen Hauben sehr eisig und abgerutscht; Sinalco Bahn die eigentlich anders heißt; Der höchste Punkt im Skigebiet auf 1900 m Höhe; Schöner Ausblick hier oben, auch wenn es nicht wirklich hoch ist; Die beiden schwarzen Pisten im Schatten hier sind sehr gut zu fahren; Es geht weiter in Richtung Maria Alm; Recht neue Verbindungsbahn die in einer Kurve ein Haus umfährt; Für die geringe Höhenlage auf 800 Metern im Tal doch Recht OK die Piste, wahrscheinlich einfach weil hier weniger Leute fahren; Endpunkt der Runde Maria Alm auf 800 Metern Höhe; Tolles Schnitzel mit Pommes für 18,80€ am höchsten Punkt; Um 16:15 Uhr ist es geschafft, am Nachmittag waren die Pisten teilweise ziemlich eisig leider dadurch kein top-tag gewesen obwohl das Wetter an sich schön gewesen wäre]"
+  },
+  "center": [
+    47.37934551971326,
+    12.996827419354839
+  ],
+  "placed_count": 31,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98041&mode=view",
+      "description": "Schöne Anfahrt",
+      "geo": {
+        "latitude": 47.39158888888889,
+        "longitude": 13.057325,
+        "elevation_m": 1326.8,
+        "bearing_deg": 0,
+        "captured_at": "2026-01-31T07:47:29"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "skitour",
+        "dist": 95
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98042&mode=view",
+      "description": "Angekommen am kostenlosen Parkplatz direkt neben der Karbachbahn, sie warten bis 8:30 Uhr mit der Öffnung, und die Leute stehen schon ziemlich lange als Schlange",
+      "geo": {
+        "latitude": 47.37988333333333,
+        "longitude": 13.108955555555555,
+        "elevation_m": 972.39,
+        "bearing_deg": 216,
+        "captured_at": "2026-01-31T08:18:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990725,
+        "name": "Karbachalm",
+        "cat": "EUB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Familienabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98043&mode=view",
+      "description": "PXL_20260131_074025084.jpg (1.32 MiB) 1107 mal betrachtet",
+      "geo": {
+        "latitude": 47.37801388888889,
+        "longitude": 13.099591666666667,
+        "elevation_m": 1204,
+        "bearing_deg": 359,
+        "captured_at": "2026-01-31T08:40:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990725,
+        "name": "Karbachalm",
+        "cat": "EUB",
+        "dist": 6
+      },
+      "piste": null,
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98062&mode=view",
+      "description": "Pisten morgens wieder ganz gut",
+      "geo": {
+        "latitude": 47.37806944444444,
+        "longitude": 13.083691666666667,
+        "elevation_m": 1592,
+        "bearing_deg": 237,
+        "captured_at": "2026-01-31T08:47:23"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98063&mode=view",
+      "description": "PXL_20260131_074644162.jpg (801.21 KiB) 1103 mal betrachtet",
+      "geo": {
+        "latitude": 47.375994444444444,
+        "longitude": 13.086083333333335,
+        "elevation_m": 1615.4,
+        "bearing_deg": 253,
+        "captured_at": "2026-01-31T08:46:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990725,
+        "name": "Karbachalm",
+        "cat": "EUB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98064&mode=view",
+      "description": "Super tolle rote Piste am 6er Sessel!",
+      "geo": {
+        "latitude": 47.37186111111111,
+        "longitude": 13.075169444444445,
+        "elevation_m": 1861,
+        "bearing_deg": 164,
+        "captured_at": "2026-01-31T08:59:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990674,
+        "name": "Fellersbach",
+        "cat": "SB",
+        "dist": 55
+      },
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98065&mode=view",
+      "description": "PXL_20260131_075742914.jpg (1.16 MiB) 1103 mal betrachtet",
+      "geo": {
+        "latitude": 47.37145833333334,
+        "longitude": 13.074683333333333,
+        "elevation_m": 1866,
+        "bearing_deg": 310,
+        "captured_at": "2026-01-31T08:57:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990674,
+        "name": "Fellersbach",
+        "cat": "SB",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98066&mode=view",
+      "description": "PXL_20260131_075813310.jpg (960.17 KiB) 1103 mal betrachtet",
+      "geo": {
+        "latitude": 47.37145833333334,
+        "longitude": 13.074683333333333,
+        "elevation_m": 1866,
+        "bearing_deg": 286,
+        "captured_at": "2026-01-31T08:58:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990674,
+        "name": "Fellersbach",
+        "cat": "SB",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98068&mode=view",
+      "description": "Auch eine tolle Piste in der Sonne und super präpariert an der Kings Cab Gondelbahn, aber etwas flach, perfekt für Anfänger sicher",
+      "geo": {
+        "latitude": 47.37960555555556,
+        "longitude": 13.051916666666667,
+        "elevation_m": 1724,
+        "bearing_deg": 209,
+        "captured_at": "2026-01-31T09:15:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990610,
+        "name": "Kings Cab",
+        "cat": "EUB",
+        "dist": 90
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "snow_park",
+        "dist": 3
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98069&mode=view",
+      "description": "PXL_20260131_081432040.jpg (1.01 MiB) 1103 mal betrachtet",
+      "geo": {
+        "latitude": 47.379352777777775,
+        "longitude": 13.04825,
+        "elevation_m": 1789,
+        "bearing_deg": 329,
+        "captured_at": "2026-01-31T09:14:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990610,
+        "name": "Kings Cab",
+        "cat": "EUB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "snow_park",
+        "dist": 6
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98070&mode=view",
+      "description": "PXL_20260131_080224280.jpg (641.57 KiB) 1103 mal betrachtet",
+      "geo": {
+        "latitude": 47.382600000000004,
+        "longitude": 13.073505555555556,
+        "elevation_m": 1421,
+        "bearing_deg": 202,
+        "captured_at": "2026-01-31T09:02:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990674,
+        "name": "Fellersbach",
+        "cat": "SB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Schneebergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98094&mode=view",
+      "description": "PXL_20260131_083006901.jpg (979.34 KiB) 1089 mal betrachtet",
+      "geo": {
+        "latitude": 47.37949722222222,
+        "longitude": 13.04695,
+        "elevation_m": 1790,
+        "bearing_deg": 205,
+        "captured_at": "2026-01-31T09:30:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783688,
+        "name": "Dachegg",
+        "cat": "SB",
+        "dist": 57
+      },
+      "piste": {
+        "name": "Dacheggabfahrten",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98095&mode=view",
+      "description": "Super gute schwarze Piste an der Zachofalm Vierersessel Bahn",
+      "geo": {
+        "latitude": 47.37470277777778,
+        "longitude": 13.032622222222223,
+        "elevation_m": 1784,
+        "bearing_deg": 5,
+        "captured_at": "2026-01-31T09:40:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783686,
+        "name": "Zachhofalm",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "Abfahrt Wastlhöhe",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98096&mode=view",
+      "description": "PXL_20260131_085129866.jpg (1.02 MiB) 1089 mal betrachtet",
+      "geo": {
+        "latitude": 47.37515555555556,
+        "longitude": 13.032661111111112,
+        "elevation_m": 1773,
+        "bearing_deg": 297,
+        "captured_at": "2026-01-31T09:51:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783686,
+        "name": "Zachhofalm",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Trassenabfahrt Zachhofalm",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 30
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98097&mode=view",
+      "description": "Dafür die Talabfahrt am 6er mit orangenen Hauben sehr eisig und abgerutscht",
+      "geo": {
+        "latitude": 47.37331944444445,
+        "longitude": 13.020502777777779,
+        "elevation_m": 1679,
+        "bearing_deg": 211,
+        "captured_at": "2026-01-31T09:53:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783685,
+        "name": "Wastlhöhelift",
+        "cat": "SL",
+        "dist": 47
+      },
+      "piste": {
+        "name": "Abfahrt Wastlhöhe",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98165&mode=view",
+      "description": "Sinalco Bahn die eigentlich anders heißt",
+      "geo": {
+        "latitude": 47.38981944444444,
+        "longitude": 12.984555555555554,
+        "elevation_m": 1679,
+        "bearing_deg": 152,
+        "captured_at": "2026-01-31T10:21:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 144064175,
+        "name": "Hochmais",
+        "cat": "SB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Familienabfahrt Hinterthal",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98166&mode=view",
+      "description": "PXL_20260131_092709785.jpg (682.26 KiB) 1069 mal betrachtet",
+      "geo": {
+        "latitude": 47.387188888888886,
+        "longitude": 12.944219444444444,
+        "elevation_m": 1037,
+        "bearing_deg": 144,
+        "captured_at": "2026-01-31T10:27:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 449244220,
+        "name": "SINALCObahn",
+        "cat": "EUB",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Hintermoosabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98167&mode=view",
+      "description": "Der höchste Punkt im Skigebiet auf 1900 m Höhe",
+      "geo": {
+        "latitude": 47.35716388888889,
+        "longitude": 12.920191666666666,
+        "elevation_m": 1924,
+        "bearing_deg": 230,
+        "captured_at": "2026-01-31T10:51:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783679,
+        "name": "Abergalm",
+        "cat": "SB",
+        "dist": 26
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 0
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98168&mode=view",
+      "description": "PXL_20260131_093907757.jpg (801.51 KiB) 1069 mal betrachtet",
+      "geo": {
+        "latitude": 47.37061388888889,
+        "longitude": 12.917330555555555,
+        "elevation_m": 1338,
+        "bearing_deg": 238,
+        "captured_at": "2026-01-31T10:39:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783679,
+        "name": "Abergalm",
+        "cat": "SB",
+        "dist": 12
+      },
+      "piste": {
+        "name": "Familienabfahrt Aberg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98169&mode=view",
+      "description": "Schöner Ausblick hier oben, auch wenn es nicht wirklich hoch ist",
+      "geo": {
+        "latitude": 47.356811111111114,
+        "longitude": 12.919938888888888,
+        "elevation_m": 1949,
+        "bearing_deg": 84,
+        "captured_at": "2026-01-31T11:09:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783679,
+        "name": "Abergalm",
+        "cat": "SB",
+        "dist": 48
+      },
+      "piste": {
+        "name": "Skiroute Perme",
+        "diff": "expert",
+        "ptype": "skitour",
+        "dist": 34
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98170&mode=view",
+      "description": "Die beiden schwarzen Pisten im Schatten hier sind sehr gut zu fahren",
+      "geo": {
+        "latitude": 47.36246666666667,
+        "longitude": 12.923072222222222,
+        "elevation_m": 1684,
+        "bearing_deg": 264,
+        "captured_at": "2026-01-31T10:52:48"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schreinerlochabfahrt",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98175&mode=view",
+      "description": "Es geht weiter in Richtung Maria Alm",
+      "geo": {
+        "latitude": 47.38053055555556,
+        "longitude": 12.91256388888889,
+        "elevation_m": 1163,
+        "bearing_deg": 277,
+        "captured_at": "2026-01-31T12:04:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30833227,
+        "name": "Abergbahn",
+        "cat": "EUB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Familienabfahrt Aberg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98176&mode=view",
+      "description": "PXL_20260131_104043163.jpg (1.26 MiB) 1067 mal betrachtet",
+      "geo": {
+        "latitude": 47.358919444444446,
+        "longitude": 12.924033333333332,
+        "elevation_m": 1857,
+        "bearing_deg": 308,
+        "captured_at": "2026-01-31T11:40:43"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schreinerabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98177&mode=view",
+      "description": "Recht neue Verbindungsbahn die in einer Kurve ein Haus umfährt",
+      "geo": {
+        "latitude": 47.389425,
+        "longitude": 12.907630555555556,
+        "elevation_m": 894,
+        "bearing_deg": 295,
+        "captured_at": "2026-01-31T12:05:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30833227,
+        "name": "Abergbahn",
+        "cat": "EUB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "Familienabfahrt Aberg",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98178&mode=view",
+      "description": "PXL_20260131_110849504.jpg (754.31 KiB) 1067 mal betrachtet",
+      "geo": {
+        "latitude": 47.39121111111111,
+        "longitude": 12.91071111111111,
+        "elevation_m": 922,
+        "bearing_deg": 300,
+        "captured_at": "2026-01-31T12:08:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 671087942,
+        "name": "Sonnbergbahn",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Sonnbergabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98179&mode=view",
+      "description": "Für die geringe Höhenlage auf 800 Metern im Tal doch Recht OK die Piste, wahrscheinlich einfach weil hier weniger Leute fahren",
+      "geo": {
+        "latitude": 47.39893055555555,
+        "longitude": 12.91846111111111,
+        "elevation_m": 1195,
+        "bearing_deg": 228,
+        "captured_at": "2026-01-31T12:14:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 671082149,
+        "name": "Natrunbahn",
+        "cat": "EUB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Nordabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98180&mode=view",
+      "description": "PXL_20260131_111602825.jpg (1003.83 KiB) 1067 mal betrachtet",
+      "geo": {
+        "latitude": 47.40576111111111,
+        "longitude": 12.912780555555555,
+        "elevation_m": 911,
+        "bearing_deg": 179,
+        "captured_at": "2026-01-31T12:16:02"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Simmerllift Familienabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 103
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98181&mode=view",
+      "description": "Endpunkt der Runde Maria Alm auf 800 Metern Höhe",
+      "geo": {
+        "latitude": 47.40646666666667,
+        "longitude": 12.907388888888889,
+        "elevation_m": 860,
+        "bearing_deg": 55,
+        "captured_at": "2026-01-31T12:17:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 671082149,
+        "name": "Natrunbahn",
+        "cat": "EUB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Simmerlift Familienabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98182&mode=view",
+      "description": "PXL_20260131_112648241.jpg (1.04 MiB) 1066 mal betrachtet",
+      "geo": {
+        "latitude": 47.404380555555555,
+        "longitude": 12.904297222222223,
+        "elevation_m": 854.29,
+        "bearing_deg": 30,
+        "captured_at": "2026-01-31T12:26:48"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1147675688,
+        "name": "Tellerlift Natrun",
+        "cat": "SL",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Natrunschleppliftabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 31
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98197&mode=view",
+      "description": "Tolles Schnitzel mit Pommes für 18,80€ am höchsten Punkt",
+      "geo": {
+        "latitude": 47.357147222222224,
+        "longitude": 12.919191666666666,
+        "elevation_m": 1939,
+        "bearing_deg": 242,
+        "captured_at": "2026-01-31T13:11:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30783679,
+        "name": "Abergalm",
+        "cat": "SB",
+        "dist": 52
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 37
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98272&mode=view",
+      "description": "Um 16:15 Uhr ist es geschafft, am Nachmittag waren die Pisten teilweise ziemlich eisig leider dadurch kein top-tag gewesen obwohl das Wetter an sich schön gewesen wäre",
+      "geo": {
+        "latitude": 47.38031388888889,
+        "longitude": 13.108691666666667,
+        "elevation_m": 969,
+        "bearing_deg": 165,
+        "captured_at": "2026-01-31T16:18:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990725,
+        "name": "Karbachalm",
+        "cat": "EUB",
+        "dist": 80
+      },
+      "piste": {
+        "name": "Familienabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 30
+    }
+  ],
+  "lifts": [
+    {
+      "id": 30783679,
+      "name": "Abergalm",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3716202,
+          12.9169704
+        ],
+        [
+          47.3705334,
+          12.9171894
+        ],
+        [
+          47.3697208,
+          12.9173543
+        ],
+        [
+          47.369463,
+          12.9174052
+        ],
+        [
+          47.3684429,
+          12.9176131
+        ],
+        [
+          47.3676609,
+          12.9177676
+        ],
+        [
+          47.3670432,
+          12.9178913
+        ],
+        [
+          47.366302,
+          12.9180412
+        ],
+        [
+          47.3660581,
+          12.9180907
+        ],
+        [
+          47.3645421,
+          12.9183952
+        ],
+        [
+          47.3637768,
+          12.9185513
+        ],
+        [
+          47.3630282,
+          12.9187059
+        ],
+        [
+          47.3622954,
+          12.9188574
+        ],
+        [
+          47.3619844,
+          12.9189176
+        ],
+        [
+          47.3606779,
+          12.9191804
+        ],
+        [
+          47.3606069,
+          12.9191925
+        ],
+        [
+          47.3605121,
+          12.9192132
+        ],
+        [
+          47.3596658,
+          12.9193815
+        ],
+        [
+          47.3584731,
+          12.9196227
+        ],
+        [
+          47.3574033,
+          12.9198355
+        ],
+        [
+          47.3572384,
+          12.9198683
+        ]
+      ]
+    },
+    {
+      "id": 30783685,
+      "name": "Wastlhöhelift",
+      "cat": "SL",
+      "coords": [
+        [
+          47.3722624,
+          13.0171481
+        ],
+        [
+          47.3723836,
+          13.0178287
+        ],
+        [
+          47.3726454,
+          13.0192281
+        ],
+        [
+          47.3728526,
+          13.0203358
+        ],
+        [
+          47.3730452,
+          13.0213657
+        ],
+        [
+          47.3734847,
+          13.0237154
+        ],
+        [
+          47.3738307,
+          13.0255647
+        ],
+        [
+          47.3742095,
+          13.0275903
+        ],
+        [
+          47.3744517,
+          13.0288851
+        ],
+        [
+          47.3746026,
+          13.029692
+        ]
+      ]
+    },
+    {
+      "id": 30783686,
+      "name": "Zachhofalm",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3880124,
+          13.0322388
+        ],
+        [
+          47.3874248,
+          13.0322597
+        ],
+        [
+          47.3870591,
+          13.0322728
+        ],
+        [
+          47.3857353,
+          13.03232
+        ],
+        [
+          47.3843856,
+          13.0323681
+        ],
+        [
+          47.3829573,
+          13.032419
+        ],
+        [
+          47.3813353,
+          13.0324768
+        ],
+        [
+          47.3804175,
+          13.0325095
+        ],
+        [
+          47.3796925,
+          13.0325353
+        ],
+        [
+          47.3794481,
+          13.032544
+        ],
+        [
+          47.3777214,
+          13.0326056
+        ],
+        [
+          47.3763804,
+          13.0326534
+        ],
+        [
+          47.3750174,
+          13.0327019
+        ],
+        [
+          47.3747434,
+          13.0327117
+        ]
+      ]
+    },
+    {
+      "id": 30783688,
+      "name": "Dachegg",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3889381,
+          13.033896
+        ],
+        [
+          47.3882917,
+          13.0348598
+        ],
+        [
+          47.3876306,
+          13.0358453
+        ],
+        [
+          47.3863487,
+          13.0377564
+        ],
+        [
+          47.3853014,
+          13.0393177
+        ],
+        [
+          47.3844253,
+          13.0406238
+        ],
+        [
+          47.3829921,
+          13.0427603
+        ],
+        [
+          47.3822527,
+          13.0438626
+        ],
+        [
+          47.3809087,
+          13.045866
+        ],
+        [
+          47.3801756,
+          13.0469588
+        ],
+        [
+          47.379963,
+          13.0472757
+        ]
+      ]
+    },
+    {
+      "id": 30833227,
+      "name": "Abergbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3897407,
+          12.9089489
+        ],
+        [
+          47.389003,
+          12.9092059
+        ],
+        [
+          47.3881348,
+          12.9095081
+        ],
+        [
+          47.3875004,
+          12.9097289
+        ],
+        [
+          47.38714,
+          12.9098544
+        ],
+        [
+          47.3857871,
+          12.9103254
+        ],
+        [
+          47.3848522,
+          12.9106508
+        ],
+        [
+          47.3838068,
+          12.9110146
+        ],
+        [
+          47.3827963,
+          12.9113664
+        ],
+        [
+          47.3818269,
+          12.9117038
+        ],
+        [
+          47.3806664,
+          12.9121077
+        ],
+        [
+          47.3798337,
+          12.9123975
+        ],
+        [
+          47.3784504,
+          12.912879
+        ],
+        [
+          47.3780417,
+          12.9130212
+        ],
+        [
+          47.3768988,
+          12.913419
+        ],
+        [
+          47.3760032,
+          12.9137307
+        ],
+        [
+          47.3751021,
+          12.9140443
+        ],
+        [
+          47.3736377,
+          12.9145539
+        ],
+        [
+          47.3721341,
+          12.9150772
+        ],
+        [
+          47.3720444,
+          12.9151084
+        ],
+        [
+          47.3717699,
+          12.9152039
+        ]
+      ]
+    },
+    {
+      "id": 31990610,
+      "name": "Kings Cab",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.385435,
+          13.0732225
+        ],
+        [
+          47.3853598,
+          13.0729006
+        ],
+        [
+          47.3853422,
+          13.072825
+        ],
+        [
+          47.3850452,
+          13.0715532
+        ],
+        [
+          47.3844505,
+          13.069006
+        ],
+        [
+          47.3839533,
+          13.0668768
+        ],
+        [
+          47.3833935,
+          13.0644791
+        ],
+        [
+          47.3828173,
+          13.0620116
+        ],
+        [
+          47.3823104,
+          13.0598407
+        ],
+        [
+          47.3818076,
+          13.0576873
+        ],
+        [
+          47.3811314,
+          13.0547914
+        ],
+        [
+          47.3808626,
+          13.05364
+        ],
+        [
+          47.3801264,
+          13.0504874
+        ],
+        [
+          47.3796661,
+          13.0485161
+        ],
+        [
+          47.3795923,
+          13.0482001
+        ],
+        [
+          47.3794991,
+          13.047801
+        ]
+      ]
+    },
+    {
+      "id": 31990674,
+      "name": "Fellersbach",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3846723,
+          13.0729724
+        ],
+        [
+          47.3843107,
+          13.0730139
+        ],
+        [
+          47.3840533,
+          13.0730434
+        ],
+        [
+          47.3826088,
+          13.0732091
+        ],
+        [
+          47.3818431,
+          13.073297
+        ],
+        [
+          47.3803271,
+          13.0734709
+        ],
+        [
+          47.3792799,
+          13.0735911
+        ],
+        [
+          47.3782058,
+          13.0737143
+        ],
+        [
+          47.3771355,
+          13.0738371
+        ],
+        [
+          47.3756807,
+          13.074004
+        ],
+        [
+          47.3740891,
+          13.0741865
+        ],
+        [
+          47.3720244,
+          13.0744234
+        ],
+        [
+          47.3719191,
+          13.0744355
+        ],
+        [
+          47.3716685,
+          13.0744642
+        ]
+      ]
+    },
+    {
+      "id": 31990725,
+      "name": "Karbachalm",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3796584,
+          13.1091758
+        ],
+        [
+          47.3794868,
+          13.1081498
+        ],
+        [
+          47.3792817,
+          13.1069232
+        ],
+        [
+          47.3789365,
+          13.1048587
+        ],
+        [
+          47.3782616,
+          13.1007754
+        ],
+        [
+          47.3781951,
+          13.1003789
+        ],
+        [
+          47.3777367,
+          13.0976078
+        ],
+        [
+          47.3774334,
+          13.095806
+        ],
+        [
+          47.3768967,
+          13.0926185
+        ],
+        [
+          47.3765933,
+          13.0908161
+        ],
+        [
+          47.3762413,
+          13.0887252
+        ],
+        [
+          47.3758244,
+          13.086249
+        ]
+      ]
+    },
+    {
+      "id": 144064175,
+      "name": "Hochmais",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4054395,
+          12.9713627
+        ],
+        [
+          47.403753,
+          12.9728168
+        ],
+        [
+          47.4019851,
+          12.974341
+        ],
+        [
+          47.3999417,
+          12.9761028
+        ],
+        [
+          47.3989955,
+          12.9769185
+        ],
+        [
+          47.3975608,
+          12.9781554
+        ],
+        [
+          47.3960313,
+          12.979474
+        ],
+        [
+          47.3950716,
+          12.9803013
+        ],
+        [
+          47.3941992,
+          12.9810533
+        ],
+        [
+          47.393054,
+          12.9820406
+        ],
+        [
+          47.3916787,
+          12.9832261
+        ],
+        [
+          47.3905953,
+          12.98416
+        ],
+        [
+          47.3901561,
+          12.9845386
+        ],
+        [
+          47.3899559,
+          12.9847111
+        ]
+      ]
+    },
+    {
+      "id": 449244220,
+      "name": "SINALCObahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3870979,
+          12.9388194
+        ],
+        [
+          47.3871469,
+          12.939665
+        ],
+        [
+          47.3871895,
+          12.9404023
+        ],
+        [
+          47.3873852,
+          12.9437811
+        ],
+        [
+          47.3875861,
+          12.9472516
+        ],
+        [
+          47.3877218,
+          12.9495955
+        ],
+        [
+          47.3879103,
+          12.9528508
+        ],
+        [
+          47.3881159,
+          12.9564022
+        ],
+        [
+          47.3882501,
+          12.9587202
+        ],
+        [
+          47.3884471,
+          12.962124
+        ],
+        [
+          47.3886778,
+          12.9661081
+        ],
+        [
+          47.3889102,
+          12.9701226
+        ],
+        [
+          47.3889576,
+          12.9709856
+        ],
+        [
+          47.3890449,
+          12.9725784
+        ],
+        [
+          47.3891642,
+          12.9747519
+        ],
+        [
+          47.3893282,
+          12.97774
+        ],
+        [
+          47.3894996,
+          12.9808642
+        ],
+        [
+          47.389633,
+          12.9832963
+        ],
+        [
+          47.3896528,
+          12.9836572
+        ],
+        [
+          47.3896904,
+          12.9843423
+        ]
+      ]
+    },
+    {
+      "id": 671082149,
+      "name": "Natrunbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4063254,
+          12.9062475
+        ],
+        [
+          47.4059315,
+          12.9069731
+        ],
+        [
+          47.4049675,
+          12.9087485
+        ],
+        [
+          47.40382,
+          12.910862
+        ],
+        [
+          47.4017048,
+          12.9147577
+        ],
+        [
+          47.4012327,
+          12.9155516
+        ],
+        [
+          47.4006928,
+          12.9166215
+        ],
+        [
+          47.3993776,
+          12.9190436
+        ],
+        [
+          47.3986189,
+          12.9204409
+        ],
+        [
+          47.3984399,
+          12.9207705
+        ]
+      ]
+    },
+    {
+      "id": 671087942,
+      "name": "Sonnbergbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3979952,
+          12.9204127
+        ],
+        [
+          47.3978825,
+          12.9202533
+        ],
+        [
+          47.3973999,
+          12.9195707
+        ],
+        [
+          47.3967054,
+          12.9185885
+        ],
+        [
+          47.3958544,
+          12.9172894
+        ],
+        [
+          47.3948176,
+          12.9157659
+        ],
+        [
+          47.3938529,
+          12.9144118
+        ],
+        [
+          47.3929058,
+          12.9131075
+        ],
+        [
+          47.3912188,
+          12.9107841
+        ],
+        [
+          47.3899997,
+          12.9091053
+        ]
+      ]
+    },
+    {
+      "id": 1147675688,
+      "name": "Tellerlift Natrun",
+      "cat": "SL",
+      "coords": [
+        [
+          47.4045642,
+          12.9041854
+        ],
+        [
+          47.4046287,
+          12.9046469
+        ],
+        [
+          47.4047656,
+          12.905721
+        ],
+        [
+          47.4048812,
+          12.9066281
+        ],
+        [
+          47.4049372,
+          12.9070676
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

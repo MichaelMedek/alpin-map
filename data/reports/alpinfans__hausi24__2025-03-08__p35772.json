@@ -1,0 +1,1563 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 35772,
+    "title": "Sonniger Auftakt in Bad Gastein und Gasteinertal",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=35772",
+    "date": "2025-03-08",
+    "post_date": "2025-03-08",
+    "text": "Meine nächsten Erstbefahrungen diese Saison! Es geht 2 Tage nach Gastein, dann 1 weiterer Tag Ski Amade und dann 3 Tage Obertauern. Heute Start in Bad Gastein am Stubnerkogel. Wetter sonnig aber auch warm, unten bis auf die Piste alles grün. Der Plan ist heute so viel wie möglich der 3 Gasteiner Skigebiete zu entdecken, also vom Stubnerkogel zur Schlossalm, per Skibus nach Dorfgastein und dann das Skigebiet bis Großarl, und wieder per Bus zur Schlossalm zurück. Wenn es die Zeit noch zulässt dann solle es per Bus noch vom Stubnerkogel weiter nach Sportgastein gehen, wo dar Tag dann enden würde.\n[Image Descriptions: Stubnerkogel Bahn Talstation; Stubnerkogel Bahn Sektion 2; Piste Stubnerkogel - Schnee hart aber schon früh morgens leicht aufgefirnt, man merkt es ist sehr warm!; Andre Seite an der Schlossalm, hier gefühlt mehr los; Der einzige Lift im Gebiet der Vollständig über 2000 Metern liegt an der Hohen Scharte - und dann ist es ein Zweier-Sessel...; Trotzdem viel los; Eine der wenigen richtigen Gelände Kammern, hier die Nord Abfahrt von der Hohen Scharte; Unten an der Schlossalm Bahn, alles grün; Die alte Pendelbahn hat inzwischen kein Seil mehr, die Stütze steht aber noch. Da kommt Cervina Feeling auf :D; Weiter geht es nun nach einer kurzen Skibus Fahrt in Dorfgastein. Mal schauen ob ich heute alle 3 Gasteiner Skigebiete inklusive Sportgastein schaffe, dann kann ich morgen und am Montag je zwei weitere grosse Ski Amade Skigebiete erledigen; Oben am Fulseck; Hier wieder erstaunlich viel Schnee und Recht gute Pisten, auf jeden Fall besser als in Bad Gastein oder Bad Hofgastein; Weiter Richtung Großarl; Unten Sulzschlacht; Ganz schöne Piste an der neuen Kieserl Bahn. Unten dann aber ein flacher Ziehweg mit Sunkid Seillift; Zurück an der Schlossalm; Tolles oberes Stück der roten Abfahrt ins Angertal - unten dann leider eine extreme Sulz Schlacht; Weiter zur Jungeralmbahn, hier hatte es verhältnismäßig noch sehr gute Pisten, vor allem die Piste die wieder zur Jungeralmbahn führt sah gut aus, auch wenn ich leider keine Zeit hatte sie zu fahren. Da die beide. Sesselbahn hier leider extrem langsam führen, wurde mein ganzer Zeitplan fast über den Haufen geworfen. Nur noch mit einer Vollgas Abfahrt nach Bad Gastein und dann rennen in Skistiefeln zum Bus habe ich den letzten nutzbaren Bus nach Sportgastein um 15:00 bekommen! Erleichterung!; Geschafft! 15:25 Einstieg in die Goldbergbahn zum Kreuzkogel. Im Hintergrund das Schareck, wo vor 50 Jahren schon die Stützen einer Seilbahn standen, die von hier unten aus dort hoch geführt hätte. Traurig dass es nichts geworden ist.; Bergstation Kreuzkogel mit Blick in Richtung Schareck; Futurismus aus den 1970er Jahren; Schöne Abfahrt mit gutem Naturschnee! Nur die Traversen sind etwas zerfahren.; Geschlossener Schlepplifte; Schöne Rote Piste; Letztes Stück vor der Mittelstation mit einigen Steinen; Talabfahrt nach Sportgastein. Leider fuhr auch diese Bahn so unfassbar langsam, dass alleine die zweite Sektion 15 Minuten gebraucht hat, weshalb ich keine Bergfahrt mehr ab der Mittelstation geschafft habe. Also, Feierabend nun um 16:10.]"
+  },
+  "center": [
+    47.142145498084275,
+    13.096921934865897
+  ],
+  "placed_count": 29,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59872&mode=view",
+      "description": "Stubnerkogel Bahn Talstation",
+      "geo": {
+        "latitude": 47.110219444444446,
+        "longitude": 13.131380555555555,
+        "elevation_m": 1157.13,
+        "bearing_deg": 206,
+        "captured_at": "2025-03-08T08:17:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 187714641,
+        "name": "Stubnerkogelbahn I",
+        "cat": "EUB",
+        "dist": 33
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59873&mode=view",
+      "description": "Stubnerkogel Bahn Sektion 2",
+      "geo": {
+        "latitude": 47.11168888888889,
+        "longitude": 13.103819444444444,
+        "elevation_m": 2108.49,
+        "bearing_deg": 165,
+        "captured_at": "2025-03-08T08:39:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 448912800,
+        "name": "Stubnerkogelbahn II",
+        "cat": "EUB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Glackfeld",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 73
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59877&mode=view",
+      "description": "Piste Stubnerkogel - Schnee hart aber schon früh morgens leicht aufgefirnt, man merkt es ist sehr warm!",
+      "geo": {
+        "latitude": 47.111961111111114,
+        "longitude": 13.102825,
+        "elevation_m": 2275.8,
+        "bearing_deg": 331,
+        "captured_at": "2025-03-08T08:43:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 448912800,
+        "name": "Stubnerkogelbahn II",
+        "cat": "EUB",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Glackfeld",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59878&mode=view",
+      "description": "Andre Seite an der Schlossalm, hier gefühlt mehr los",
+      "geo": {
+        "latitude": 47.143702777777776,
+        "longitude": 13.062308333333334,
+        "elevation_m": 1945.5,
+        "bearing_deg": 247,
+        "captured_at": "2025-03-08T09:08:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29576286,
+        "name": "Kaserebenbahn",
+        "cat": "EUB",
+        "dist": 39
+      },
+      "piste": {
+        "name": "Käferstall",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59880&mode=view",
+      "description": "Der einzige Lift im Gebiet der Vollständig über 2000 Metern liegt an der Hohen Scharte - und dann ist es ein Zweier-Sessel...",
+      "geo": {
+        "latitude": 47.15229444444444,
+        "longitude": 13.047980555555556,
+        "elevation_m": 2272.7,
+        "bearing_deg": 31,
+        "captured_at": "2025-03-08T09:26:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22719617,
+        "name": "Hohe Scharte",
+        "cat": "SB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "Hohe Scharte Süd",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59881&mode=view",
+      "description": "Trotzdem viel los",
+      "geo": {
+        "latitude": 47.14701111111111,
+        "longitude": 13.065297222222222,
+        "elevation_m": 1966.59,
+        "bearing_deg": 262,
+        "captured_at": "2025-03-08T09:09:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22719616,
+        "name": "Weitmoser",
+        "cat": "SB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59888&mode=view",
+      "description": "Eine der wenigen richtigen Gelände Kammern, hier die Nord Abfahrt von der Hohen Scharte",
+      "geo": {
+        "latitude": 47.16073333333333,
+        "longitude": 13.051641666666667,
+        "elevation_m": 2099.81,
+        "bearing_deg": 94,
+        "captured_at": "2025-03-08T09:45:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "H1",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59889&mode=view",
+      "description": "PXL_20250308_084453510.jpg (545.82 KiB) 1633 mal betrachtet",
+      "geo": {
+        "latitude": 47.158680555555556,
+        "longitude": 13.051380555555557,
+        "elevation_m": 2181.74,
+        "bearing_deg": 274,
+        "captured_at": "2025-03-08T09:44:53"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "H1",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59891&mode=view",
+      "description": "Unten an der Schlossalm Bahn, alles grün",
+      "geo": {
+        "latitude": 47.167744444444445,
+        "longitude": 13.094044444444444,
+        "elevation_m": 994.36,
+        "bearing_deg": 343,
+        "captured_at": "2025-03-08T09:50:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 563394543,
+        "name": "Schlossalmbahn I",
+        "cat": "EUB",
+        "dist": 73
+      },
+      "piste": {
+        "name": "Aeroplan",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59892&mode=view",
+      "description": "PXL_20250308_084952990.jpg (467.63 KiB) 1633 mal betrachtet",
+      "geo": {
+        "latitude": 47.17091111111111,
+        "longitude": 13.088744444444446,
+        "elevation_m": 1163.74,
+        "bearing_deg": 26,
+        "captured_at": "2025-03-08T09:49:52"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Aeroplan",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 20
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59911&mode=view",
+      "description": "Die alte Pendelbahn hat inzwischen kein Seil mehr, die Stütze steht aber noch. Da kommt Cervina Feeling auf :D",
+      "geo": {
+        "latitude": 47.15545,
+        "longitude": 13.060108333333334,
+        "elevation_m": 2108.08,
+        "bearing_deg": 328,
+        "captured_at": "2025-03-08T10:07:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 510822840,
+        "name": "Schlossalmbahn II",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 11
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59913&mode=view",
+      "description": "Weiter geht es nun nach einer kurzen Skibus Fahrt in Dorfgastein. Mal schauen ob ich heute alle 3 Gasteiner Skigebiete inklusive Sportgastein schaffe, dann kann ich morgen und am Montag je zwei weitere grosse Ski Amade Skigebiete erledigen",
+      "geo": {
+        "latitude": 47.245066666666666,
+        "longitude": 13.109916666666667,
+        "elevation_m": 917.44,
+        "bearing_deg": 7,
+        "captured_at": "2025-03-08T10:58:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 147475696,
+        "name": "Mühlwinkl",
+        "cat": "SB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Wengerhochalmbahn - Talstation",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59914&mode=view",
+      "description": "Oben am Fulseck",
+      "geo": {
+        "latitude": 47.23390833333333,
+        "longitude": 13.147827777777778,
+        "elevation_m": 2071,
+        "bearing_deg": 67,
+        "captured_at": "2025-03-08T11:15:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 449384383,
+        "name": "Gipfelbahn Fulseck II",
+        "cat": "EUB",
+        "dist": 99
+      },
+      "piste": {
+        "name": "Fulseck",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59915&mode=view",
+      "description": "Hier wieder erstaunlich viel Schnee und Recht gute Pisten, auf jeden Fall besser als in Bad Gastein oder Bad Hofgastein",
+      "geo": {
+        "latitude": 47.23130277777778,
+        "longitude": 13.154025,
+        "elevation_m": 2071,
+        "bearing_deg": 86,
+        "captured_at": "2025-03-08T11:16:19"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sennleitn 1+2",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59916&mode=view",
+      "description": "Weiter Richtung Großarl",
+      "geo": {
+        "latitude": 47.23129166666667,
+        "longitude": 13.153483333333334,
+        "elevation_m": 2071,
+        "bearing_deg": 335,
+        "captured_at": "2025-03-08T11:16:15"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sennleitn 1+2",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59921&mode=view",
+      "description": "Unten Sulzschlacht",
+      "geo": {
+        "latitude": 47.241255555555554,
+        "longitude": 13.181780555555555,
+        "elevation_m": 1369.33,
+        "bearing_deg": 333,
+        "captured_at": "2025-03-08T11:40:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23028827,
+        "name": "6er Harbachbahn",
+        "cat": "SB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Ortsabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59922&mode=view",
+      "description": "Ganz schöne Piste an der neuen Kieserl Bahn. Unten dann aber ein flacher Ziehweg mit Sunkid Seillift",
+      "geo": {
+        "latitude": 47.243547222222226,
+        "longitude": 13.155119444444445,
+        "elevation_m": 1984.27,
+        "bearing_deg": 358,
+        "captured_at": "2025-03-08T11:57:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1115265790,
+        "name": "10er Kieserlbahn II",
+        "cat": "EUB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "11 Roslehenalm",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59937&mode=view",
+      "description": "PXL_20250308_110027090.jpg (662.5 KiB) 1574 mal betrachtet",
+      "geo": {
+        "latitude": 47.242758333333335,
+        "longitude": 13.169630555555555,
+        "elevation_m": 1430.14,
+        "bearing_deg": 112,
+        "captured_at": "2025-03-08T12:00:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1115265790,
+        "name": "10er Kieserlbahn II",
+        "cat": "EUB",
+        "dist": 35
+      },
+      "piste": {
+        "name": "Roslehenalm",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59939&mode=view",
+      "description": "Zurück an der Schlossalm",
+      "geo": {
+        "latitude": 47.144597222222224,
+        "longitude": 13.056766666666668,
+        "elevation_m": 2109.42,
+        "bearing_deg": 357,
+        "captured_at": "2025-03-08T14:06:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 48974546,
+        "name": "Schlosshochalmlift",
+        "cat": "SL",
+        "dist": 68
+      },
+      "piste": {
+        "name": "Schlosshochalm",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59940&mode=view",
+      "description": "Tolles oberes Stück der roten Abfahrt ins Angertal - unten dann leider eine extreme Sulz Schlacht",
+      "geo": {
+        "latitude": 47.143994444444445,
+        "longitude": 13.064655555555555,
+        "elevation_m": 1966.59,
+        "bearing_deg": 306,
+        "captured_at": "2025-03-08T14:07:44"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Kasereben",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59959&mode=view",
+      "description": "Weiter zur Jungeralmbahn, hier hatte es verhältnismäßig noch sehr gute Pisten, vor allem die Piste die wieder zur Jungeralmbahn führt sah gut aus, auch wenn ich leider keine Zeit hatte sie zu fahren. Da die beide. Sesselbahn hier leider extrem langsam führen, wurde mein ganzer Zeitplan fast über den Haufen geworfen. Nur noch mit einer Vollgas Abfahrt nach Bad Gastein und dann rennen in Skistiefeln zum Bus habe ich den letzten nutzbaren Bus nach Sportgastein um 15:00 bekommen! Erleichterung!",
+      "geo": {
+        "latitude": 47.113816666666665,
+        "longitude": 13.086647222222222,
+        "elevation_m": 1872.6,
+        "bearing_deg": 332,
+        "captured_at": "2025-03-08T14:28:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 48974093,
+        "name": "Jungeralmbahn",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Fleischleiten",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 59
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59961&mode=view",
+      "description": "Geschafft! 15:25 Einstieg in die Goldbergbahn zum Kreuzkogel. Im Hintergrund das Schareck, wo vor 50 Jahren schon die Stützen einer Seilbahn standen, die von hier unten aus dort hoch geführt hätte. Traurig dass es nichts geworden ist.",
+      "geo": {
+        "latitude": 47.061838888888886,
+        "longitude": 13.060061111111112,
+        "elevation_m": 1652.27,
+        "bearing_deg": 83,
+        "captured_at": "2025-03-08T15:23:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 10308802,
+        "name": "Goldbergbahn I",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Mooskar",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 72
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59965&mode=view",
+      "description": "Bergstation Kreuzkogel mit Blick in Richtung Schareck",
+      "geo": {
+        "latitude": 47.05523611111111,
+        "longitude": 13.098094444444445,
+        "elevation_m": 2697.53,
+        "bearing_deg": 157,
+        "captured_at": "2025-03-08T15:42:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 88124323,
+        "name": "Goldbergbahn II",
+        "cat": "EUB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "Schideck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59966&mode=view",
+      "description": "Futurismus aus den 1970er Jahren",
+      "geo": {
+        "latitude": 47.055191666666666,
+        "longitude": 13.098319444444446,
+        "elevation_m": 2698.79,
+        "bearing_deg": 217,
+        "captured_at": "2025-03-08T15:42:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 88124323,
+        "name": "Goldbergbahn II",
+        "cat": "EUB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Schideck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59967&mode=view",
+      "description": "Schöne Abfahrt mit gutem Naturschnee! Nur die Traversen sind etwas zerfahren.",
+      "geo": {
+        "latitude": 47.05549722222222,
+        "longitude": 13.097836111111112,
+        "elevation_m": 2693.09,
+        "bearing_deg": 263,
+        "captured_at": "2025-03-08T15:42:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 88124323,
+        "name": "Goldbergbahn II",
+        "cat": "EUB",
+        "dist": 47
+      },
+      "piste": {
+        "name": "Schideck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59968&mode=view",
+      "description": "Geschlossener Schlepplifte",
+      "geo": {
+        "latitude": 47.05610833333333,
+        "longitude": 13.096886111111111,
+        "elevation_m": 2664.09,
+        "bearing_deg": 159,
+        "captured_at": "2025-03-08T15:42:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 88124323,
+        "name": "Goldbergbahn II",
+        "cat": "EUB",
+        "dist": 97
+      },
+      "piste": {
+        "name": "Schideck",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59970&mode=view",
+      "description": "Schöne Rote Piste",
+      "geo": {
+        "latitude": 47.05619722222222,
+        "longitude": 13.085377777777778,
+        "elevation_m": 2420.68,
+        "bearing_deg": 209,
+        "captured_at": "2025-03-08T15:44:45"
+      },
+      "placed": true,
+      "lift": {
+        "id": 88124323,
+        "name": "Goldbergbahn II",
+        "cat": "EUB",
+        "dist": 92
+      },
+      "piste": {
+        "name": "Baukar",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 28
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59971&mode=view",
+      "description": "Letztes Stück vor der Mittelstation mit einigen Steinen",
+      "geo": {
+        "latitude": 47.05716666666667,
+        "longitude": 13.069580555555556,
+        "elevation_m": 2031.44,
+        "bearing_deg": 267,
+        "captured_at": "2025-03-08T15:46:50"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Baukar",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=59973&mode=view",
+      "description": "Talabfahrt nach Sportgastein. Leider fuhr auch diese Bahn so unfassbar langsam, dass alleine die zweite Sektion 15 Minuten gebraucht hat, weshalb ich keine Bergfahrt mehr ab der Mittelstation geschafft habe. Also, Feierabend nun um 16:10.",
+      "geo": {
+        "latitude": 47.06304722222222,
+        "longitude": 13.065197222222222,
+        "elevation_m": 1851.76,
+        "bearing_deg": 243,
+        "captured_at": "2025-03-08T16:07:53"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schideck",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 28
+    }
+  ],
+  "lifts": [
+    {
+      "id": 10308802,
+      "name": "Goldbergbahn I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.0621487,
+          13.0587247
+        ],
+        [
+          47.0620328,
+          13.0591862
+        ],
+        [
+          47.0614015,
+          13.0617423
+        ],
+        [
+          47.0609666,
+          13.0634844
+        ],
+        [
+          47.0604923,
+          13.0654071
+        ],
+        [
+          47.059995,
+          13.067429
+        ],
+        [
+          47.0598067,
+          13.068146
+        ]
+      ]
+    },
+    {
+      "id": 22719616,
+      "name": "Weitmoser",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1471805,
+          13.0649889
+        ],
+        [
+          47.1473401,
+          13.0635234
+        ],
+        [
+          47.147577,
+          13.0613487
+        ],
+        [
+          47.1477124,
+          13.0601049
+        ],
+        [
+          47.1477854,
+          13.0594346
+        ],
+        [
+          47.1480488,
+          13.0570169
+        ],
+        [
+          47.1482432,
+          13.0552313
+        ],
+        [
+          47.1484337,
+          13.0534827
+        ],
+        [
+          47.1484885,
+          13.0529795
+        ]
+      ]
+    },
+    {
+      "id": 22719617,
+      "name": "Hohe Scharte",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1492369,
+          13.0532078
+        ],
+        [
+          47.1495346,
+          13.0526631
+        ],
+        [
+          47.1497554,
+          13.0522473
+        ],
+        [
+          47.1499697,
+          13.0518557
+        ],
+        [
+          47.1506154,
+          13.050638
+        ],
+        [
+          47.1514002,
+          13.0491715
+        ],
+        [
+          47.1521422,
+          13.0477667
+        ],
+        [
+          47.1524732,
+          13.0471484
+        ],
+        [
+          47.1530775,
+          13.0459946
+        ],
+        [
+          47.1534574,
+          13.0452692
+        ],
+        [
+          47.1535555,
+          13.0450848
+        ]
+      ]
+    },
+    {
+      "id": 23028827,
+      "name": "6er Harbachbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2424057,
+          13.1828551
+        ],
+        [
+          47.2416601,
+          13.181911
+        ],
+        [
+          47.2412747,
+          13.1814228
+        ],
+        [
+          47.2404845,
+          13.1804222
+        ],
+        [
+          47.2393053,
+          13.1789289
+        ],
+        [
+          47.2387632,
+          13.1782425
+        ],
+        [
+          47.2375606,
+          13.1767195
+        ],
+        [
+          47.2371705,
+          13.1762256
+        ],
+        [
+          47.235991,
+          13.174732
+        ],
+        [
+          47.2357005,
+          13.1743642
+        ],
+        [
+          47.2347504,
+          13.1731612
+        ],
+        [
+          47.2339712,
+          13.1721745
+        ],
+        [
+          47.2332108,
+          13.1712117
+        ],
+        [
+          47.233085,
+          13.1710524
+        ],
+        [
+          47.2326378,
+          13.1704862
+        ],
+        [
+          47.2324794,
+          13.1702857
+        ],
+        [
+          47.2322615,
+          13.1700137
+        ]
+      ]
+    },
+    {
+      "id": 29576286,
+      "name": "Kaserebenbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1317214,
+          13.0814441
+        ],
+        [
+          47.1318764,
+          13.0811872
+        ],
+        [
+          47.1319033,
+          13.0811459
+        ],
+        [
+          47.1320239,
+          13.0809727
+        ],
+        [
+          47.1327436,
+          13.0797955
+        ],
+        [
+          47.132831,
+          13.0796525
+        ],
+        [
+          47.132895,
+          13.0795382
+        ],
+        [
+          47.1347264,
+          13.0765444
+        ],
+        [
+          47.1370283,
+          13.0727809
+        ],
+        [
+          47.1383951,
+          13.0705463
+        ],
+        [
+          47.1390762,
+          13.0694327
+        ],
+        [
+          47.1406171,
+          13.0669134
+        ],
+        [
+          47.1414947,
+          13.0654785
+        ],
+        [
+          47.1423202,
+          13.0641287
+        ],
+        [
+          47.1428113,
+          13.0633257
+        ],
+        [
+          47.1430772,
+          13.0628909
+        ],
+        [
+          47.1433644,
+          13.0624214
+        ]
+      ]
+    },
+    {
+      "id": 48974093,
+      "name": "Jungeralmbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.1176679,
+          13.0832884
+        ],
+        [
+          47.1174494,
+          13.0834709
+        ],
+        [
+          47.1170989,
+          13.0837767
+        ],
+        [
+          47.1161206,
+          13.0846229
+        ],
+        [
+          47.1154187,
+          13.085217
+        ],
+        [
+          47.1144951,
+          13.0860123
+        ],
+        [
+          47.1137741,
+          13.0866279
+        ],
+        [
+          47.1128742,
+          13.087403
+        ],
+        [
+          47.1119788,
+          13.0881661
+        ],
+        [
+          47.1114997,
+          13.0885805
+        ],
+        [
+          47.1109767,
+          13.0890352
+        ],
+        [
+          47.109854,
+          13.089994
+        ],
+        [
+          47.1089659,
+          13.0907612
+        ],
+        [
+          47.108483,
+          13.0911675
+        ],
+        [
+          47.1080832,
+          13.0915175
+        ],
+        [
+          47.1080431,
+          13.0915497
+        ],
+        [
+          47.107939,
+          13.0916369
+        ],
+        [
+          47.1066118,
+          13.0927742
+        ],
+        [
+          47.1056506,
+          13.0936003
+        ],
+        [
+          47.1055803,
+          13.0936646
+        ],
+        [
+          47.105176,
+          13.0940221
+        ]
+      ]
+    },
+    {
+      "id": 48974546,
+      "name": "Schlosshochalmlift",
+      "cat": "SL",
+      "coords": [
+        [
+          47.1462229,
+          13.062522
+        ],
+        [
+          47.1450153,
+          13.055558
+        ]
+      ]
+    },
+    {
+      "id": 88124323,
+      "name": "Goldbergbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.0598067,
+          13.068146
+        ],
+        [
+          47.0597205,
+          13.0686651
+        ],
+        [
+          47.0595341,
+          13.0698533
+        ],
+        [
+          47.0592575,
+          13.0715723
+        ],
+        [
+          47.0592281,
+          13.0717644
+        ],
+        [
+          47.0589662,
+          13.0733893
+        ],
+        [
+          47.0588032,
+          13.0743664
+        ],
+        [
+          47.0585849,
+          13.075792
+        ],
+        [
+          47.0585051,
+          13.0762955
+        ],
+        [
+          47.0582314,
+          13.0779097
+        ],
+        [
+          47.0582075,
+          13.0780603
+        ],
+        [
+          47.0581885,
+          13.0781796
+        ],
+        [
+          47.0576808,
+          13.0813782
+        ],
+        [
+          47.0571953,
+          13.084437
+        ],
+        [
+          47.0569412,
+          13.0860377
+        ],
+        [
+          47.0563591,
+          13.089713
+        ],
+        [
+          47.0562432,
+          13.0904514
+        ],
+        [
+          47.0558535,
+          13.0928951
+        ],
+        [
+          47.0558336,
+          13.0930167
+        ],
+        [
+          47.0558125,
+          13.0931583
+        ],
+        [
+          47.0550871,
+          13.0976705
+        ],
+        [
+          47.0550227,
+          13.0981235
+        ]
+      ]
+    },
+    {
+      "id": 147475696,
+      "name": "Mühlwinkl",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2450088,
+          13.1101796
+        ],
+        [
+          47.2450427,
+          13.1103065
+        ],
+        [
+          47.2450652,
+          13.1103909
+        ],
+        [
+          47.2454577,
+          13.1119273
+        ],
+        [
+          47.2458003,
+          13.1132898
+        ],
+        [
+          47.2460922,
+          13.1144509
+        ],
+        [
+          47.2464723,
+          13.1159628
+        ],
+        [
+          47.246866,
+          13.1175288
+        ],
+        [
+          47.2478754,
+          13.1215435
+        ],
+        [
+          47.2481928,
+          13.1228062
+        ],
+        [
+          47.2486738,
+          13.1247192
+        ],
+        [
+          47.2491556,
+          13.1266357
+        ]
+      ]
+    },
+    {
+      "id": 187714641,
+      "name": "Stubnerkogelbahn I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1105098,
+          13.1315022
+        ],
+        [
+          47.110525,
+          13.13117
+        ],
+        [
+          47.1105483,
+          13.1306617
+        ],
+        [
+          47.1106399,
+          13.1286661
+        ],
+        [
+          47.110739,
+          13.1265042
+        ],
+        [
+          47.110808,
+          13.1250008
+        ],
+        [
+          47.110891,
+          13.1231903
+        ],
+        [
+          47.1112418,
+          13.1155394
+        ],
+        [
+          47.1113977,
+          13.1121408
+        ]
+      ]
+    },
+    {
+      "id": 448912800,
+      "name": "Stubnerkogelbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1113977,
+          13.1121408
+        ],
+        [
+          47.1116493,
+          13.1052317
+        ],
+        [
+          47.1117224,
+          13.1032415
+        ],
+        [
+          47.111757,
+          13.1023027
+        ],
+        [
+          47.1118191,
+          13.100578
+        ],
+        [
+          47.1118474,
+          13.0998324
+        ],
+        [
+          47.1118492,
+          13.0997318
+        ],
+        [
+          47.1118565,
+          13.0996218
+        ],
+        [
+          47.11188,
+          13.0991738
+        ]
+      ]
+    },
+    {
+      "id": 449384383,
+      "name": "Gipfelbahn Fulseck II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2415926,
+          13.1259122
+        ],
+        [
+          47.2373569,
+          13.1396061
+        ],
+        [
+          47.2368084,
+          13.1413954
+        ],
+        [
+          47.2360423,
+          13.1438447
+        ],
+        [
+          47.2354285,
+          13.145823
+        ],
+        [
+          47.2350629,
+          13.1469869
+        ],
+        [
+          47.2350425,
+          13.1470499
+        ],
+        [
+          47.2350229,
+          13.1471177
+        ],
+        [
+          47.2347963,
+          13.1478838
+        ]
+      ]
+    },
+    {
+      "id": 510822840,
+      "name": "Schlossalmbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1651123,
+          13.0824998
+        ],
+        [
+          47.1649378,
+          13.0821257
+        ],
+        [
+          47.1645409,
+          13.0812236
+        ],
+        [
+          47.1636491,
+          13.0791618
+        ],
+        [
+          47.1629013,
+          13.0774091
+        ],
+        [
+          47.1616628,
+          13.0745608
+        ],
+        [
+          47.1602359,
+          13.0712431
+        ],
+        [
+          47.1595519,
+          13.0696567
+        ],
+        [
+          47.1577926,
+          13.0655979
+        ],
+        [
+          47.1568927,
+          13.0635248
+        ],
+        [
+          47.1563305,
+          13.0621366
+        ],
+        [
+          47.1555154,
+          13.0603217
+        ],
+        [
+          47.1553807,
+          13.0600084
+        ]
+      ]
+    },
+    {
+      "id": 563394543,
+      "name": "Schlossalmbahn I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.1677731,
+          13.0982349
+        ],
+        [
+          47.1677216,
+          13.0979394
+        ],
+        [
+          47.1675167,
+          13.0967747
+        ],
+        [
+          47.167174,
+          13.0946716
+        ],
+        [
+          47.1668633,
+          13.0928078
+        ],
+        [
+          47.1667426,
+          13.0920844
+        ],
+        [
+          47.1661315,
+          13.0885639
+        ],
+        [
+          47.1658551,
+          13.0869443
+        ],
+        [
+          47.1652037,
+          13.0830498
+        ],
+        [
+          47.1651123,
+          13.0824998
+        ]
+      ]
+    },
+    {
+      "id": 1115265790,
+      "name": "10er Kieserlbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2415309,
+          13.1841372
+        ],
+        [
+          47.241562,
+          13.1836418
+        ],
+        [
+          47.2417392,
+          13.1808144
+        ],
+        [
+          47.242088,
+          13.1752491
+        ],
+        [
+          47.2421287,
+          13.1746004
+        ],
+        [
+          47.2421908,
+          13.1736102
+        ],
+        [
+          47.2425715,
+          13.1675373
+        ],
+        [
+          47.2425816,
+          13.1673757
+        ],
+        [
+          47.2427403,
+          13.1648436
+        ],
+        [
+          47.2428924,
+          13.1624175
+        ],
+        [
+          47.2429981,
+          13.1607317
+        ],
+        [
+          47.2432553,
+          13.1566285
+        ],
+        [
+          47.2433243,
+          13.1555269
+        ],
+        [
+          47.2433907,
+          13.154468
+        ],
+        [
+          47.2434228,
+          13.1539557
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

@@ -1,0 +1,2425 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 54734,
+    "title": "Skitag im Snow Space Flachauwinkel mit Traumhaften Pisten",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=54734",
+    "date": "2026-02-01",
+    "post_date": "2026-02-01",
+    "text": "Heute geht's ins Snow Space, Start am kostenlosen Parkplatz direkt im High-Liner in Flachauwinkel auf dem Weg nach Zauchensee. In diese Richtung öffnet die Bahn schon um 8:00 Uhr. Wetter auch heute wieder zum größten Teil blauer Himmel, doch es gibt auch noch einige Wolken über den hohen Tauern.\n[Image Descriptions: Kostenloser Parkplatz direkt vor der Station; Rechts die hohen Tauern; Tolle erste Abfahrt nach Zauchensee, leider nur halbe Sonne aber dafür sehr gute Piste; Die Sesselbahn öffnet auch schon um 8:00 die anderen Lifte erst um 8:30; Auch hier alle Abfahrtn sehr gut zu fahren, mal schauen wie lange noch; Und nun in der ganze neuen Schwarzwand Bahn mit Auro Einstieg; Auch am Tauernkar schöne Pisten; Mal ganz kurz Sonne; Inzwischen am Shuttle-Berg; Hier tatsächlich sonnig! Aber inzwischen sehr voll!; Voll!; Auf dem Weg nach Flachau, die meisten Leute fahren aber zurück in Richtung shuttleberg, hoffentlich wird es dann etwas Lehrer in Flachau; Aber erstmal geht es leider entlang der gipfelpiste nach unten mangels ausstiegsstation; Ganze OK die Bedingungen am Space und Star Jet Bereich, nur halt auch ziemlich voll und daher zerfahren; Oben an der Flying Mozart Bahn ist die Piste sehr voll, die äußere Talabfahrt die von der Mittelstation nicht erreichbar ist, war aber super gut zu fahren!; Um 13:15 Uhr geht das jetzt noch rüber auf die andere Seite, mal schauen wie weit es noch zu schaffen ist dort; Es stehen schon Fundamente für die geplante Gondelbahn die ähnlich wie dei flying Mozart Gondelbahn in zwei Sektionen mit einer Mittelstation die Grafenberg Bahnen ersetzen soll; Weiter ins Sonntagskogel Skigebiet, hier sind die Pisten verhältnismäßig gut zu fahren!; Am äußersten Punkt für heute, dem Schlepplift mit guter schwarzer Piste, die Zeit zwingt jetzt zur Umkehr; Sonntagskogel 3 stand länger still heute, jetzt fährt sie extrem langsam, mal schauen wie lange wir jetzt anstehen müssen...; Nach etwa 10 bis 15 Minuten gings weiter zurück, hier eine tolle schwarze Abfahrt am Sonntagskogel 1; Weiter der Rückweg, das letzte Jahr der Garaventa Sesselbahn; Am Flying Mozart schon ordentlich bucklig und eisig; Und wieder zurück am Shuttle Berg mit einen sonnigen aber buckligen Abfahrt zum Lumberjack Shuttle; Zum Abschluss noch zum Absolut Shuttle, der bis 16:15 fährt; Absolut Park, offenbar der größte snowpark in Österreich; wir starten die Talabfahrt oben um 16:10; Talabfahrt eisig; Aber dafür steht der Skibus direkt bereit und fährt auch gleich los zurück zum Parkplatz Zauchensee Flachauwinkel. Allen in allem 8/10 Punkte, eigentlich ein nettes Skigebiet und auch lange Pisten dabei, aber eben voll und eisig heute]"
+  },
+  "center": [
+    47.30650813492062,
+    13.367833134920632
+  ],
+  "placed_count": 42,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98412&mode=view",
+      "description": "Kostenloser Parkplatz direkt vor der Station",
+      "geo": {
+        "latitude": 47.29383333333333,
+        "longitude": 13.399130555555555,
+        "elevation_m": 1061.69,
+        "bearing_deg": 305,
+        "captured_at": "2026-02-01T07:40:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 97019597,
+        "name": "Highliner I",
+        "cat": "EUB",
+        "dist": 77
+      },
+      "piste": {
+        "name": "Piste 8-er Highliner I",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 52
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98413&mode=view",
+      "description": "Rechts die hohen Tauern",
+      "geo": {
+        "latitude": 47.29813611111111,
+        "longitude": 13.419177777777778,
+        "elevation_m": 1681,
+        "bearing_deg": 17,
+        "captured_at": "2026-02-01T08:08:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 32653509,
+        "name": "Highliner II",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Flachauwinkl 6er-Highliner II",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98414&mode=view",
+      "description": "Tolle erste Abfahrt nach Zauchensee, leider nur halbe Sonne aber dafür sehr gute Piste",
+      "geo": {
+        "latitude": 47.29586666666666,
+        "longitude": 13.437,
+        "elevation_m": 1852,
+        "bearing_deg": 15,
+        "captured_at": "2026-02-01T08:14:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037870,
+        "name": "Rosskopfbahn",
+        "cat": "EUB",
+        "dist": 60
+      },
+      "piste": {
+        "name": "Rosskopfabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98415&mode=view",
+      "description": "PXL_20260201_071300412.jpg (645.22 KiB) 2736 mal betrachtet",
+      "geo": {
+        "latitude": 47.29407222222222,
+        "longitude": 13.431055555555554,
+        "elevation_m": 1917,
+        "bearing_deg": 328,
+        "captured_at": "2026-02-01T08:13:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037870,
+        "name": "Rosskopfbahn",
+        "cat": "EUB",
+        "dist": 20
+      },
+      "piste": {
+        "name": "Höchalmrinne",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98416&mode=view",
+      "description": "PXL_20260201_071352355.jpg (785.69 KiB) 2736 mal betrachtet",
+      "geo": {
+        "latitude": 47.29586666666666,
+        "longitude": 13.437,
+        "elevation_m": 1852,
+        "bearing_deg": 25,
+        "captured_at": "2026-02-01T08:13:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037870,
+        "name": "Rosskopfbahn",
+        "cat": "EUB",
+        "dist": 60
+      },
+      "piste": {
+        "name": "Rosskopfabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98417&mode=view",
+      "description": "Die Sesselbahn öffnet auch schon um 8:00 die anderen Lifte erst um 8:30",
+      "geo": {
+        "latitude": 47.29213055555555,
+        "longitude": 13.451933333333333,
+        "elevation_m": 1532,
+        "bearing_deg": 342,
+        "captured_at": "2026-02-01T08:16:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49063163,
+        "name": "Unterbergbahn I",
+        "cat": "SB",
+        "dist": 73
+      },
+      "piste": {
+        "name": "Rosskopfabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98418&mode=view",
+      "description": "Auch hier alle Abfahrtn sehr gut zu fahren, mal schauen wie lange noch",
+      "geo": {
+        "latitude": 47.27522222222222,
+        "longitude": 13.4428,
+        "elevation_m": 2127,
+        "bearing_deg": 249,
+        "captured_at": "2026-02-01T08:41:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 320164854,
+        "name": "Gamskogelbahn II",
+        "cat": "SB",
+        "dist": 42
+      },
+      "piste": {
+        "name": "Gamskogel II Standard",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98419&mode=view",
+      "description": "PXL_20260201_072507991.jpg (585.2 KiB) 2736 mal betrachtet",
+      "geo": {
+        "latitude": 47.282575,
+        "longitude": 13.448327777777777,
+        "elevation_m": 1946.1,
+        "bearing_deg": 301,
+        "captured_at": "2026-02-01T08:25:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037873,
+        "name": "Gamskogelbahn I",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Gamskogel Standard",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98420&mode=view",
+      "description": "PXL_20260201_074131435.jpg (270.33 KiB) 2736 mal betrachtet",
+      "geo": {
+        "latitude": 47.274425,
+        "longitude": 13.443436111111112,
+        "elevation_m": 2091,
+        "bearing_deg": 353,
+        "captured_at": "2026-02-01T08:41:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 320164854,
+        "name": "Gamskogelbahn II",
+        "cat": "SB",
+        "dist": 38
+      },
+      "piste": {
+        "name": "Gamskogel II Standard",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98421&mode=view",
+      "description": "Und nun in der ganze neuen Schwarzwand Bahn mit Auro Einstieg",
+      "geo": {
+        "latitude": 47.29093611111111,
+        "longitude": 13.457755555555554,
+        "elevation_m": 1416,
+        "bearing_deg": 194,
+        "captured_at": "2026-02-01T08:46:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037875,
+        "name": "Tauernkarbahn",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "Gamskogel Ostabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98432&mode=view",
+      "description": "Auch am Tauernkar schöne Pisten",
+      "geo": {
+        "latitude": 47.28913611111111,
+        "longitude": 13.474719444444444,
+        "elevation_m": 1928,
+        "bearing_deg": 228,
+        "captured_at": "2026-02-01T09:10:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037875,
+        "name": "Tauernkarbahn",
+        "cat": "SB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "Tauernkar",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98433&mode=view",
+      "description": "PXL_20260201_082036550.jpg (707.65 KiB) 2721 mal betrachtet",
+      "geo": {
+        "latitude": 47.289119444444445,
+        "longitude": 13.473886111111112,
+        "elevation_m": 1932,
+        "bearing_deg": 92,
+        "captured_at": "2026-02-01T09:20:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23037875,
+        "name": "Tauernkarbahn",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Tauernkar Familienabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98444&mode=view",
+      "description": "Mal ganz kurz Sonne",
+      "geo": {
+        "latitude": 47.29276111111111,
+        "longitude": 13.438202777777779,
+        "elevation_m": 1764,
+        "bearing_deg": 350,
+        "captured_at": "2026-02-01T09:53:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49063158,
+        "name": "Unterbergbahn II",
+        "cat": "SB",
+        "dist": 39
+      },
+      "piste": {
+        "name": "Höchalmrinne",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98449&mode=view",
+      "description": "Inzwischen am Shuttle-Berg",
+      "geo": {
+        "latitude": 47.29720555555556,
+        "longitude": 13.39228611111111,
+        "elevation_m": 1081,
+        "bearing_deg": 182,
+        "captured_at": "2026-02-01T10:26:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150970670,
+        "name": "Sunshine Shuttle",
+        "cat": "SB",
+        "dist": 33
+      },
+      "piste": {
+        "name": "Sunshine Piste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98456&mode=view",
+      "description": "Hier tatsächlich sonnig! Aber inzwischen sehr voll!",
+      "geo": {
+        "latitude": 47.306444444444445,
+        "longitude": 13.379936111111112,
+        "elevation_m": 1375,
+        "bearing_deg": 190,
+        "captured_at": "2026-02-01T10:40:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30765845,
+        "name": "Family Shuttle",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Family Run Absolut - Family",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 64
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98458&mode=view",
+      "description": "Voll!",
+      "geo": {
+        "latitude": 47.3037,
+        "longitude": 13.358988888888888,
+        "elevation_m": 1827,
+        "bearing_deg": 169,
+        "captured_at": "2026-02-01T10:47:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30765845,
+        "name": "Family Shuttle",
+        "cat": "SB",
+        "dist": 117
+      },
+      "piste": {
+        "name": "Family Run Absolut - Family",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98464&mode=view",
+      "description": "Auf dem Weg nach Flachau, die meisten Leute fahren aber zurück in Richtung shuttleberg, hoffentlich wird es dann etwas Lehrer in Flachau",
+      "geo": {
+        "latitude": 47.308975,
+        "longitude": 13.344480555555556,
+        "elevation_m": 2034,
+        "bearing_deg": 238,
+        "captured_at": "2026-02-01T11:03:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 810834060,
+        "name": "Panorama Link",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": null,
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98467&mode=view",
+      "description": "Aber erstmal geht es leider entlang der gipfelpiste nach unten mangels ausstiegsstation",
+      "geo": {
+        "latitude": 47.314252777777774,
+        "longitude": 13.344233333333333,
+        "elevation_m": 1979,
+        "bearing_deg": 279,
+        "captured_at": "2026-02-01T11:05:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 810834060,
+        "name": "Panorama Link",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Kammabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 128
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98496&mode=view",
+      "description": "Ganze OK die Bedingungen am Space und Star Jet Bereich, nur halt auch ziemlich voll und daher zerfahren",
+      "geo": {
+        "latitude": 47.33700555555556,
+        "longitude": 13.362491666666667,
+        "elevation_m": 1570.95,
+        "bearing_deg": 303,
+        "captured_at": "2026-02-01T12:16:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23149659,
+        "name": "starjet 2",
+        "cat": "SB",
+        "dist": 33
+      },
+      "piste": {
+        "name": "achterjet",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 29
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98497&mode=view",
+      "description": "PXL_20260201_111344381.jpg (948.4 KiB) 2664 mal betrachtet",
+      "geo": {
+        "latitude": 47.328677777777784,
+        "longitude": 13.348611111111111,
+        "elevation_m": 1879,
+        "bearing_deg": 293,
+        "captured_at": "2026-02-01T12:13:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23149642,
+        "name": "Spacejet 3",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "spacejet 3",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 59
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98498&mode=view",
+      "description": "PXL_20260201_103710912.jpg (704.92 KiB) 2664 mal betrachtet",
+      "geo": {
+        "latitude": 47.35528611111111,
+        "longitude": 13.380591666666668,
+        "elevation_m": 1004,
+        "bearing_deg": 280,
+        "captured_at": "2026-02-01T11:37:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23149709,
+        "name": "spacejet 1",
+        "cat": "SB",
+        "dist": 118
+      },
+      "piste": {
+        "name": "spacejet 1",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98499&mode=view",
+      "description": "PXL_20260201_101350093.jpg (1.01 MiB) 2664 mal betrachtet",
+      "geo": {
+        "latitude": 47.33549722222222,
+        "longitude": 13.347633333333334,
+        "elevation_m": 1662,
+        "bearing_deg": 239,
+        "captured_at": "2026-02-01T11:13:50"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "12 Abfahrt \"Rote 8er\"",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98500&mode=view",
+      "description": "PXL_20260201_111941235.jpg (908.24 KiB) 2664 mal betrachtet",
+      "geo": {
+        "latitude": 47.34113055555556,
+        "longitude": 13.37935,
+        "elevation_m": 1170,
+        "bearing_deg": 310,
+        "captured_at": "2026-02-01T12:19:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30745873,
+        "name": "starjet 1",
+        "cat": "SB",
+        "dist": 110
+      },
+      "piste": {
+        "name": "Hermann Maier Weltcupstrecke",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98501&mode=view",
+      "description": "PXL_20260201_103006734.jpg (959.01 KiB) 2664 mal betrachtet",
+      "geo": {
+        "latitude": 47.32936388888889,
+        "longitude": 13.347772222222222,
+        "elevation_m": 1870,
+        "bearing_deg": 290,
+        "captured_at": "2026-02-01T11:30:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 23149642,
+        "name": "Spacejet 3",
+        "cat": "SB",
+        "dist": 98
+      },
+      "piste": {
+        "name": "Abfahrt \"Rote 8er\"",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98524&mode=view",
+      "description": "Oben an der Flying Mozart Bahn ist die Piste sehr voll, die äußere Talabfahrt die von der Mittelstation nicht erreichbar ist, war aber super gut zu fahren!",
+      "geo": {
+        "latitude": 47.32640277777778,
+        "longitude": 13.339344444444444,
+        "elevation_m": 1707,
+        "bearing_deg": 220,
+        "captured_at": "2026-02-01T13:04:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 199103987,
+        "name": "Flying Mozart II",
+        "cat": "EUB",
+        "dist": 40
+      },
+      "piste": {
+        "name": "Abfahrt Flying Mozart",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98527&mode=view",
+      "description": "Um 13:15 Uhr geht das jetzt noch rüber auf die andere Seite, mal schauen wie weit es noch zu schaffen ist dort",
+      "geo": {
+        "latitude": 47.32989444444445,
+        "longitude": 13.320063888888889,
+        "elevation_m": 1275,
+        "bearing_deg": 174,
+        "captured_at": "2026-02-01T13:16:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 227817176,
+        "name": "G-Link Wagrain",
+        "cat": "PB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Vordere Widmoos - FIS Strecke",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98532&mode=view",
+      "description": "Es stehen schon Fundamente für die geplante Gondelbahn die ähnlich wie dei flying Mozart Gondelbahn in zwei Sektionen mit einer Mittelstation die Grafenberg Bahnen ersetzen soll",
+      "geo": {
+        "latitude": 47.320888888888895,
+        "longitude": 13.287433333333333,
+        "elevation_m": 1386,
+        "bearing_deg": 272,
+        "captured_at": "2026-02-01T13:32:33"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1551817348,
+        "name": "Grafenbergbahn 2",
+        "cat": "EUB",
+        "dist": 4
+      },
+      "piste": null,
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98533&mode=view",
+      "description": "PXL_20260201_123228497.jpg (1.28 MiB) 2644 mal betrachtet",
+      "geo": {
+        "latitude": 47.321025000000006,
+        "longitude": 13.287619444444445,
+        "elevation_m": 1380,
+        "bearing_deg": 177,
+        "captured_at": "2026-02-01T13:32:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1551817348,
+        "name": "Grafenbergbahn 2",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": null,
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98539&mode=view",
+      "description": "Weiter ins Sonntagskogel Skigebiet, hier sind die Pisten verhältnismäßig gut zu fahren!",
+      "geo": {
+        "latitude": 47.301713888888884,
+        "longitude": 13.256908333333334,
+        "elevation_m": 1851,
+        "bearing_deg": 199,
+        "captured_at": "2026-02-01T13:47:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22912870,
+        "name": "Sonntagskogelbahn III",
+        "cat": "SB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Skiweg Sonntagskogel",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 16
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98540&mode=view",
+      "description": "Am äußersten Punkt für heute, dem Schlepplift mit guter schwarzer Piste, die Zeit zwingt jetzt zur Umkehr",
+      "geo": {
+        "latitude": 47.303149999999995,
+        "longitude": 13.232508333333334,
+        "elevation_m": 1621,
+        "bearing_deg": 202,
+        "captured_at": "2026-02-01T13:56:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22912868,
+        "name": "Stegbachlift",
+        "cat": "SL",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Stegbach \"Schlangengrube\"",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98541&mode=view",
+      "description": "Sonntagskogel 3 stand länger still heute, jetzt fährt sie extrem langsam, mal schauen wie lange wir jetzt anstehen müssen...",
+      "geo": {
+        "latitude": 47.304291666666664,
+        "longitude": 13.247944444444444,
+        "elevation_m": 1622,
+        "bearing_deg": 322,
+        "captured_at": "2026-02-01T14:09:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 49225057,
+        "name": "Hirschkogelbahn",
+        "cat": "SB",
+        "dist": 79
+      },
+      "piste": {
+        "name": "Hirschkogel - blaue Abfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98581&mode=view",
+      "description": "Nach etwa 10 bis 15 Minuten gings weiter zurück, hier eine tolle schwarze Abfahrt am Sonntagskogel 1",
+      "geo": {
+        "latitude": 47.30268333333333,
+        "longitude": 13.266647222222222,
+        "elevation_m": 1839,
+        "bearing_deg": 333,
+        "captured_at": "2026-02-01T14:37:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22912873,
+        "name": "Sonntagskogelbahn I",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Sonntagskogelbahn 1 Steilhang",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 23
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98582&mode=view",
+      "description": "Weiter der Rückweg, das letzte Jahr der Garaventa Sesselbahn",
+      "geo": {
+        "latitude": 47.309980555555555,
+        "longitude": 13.27362777777778,
+        "elevation_m": 1755,
+        "bearing_deg": 322,
+        "captured_at": "2026-02-01T14:54:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1558568450,
+        "name": "Schlepplift Grafenberg",
+        "cat": "SL",
+        "dist": 51
+      },
+      "piste": {
+        "name": "Abfahrt Grafenberg, Piste Grafenberg Schlepplift",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98583&mode=view",
+      "description": "Am Flying Mozart schon ordentlich bucklig und eisig",
+      "geo": {
+        "latitude": 47.32599166666667,
+        "longitude": 13.344972222222223,
+        "elevation_m": 1870,
+        "bearing_deg": 177,
+        "captured_at": "2026-02-01T15:20:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 199103987,
+        "name": "Flying Mozart II",
+        "cat": "EUB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Abfahrt Flying Mozart",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98584&mode=view",
+      "description": "Und wieder zurück am Shuttle Berg mit einen sonnigen aber buckligen Abfahrt zum Lumberjack Shuttle",
+      "geo": {
+        "latitude": 47.29586388888889,
+        "longitude": 13.3324,
+        "elevation_m": 1656,
+        "bearing_deg": 206,
+        "captured_at": "2026-02-01T15:38:02"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Fürstwand Piste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98585&mode=view",
+      "description": "PXL_20260201_143523331.jpg (1010.23 KiB) 2613 mal betrachtet",
+      "geo": {
+        "latitude": 47.29705277777778,
+        "longitude": 13.344583333333334,
+        "elevation_m": 1903.09,
+        "bearing_deg": 145,
+        "captured_at": "2026-02-01T15:35:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 810834060,
+        "name": "Panorama Link",
+        "cat": "EUB",
+        "dist": 83
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98586&mode=view",
+      "description": "Zum Abschluss noch zum Absolut Shuttle, der bis 16:15 fährt",
+      "geo": {
+        "latitude": 47.29606111111111,
+        "longitude": 13.346802777777778,
+        "elevation_m": 1932,
+        "bearing_deg": 260,
+        "captured_at": "2026-02-01T15:50:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 553078197,
+        "name": "Lumberjack Shuttle",
+        "cat": "SB",
+        "dist": 91
+      },
+      "piste": {
+        "name": "Family Run Powder",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98587&mode=view",
+      "description": "Absolut Park, offenbar der größte snowpark in Österreich",
+      "geo": {
+        "latitude": 47.30580555555555,
+        "longitude": 13.349911111111112,
+        "elevation_m": 1960,
+        "bearing_deg": 90,
+        "captured_at": "2026-02-01T15:59:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 159142564,
+        "name": "Absolut Shuttle",
+        "cat": "SB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Absolut Park",
+        "diff": "",
+        "ptype": "snow_park",
+        "dist": 4
+      },
+      "n": 37
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98590&mode=view",
+      "description": "wir starten die Talabfahrt oben um 16:10",
+      "geo": {
+        "latitude": 47.30511666666666,
+        "longitude": 13.351930555555555,
+        "elevation_m": 1945,
+        "bearing_deg": 201,
+        "captured_at": "2026-02-01T15:58:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 159142564,
+        "name": "Absolut Shuttle",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 38
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98591&mode=view",
+      "description": "PXL_20260201_150910145.jpg (904.6 KiB) 2611 mal betrachtet",
+      "geo": {
+        "latitude": 47.305991666666664,
+        "longitude": 13.350608333333334,
+        "elevation_m": 2004.8,
+        "bearing_deg": 44,
+        "captured_at": "2026-02-01T16:09:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 159142564,
+        "name": "Absolut Shuttle",
+        "cat": "SB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Family Run Absolut - Family",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 39
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98593&mode=view",
+      "description": "Talabfahrt eisig",
+      "geo": {
+        "latitude": 47.301877777777776,
+        "longitude": 13.383969444444444,
+        "elevation_m": 1236,
+        "bearing_deg": 20,
+        "captured_at": "2026-02-01T16:15:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150970670,
+        "name": "Sunshine Shuttle",
+        "cat": "SB",
+        "dist": 123
+      },
+      "piste": {
+        "name": "Sunshine Piste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 40
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=98594&mode=view",
+      "description": "Aber dafür steht der Skibus direkt bereit und fährt auch gleich los zurück zum Parkplatz Zauchensee Flachauwinkel. Allen in allem 8/10 Punkte, eigentlich ein nettes Skigebiet und auch lange Pisten dabei, aber eben voll und eisig heute",
+      "geo": {
+        "latitude": 47.29793055555555,
+        "longitude": 13.390916666666666,
+        "elevation_m": 1083,
+        "bearing_deg": 347,
+        "captured_at": "2026-02-01T16:17:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 150970670,
+        "name": "Sunshine Shuttle",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Sunshine Piste",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 41
+    }
+  ],
+  "lifts": [
+    {
+      "id": 22912868,
+      "name": "Stegbachlift",
+      "cat": "SL",
+      "coords": [
+        [
+          47.3036156,
+          13.225467
+        ],
+        [
+          47.3036122,
+          13.225557
+        ],
+        [
+          47.3035678,
+          13.226715
+        ],
+        [
+          47.3034981,
+          13.2285333
+        ],
+        [
+          47.3034499,
+          13.2297885
+        ],
+        [
+          47.3033913,
+          13.2313182
+        ],
+        [
+          47.3033551,
+          13.2322637
+        ],
+        [
+          47.3033124,
+          13.2333754
+        ],
+        [
+          47.3032693,
+          13.2345003
+        ],
+        [
+          47.3032216,
+          13.2357452
+        ],
+        [
+          47.3031583,
+          13.2373976
+        ],
+        [
+          47.3031412,
+          13.2378419
+        ],
+        [
+          47.3031357,
+          13.2379859
+        ],
+        [
+          47.3031128,
+          13.2385829
+        ]
+      ]
+    },
+    {
+      "id": 22912870,
+      "name": "Sonntagskogelbahn III",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3057456,
+          13.251259
+        ],
+        [
+          47.305638,
+          13.2514175
+        ],
+        [
+          47.3052369,
+          13.2520086
+        ],
+        [
+          47.3044676,
+          13.2531421
+        ],
+        [
+          47.3036061,
+          13.2544116
+        ],
+        [
+          47.3027479,
+          13.255676
+        ],
+        [
+          47.3022283,
+          13.2564417
+        ],
+        [
+          47.3020038,
+          13.2567725
+        ]
+      ]
+    },
+    {
+      "id": 22912873,
+      "name": "Sonntagskogelbahn I",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3062195,
+          13.26256
+        ],
+        [
+          47.3053049,
+          13.2636271
+        ],
+        [
+          47.3046918,
+          13.2643426
+        ],
+        [
+          47.3038727,
+          13.2652982
+        ],
+        [
+          47.3025874,
+          13.2667978
+        ],
+        [
+          47.3025175,
+          13.2668794
+        ],
+        [
+          47.3023323,
+          13.2670954
+        ]
+      ]
+    },
+    {
+      "id": 23037870,
+      "name": "Rosskopfbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2941911,
+          13.4557839
+        ],
+        [
+          47.2942981,
+          13.4549232
+        ],
+        [
+          47.2946174,
+          13.4523971
+        ],
+        [
+          47.2948137,
+          13.4507722
+        ],
+        [
+          47.2949459,
+          13.4497013
+        ],
+        [
+          47.2950641,
+          13.4487411
+        ],
+        [
+          47.2954478,
+          13.4456515
+        ],
+        [
+          47.2956416,
+          13.4441204
+        ],
+        [
+          47.295942,
+          13.4417611
+        ],
+        [
+          47.2960186,
+          13.4410571
+        ],
+        [
+          47.2960195,
+          13.4409958
+        ],
+        [
+          47.2957545,
+          13.4394811
+        ],
+        [
+          47.2951968,
+          13.4363607
+        ],
+        [
+          47.2947832,
+          13.4340381
+        ],
+        [
+          47.2942581,
+          13.4310702
+        ],
+        [
+          47.2939254,
+          13.4291564
+        ],
+        [
+          47.2938285,
+          13.4286769
+        ]
+      ]
+    },
+    {
+      "id": 23037873,
+      "name": "Gamskogelbahn I",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2906017,
+          13.4571895
+        ],
+        [
+          47.2902358,
+          13.4567992
+        ],
+        [
+          47.2893018,
+          13.455803
+        ],
+        [
+          47.2884762,
+          13.4549224
+        ],
+        [
+          47.2874246,
+          13.4538007
+        ],
+        [
+          47.2867463,
+          13.4530772
+        ],
+        [
+          47.2856488,
+          13.4519067
+        ],
+        [
+          47.2848858,
+          13.4510929
+        ],
+        [
+          47.2840628,
+          13.4502152
+        ],
+        [
+          47.2833757,
+          13.4494824
+        ],
+        [
+          47.2824819,
+          13.4485291
+        ],
+        [
+          47.282182,
+          13.4482093
+        ]
+      ]
+    },
+    {
+      "id": 23037875,
+      "name": "Tauernkarbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2909113,
+          13.4578602
+        ],
+        [
+          47.290734,
+          13.4595394
+        ],
+        [
+          47.2905043,
+          13.4616229
+        ],
+        [
+          47.2902152,
+          13.4639705
+        ],
+        [
+          47.2899959,
+          13.4659181
+        ],
+        [
+          47.2897449,
+          13.4681483
+        ],
+        [
+          47.2895706,
+          13.4697504
+        ],
+        [
+          47.2895121,
+          13.4702695
+        ],
+        [
+          47.2894279,
+          13.4709871
+        ],
+        [
+          47.2890833,
+          13.4738815
+        ],
+        [
+          47.2890653,
+          13.4740892
+        ],
+        [
+          47.2890065,
+          13.4745915
+        ]
+      ]
+    },
+    {
+      "id": 23149642,
+      "name": "Spacejet 3",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3447987,
+          13.3638273
+        ],
+        [
+          47.3444934,
+          13.3635351
+        ],
+        [
+          47.3440627,
+          13.3631569
+        ],
+        [
+          47.3438955,
+          13.3629826
+        ],
+        [
+          47.3431303,
+          13.3622691
+        ],
+        [
+          47.3421579,
+          13.3613518
+        ],
+        [
+          47.3411983,
+          13.3604559
+        ],
+        [
+          47.3402495,
+          13.3595574
+        ],
+        [
+          47.3389263,
+          13.3583155
+        ],
+        [
+          47.3380611,
+          13.3575296
+        ],
+        [
+          47.3371232,
+          13.3565989
+        ],
+        [
+          47.3362034,
+          13.3557379
+        ],
+        [
+          47.3353582,
+          13.3549467
+        ],
+        [
+          47.3344129,
+          13.3540723
+        ],
+        [
+          47.3335804,
+          13.3532971
+        ],
+        [
+          47.332157,
+          13.3519587
+        ],
+        [
+          47.3311099,
+          13.3509448
+        ],
+        [
+          47.3300955,
+          13.3499926
+        ],
+        [
+          47.3291393,
+          13.3491021
+        ],
+        [
+          47.3284357,
+          13.3484396
+        ],
+        [
+          47.3281118,
+          13.3481369
+        ]
+      ]
+    },
+    {
+      "id": 23149659,
+      "name": "starjet 2",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3419061,
+          13.3705135
+        ],
+        [
+          47.3417581,
+          13.3703023
+        ],
+        [
+          47.3414164,
+          13.3697873
+        ],
+        [
+          47.3409729,
+          13.3691221
+        ],
+        [
+          47.3399896,
+          13.3676523
+        ],
+        [
+          47.3393989,
+          13.3667645
+        ],
+        [
+          47.3381356,
+          13.3648869
+        ],
+        [
+          47.3371668,
+          13.3633608
+        ],
+        [
+          47.3360816,
+          13.3617434
+        ],
+        [
+          47.3351172,
+          13.3602995
+        ],
+        [
+          47.3348383,
+          13.3598819
+        ],
+        [
+          47.3345765,
+          13.3594903
+        ],
+        [
+          47.3343111,
+          13.3591148
+        ],
+        [
+          47.3335113,
+          13.3578917
+        ],
+        [
+          47.3323261,
+          13.3560491
+        ],
+        [
+          47.3312554,
+          13.354421
+        ],
+        [
+          47.3304264,
+          13.3531898
+        ],
+        [
+          47.3302118,
+          13.3528729
+        ]
+      ]
+    },
+    {
+      "id": 23149709,
+      "name": "spacejet 1",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3592214,
+          13.3827855
+        ],
+        [
+          47.3590581,
+          13.3826083
+        ],
+        [
+          47.3586584,
+          13.3821684
+        ],
+        [
+          47.35761,
+          13.3811036
+        ],
+        [
+          47.3560383,
+          13.3794621
+        ],
+        [
+          47.3551171,
+          13.3785072
+        ],
+        [
+          47.3536361,
+          13.3769649
+        ],
+        [
+          47.3526839,
+          13.3759913
+        ],
+        [
+          47.3514301,
+          13.3747065
+        ],
+        [
+          47.3508377,
+          13.3740923
+        ],
+        [
+          47.3501217,
+          13.373352
+        ],
+        [
+          47.3495038,
+          13.3727136
+        ],
+        [
+          47.3492795,
+          13.37246
+        ]
+      ]
+    },
+    {
+      "id": 30745873,
+      "name": "starjet 1",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3438327,
+          13.3891297
+        ],
+        [
+          47.343801,
+          13.3889195
+        ],
+        [
+          47.3437373,
+          13.3885467
+        ],
+        [
+          47.3436283,
+          13.3879137
+        ],
+        [
+          47.3432539,
+          13.3857062
+        ],
+        [
+          47.3429813,
+          13.3841398
+        ],
+        [
+          47.3427214,
+          13.3826485
+        ],
+        [
+          47.3423724,
+          13.3805779
+        ],
+        [
+          47.3421071,
+          13.3790785
+        ],
+        [
+          47.3416981,
+          13.3766618
+        ],
+        [
+          47.3414364,
+          13.3751142
+        ],
+        [
+          47.3410202,
+          13.3727726
+        ],
+        [
+          47.3406421,
+          13.3705437
+        ],
+        [
+          47.3405705,
+          13.3700619
+        ]
+      ]
+    },
+    {
+      "id": 30765845,
+      "name": "Family Shuttle",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3066026,
+          13.3810602
+        ],
+        [
+          47.3065633,
+          13.3807342
+        ],
+        [
+          47.3065012,
+          13.3802182
+        ],
+        [
+          47.3062571,
+          13.3781921
+        ],
+        [
+          47.305967,
+          13.3757839
+        ],
+        [
+          47.3057337,
+          13.373847
+        ],
+        [
+          47.305449,
+          13.3714835
+        ],
+        [
+          47.3052232,
+          13.3696096
+        ],
+        [
+          47.3048695,
+          13.3666733
+        ],
+        [
+          47.3046661,
+          13.3649847
+        ],
+        [
+          47.3045085,
+          13.3636762
+        ],
+        [
+          47.3041753,
+          13.3609103
+        ],
+        [
+          47.3041584,
+          13.3607699
+        ],
+        [
+          47.3041151,
+          13.3604107
+        ]
+      ]
+    },
+    {
+      "id": 32653509,
+      "name": "Highliner II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2985112,
+          13.4180631
+        ],
+        [
+          47.2982373,
+          13.41897
+        ],
+        [
+          47.2978043,
+          13.4203648
+        ],
+        [
+          47.2972596,
+          13.4220823
+        ],
+        [
+          47.2968227,
+          13.4234627
+        ],
+        [
+          47.2963791,
+          13.4248996
+        ],
+        [
+          47.2961786,
+          13.4255492
+        ],
+        [
+          47.2955873,
+          13.4274645
+        ],
+        [
+          47.2953593,
+          13.4282031
+        ],
+        [
+          47.2953187,
+          13.4283345
+        ],
+        [
+          47.295103,
+          13.4290333
+        ]
+      ]
+    },
+    {
+      "id": 49063158,
+      "name": "Unterbergbahn II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2919276,
+          13.4482559
+        ],
+        [
+          47.2920859,
+          13.4469388
+        ],
+        [
+          47.2921077,
+          13.4467572
+        ],
+        [
+          47.292171,
+          13.4462299
+        ],
+        [
+          47.2923756,
+          13.4445275
+        ],
+        [
+          47.2924618,
+          13.44381
+        ],
+        [
+          47.2926909,
+          13.4419028
+        ],
+        [
+          47.2929045,
+          13.4401253
+        ],
+        [
+          47.2931246,
+          13.4381612
+        ],
+        [
+          47.293335,
+          13.4364422
+        ],
+        [
+          47.293575,
+          13.4343361
+        ],
+        [
+          47.2937567,
+          13.4327911
+        ],
+        [
+          47.2938772,
+          13.4316834
+        ]
+      ]
+    },
+    {
+      "id": 49063163,
+      "name": "Unterbergbahn I",
+      "cat": "SB",
+      "coords": [
+        [
+          47.292054,
+          13.4562573
+        ],
+        [
+          47.2918597,
+          13.45485
+        ],
+        [
+          47.2916189,
+          13.4531059
+        ],
+        [
+          47.2914463,
+          13.4518562
+        ],
+        [
+          47.2912521,
+          13.4504498
+        ],
+        [
+          47.2911149,
+          13.4494565
+        ],
+        [
+          47.2909838,
+          13.4485068
+        ],
+        [
+          47.290862,
+          13.4476247
+        ]
+      ]
+    },
+    {
+      "id": 49225057,
+      "name": "Hirschkogelbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3052096,
+          13.2486668
+        ],
+        [
+          47.3051629,
+          13.2484642
+        ],
+        [
+          47.304842,
+          13.2470726
+        ],
+        [
+          47.3045199,
+          13.245676
+        ],
+        [
+          47.3041334,
+          13.2439998
+        ],
+        [
+          47.3036486,
+          13.2418975
+        ],
+        [
+          47.3032623,
+          13.2402221
+        ],
+        [
+          47.3029119,
+          13.2387026
+        ],
+        [
+          47.3028965,
+          13.2386361
+        ],
+        [
+          47.3028161,
+          13.2382873
+        ]
+      ]
+    },
+    {
+      "id": 97019597,
+      "name": "Highliner I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.2945128,
+          13.3989478
+        ],
+        [
+          47.2950525,
+          13.4010888
+        ],
+        [
+          47.2954598,
+          13.4027044
+        ],
+        [
+          47.2959942,
+          13.4048294
+        ],
+        [
+          47.2967152,
+          13.407809
+        ],
+        [
+          47.2969222,
+          13.4086646
+        ],
+        [
+          47.2974244,
+          13.41074
+        ],
+        [
+          47.2978689,
+          13.412577
+        ],
+        [
+          47.2985554,
+          13.4154142
+        ],
+        [
+          47.2987846,
+          13.4163614
+        ],
+        [
+          47.2988164,
+          13.4164929
+        ],
+        [
+          47.2989074,
+          13.416869
+        ]
+      ]
+    },
+    {
+      "id": 150970670,
+      "name": "Sunshine Shuttle",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2969079,
+          13.3920875
+        ],
+        [
+          47.2975008,
+          13.3913702
+        ],
+        [
+          47.2987899,
+          13.3898105
+        ],
+        [
+          47.3000873,
+          13.3882407
+        ],
+        [
+          47.3012494,
+          13.3868229
+        ],
+        [
+          47.3018585,
+          13.3860975
+        ],
+        [
+          47.3020884,
+          13.3858194
+        ],
+        [
+          47.3025533,
+          13.3852567
+        ],
+        [
+          47.3034669,
+          13.3841513
+        ],
+        [
+          47.3047407,
+          13.3826099
+        ],
+        [
+          47.3056778,
+          13.3814759
+        ],
+        [
+          47.3059251,
+          13.3811767
+        ]
+      ]
+    },
+    {
+      "id": 159142564,
+      "name": "Absolut Shuttle",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3005943,
+          13.3609732
+        ],
+        [
+          47.3008717,
+          13.3604221
+        ],
+        [
+          47.3016691,
+          13.3588185
+        ],
+        [
+          47.3025742,
+          13.3570076
+        ],
+        [
+          47.3033416,
+          13.3554679
+        ],
+        [
+          47.3041408,
+          13.3538668
+        ],
+        [
+          47.305,
+          13.3521343
+        ],
+        [
+          47.3053621,
+          13.3514084
+        ],
+        [
+          47.3057546,
+          13.3506114
+        ],
+        [
+          47.3059235,
+          13.3502329
+        ]
+      ]
+    },
+    {
+      "id": 199103987,
+      "name": "Flying Mozart II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3299387,
+          13.3209675
+        ],
+        [
+          47.3296941,
+          13.3222241
+        ],
+        [
+          47.3296121,
+          13.3226687
+        ],
+        [
+          47.3294985,
+          13.3233866
+        ],
+        [
+          47.3291278,
+          13.3255464
+        ],
+        [
+          47.3286414,
+          13.3282923
+        ],
+        [
+          47.3281719,
+          13.3311304
+        ],
+        [
+          47.327886,
+          13.3327877
+        ],
+        [
+          47.3274376,
+          13.3354721
+        ],
+        [
+          47.3269727,
+          13.3381676
+        ],
+        [
+          47.3265165,
+          13.3408134
+        ],
+        [
+          47.3258366,
+          13.3447557
+        ],
+        [
+          47.3256056,
+          13.3460953
+        ],
+        [
+          47.3253988,
+          13.3472946
+        ]
+      ]
+    },
+    {
+      "id": 227817176,
+      "name": "G-Link Wagrain",
+      "cat": "PB",
+      "coords": [
+        [
+          47.3299093,
+          13.3201526
+        ],
+        [
+          47.3295428,
+          13.3184096
+        ],
+        [
+          47.3236633,
+          13.2922434
+        ],
+        [
+          47.3233329,
+          13.2907161
+        ]
+      ]
+    },
+    {
+      "id": 320164854,
+      "name": "Gamskogelbahn II",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2811806,
+          13.4471818
+        ],
+        [
+          47.2804521,
+          13.4467279
+        ],
+        [
+          47.2799028,
+          13.446378
+        ],
+        [
+          47.2790412,
+          13.4458291
+        ],
+        [
+          47.2780854,
+          13.4452468
+        ],
+        [
+          47.2772199,
+          13.444699
+        ],
+        [
+          47.2759968,
+          13.443907
+        ],
+        [
+          47.2756213,
+          13.4436639
+        ],
+        [
+          47.275343,
+          13.4434837
+        ],
+        [
+          47.2745363,
+          13.4429614
+        ],
+        [
+          47.2743901,
+          13.4428667
+        ]
+      ]
+    },
+    {
+      "id": 553078197,
+      "name": "Lumberjack Shuttle",
+      "cat": "SB",
+      "coords": [
+        [
+          47.2909466,
+          13.3214667
+        ],
+        [
+          47.2910065,
+          13.3217624
+        ],
+        [
+          47.2910196,
+          13.3218487
+        ],
+        [
+          47.2911271,
+          13.3224826
+        ],
+        [
+          47.2914114,
+          13.3241444
+        ],
+        [
+          47.2917831,
+          13.3262993
+        ],
+        [
+          47.2922062,
+          13.3287681
+        ],
+        [
+          47.2924568,
+          13.3302106
+        ],
+        [
+          47.2928359,
+          13.3324399
+        ],
+        [
+          47.293058,
+          13.3337538
+        ],
+        [
+          47.2933335,
+          13.3353249
+        ],
+        [
+          47.2934157,
+          13.335746
+        ],
+        [
+          47.2936979,
+          13.3374143
+        ],
+        [
+          47.2942613,
+          13.3406905
+        ],
+        [
+          47.2945726,
+          13.3424993
+        ],
+        [
+          47.29488,
+          13.3443235
+        ],
+        [
+          47.2951322,
+          13.3458118
+        ],
+        [
+          47.2951893,
+          13.3461339
+        ],
+        [
+          47.2952649,
+          13.3465357
+        ]
+      ]
+    },
+    {
+      "id": 810834060,
+      "name": "Panorama Link",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3256772,
+          13.3436818
+        ],
+        [
+          47.3244718,
+          13.3437475
+        ],
+        [
+          47.3221397,
+          13.3438745
+        ],
+        [
+          47.3203307,
+          13.3439525
+        ],
+        [
+          47.3181481,
+          13.3440309
+        ],
+        [
+          47.3170884,
+          13.3440785
+        ],
+        [
+          47.3140681,
+          13.3442142
+        ],
+        [
+          47.3134834,
+          13.3442405
+        ],
+        [
+          47.3114758,
+          13.3443333
+        ],
+        [
+          47.3085522,
+          13.3444594
+        ],
+        [
+          47.3071051,
+          13.3445218
+        ],
+        [
+          47.3063,
+          13.3445565
+        ],
+        [
+          47.3049105,
+          13.3446165
+        ],
+        [
+          47.3034634,
+          13.3446789
+        ],
+        [
+          47.3007975,
+          13.3447938
+        ],
+        [
+          47.2999734,
+          13.3448294
+        ],
+        [
+          47.2982249,
+          13.3449048
+        ],
+        [
+          47.2977605,
+          13.3449248
+        ]
+      ]
+    },
+    {
+      "id": 1551817348,
+      "name": "Grafenbergbahn 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3233275,
+          13.2902543
+        ],
+        [
+          47.3088252,
+          13.2738434
+        ]
+      ]
+    },
+    {
+      "id": 1558568450,
+      "name": "Schlepplift Grafenberg",
+      "cat": "SL",
+      "coords": [
+        [
+          47.3148479,
+          13.284435
+        ],
+        [
+          47.30919,
+          13.2731869
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

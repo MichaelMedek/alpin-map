@@ -1,0 +1,676 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 37161,
+    "title": "Leeres Skigebiet Anzere mit hartem Schnee",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=37161",
+    "date": "2025-03-31",
+    "post_date": "2025-03-31",
+    "text": "Heute mein erstes Mal Anzere, um wieder ein weiteres neues Skigebiet im Wallis zu entdecken. Morgens absolut leer, gefühlt hat man einen privat Skigebiet hier. Und direkt positiv aufgefallen. Die Sesselbahn fährt mit voller Geschwindigkeit, in Österreich würde sie wahrscheinlich nur halb so schnell fahren! Der Schnee ist allerdings schon morgens sehr hart, wahrscheinlich wird es über den Nachmittag sehr sehr sulzig werden. Bleib zu hoffen, dass es bei so wenigen Skifahren bleibt, und die Piste einfach nur in einen schönen Firn Schnee übergeht.\n[Image Descriptions: Gondelbahn in Anzere; Bergstation. Leider ist die Talabfahrt geschlossen, und die mittelstation ist nur bergseitig, das heißt, wahrscheinlich muss man abends von hier oben herunterfahren, es sei denn, die gesperrte Talabfahrt ist doch noch einigermaßen fahrbar. Ein paar Spuren habe ich zumindest gesehen.; Unten heraus wird es schon sehr knapp mit dem Schnee; Hier oben kommt plötzlich ein starker Wind auf. An der Kasse wurde ich gefragt, ob ich eine Versicherung abschließen will, weil eventuell am Nachmittag die Lifte schließen. Das habe ich abgelehnt, da man den Skipass bis 12:30 Uhr zurückgeben kann, und dann nur den halbtagespass bezahlen muss. Hoffen wir, dass es bis dahin zumindest durchhält.; Zoom nach Crans Montana. Eigentlich wollte ich heute hier fahren, aber da die Piste vom Gletscher nicht geöffnet ist, mach das keinen Sinn, da so viel Geld zu bezahlen.; Die gesperrte Piste an der oberen Sektion des Dreier sessellifts lässt sich aber gut fahren; Super, schöne Pausen Location, mit modernen bequemen bänken, und einer Hütte, in der sogar ein Grill verbaut ist, und Brennholz daneben liegt. Ob man den einfach benutzen darf?; Die Talabfahrt nach Anzere ist gesperrt, ich habe mich aber bei einem Touren Geher erkundigt der von unten hoch kam, und bis auf 10 meter kein Schnee soll sie fahrbar sein; Man kommt gut durch. Nach diesem Bild kam noch die Stelle bei der man anschnallen musste  Allen in allem ein gelungener Tag im fast leeren Skigebiet, auch wenn am Nachmittag der Schnee nicht mehr so gut war. Hat sich aber auf jeden Fall gelohnt das Wochenende zu verlängern!]"
+  },
+  "center": [
+    46.31359742063493,
+    7.3968033730158735
+  ],
+  "placed_count": 14,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63515&mode=view",
+      "description": "Gondelbahn in Anzere",
+      "geo": {
+        "latitude": 46.294525,
+        "longitude": 7.394855555555556,
+        "elevation_m": 1598.03,
+        "bearing_deg": 132,
+        "captured_at": "2025-03-31T08:21:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26584935,
+        "name": "Anzère - Intermédiaire - Pas de Maimbré",
+        "cat": "EUB",
+        "dist": 70
+      },
+      "piste": {
+        "name": "Route du Gô",
+        "diff": "",
+        "ptype": "skitour",
+        "dist": 58
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63516&mode=view",
+      "description": "Bergstation. Leider ist die Talabfahrt geschlossen, und die mittelstation ist nur bergseitig, das heißt, wahrscheinlich muss man abends von hier oben herunterfahren, es sei denn, die gesperrte Talabfahrt ist doch noch einigermaßen fahrbar. Ein paar Spuren habe ich zumindest gesehen.",
+      "geo": {
+        "latitude": 46.312127777777775,
+        "longitude": 7.385919444444445,
+        "elevation_m": 2414.98,
+        "bearing_deg": 95,
+        "captured_at": "2025-03-31T08:56:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26584935,
+        "name": "Anzère - Intermédiaire - Pas de Maimbré",
+        "cat": "EUB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63517&mode=view",
+      "description": "PXL_20250331_065839134.jpg (414.13 KiB) 2420 mal betrachtet",
+      "geo": {
+        "latitude": 46.31453333333333,
+        "longitude": 7.387438888888889,
+        "elevation_m": 2446.68,
+        "bearing_deg": 315,
+        "captured_at": "2025-03-31T08:58:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 333358076,
+        "name": "La Cuvette 2",
+        "cat": "SL",
+        "dist": 35
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63518&mode=view",
+      "description": "PXL_20250331_065721681.jpg (442.66 KiB) 2420 mal betrachtet",
+      "geo": {
+        "latitude": 46.31231111111111,
+        "longitude": 7.385538888888889,
+        "elevation_m": 2418.7,
+        "bearing_deg": 297,
+        "captured_at": "2025-03-31T08:57:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26584935,
+        "name": "Anzère - Intermédiaire - Pas de Maimbré",
+        "cat": "EUB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63519&mode=view",
+      "description": "PXL_20250331_065816373.jpg (455.88 KiB) 2420 mal betrachtet",
+      "geo": {
+        "latitude": 46.31453333333333,
+        "longitude": 7.387438888888889,
+        "elevation_m": 2446.68,
+        "bearing_deg": 277,
+        "captured_at": "2025-03-31T08:58:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 333358076,
+        "name": "La Cuvette 2",
+        "cat": "SL",
+        "dist": 35
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63520&mode=view",
+      "description": "Unten heraus wird es schon sehr knapp mit dem Schnee",
+      "geo": {
+        "latitude": 46.31174166666666,
+        "longitude": 7.406700000000001,
+        "elevation_m": 1953.21,
+        "bearing_deg": 84,
+        "captured_at": "2025-03-31T09:02:22"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1421591700,
+        "name": "Les Grillesses - Le Bâté \"Malo Express\"",
+        "cat": "EUB",
+        "dist": 134
+      },
+      "piste": {
+        "name": "Les Grillesses rouge",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63521&mode=view",
+      "description": "Hier oben kommt plötzlich ein starker Wind auf. An der Kasse wurde ich gefragt, ob ich eine Versicherung abschließen will, weil eventuell am Nachmittag die Lifte schließen. Das habe ich abgelehnt, da man den Skipass bis 12:30 Uhr zurückgeben kann, und dann nur den halbtagespass bezahlen muss. Hoffen wir, dass es bis dahin zumindest durchhält.",
+      "geo": {
+        "latitude": 46.32330833333334,
+        "longitude": 7.401863888888889,
+        "elevation_m": 2369.63,
+        "bearing_deg": 296,
+        "captured_at": "2025-03-31T09:18:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1421591700,
+        "name": "Les Grillesses - Le Bâté \"Malo Express\"",
+        "cat": "EUB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "",
+        "diff": "freeride",
+        "ptype": "skitour",
+        "dist": 80
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63522&mode=view",
+      "description": "Zoom nach Crans Montana. Eigentlich wollte ich heute hier fahren, aber da die Piste vom Gletscher nicht geöffnet ist, mach das keinen Sinn, da so viel Geld zu bezahlen.",
+      "geo": {
+        "latitude": 46.324225000000006,
+        "longitude": 7.402080555555556,
+        "elevation_m": 2355.13,
+        "bearing_deg": 323,
+        "captured_at": "2025-03-31T09:19:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1421591700,
+        "name": "Les Grillesses - Le Bâté \"Malo Express\"",
+        "cat": "EUB",
+        "dist": 59
+      },
+      "piste": {
+        "name": "Le Luché",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63531&mode=view",
+      "description": "Die gesperrte Piste an der oberen Sektion des Dreier sessellifts lässt sich aber gut fahren",
+      "geo": {
+        "latitude": 46.327963888888895,
+        "longitude": 7.407338888888889,
+        "elevation_m": 2324.6,
+        "bearing_deg": 301,
+        "captured_at": "2025-03-31T09:37:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 28830354,
+        "name": "Les Rousses - Le Bâté",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Combe d'Hérémence",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 46
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63532&mode=view",
+      "description": "PXL_20250331_074158436.jpg (395.26 KiB) 2347 mal betrachtet",
+      "geo": {
+        "latitude": 46.327786111111116,
+        "longitude": 7.401377777777778,
+        "elevation_m": 2417.72,
+        "bearing_deg": 355,
+        "captured_at": "2025-03-31T09:41:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 28830354,
+        "name": "Les Rousses - Le Bâté",
+        "cat": "SB",
+        "dist": 148
+      },
+      "piste": {
+        "name": "Combe d'Hérémence",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63533&mode=view",
+      "description": "Super, schöne Pausen Location, mit modernen bequemen bänken, und einer Hütte, in der sogar ein Grill verbaut ist, und Brennholz daneben liegt. Ob man den einfach benutzen darf?",
+      "geo": {
+        "latitude": 46.32787777777778,
+        "longitude": 7.424877777777778,
+        "elevation_m": 2034.4,
+        "bearing_deg": 143,
+        "captured_at": "2025-03-31T12:19:35"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Les Rousses",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 36
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63543&mode=view",
+      "description": "Die Talabfahrt nach Anzere ist gesperrt, ich habe mich aber bei einem Touren Geher erkundigt der von unten hoch kam, und bis auf 10 meter kein Schnee soll sie fahrbar sein",
+      "geo": {
+        "latitude": 46.30305,
+        "longitude": 7.389722222222223,
+        "elevation_m": 2017.42,
+        "bearing_deg": 92,
+        "captured_at": "2025-03-31T15:41:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26584935,
+        "name": "Anzère - Intermédiaire - Pas de Maimbré",
+        "cat": "EUB",
+        "dist": 71
+      },
+      "piste": {
+        "name": "Les Masques inférieur",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63544&mode=view",
+      "description": "PXL_20250331_135042194.jpg (640.52 KiB) 2299 mal betrachtet",
+      "geo": {
+        "latitude": 46.29566111111111,
+        "longitude": 7.392194444444445,
+        "elevation_m": 1602.22,
+        "bearing_deg": 334,
+        "captured_at": "2025-03-31T15:50:42"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Les Masques inférieur",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63545&mode=view",
+      "description": "Man kommt gut durch. Nach diesem Bild kam noch die Stelle bei der man anschnallen musste  Allen in allem ein gelungener Tag im fast leeren Skigebiet, auch wenn am Nachmittag der Schnee nicht mehr so gut war. Hat sich aber auf jeden Fall gelohnt das Wochenende zu verlängern!",
+      "geo": {
+        "latitude": 46.30071944444444,
+        "longitude": 7.3879,
+        "elevation_m": 1929.98,
+        "bearing_deg": 76,
+        "captured_at": "2025-03-31T15:42:12"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Les Masques inférieur",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 13
+    }
+  ],
+  "lifts": [
+    {
+      "id": 26584935,
+      "name": "Anzère - Intermédiaire - Pas de Maimbré",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.2951566,
+          7.394922
+        ],
+        [
+          46.2954171,
+          7.3947859
+        ],
+        [
+          46.295452,
+          7.3947676
+        ],
+        [
+          46.2962003,
+          7.3943768
+        ],
+        [
+          46.2974502,
+          7.3937101
+        ],
+        [
+          46.2983504,
+          7.3932364
+        ],
+        [
+          46.2991352,
+          7.3928128
+        ],
+        [
+          46.2998719,
+          7.3924227
+        ],
+        [
+          46.3020532,
+          7.3912556
+        ],
+        [
+          46.303335,
+          7.3905536
+        ],
+        [
+          46.3047653,
+          7.3897906
+        ],
+        [
+          46.3059519,
+          7.3891569
+        ],
+        [
+          46.3062918,
+          7.3889799
+        ],
+        [
+          46.3064925,
+          7.3888693
+        ],
+        [
+          46.3066753,
+          7.3887749
+        ],
+        [
+          46.3067427,
+          7.3887346
+        ],
+        [
+          46.3067993,
+          7.3887019
+        ],
+        [
+          46.3068584,
+          7.3886701
+        ],
+        [
+          46.3073408,
+          7.3884158
+        ],
+        [
+          46.3088793,
+          7.3876072
+        ],
+        [
+          46.3097841,
+          7.3871223
+        ],
+        [
+          46.3111088,
+          7.3864188
+        ],
+        [
+          46.311848,
+          7.3860198
+        ],
+        [
+          46.311901,
+          7.3859872
+        ],
+        [
+          46.3120355,
+          7.3859091
+        ],
+        [
+          46.3122751,
+          7.3857699
+        ]
+      ]
+    },
+    {
+      "id": 28830354,
+      "name": "Les Rousses - Le Bâté",
+      "cat": "SB",
+      "coords": [
+        [
+          46.3326215,
+          7.4367202
+        ],
+        [
+          46.3325771,
+          7.4364134
+        ],
+        [
+          46.3325694,
+          7.4363579
+        ],
+        [
+          46.3325128,
+          7.4359546
+        ],
+        [
+          46.3322111,
+          7.4338028
+        ],
+        [
+          46.3321513,
+          7.4333614
+        ],
+        [
+          46.3319441,
+          7.4319563
+        ],
+        [
+          46.3318769,
+          7.4314987
+        ],
+        [
+          46.3317286,
+          7.4304758
+        ],
+        [
+          46.3314503,
+          7.4285565
+        ],
+        [
+          46.3313502,
+          7.4278658
+        ],
+        [
+          46.331078,
+          7.4259877
+        ],
+        [
+          46.3308281,
+          7.4242644
+        ],
+        [
+          46.3307071,
+          7.4234294
+        ],
+        [
+          46.3305047,
+          7.422033
+        ],
+        [
+          46.3302236,
+          7.420094
+        ],
+        [
+          46.3301232,
+          7.4194019
+        ],
+        [
+          46.330074,
+          7.4190626
+        ],
+        [
+          46.32985,
+          7.4175174
+        ],
+        [
+          46.3296801,
+          7.4163454
+        ],
+        [
+          46.3294797,
+          7.414963
+        ],
+        [
+          46.3293142,
+          7.4138214
+        ],
+        [
+          46.3290154,
+          7.4117601
+        ],
+        [
+          46.3288691,
+          7.410697
+        ],
+        [
+          46.3287701,
+          7.4103292
+        ],
+        [
+          46.3287366,
+          7.4102067
+        ],
+        [
+          46.328555,
+          7.4095415
+        ],
+        [
+          46.3278077,
+          7.4067888
+        ],
+        [
+          46.3277338,
+          7.4065327
+        ],
+        [
+          46.3277171,
+          7.4064716
+        ],
+        [
+          46.327246,
+          7.4047553
+        ],
+        [
+          46.3269976,
+          7.403777
+        ],
+        [
+          46.3267454,
+          7.4028093
+        ],
+        [
+          46.3267258,
+          7.4027377
+        ],
+        [
+          46.3267091,
+          7.4026753
+        ],
+        [
+          46.3265617,
+          7.4021265
+        ],
+        [
+          46.3264996,
+          7.4018954
+        ]
+      ]
+    },
+    {
+      "id": 333358076,
+      "name": "La Cuvette 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.3138964,
+          7.3871579
+        ],
+        [
+          46.314523,
+          7.3880648
+        ]
+      ]
+    },
+    {
+      "id": 1421591700,
+      "name": "Les Grillesses - Le Bâté \"Malo Express\"",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.3117507,
+          7.4085162
+        ],
+        [
+          46.314261,
+          7.4073821
+        ],
+        [
+          46.3262738,
+          7.4019544
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

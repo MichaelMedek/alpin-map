@@ -1,0 +1,2405 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 54556,
+    "title": "Traumhafter Skitag in Saalbach Leogang mit Neuschnee",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=54556",
+    "date": "2026-01-30",
+    "post_date": "2026-01-30",
+    "text": "Nachdem das Wetter in Frankreich leider schlecht angesagt ist, habe ich meinen nächsten Skitrip nach Österreich verlagert. Heute ist der erste Tag im Saalbacher Skigebiet mit Einstieg in Leogang, danach geht es weiter zum Hochkönig und nach Flachau und dann Richtung Kitzbühel. Der Parkplatz direkt vor der Gondelbahn ist kostenlos, so gehört es sich! Aktuell ist es unten noch bewölkt unter einer hochnebelschicht, auf der Webcam ist aber schon Sonne in der Höhe zu sehen. Schnee hat es auch frisch gegeben, könnte ein toller Skitag werden!\n[Image Descriptions: Die Sessellifte öffnen erst um 9 Uhr; Wow!!! Dafür eine Traum Abfahrt an der Ansitzbahn!!!; Der Schnee ist super griffig und perfekt präpariert!; Es geht weiter in Richtung dem Hauptteil nach Saalbach; Es ist doch schon leider sehr voll aktuell, und die Pisten fahren sich schnell ab; In Fieberbrunn ist zum Glück etwas weniger los, allerdings auch hier sind etwas harte kunstschneepisten; Die neue alte Sesselbahn aus Ischgl; Die beiden Talabfahrten nach Fieberbrunn sind eher gut zu fahren und es ist nicht so viel los!; Wieder auf dem Rückweg nach Saalbach; Die Reckmoos Süd ist schon um 11:30 Uhr sehr weich; Am Hasenauer gibt's etwas mehr Platz auf den Pisten; Die schwarze an der Hochalm ist gut zu fahren, da auch weniger los!; Schöne Talabfahrt Hochalm; Für mich neue Nordbahn; Die  Weltcup Piste am 12er Kogel ist leider auch eisig und zerfahren; Westgipfel auch eisig; Am Schatzberg Sprinter ist die schwarze sehr gut zu fahren, aber halt sehr kurz; Der für mich neue Limberg Sessel, die direkte rote Piste sieht gut aus!; Die schwarze am Schattberg ist ok, aber auch schon etwas zerfahren; Wieder zurück in Leogang, die Pisten sind nicht besser geworden, gerade die Hauptpisten haben teilweise sehr hohe Buckel und sind ziemlich eisig. Der Schnee hat wirklich nicht lange durchgehalten, obwohl er heute morgen so wunderschön war!; Feierabend um 16:10 Uhr, die letzte Bergfahrt schenken wir uns heute.]"
+  },
+  "center": [
+    47.40743491161617,
+    12.638225189393937
+  ],
+  "placed_count": 44,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97768&mode=view",
+      "description": "PXL_20260130_062756092.jpg (714.41 KiB) 4915 mal betrachtet",
+      "geo": {
+        "latitude": 47.440016666666665,
+        "longitude": 12.732991666666667,
+        "elevation_m": 865.5,
+        "bearing_deg": 73,
+        "captured_at": "2026-01-30T07:27:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463335913,
+        "name": "Steinbergbahn I",
+        "cat": "EUB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "211",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 43
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97789&mode=view",
+      "description": "Die Sessellifte öffnen erst um 9 Uhr",
+      "geo": {
+        "latitude": 47.41052777777777,
+        "longitude": 12.713908333333332,
+        "elevation_m": 1809.5,
+        "bearing_deg": 106,
+        "captured_at": "2026-01-30T08:20:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 50
+      },
+      "piste": {
+        "name": "Talstation 8er Sessel Asitzbahn",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97790&mode=view",
+      "description": "Wow!!! Dafür eine Traum Abfahrt an der Ansitzbahn!!!",
+      "geo": {
+        "latitude": 47.410525,
+        "longitude": 12.713672222222222,
+        "elevation_m": 1809.4,
+        "bearing_deg": 263,
+        "captured_at": "2026-01-30T08:22:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Talstation 8er Sessel Asitzbahn",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97791&mode=view",
+      "description": "PXL_20260130_072151091.jpg (1.03 MiB) 4892 mal betrachtet",
+      "geo": {
+        "latitude": 47.410805555555555,
+        "longitude": 12.714355555555555,
+        "elevation_m": 1788.44,
+        "bearing_deg": 263,
+        "captured_at": "2026-01-30T08:21:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 8
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97792&mode=view",
+      "description": "PXL_20260130_072236821.jpg (1.12 MiB) 4892 mal betrachtet",
+      "geo": {
+        "latitude": 47.410525,
+        "longitude": 12.713672222222222,
+        "elevation_m": 1809.4,
+        "bearing_deg": 102,
+        "captured_at": "2026-01-30T08:22:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Talstation 8er Sessel Asitzbahn",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97793&mode=view",
+      "description": "PXL_20260130_072256674.jpg (935.32 KiB) 4892 mal betrachtet",
+      "geo": {
+        "latitude": 47.410525,
+        "longitude": 12.713672222222222,
+        "elevation_m": 1809.4,
+        "bearing_deg": 352,
+        "captured_at": "2026-01-30T08:22:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 66
+      },
+      "piste": {
+        "name": "Talstation 8er Sessel Asitzbahn",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97794&mode=view",
+      "description": "PXL_20260130_072841297.jpg (639.65 KiB) 4892 mal betrachtet",
+      "geo": {
+        "latitude": 47.42126944444444,
+        "longitude": 12.713822222222221,
+        "elevation_m": 1521.55,
+        "bearing_deg": 258,
+        "captured_at": "2026-01-30T08:28:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "206",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97795&mode=view",
+      "description": "PXL_20260130_072700490.jpg (601.71 KiB) 4892 mal betrachtet",
+      "geo": {
+        "latitude": 47.41413611111111,
+        "longitude": 12.715694444444443,
+        "elevation_m": 1740.19,
+        "bearing_deg": 223,
+        "captured_at": "2026-01-30T08:27:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463340430,
+        "name": "Asitzbahn II",
+        "cat": "EUB",
+        "dist": 101
+      },
+      "piste": {
+        "name": "206",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97798&mode=view",
+      "description": "Der Schnee ist super griffig und perfekt präpariert!",
+      "geo": {
+        "latitude": 47.41061388888889,
+        "longitude": 12.714516666666666,
+        "elevation_m": 1806,
+        "bearing_deg": 324,
+        "captured_at": "2026-01-30T08:40:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 204806058,
+        "name": "Übungslift Asitz",
+        "cat": "SL",
+        "dist": 14
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97799&mode=view",
+      "description": "PXL_20260130_074117965.jpg (1.04 MiB) 4881 mal betrachtet",
+      "geo": {
+        "latitude": 47.410916666666665,
+        "longitude": 12.71668888888889,
+        "elevation_m": 1751,
+        "bearing_deg": 314,
+        "captured_at": "2026-01-30T08:41:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29877377,
+        "name": "Asitzgipfelbahn 8er",
+        "cat": "SB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "212b",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97800&mode=view",
+      "description": "PXL_20260130_074316797.jpg (736.97 KiB) 4881 mal betrachtet",
+      "geo": {
+        "latitude": 47.41862222222222,
+        "longitude": 12.724208333333333,
+        "elevation_m": 1580,
+        "bearing_deg": 13,
+        "captured_at": "2026-01-30T08:43:16"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "212",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97801&mode=view",
+      "description": "Es geht weiter in Richtung dem Hauptteil nach Saalbach",
+      "geo": {
+        "latitude": 47.40471111111111,
+        "longitude": 12.706383333333333,
+        "elevation_m": 1903,
+        "bearing_deg": 26,
+        "captured_at": "2026-01-30T09:02:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26561949,
+        "name": "Muldenbahn 8er",
+        "cat": "SB",
+        "dist": 86
+      },
+      "piste": {
+        "name": "219",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97802&mode=view",
+      "description": "PXL_20260130_080352895.jpg (876.41 KiB) 4881 mal betrachtet",
+      "geo": {
+        "latitude": 47.403238888888886,
+        "longitude": 12.705144444444445,
+        "elevation_m": 1883,
+        "bearing_deg": 359,
+        "captured_at": "2026-01-30T09:03:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 143200350,
+        "name": "Asitzkogelbahn",
+        "cat": "SB",
+        "dist": 103
+      },
+      "piste": {
+        "name": "219",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 33
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97807&mode=view",
+      "description": "PXL_20260130_080956629.jpg (1.14 MiB) 4861 mal betrachtet",
+      "geo": {
+        "latitude": 47.40148333333333,
+        "longitude": 12.700844444444444,
+        "elevation_m": 1925,
+        "bearing_deg": 194,
+        "captured_at": "2026-01-30T09:09:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26561947,
+        "name": "Polten 8er",
+        "cat": "SB",
+        "dist": 123
+      },
+      "piste": {
+        "name": "von Leogang nach Saalbach",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97808&mode=view",
+      "description": "PXL_20260130_082058538.jpg (1 MiB) 4861 mal betrachtet",
+      "geo": {
+        "latitude": 47.402452777777775,
+        "longitude": 12.678469444444444,
+        "elevation_m": 1881,
+        "bearing_deg": 158,
+        "captured_at": "2026-01-30T09:20:58"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schönleiten Mittelstation",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97809&mode=view",
+      "description": "PXL_20260130_083652701.jpg (882.64 KiB) 4861 mal betrachtet",
+      "geo": {
+        "latitude": 47.396169444444446,
+        "longitude": 12.639605555555555,
+        "elevation_m": 1154,
+        "bearing_deg": 111,
+        "captured_at": "2026-01-30T09:36:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30042713,
+        "name": "Turm 6er",
+        "cat": "SB",
+        "dist": 140
+      },
+      "piste": {
+        "name": "Maisabfahrt",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97810&mode=view",
+      "description": "Es ist doch schon leider sehr voll aktuell, und die Pisten fahren sich schnell ab",
+      "geo": {
+        "latitude": 47.40387777777778,
+        "longitude": 12.615747222222222,
+        "elevation_m": 1629,
+        "bearing_deg": 27,
+        "captured_at": "2026-01-30T09:50:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29877382,
+        "name": "Bernkogelbahn",
+        "cat": "EUB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 1
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97842&mode=view",
+      "description": "In Fieberbrunn ist zum Glück etwas weniger los, allerdings auch hier sind etwas harte kunstschneepisten",
+      "geo": {
+        "latitude": 47.435961111111105,
+        "longitude": 12.557080555555556,
+        "elevation_m": 1502,
+        "bearing_deg": 253,
+        "captured_at": "2026-01-30T10:23:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990054,
+        "name": "Reckmoos Nord II",
+        "cat": "EUB",
+        "dist": 104
+      },
+      "piste": {
+        "name": "Reckmoos Nord",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97843&mode=view",
+      "description": "Die neue alte Sesselbahn aus Ischgl",
+      "geo": {
+        "latitude": 47.44679166666666,
+        "longitude": 12.564580555555557,
+        "elevation_m": 1294,
+        "bearing_deg": 259,
+        "captured_at": "2026-01-30T10:28:57"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "9",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97847&mode=view",
+      "description": "PXL_20260130_094134740.jpg (793.22 KiB) 4835 mal betrachtet",
+      "geo": {
+        "latitude": 47.44987222222222,
+        "longitude": 12.564919444444445,
+        "elevation_m": 1209,
+        "bearing_deg": 276,
+        "captured_at": "2026-01-30T10:41:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990052,
+        "name": "Lärchfilzen 4er",
+        "cat": "SB",
+        "dist": 43
+      },
+      "piste": {
+        "name": "Siebener",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97876&mode=view",
+      "description": "Die beiden Talabfahrten nach Fieberbrunn sind eher gut zu fahren und es ist nicht so viel los!",
+      "geo": {
+        "latitude": 47.456022222222224,
+        "longitude": 12.56485,
+        "elevation_m": 1232,
+        "bearing_deg": 259,
+        "captured_at": "2026-01-30T10:46:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990049,
+        "name": "Maiskopflift",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97877&mode=view",
+      "description": "PXL_20260130_094751196.jpg (834.02 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.46369444444445,
+        "longitude": 12.556183333333333,
+        "elevation_m": 986,
+        "bearing_deg": 202,
+        "captured_at": "2026-01-30T10:47:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990048,
+        "name": "Doischberg",
+        "cat": "EUB",
+        "dist": 48
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97878&mode=view",
+      "description": "PXL_20260130_095546486.jpg (952.33 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.45711666666667,
+        "longitude": 12.540838888888889,
+        "elevation_m": 1254,
+        "bearing_deg": 342,
+        "captured_at": "2026-01-30T10:55:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990050,
+        "name": "Streuböden I",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97879&mode=view",
+      "description": "Wieder auf dem Rückweg nach Saalbach",
+      "geo": {
+        "latitude": 47.42735555555555,
+        "longitude": 12.54508888888889,
+        "elevation_m": 2040,
+        "bearing_deg": 114,
+        "captured_at": "2026-01-30T11:36:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990055,
+        "name": "Hochhörndl 4er",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 28
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97880&mode=view",
+      "description": "PXL_20260130_101236958.jpg (885.96 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.44341111111111,
+        "longitude": 12.548816666666667,
+        "elevation_m": 1687,
+        "bearing_deg": 347,
+        "captured_at": "2026-01-30T11:12:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990051,
+        "name": "Streuböden II",
+        "cat": "EUB",
+        "dist": 11
+      },
+      "piste": {
+        "name": "Lärchfilzkogel",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97881&mode=view",
+      "description": "Die Reckmoos Süd ist schon um 11:30 Uhr sehr weich",
+      "geo": {
+        "latitude": 47.41898611111111,
+        "longitude": 12.565383333333335,
+        "elevation_m": 1421,
+        "bearing_deg": 21,
+        "captured_at": "2026-01-30T11:41:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31990056,
+        "name": "Reckmoos Süd",
+        "cat": "EUB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Reckmoos Süd",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97882&mode=view",
+      "description": "PXL_20260130_104448849.jpg (816.7 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.41615,
+        "longitude": 12.573402777777778,
+        "elevation_m": 1091.1,
+        "bearing_deg": 284,
+        "captured_at": "2026-01-30T11:44:48"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97884&mode=view",
+      "description": "PXL_20260130_110454818.jpg (864.36 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.39488333333333,
+        "longitude": 12.582697222222222,
+        "elevation_m": 1819.96,
+        "bearing_deg": 141,
+        "captured_at": "2026-01-30T12:04:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30042265,
+        "name": "Hasenauerbahn",
+        "cat": "SB",
+        "dist": 96
+      },
+      "piste": {
+        "name": "73",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97885&mode=view",
+      "description": "Am Hasenauer gibt's etwas mehr Platz auf den Pisten",
+      "geo": {
+        "latitude": 47.39469166666667,
+        "longitude": 12.59013888888889,
+        "elevation_m": 1651,
+        "bearing_deg": 94,
+        "captured_at": "2026-01-30T11:58:26"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Reiterkogel Mittelstation",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97886&mode=view",
+      "description": "Die schwarze an der Hochalm ist gut zu fahren, da auch weniger los!",
+      "geo": {
+        "latitude": 47.39686944444444,
+        "longitude": 12.551955555555557,
+        "elevation_m": 1983.2,
+        "bearing_deg": 152,
+        "captured_at": "2026-01-30T12:18:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30042266,
+        "name": "Hochalm 6er",
+        "cat": "SB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "Reichkendlabfahrt",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97887&mode=view",
+      "description": "PXL_20260130_111753087.jpg (968.15 KiB) 4788 mal betrachtet",
+      "geo": {
+        "latitude": 47.39686944444444,
+        "longitude": 12.551955555555557,
+        "elevation_m": 1983.2,
+        "bearing_deg": 46,
+        "captured_at": "2026-01-30T12:17:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30042266,
+        "name": "Hochalm 6er",
+        "cat": "SB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "Reichkendlabfahrt",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97888&mode=view",
+      "description": "Schöne Talabfahrt Hochalm",
+      "geo": {
+        "latitude": 47.38249444444445,
+        "longitude": 12.554361111111112,
+        "elevation_m": 1396,
+        "bearing_deg": 326,
+        "captured_at": "2026-01-30T12:34:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29877378,
+        "name": "Hochalmbahn",
+        "cat": "EUB",
+        "dist": 36
+      },
+      "piste": {
+        "name": "Standard",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97889&mode=view",
+      "description": "Für mich neue Nordbahn",
+      "geo": {
+        "latitude": 47.37827222222222,
+        "longitude": 12.559280555555556,
+        "elevation_m": 1286,
+        "bearing_deg": 39,
+        "captured_at": "2026-01-30T12:35:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29877378,
+        "name": "Hochalmbahn",
+        "cat": "EUB",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Standard",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97894&mode=view",
+      "description": "Die  Weltcup Piste am 12er Kogel ist leider auch eisig und zerfahren",
+      "geo": {
+        "latitude": 47.360952777777776,
+        "longitude": 12.577658333333334,
+        "elevation_m": 1696,
+        "bearing_deg": 94,
+        "captured_at": "2026-01-30T12:44:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52253332,
+        "name": "12er KOGELbahn 2",
+        "cat": "EUB",
+        "dist": 128
+      },
+      "piste": {
+        "name": "Worldcup Zwolferkogel",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97901&mode=view",
+      "description": "Westgipfel auch eisig",
+      "geo": {
+        "latitude": 47.364647222222224,
+        "longitude": 12.622236111111112,
+        "elevation_m": 2146.4,
+        "bearing_deg": 225,
+        "captured_at": "2026-01-30T13:07:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 52253331,
+        "name": "Westgipfelbahn II",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Westabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97903&mode=view",
+      "description": "Am Schatzberg Sprinter ist die schwarze sehr gut zu fahren, aber halt sehr kurz",
+      "geo": {
+        "latitude": 47.36633055555556,
+        "longitude": 12.627516666666667,
+        "elevation_m": 1961,
+        "bearing_deg": 230,
+        "captured_at": "2026-01-30T13:31:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30004616,
+        "name": "Schattberg Sprinter",
+        "cat": "EUB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "7",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 32
+      },
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97904&mode=view",
+      "description": "PXL_20260130_123340460.jpg (710.35 KiB) 4756 mal betrachtet",
+      "geo": {
+        "latitude": 47.36396944444444,
+        "longitude": 12.623161111111111,
+        "elevation_m": 2128,
+        "bearing_deg": 133,
+        "captured_at": "2026-01-30T13:33:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30004616,
+        "name": "Schattberg Sprinter",
+        "cat": "EUB",
+        "dist": 64
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97905&mode=view",
+      "description": "Der für mich neue Limberg Sessel, die direkte rote Piste sieht gut aus!",
+      "geo": {
+        "latitude": 47.36708333333333,
+        "longitude": 12.638041666666666,
+        "elevation_m": 2057,
+        "bearing_deg": 67,
+        "captured_at": "2026-01-30T13:46:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 842492075,
+        "name": "Limberg 8er",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Limbergabfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 37
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97906&mode=view",
+      "description": "PXL_20260130_123928095.jpg (864.84 KiB) 4756 mal betrachtet",
+      "geo": {
+        "latitude": 47.363458333333334,
+        "longitude": 12.649291666666667,
+        "elevation_m": 1733,
+        "bearing_deg": 182,
+        "captured_at": "2026-01-30T13:39:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 842492075,
+        "name": "Limberg 8er",
+        "cat": "SB",
+        "dist": 98
+      },
+      "piste": {
+        "name": "2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 21
+      },
+      "n": 38
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97907&mode=view",
+      "description": "Die schwarze am Schattberg ist ok, aber auch schon etwas zerfahren",
+      "geo": {
+        "latitude": 47.37042777777778,
+        "longitude": 12.639383333333333,
+        "elevation_m": 1972,
+        "bearing_deg": 267,
+        "captured_at": "2026-01-30T13:48:02"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Schattberg Nord Abfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 39
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97908&mode=view",
+      "description": "PXL_20260130_124932259.jpg (1.01 MiB) 4756 mal betrachtet",
+      "geo": {
+        "latitude": 47.37742222222222,
+        "longitude": 12.633830555555555,
+        "elevation_m": 1575,
+        "bearing_deg": 42,
+        "captured_at": "2026-01-30T13:49:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 143200349,
+        "name": "Schattberg X-Press II",
+        "cat": "EUB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "Schattberg Nord Abfahrt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 40
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97943&mode=view",
+      "description": "Wieder zurück in Leogang, die Pisten sind nicht besser geworden, gerade die Hauptpisten haben teilweise sehr hohe Buckel und sind ziemlich eisig. Der Schnee hat wirklich nicht lange durchgehalten, obwohl er heute morgen so wunderschön war!",
+      "geo": {
+        "latitude": 47.40381111111111,
+        "longitude": 12.713016666666666,
+        "elevation_m": 1711.3,
+        "bearing_deg": 228,
+        "captured_at": "2026-01-30T15:58:14"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26561949,
+        "name": "Muldenbahn 8er",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "217",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 41
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97944&mode=view",
+      "description": "PXL_20260130_150507792.jpg (633.65 KiB) 4727 mal betrachtet",
+      "geo": {
+        "latitude": 47.414858333333335,
+        "longitude": 12.720219444444444,
+        "elevation_m": 1641,
+        "bearing_deg": 269,
+        "captured_at": "2026-01-30T16:05:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 306551380,
+        "name": "Steinbergbahn II",
+        "cat": "EUB",
+        "dist": 79
+      },
+      "piste": {
+        "name": "212",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 42
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=97945&mode=view",
+      "description": "Feierabend um 16:10 Uhr, die letzte Bergfahrt schenken wir uns heute.",
+      "geo": {
+        "latitude": 47.43431666666666,
+        "longitude": 12.732622222222222,
+        "elevation_m": 944,
+        "bearing_deg": 124,
+        "captured_at": "2026-01-30T16:10:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 463335913,
+        "name": "Steinbergbahn I",
+        "cat": "EUB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "Skiroute 209",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 43
+    }
+  ],
+  "lifts": [
+    {
+      "id": 26561947,
+      "name": "Polten 8er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.397333,
+          12.6936062
+        ],
+        [
+          47.3979368,
+          12.6951295
+        ],
+        [
+          47.3983821,
+          12.696253
+        ],
+        [
+          47.3987973,
+          12.6973004
+        ],
+        [
+          47.3989386,
+          12.6976568
+        ],
+        [
+          47.3995637,
+          12.699234
+        ],
+        [
+          47.4005226,
+          12.7016532
+        ]
+      ]
+    },
+    {
+      "id": 26561949,
+      "name": "Muldenbahn 8er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.403558,
+          12.7138462
+        ],
+        [
+          47.4037666,
+          12.7130478
+        ],
+        [
+          47.4040937,
+          12.7117957
+        ],
+        [
+          47.4046648,
+          12.7096094
+        ],
+        [
+          47.4051752,
+          12.707656
+        ],
+        [
+          47.4053277,
+          12.7070721
+        ]
+      ]
+    },
+    {
+      "id": 29877377,
+      "name": "Asitzgipfelbahn 8er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4116972,
+          12.7186237
+        ],
+        [
+          47.41131,
+          12.7178963
+        ],
+        [
+          47.4107225,
+          12.7167926
+        ],
+        [
+          47.4101921,
+          12.7157963
+        ],
+        [
+          47.4100262,
+          12.7154848
+        ],
+        [
+          47.409068,
+          12.7136848
+        ],
+        [
+          47.4084215,
+          12.7124704
+        ],
+        [
+          47.4078289,
+          12.7113573
+        ],
+        [
+          47.4075003,
+          12.71074
+        ],
+        [
+          47.4067892,
+          12.7094042
+        ],
+        [
+          47.4059447,
+          12.707818
+        ],
+        [
+          47.4057673,
+          12.7074848
+        ]
+      ]
+    },
+    {
+      "id": 29877378,
+      "name": "Hochalmbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3754251,
+          12.5615568
+        ],
+        [
+          47.3755698,
+          12.5614211
+        ],
+        [
+          47.3756079,
+          12.5613854
+        ],
+        [
+          47.3762882,
+          12.5607473
+        ],
+        [
+          47.3764173,
+          12.5606262
+        ],
+        [
+          47.3779131,
+          12.5592232
+        ],
+        [
+          47.3789356,
+          12.5582641
+        ],
+        [
+          47.3798383,
+          12.5574174
+        ],
+        [
+          47.3819135,
+          12.5554709
+        ],
+        [
+          47.3826034,
+          12.5548236
+        ],
+        [
+          47.3833033,
+          12.5541671
+        ],
+        [
+          47.3837274,
+          12.5537693
+        ]
+      ]
+    },
+    {
+      "id": 29877382,
+      "name": "Bernkogelbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3930485,
+          12.6359634
+        ],
+        [
+          47.3932074,
+          12.635667
+        ],
+        [
+          47.3932316,
+          12.6356218
+        ],
+        [
+          47.3932682,
+          12.6355535
+        ],
+        [
+          47.3935577,
+          12.6350134
+        ],
+        [
+          47.3940275,
+          12.6341369
+        ],
+        [
+          47.395518,
+          12.6313558
+        ],
+        [
+          47.3968096,
+          12.628946
+        ],
+        [
+          47.3982257,
+          12.6263036
+        ],
+        [
+          47.3992496,
+          12.6243931
+        ],
+        [
+          47.4003233,
+          12.6223896
+        ],
+        [
+          47.4013799,
+          12.6204181
+        ],
+        [
+          47.4021298,
+          12.6190187
+        ],
+        [
+          47.4027679,
+          12.6178278
+        ],
+        [
+          47.4036255,
+          12.6162275
+        ],
+        [
+          47.4037902,
+          12.6159202
+        ]
+      ]
+    },
+    {
+      "id": 30004616,
+      "name": "Schattberg Sprinter",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3675424,
+          12.6303212
+        ],
+        [
+          47.367448,
+          12.6300993
+        ],
+        [
+          47.3673119,
+          12.6297826
+        ],
+        [
+          47.3668278,
+          12.6286702
+        ],
+        [
+          47.3665861,
+          12.6281149
+        ],
+        [
+          47.3653657,
+          12.625246
+        ],
+        [
+          47.3645429,
+          12.6232794
+        ]
+      ]
+    },
+    {
+      "id": 30042265,
+      "name": "Hasenauerbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3892416,
+          12.5909338
+        ],
+        [
+          47.3894155,
+          12.590728
+        ],
+        [
+          47.3894413,
+          12.5906975
+        ],
+        [
+          47.3894679,
+          12.5906659
+        ],
+        [
+          47.3897662,
+          12.5903129
+        ],
+        [
+          47.3903647,
+          12.5896047
+        ],
+        [
+          47.3911688,
+          12.5886531
+        ],
+        [
+          47.3920662,
+          12.5875909
+        ],
+        [
+          47.3925634,
+          12.5870025
+        ],
+        [
+          47.3935248,
+          12.5858646
+        ],
+        [
+          47.3942318,
+          12.5850279
+        ],
+        [
+          47.3949118,
+          12.584223
+        ],
+        [
+          47.3950499,
+          12.5840595
+        ],
+        [
+          47.3950638,
+          12.5840431
+        ],
+        [
+          47.3952019,
+          12.5838797
+        ]
+      ]
+    },
+    {
+      "id": 30042266,
+      "name": "Hochalm 6er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3827381,
+          12.5558784
+        ],
+        [
+          47.3834698,
+          12.5556065
+        ],
+        [
+          47.3845783,
+          12.5551855
+        ],
+        [
+          47.3857677,
+          12.5547339
+        ],
+        [
+          47.3870747,
+          12.5542376
+        ],
+        [
+          47.3882963,
+          12.5537737
+        ],
+        [
+          47.3901646,
+          12.5530642
+        ],
+        [
+          47.3916126,
+          12.5525144
+        ],
+        [
+          47.3933503,
+          12.5518545
+        ],
+        [
+          47.3945623,
+          12.5513942
+        ],
+        [
+          47.3949771,
+          12.5512366
+        ],
+        [
+          47.3967173,
+          12.5505757
+        ],
+        [
+          47.3970493,
+          12.5504496
+        ]
+      ]
+    },
+    {
+      "id": 30042713,
+      "name": "Turm 6er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3919666,
+          12.6381537
+        ],
+        [
+          47.3925126,
+          12.6385666
+        ],
+        [
+          47.3939068,
+          12.6396208
+        ],
+        [
+          47.3948051,
+          12.6403001
+        ],
+        [
+          47.3950582,
+          12.6404915
+        ]
+      ]
+    },
+    {
+      "id": 31990048,
+      "name": "Doischberg",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4667865,
+          12.5515089
+        ],
+        [
+          47.4666464,
+          12.5516827
+        ],
+        [
+          47.4662531,
+          12.5521705
+        ],
+        [
+          47.4656702,
+          12.5528935
+        ],
+        [
+          47.4638419,
+          12.5551611
+        ],
+        [
+          47.4624999,
+          12.5568256
+        ],
+        [
+          47.4619334,
+          12.5575283
+        ],
+        [
+          47.4607697,
+          12.5589714
+        ],
+        [
+          47.4606543,
+          12.5591146
+        ],
+        [
+          47.4584535,
+          12.561844
+        ],
+        [
+          47.4573954,
+          12.5631562
+        ],
+        [
+          47.4570019,
+          12.5636442
+        ],
+        [
+          47.4566567,
+          12.5640723
+        ],
+        [
+          47.4563259,
+          12.5644825
+        ]
+      ]
+    },
+    {
+      "id": 31990049,
+      "name": "Maiskopflift",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4520735,
+          12.5657638
+        ],
+        [
+          47.452345,
+          12.5657054
+        ],
+        [
+          47.4530686,
+          12.5655491
+        ],
+        [
+          47.453865,
+          12.565377
+        ],
+        [
+          47.4545965,
+          12.5652189
+        ],
+        [
+          47.4559332,
+          12.5649301
+        ],
+        [
+          47.4560494,
+          12.564905
+        ]
+      ]
+    },
+    {
+      "id": 31990050,
+      "name": "Streuböden I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4672423,
+          12.5511272
+        ],
+        [
+          47.4670694,
+          12.5509612
+        ],
+        [
+          47.4670309,
+          12.5509235
+        ],
+        [
+          47.4661123,
+          12.550024
+        ],
+        [
+          47.4631467,
+          12.5470829
+        ],
+        [
+          47.4621113,
+          12.5460561
+        ],
+        [
+          47.4608875,
+          12.5448424
+        ],
+        [
+          47.4595346,
+          12.5435008
+        ],
+        [
+          47.45778,
+          12.5417635
+        ],
+        [
+          47.4570976,
+          12.5410842
+        ],
+        [
+          47.4568696,
+          12.5408576
+        ]
+      ]
+    },
+    {
+      "id": 31990051,
+      "name": "Streuböden II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4568696,
+          12.5408576
+        ],
+        [
+          47.4566344,
+          12.5409962
+        ],
+        [
+          47.4561031,
+          12.5413051
+        ],
+        [
+          47.4548717,
+          12.542021
+        ],
+        [
+          47.4528962,
+          12.5431696
+        ],
+        [
+          47.450251,
+          12.5447073
+        ],
+        [
+          47.4492711,
+          12.545277
+        ],
+        [
+          47.449102,
+          12.5453753
+        ],
+        [
+          47.4479739,
+          12.5460311
+        ],
+        [
+          47.4440977,
+          12.5482843
+        ],
+        [
+          47.4439918,
+          12.5483488
+        ],
+        [
+          47.4439116,
+          12.5484004
+        ],
+        [
+          47.4434616,
+          12.5486853
+        ]
+      ]
+    },
+    {
+      "id": 31990052,
+      "name": "Lärchfilzen 4er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4519192,
+          12.5684045
+        ],
+        [
+          47.4518186,
+          12.5682708
+        ],
+        [
+          47.4512249,
+          12.5674814
+        ],
+        [
+          47.450029,
+          12.5658914
+        ],
+        [
+          47.449325,
+          12.5649554
+        ],
+        [
+          47.4486804,
+          12.5640985
+        ],
+        [
+          47.4473935,
+          12.5623876
+        ],
+        [
+          47.4466562,
+          12.5614074
+        ],
+        [
+          47.4452265,
+          12.5595067
+        ],
+        [
+          47.4438181,
+          12.5576345
+        ],
+        [
+          47.4427298,
+          12.5561878
+        ],
+        [
+          47.4426153,
+          12.5560356
+        ],
+        [
+          47.4424357,
+          12.5557968
+        ]
+      ]
+    },
+    {
+      "id": 31990054,
+      "name": "Reckmoos Nord II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.439501,
+          12.5574109
+        ],
+        [
+          47.4385694,
+          12.5569404
+        ],
+        [
+          47.4361676,
+          12.5557275
+        ],
+        [
+          47.4335262,
+          12.5543935
+        ],
+        [
+          47.4304878,
+          12.5528592
+        ],
+        [
+          47.4299728,
+          12.5525992
+        ],
+        [
+          47.4279901,
+          12.551598
+        ]
+      ]
+    },
+    {
+      "id": 31990055,
+      "name": "Hochhörndl 4er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4247914,
+          12.5585359
+        ],
+        [
+          47.4249466,
+          12.5577195
+        ],
+        [
+          47.4252,
+          12.5563865
+        ],
+        [
+          47.4255658,
+          12.5544624
+        ],
+        [
+          47.4258449,
+          12.5529938
+        ],
+        [
+          47.4260239,
+          12.5520522
+        ],
+        [
+          47.4261879,
+          12.5511898
+        ],
+        [
+          47.4263747,
+          12.5502073
+        ],
+        [
+          47.4266162,
+          12.5489366
+        ],
+        [
+          47.4269747,
+          12.5470507
+        ],
+        [
+          47.4274011,
+          12.5448075
+        ],
+        [
+          47.4274647,
+          12.544473
+        ]
+      ]
+    },
+    {
+      "id": 31990056,
+      "name": "Reckmoos Süd",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4175473,
+          12.5682741
+        ],
+        [
+          47.4180608,
+          12.5674774
+        ],
+        [
+          47.4191223,
+          12.5658307
+        ],
+        [
+          47.41991,
+          12.5646086
+        ],
+        [
+          47.4209753,
+          12.5629559
+        ],
+        [
+          47.4226122,
+          12.5604163
+        ],
+        [
+          47.4241459,
+          12.5580366
+        ],
+        [
+          47.4242043,
+          12.557946
+        ],
+        [
+          47.4257382,
+          12.5555661
+        ],
+        [
+          47.4266974,
+          12.5540778
+        ],
+        [
+          47.4274827,
+          12.5528593
+        ],
+        [
+          47.4278123,
+          12.5523479
+        ]
+      ]
+    },
+    {
+      "id": 52253331,
+      "name": "Westgipfelbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3656211,
+          12.6050377
+        ],
+        [
+          47.3655998,
+          12.605495
+        ],
+        [
+          47.3655955,
+          12.6055873
+        ],
+        [
+          47.3655912,
+          12.6056789
+        ],
+        [
+          47.3655406,
+          12.606765
+        ],
+        [
+          47.3654425,
+          12.6088694
+        ],
+        [
+          47.3653299,
+          12.6112846
+        ],
+        [
+          47.3652022,
+          12.6140234
+        ],
+        [
+          47.3650778,
+          12.6166916
+        ],
+        [
+          47.3649312,
+          12.619837
+        ],
+        [
+          47.3648428,
+          12.6217324
+        ],
+        [
+          47.3648396,
+          12.6218017
+        ],
+        [
+          47.364809,
+          12.6224574
+        ]
+      ]
+    },
+    {
+      "id": 52253332,
+      "name": "12er KOGELbahn 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3631065,
+          12.5813072
+        ],
+        [
+          47.3629878,
+          12.5808428
+        ],
+        [
+          47.3629682,
+          12.5807649
+        ],
+        [
+          47.3628506,
+          12.5802981
+        ],
+        [
+          47.3621388,
+          12.577473
+        ],
+        [
+          47.3620608,
+          12.5771636
+        ],
+        [
+          47.3613102,
+          12.5741844
+        ],
+        [
+          47.3608188,
+          12.5722344
+        ],
+        [
+          47.3602718,
+          12.5700634
+        ],
+        [
+          47.3602542,
+          12.5699934
+        ],
+        [
+          47.3602343,
+          12.5699143
+        ],
+        [
+          47.3601211,
+          12.5694652
+        ]
+      ]
+    },
+    {
+      "id": 143200349,
+      "name": "Schattberg X-Press II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.3803993,
+          12.6329214
+        ],
+        [
+          47.3800902,
+          12.6330466
+        ],
+        [
+          47.3795057,
+          12.6332833
+        ],
+        [
+          47.3789633,
+          12.633503
+        ],
+        [
+          47.3771541,
+          12.6342357
+        ],
+        [
+          47.3756834,
+          12.6348312
+        ],
+        [
+          47.3736323,
+          12.6356618
+        ],
+        [
+          47.3728082,
+          12.6359955
+        ],
+        [
+          47.3724456,
+          12.6361424
+        ],
+        [
+          47.3716244,
+          12.6364749
+        ],
+        [
+          47.3692093,
+          12.6374528
+        ],
+        [
+          47.3683822,
+          12.6377877
+        ],
+        [
+          47.3683432,
+          12.6378035
+        ],
+        [
+          47.3683075,
+          12.6378179
+        ],
+        [
+          47.3678774,
+          12.6379921
+        ]
+      ]
+    },
+    {
+      "id": 143200350,
+      "name": "Asitzkogelbahn",
+      "cat": "SB",
+      "coords": [
+        [
+          47.4029543,
+          12.7131142
+        ],
+        [
+          47.4028684,
+          12.7120657
+        ],
+        [
+          47.402659,
+          12.7095083
+        ],
+        [
+          47.4025609,
+          12.7083114
+        ],
+        [
+          47.4023936,
+          12.7062682
+        ],
+        [
+          47.4022549,
+          12.7045745
+        ],
+        [
+          47.4021297,
+          12.7030459
+        ],
+        [
+          47.4020884,
+          12.702542
+        ]
+      ]
+    },
+    {
+      "id": 204806058,
+      "name": "Übungslift Asitz",
+      "cat": "SL",
+      "coords": [
+        [
+          47.4130842,
+          12.715664
+        ],
+        [
+          47.4106917,
+          12.7146667
+        ]
+      ]
+    },
+    {
+      "id": 306551380,
+      "name": "Steinbergbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4204664,
+          12.7308439
+        ],
+        [
+          47.4198594,
+          12.7298614
+        ],
+        [
+          47.4187935,
+          12.7281362
+        ],
+        [
+          47.4177941,
+          12.7265186
+        ],
+        [
+          47.4168064,
+          12.7249469
+        ],
+        [
+          47.414995,
+          12.7220727
+        ],
+        [
+          47.4136521,
+          12.7197616
+        ],
+        [
+          47.4122113,
+          12.7174411
+        ],
+        [
+          47.4106988,
+          12.7150357
+        ]
+      ]
+    },
+    {
+      "id": 463335913,
+      "name": "Steinbergbahn I",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4395451,
+          12.7330999
+        ],
+        [
+          47.4387657,
+          12.7330088
+        ],
+        [
+          47.4374788,
+          12.7328585
+        ],
+        [
+          47.435632,
+          12.7326427
+        ],
+        [
+          47.4330724,
+          12.7323437
+        ],
+        [
+          47.4316161,
+          12.7321736
+        ],
+        [
+          47.4297813,
+          12.7319593
+        ],
+        [
+          47.4278741,
+          12.7317197
+        ],
+        [
+          47.4251946,
+          12.7314029
+        ],
+        [
+          47.4233488,
+          12.7311847
+        ],
+        [
+          47.4220763,
+          12.7310342
+        ],
+        [
+          47.4204664,
+          12.7308439
+        ]
+      ]
+    },
+    {
+      "id": 463340430,
+      "name": "Asitzbahn II",
+      "cat": "EUB",
+      "coords": [
+        [
+          47.4274817,
+          12.7139344
+        ],
+        [
+          47.4264039,
+          12.7139679
+        ],
+        [
+          47.4252569,
+          12.7140036
+        ],
+        [
+          47.4227069,
+          12.7140829
+        ],
+        [
+          47.4210268,
+          12.7141351
+        ],
+        [
+          47.4193313,
+          12.7141879
+        ],
+        [
+          47.4170271,
+          12.7142595
+        ],
+        [
+          47.4156156,
+          12.7143034
+        ],
+        [
+          47.4128609,
+          12.714389
+        ],
+        [
+          47.4113605,
+          12.7144357
+        ],
+        [
+          47.4107907,
+          12.7144534
+        ]
+      ]
+    },
+    {
+      "id": 842492075,
+      "name": "Limberg 8er",
+      "cat": "SB",
+      "coords": [
+        [
+          47.3610623,
+          12.6524767
+        ],
+        [
+          47.3611978,
+          12.6521579
+        ],
+        [
+          47.3614174,
+          12.651641
+        ],
+        [
+          47.3618212,
+          12.6506909
+        ],
+        [
+          47.3625631,
+          12.6489447
+        ],
+        [
+          47.3630477,
+          12.6478043
+        ],
+        [
+          47.3635001,
+          12.6466882
+        ],
+        [
+          47.3641961,
+          12.6450016
+        ],
+        [
+          47.3648238,
+          12.6435014
+        ],
+        [
+          47.3654017,
+          12.6421823
+        ],
+        [
+          47.3661115,
+          12.6404725
+        ],
+        [
+          47.3667858,
+          12.6388557
+        ],
+        [
+          47.3671156,
+          12.6380526
+        ],
+        [
+          47.367292,
+          12.6376048
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

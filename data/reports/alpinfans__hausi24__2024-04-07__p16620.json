@@ -1,0 +1,811 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 16620,
+    "title": "Grimnetz Skigebiet: Sulziger Schnee und tolles Water Slide Event",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=16620",
+    "date": "2024-04-07",
+    "post_date": "2024-04-07",
+    "text": "Heute der Schnee wie erwartet sehr sulzig, aber oben im Grimnetz Skigebiet auch sehr tolle Pisten dabei, vor allem bergaufwärts links vom Sessellift mit blauen Hauben. Außerdem war heute das Water Slide Event, und erstaunlich hat es fast jeder über den Pool geschafft"
+  },
+  "center": [
+    46.17161047008547,
+    7.557898076923076
+  ],
+  "placed_count": 13,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24938&mode=view",
+      "description": "PXL_20240407_091026839.jpg (319.77 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.149630555555554,
+        "longitude": 7.590466666666666,
+        "elevation_m": 2296.5,
+        "bearing_deg": 256,
+        "captured_at": "2024-04-07T11:10:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33475831,
+        "name": "Corne de Sorebois",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Arête",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 111
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24939&mode=view",
+      "description": "PXL_20240407_083155648.jpg (299.39 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.13804722222222,
+        "longitude": 7.589338888888888,
+        "elevation_m": 2872,
+        "bearing_deg": 280,
+        "captured_at": "2024-04-07T10:31:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33475850,
+        "name": "Combe Durand",
+        "cat": "SL",
+        "dist": 55
+      },
+      "piste": {
+        "name": "La Crête",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24940&mode=view",
+      "description": "PXL_20240407_075127809.jpg (242.53 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.16560833333333,
+        "longitude": 7.582875,
+        "elevation_m": 2442,
+        "bearing_deg": 45,
+        "captured_at": "2024-04-07T09:51:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 252889164,
+        "name": "Grimentz - La Vouarda",
+        "cat": "PB",
+        "dist": 8
+      },
+      "piste": null,
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24941&mode=view",
+      "description": "PXL_20240407_105904978.jpg (391.56 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.18062777777777,
+        "longitude": 7.557277777777777,
+        "elevation_m": 2190.39,
+        "bearing_deg": 77,
+        "captured_at": "2024-04-07T12:59:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33206839,
+        "name": "Grimentz - Bendolla",
+        "cat": "EUB",
+        "dist": 52
+      },
+      "piste": {
+        "name": "Marenda",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24942&mode=view",
+      "description": "PXL_20240407_134655741.jpg (372.98 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17228055555555,
+        "longitude": 7.536347222222222,
+        "elevation_m": 2628,
+        "bearing_deg": 83,
+        "captured_at": "2024-04-07T15:46:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33205617,
+        "name": "Lona 2",
+        "cat": "SL",
+        "dist": 93
+      },
+      "piste": {
+        "name": "Tsa inférieure",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24943&mode=view",
+      "description": "PXL_20240407_132835089.jpg (324.79 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17261666666666,
+        "longitude": 7.536083333333333,
+        "elevation_m": 2646,
+        "bearing_deg": 49,
+        "captured_at": "2024-04-07T15:28:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33205617,
+        "name": "Lona 2",
+        "cat": "SL",
+        "dist": 98
+      },
+      "piste": {
+        "name": "Tsa inférieure",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24944&mode=view",
+      "description": "PXL_20240407_101652897.jpg (142.38 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17173888888889,
+        "longitude": 7.523383333333333,
+        "elevation_m": 2901,
+        "bearing_deg": 103,
+        "captured_at": "2024-04-07T12:16:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33205085,
+        "name": "Becs de Bosson",
+        "cat": "SL",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Becs",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24945&mode=view",
+      "description": "PXL_20240407_125851511.jpg (447.08 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.180658333333334,
+        "longitude": 7.557266666666666,
+        "elevation_m": 2190.39,
+        "bearing_deg": 66,
+        "captured_at": "2024-04-07T14:58:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33206839,
+        "name": "Grimentz - Bendolla",
+        "cat": "EUB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "Marenda",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24946&mode=view",
+      "description": "PXL_20240407_134652635.jpg (368.79 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17778611111111,
+        "longitude": 7.5445,
+        "elevation_m": 2618,
+        "bearing_deg": 93,
+        "captured_at": "2024-04-07T15:46:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 772776390,
+        "name": "Col Du Pouce",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": null,
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24947&mode=view",
+      "description": "PXL_20240407_134228280.jpg (358.21 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17778611111111,
+        "longitude": 7.5445,
+        "elevation_m": 2618,
+        "bearing_deg": 95,
+        "captured_at": "2024-04-07T15:42:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 772776390,
+        "name": "Col Du Pouce",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": null,
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24948&mode=view",
+      "description": "PXL_20240407_123938396.jpg (296.71 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.18943055555555,
+        "longitude": 7.552716666666666,
+        "elevation_m": 2225.47,
+        "bearing_deg": 89,
+        "captured_at": "2024-04-07T14:39:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33205082,
+        "name": "Bendolla - Grands Plans",
+        "cat": "SB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Chaché",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24949&mode=view",
+      "description": "PXL_20240407_141541239.jpg (584.6 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.176294444444444,
+        "longitude": 7.573275,
+        "elevation_m": 1667.3,
+        "bearing_deg": 18,
+        "captured_at": "2024-04-07T16:15:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33206839,
+        "name": "Grimentz - Bendolla",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Forêt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=24950&mode=view",
+      "description": "PXL_20240407_141252813.jpg (132.18 KiB) 3257 mal betrachtet",
+      "geo": {
+        "latitude": 46.17843055555555,
+        "longitude": 7.564644444444444,
+        "elevation_m": 1909,
+        "bearing_deg": 154,
+        "captured_at": "2024-04-07T16:12:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33206839,
+        "name": "Grimentz - Bendolla",
+        "cat": "EUB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "Avoin",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    }
+  ],
+  "lifts": [
+    {
+      "id": 33205082,
+      "name": "Bendolla - Grands Plans",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1818357,
+          7.5582863
+        ],
+        [
+          46.1821285,
+          7.558054
+        ],
+        [
+          46.1826797,
+          7.5576111
+        ],
+        [
+          46.1836995,
+          7.5567939
+        ],
+        [
+          46.1844075,
+          7.5562287
+        ],
+        [
+          46.1856639,
+          7.5552208
+        ],
+        [
+          46.1866445,
+          7.5544346
+        ],
+        [
+          46.1873936,
+          7.5538358
+        ],
+        [
+          46.1884172,
+          7.5530124
+        ],
+        [
+          46.1891041,
+          7.5524626
+        ],
+        [
+          46.189354,
+          7.5522694
+        ]
+      ]
+    },
+    {
+      "id": 33205085,
+      "name": "Becs de Bosson",
+      "cat": "SL",
+      "coords": [
+        [
+          46.1824403,
+          7.5328493
+        ],
+        [
+          46.181675,
+          7.5321428
+        ],
+        [
+          46.1808973,
+          7.5314249
+        ],
+        [
+          46.1804087,
+          7.5309738
+        ],
+        [
+          46.1796457,
+          7.5302695
+        ],
+        [
+          46.1795217,
+          7.530155
+        ],
+        [
+          46.179132,
+          7.5297953
+        ],
+        [
+          46.1775893,
+          7.5283712
+        ],
+        [
+          46.1766876,
+          7.5275388
+        ],
+        [
+          46.1760959,
+          7.5269927
+        ],
+        [
+          46.1750183,
+          7.5259979
+        ],
+        [
+          46.1745006,
+          7.52552
+        ],
+        [
+          46.1741656,
+          7.5252108
+        ],
+        [
+          46.1736133,
+          7.5247011
+        ],
+        [
+          46.1731566,
+          7.5242795
+        ],
+        [
+          46.1726631,
+          7.523824
+        ],
+        [
+          46.1715572,
+          7.5228033
+        ],
+        [
+          46.1711185,
+          7.5223983
+        ]
+      ]
+    },
+    {
+      "id": 33205617,
+      "name": "Lona 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.171959,
+          7.5352379
+        ],
+        [
+          46.171753,
+          7.5345093
+        ],
+        [
+          46.1713696,
+          7.5331535
+        ],
+        [
+          46.1709372,
+          7.5316245
+        ],
+        [
+          46.1707134,
+          7.530833
+        ],
+        [
+          46.1705079,
+          7.5301063
+        ],
+        [
+          46.1704965,
+          7.530066
+        ],
+        [
+          46.1705971,
+          7.5287156
+        ],
+        [
+          46.1707384,
+          7.5268179
+        ],
+        [
+          46.1708667,
+          7.5250959
+        ],
+        [
+          46.170886,
+          7.524837
+        ],
+        [
+          46.1709396,
+          7.5241177
+        ],
+        [
+          46.1710029,
+          7.5232676
+        ],
+        [
+          46.1710122,
+          7.5231433
+        ],
+        [
+          46.1710535,
+          7.5225887
+        ]
+      ]
+    },
+    {
+      "id": 33206839,
+      "name": "Grimentz - Bendolla",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1762121,
+          7.5734962
+        ],
+        [
+          46.1764303,
+          7.5727285
+        ],
+        [
+          46.1768335,
+          7.5713099
+        ],
+        [
+          46.177393,
+          7.5693415
+        ],
+        [
+          46.1779572,
+          7.5673565
+        ],
+        [
+          46.1784287,
+          7.5656974
+        ],
+        [
+          46.1786553,
+          7.5649002
+        ],
+        [
+          46.1787808,
+          7.5644586
+        ],
+        [
+          46.1792414,
+          7.5628378
+        ],
+        [
+          46.1797365,
+          7.5610959
+        ],
+        [
+          46.1802307,
+          7.559357
+        ],
+        [
+          46.1803634,
+          7.55889
+        ],
+        [
+          46.1806288,
+          7.5579562
+        ]
+      ]
+    },
+    {
+      "id": 33475831,
+      "name": "Corne de Sorebois",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1480312,
+          7.5948328
+        ],
+        [
+          46.1483773,
+          7.5939121
+        ],
+        [
+          46.1489206,
+          7.5924823
+        ],
+        [
+          46.1495679,
+          7.5907779
+        ],
+        [
+          46.1500942,
+          7.5893924
+        ],
+        [
+          46.1507172,
+          7.5877779
+        ]
+      ]
+    },
+    {
+      "id": 33475850,
+      "name": "Combe Durand",
+      "cat": "SL",
+      "coords": [
+        [
+          46.1406394,
+          7.6040776
+        ],
+        [
+          46.1405599,
+          7.602519
+        ],
+        [
+          46.1404754,
+          7.6008608
+        ],
+        [
+          46.1403996,
+          7.5993743
+        ],
+        [
+          46.1403659,
+          7.5987127
+        ],
+        [
+          46.1403338,
+          7.5962712
+        ],
+        [
+          46.1402993,
+          7.5936436
+        ],
+        [
+          46.1402923,
+          7.5931137
+        ],
+        [
+          46.1400796,
+          7.5926301
+        ],
+        [
+          46.1398704,
+          7.5921545
+        ],
+        [
+          46.1386699,
+          7.5894257
+        ],
+        [
+          46.1385225,
+          7.5890905
+        ],
+        [
+          46.1384617,
+          7.5889521
+        ],
+        [
+          46.1383525,
+          7.5887039
+        ]
+      ]
+    },
+    {
+      "id": 252889164,
+      "name": "Grimentz - La Vouarda",
+      "cat": "PB",
+      "coords": [
+        [
+          46.1762904,
+          7.5739486
+        ],
+        [
+          46.1652338,
+          7.5830602
+        ],
+        [
+          46.1638993,
+          7.584183
+        ],
+        [
+          46.1553492,
+          7.5912228
+        ],
+        [
+          46.1504724,
+          7.5952329
+        ]
+      ]
+    },
+    {
+      "id": 772776390,
+      "name": "Col Du Pouce",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1796518,
+          7.5588973
+        ],
+        [
+          46.1794921,
+          7.5576335
+        ],
+        [
+          46.1793423,
+          7.5564485
+        ],
+        [
+          46.1790586,
+          7.5542038
+        ],
+        [
+          46.1787734,
+          7.5519476
+        ],
+        [
+          46.1785687,
+          7.5503279
+        ],
+        [
+          46.1782845,
+          7.5480787
+        ],
+        [
+          46.1780986,
+          7.5466085
+        ],
+        [
+          46.1778286,
+          7.5444718
+        ],
+        [
+          46.1777672,
+          7.5439864
+        ],
+        [
+          46.1776046,
+          7.5426998
+        ],
+        [
+          46.1774224,
+          7.5412582
+        ],
+        [
+          46.1773988,
+          7.5410711
+        ],
+        [
+          46.1771931,
+          7.5394438
+        ],
+        [
+          46.17704,
+          7.5382326
+        ],
+        [
+          46.1767253,
+          7.5357424
+        ],
+        [
+          46.1764628,
+          7.5336659
+        ],
+        [
+          46.1763644,
+          7.5328871
+        ],
+        [
+          46.176316,
+          7.5325044
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

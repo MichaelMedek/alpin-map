@@ -1,0 +1,1487 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 37123,
+    "title": "Saas Fee: Traumhafter Skitag mit ultra griffigen Gletschereisen",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=37123",
+    "date": "2025-03-30",
+    "post_date": "2025-03-30",
+    "text": "Inzwischen bin ich in Saas Fee, und das heute bei Traum Wetter! Die Pisten oben am Gletscher sind traumhaft, ultra griffig, das kenn ich von den letzten Monaten gar nicht mehr! Auch der Wind ist kein Thema, das Gebiet scheint gut abgeschirmt zu sein. Ein toller Tag schon jetzt!\n[Image Descriptions: Parken in Saas Almagell für 5 CHF, eventuell heute Nachmittag noch hier Skifahren; Alpin Express; Metro Alpin; Geniales Panorama an der Bergstation Metro Alpin auf 3500 Metern!; Super griffige und perfekt präparierte Sonnen Piste am Schlepplift der zum höchsten Punkt auf 3600 Metern führt. Ein Traum heute!; Platteau in Richtung Längfluh; Auch schöne Pisten an der 6er Sesselbahn, Ende März auch morgens schon großteils in der Sonne!; Talabfahrt zur Felskinn Bahn, unten ist der Schnee schon deutlich härter und eisiger. Toll dass man hier am Stück so viele Höhenmeter machen kann, bis zu 1800 am Stück, und das anders als z.b. in Sölden ohne Ziehweg zwischen drin!; 4er Sesselbahn am Längfluh; Piste zur Längfluh; Bei der Talabfahrt an der Spielboden Bahn taucht man in den Hochnebel ein; Oben an der Plattjen Bahn kommt man dann gerade wieder aus dem Hochnebel in die Sonne; Sieht toll aus mit den Nebel Schwaden und der Sonne; 11:00 Uhr und die Pisten sind noch frisch präpariert wie neu!; Bergstation Schlepplift Egginerjoch. Die holzhütte hier ist die ehemalige Talstation eines weiteren schlepplifts, der von hier noch weiter nach oben ging.; Heute eine tolle pausenlocation, früher die Talstation von einem Lift, der bis zu der gelb markierten Stelle nach oben ging. Heute hängt die bergstation mitten in einer steilen felswand, vermutlich war der Gletscher früher einfach so hoch, dass man hier gemütlich hochfahren konnte. Laut alten Pistenplänen, konnte man von dort oben dann bis zum Felskinn abfahren.; In der Hütte ist noch ein alter Dieselmotor.; Die Skiroute Felsental von Felskinn ist super gut zu fahren mit griffigem Schnee!; Neben der Route gibt es unten einige Eis Formationen zu sehen; Und es gibt noch eine Eis Höle mit Eingängen oben und unten; Auch die Skiroute am Spielboden war gut zu fahren, hier war der Schnee aber schon etwas eisiger als am Felskinn; Die letzte Talabfahrt war dann unten heraus richtig sulzig. Dafür ist jetzt auch der Ort in der Sonne gelegen. Allen in allem ein sehr guter Skitag, einer der besten diese Saison!]"
+  },
+  "center": [
+    46.074809941520456,
+    7.914547733918128
+  ],
+  "placed_count": 38,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63362&mode=view",
+      "description": "Parken in Saas Almagell für 5 CHF, eventuell heute Nachmittag noch hier Skifahren",
+      "geo": {
+        "latitude": 46.092980555555556,
+        "longitude": 7.956961111111111,
+        "elevation_m": 1735.3,
+        "bearing_deg": 285,
+        "captured_at": "2025-03-30T07:57:04"
+      },
+      "placed": true,
+      "lift": {
+        "id": 81032055,
+        "name": "Furggstalden",
+        "cat": "SB",
+        "dist": 114
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "nordic",
+        "dist": 48
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63363&mode=view",
+      "description": "Alpin Express",
+      "geo": {
+        "latitude": 46.07132777777778,
+        "longitude": 7.915725,
+        "elevation_m": 2942.46,
+        "bearing_deg": 313,
+        "captured_at": "2025-03-30T08:54:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50563219,
+        "name": "Alpin Express II",
+        "cat": "EUB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Felskinn",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 33
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63364&mode=view",
+      "description": "Metro Alpin",
+      "geo": {
+        "latitude": 46.06854166666667,
+        "longitude": 7.915205555555556,
+        "elevation_m": 3037.1,
+        "bearing_deg": 188,
+        "captured_at": "2025-03-30T09:00:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50563219,
+        "name": "Alpin Express II",
+        "cat": "EUB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "connection",
+        "dist": 9
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63365&mode=view",
+      "description": "Geniales Panorama an der Bergstation Metro Alpin auf 3500 Metern!",
+      "geo": {
+        "latitude": 46.05673888888889,
+        "longitude": 7.9037250000000006,
+        "elevation_m": 3505.81,
+        "bearing_deg": 89,
+        "captured_at": "2025-03-30T09:08:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Metro",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63366&mode=view",
+      "description": "PXL_20250330_070704140.jpg (327.26 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.05742222222222,
+        "longitude": 7.904516666666667,
+        "elevation_m": 3513.26,
+        "bearing_deg": 71,
+        "captured_at": "2025-03-30T09:07:04"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63367&mode=view",
+      "description": "PXL_20250330_070858653.jpg (557.3 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.055730555555556,
+        "longitude": 7.902688888888889,
+        "elevation_m": 3501.58,
+        "bearing_deg": 232,
+        "captured_at": "2025-03-30T09:08:58"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Metro",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63368&mode=view",
+      "description": "PXL_20250330_070652699.jpg (500.93 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.057452777777776,
+        "longitude": 7.904530555555556,
+        "elevation_m": 3514.19,
+        "bearing_deg": 96,
+        "captured_at": "2025-03-30T09:06:52"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63369&mode=view",
+      "description": "Super griffige und perfekt präparierte Sonnen Piste am Schlepplift der zum höchsten Punkt auf 3600 Metern führt. Ein Traum heute!",
+      "geo": {
+        "latitude": 46.058141666666664,
+        "longitude": 7.897474999999999,
+        "elevation_m": 3336.96,
+        "bearing_deg": 123,
+        "captured_at": "2025-03-30T09:10:45"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316094,
+        "name": "Mittelallalin 2",
+        "cat": "SL",
+        "dist": 11
+      },
+      "piste": {
+        "name": "Derbyschuss",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63370&mode=view",
+      "description": "PXL_20250330_072054690.jpg (520.1 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.05811944444444,
+        "longitude": 7.8969,
+        "elevation_m": 3335.01,
+        "bearing_deg": 74,
+        "captured_at": "2025-03-30T09:20:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316093,
+        "name": "Mittelallalin 3",
+        "cat": "SL",
+        "dist": 9
+      },
+      "piste": {
+        "name": "Allalin FIS",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63371&mode=view",
+      "description": "Platteau in Richtung Längfluh",
+      "geo": {
+        "latitude": 46.05811944444444,
+        "longitude": 7.8969,
+        "elevation_m": 3335.01,
+        "bearing_deg": 73,
+        "captured_at": "2025-03-30T09:20:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316093,
+        "name": "Mittelallalin 3",
+        "cat": "SL",
+        "dist": 9
+      },
+      "piste": {
+        "name": "Allalin FIS",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63372&mode=view",
+      "description": "PXL_20250330_071808986.jpg (611.87 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.051897222222216,
+        "longitude": 7.8975027777777775,
+        "elevation_m": 3594.57,
+        "bearing_deg": 71,
+        "captured_at": "2025-03-30T09:18:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316093,
+        "name": "Mittelallalin 3",
+        "cat": "SL",
+        "dist": 36
+      },
+      "piste": {
+        "name": "Allalin (Sommer)",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63373&mode=view",
+      "description": "Auch schöne Pisten an der 6er Sesselbahn, Ende März auch morgens schon großteils in der Sonne!",
+      "geo": {
+        "latitude": 46.072719444444445,
+        "longitude": 7.912136111111112,
+        "elevation_m": 2896.43,
+        "bearing_deg": 68,
+        "captured_at": "2025-03-30T09:40:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316098,
+        "name": "Morenia",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Eiskristall",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63374&mode=view",
+      "description": "PXL_20250330_073018939.jpg (406.62 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.07400555555556,
+        "longitude": 7.910702777777778,
+        "elevation_m": 2967.61,
+        "bearing_deg": 5,
+        "captured_at": "2025-03-30T09:30:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316098,
+        "name": "Morenia",
+        "cat": "SB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "Gletscherband",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63375&mode=view",
+      "description": "PXL_20250330_073015943.jpg (448.82 KiB) 8233 mal betrachtet",
+      "geo": {
+        "latitude": 46.07400555555556,
+        "longitude": 7.910702777777778,
+        "elevation_m": 2967.61,
+        "bearing_deg": 57,
+        "captured_at": "2025-03-30T09:30:15"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316098,
+        "name": "Morenia",
+        "cat": "SB",
+        "dist": 105
+      },
+      "piste": {
+        "name": "Gletscherband",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63376&mode=view",
+      "description": "Talabfahrt zur Felskinn Bahn, unten ist der Schnee schon deutlich härter und eisiger. Toll dass man hier am Stück so viele Höhenmeter machen kann, bis zu 1800 am Stück, und das anders als z.b. in Sölden ohne Ziehweg zwischen drin!",
+      "geo": {
+        "latitude": 46.09885555555556,
+        "longitude": 7.920486111111112,
+        "elevation_m": 1908.63,
+        "bearing_deg": 52,
+        "captured_at": "2025-03-30T09:48:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31353261,
+        "name": "Bifig/Kalbermatten 1",
+        "cat": "SL",
+        "dist": 31
+      },
+      "piste": {
+        "name": "Gletschergrotte",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63387&mode=view",
+      "description": "4er Sesselbahn am Längfluh",
+      "geo": {
+        "latitude": 46.07780555555556,
+        "longitude": 7.895647222222221,
+        "elevation_m": 3017.47,
+        "bearing_deg": 77,
+        "captured_at": "2025-03-30T10:38:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316095,
+        "name": "Panoramalift",
+        "cat": "SL",
+        "dist": 29
+      },
+      "piste": {
+        "name": "Feechatz",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63388&mode=view",
+      "description": "Piste zur Längfluh",
+      "geo": {
+        "latitude": 46.07103333333334,
+        "longitude": 7.896516666666666,
+        "elevation_m": 3105.64,
+        "bearing_deg": 79,
+        "captured_at": "2025-03-30T10:37:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316095,
+        "name": "Panoramalift",
+        "cat": "SL",
+        "dist": 49
+      },
+      "piste": {
+        "name": "Feechatz",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63389&mode=view",
+      "description": "Bei der Talabfahrt an der Spielboden Bahn taucht man in den Hochnebel ein",
+      "geo": {
+        "latitude": 46.094480555555556,
+        "longitude": 7.902327777777778,
+        "elevation_m": 2437.69,
+        "bearing_deg": 54,
+        "captured_at": "2025-03-30T10:43:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 438186992,
+        "name": "Spielbodenbahn",
+        "cat": "EUB",
+        "dist": 141
+      },
+      "piste": {
+        "name": "Spielboden",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63390&mode=view",
+      "description": "PXL_20250330_084100256.jpg (275.01 KiB) 8208 mal betrachtet",
+      "geo": {
+        "latitude": 46.08896666666667,
+        "longitude": 7.895297222222222,
+        "elevation_m": 2830.99,
+        "bearing_deg": 62,
+        "captured_at": "2025-03-30T10:41:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316097,
+        "name": "Längfluh Sessel",
+        "cat": "SB",
+        "dist": 65
+      },
+      "piste": {
+        "name": "Längfluh",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 34
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63391&mode=view",
+      "description": "Oben an der Plattjen Bahn kommt man dann gerade wieder aus dem Hochnebel in die Sonne",
+      "geo": {
+        "latitude": 46.090497222222226,
+        "longitude": 7.943216666666667,
+        "elevation_m": 2623.13,
+        "bearing_deg": 63,
+        "captured_at": "2025-03-30T10:59:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50855158,
+        "name": "Plattjen",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Plattjen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63392&mode=view",
+      "description": "PXL_20250330_090012921.jpg (371.35 KiB) 8208 mal betrachtet",
+      "geo": {
+        "latitude": 46.090497222222226,
+        "longitude": 7.943216666666667,
+        "elevation_m": 2623.13,
+        "bearing_deg": 63,
+        "captured_at": "2025-03-30T11:00:12"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50855158,
+        "name": "Plattjen",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Plattjen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63393&mode=view",
+      "description": "Sieht toll aus mit den Nebel Schwaden und der Sonne",
+      "geo": {
+        "latitude": 46.090497222222226,
+        "longitude": 7.943216666666667,
+        "elevation_m": 2623.13,
+        "bearing_deg": 77,
+        "captured_at": "2025-03-30T11:00:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50855158,
+        "name": "Plattjen",
+        "cat": "EUB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Plattjen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63394&mode=view",
+      "description": "11:00 Uhr und die Pisten sind noch frisch präpariert wie neu!",
+      "geo": {
+        "latitude": 46.09045277777778,
+        "longitude": 7.942911111111111,
+        "elevation_m": 2619.73,
+        "bearing_deg": 70,
+        "captured_at": "2025-03-30T11:00:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50855158,
+        "name": "Plattjen",
+        "cat": "EUB",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Plattjen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63395&mode=view",
+      "description": "PXL_20250330_090154105.jpg (229.18 KiB) 8206 mal betrachtet",
+      "geo": {
+        "latitude": 46.092169444444444,
+        "longitude": 7.938808333333333,
+        "elevation_m": 2523.63,
+        "bearing_deg": 71,
+        "captured_at": "2025-03-30T11:01:54"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50855158,
+        "name": "Plattjen",
+        "cat": "EUB",
+        "dist": 114
+      },
+      "piste": {
+        "name": "Galen",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 25
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63420&mode=view",
+      "description": "Bergstation Schlepplift Egginerjoch. Die holzhütte hier ist die ehemalige Talstation eines weiteren schlepplifts, der von hier noch weiter nach oben ging.",
+      "geo": {
+        "latitude": 46.067147222222225,
+        "longitude": 7.925811111111112,
+        "elevation_m": 3079.62,
+        "bearing_deg": 78,
+        "captured_at": "2025-03-30T13:37:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316100,
+        "name": "Egginerjoch",
+        "cat": "SL",
+        "dist": 54
+      },
+      "piste": {
+        "name": "Egginerjoch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 52
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63421&mode=view",
+      "description": "Heute eine tolle pausenlocation, früher die Talstation von einem Lift, der bis zu der gelb markierten Stelle nach oben ging. Heute hängt die bergstation mitten in einer steilen felswand, vermutlich war der Gletscher früher einfach so hoch, dass man hier gemütlich hochfahren konnte. Laut alten Pistenplänen, konnte man von dort oben dann bis zum Felskinn abfahren.",
+      "geo": {
+        "latitude": 46.06711388888889,
+        "longitude": 7.925761111111111,
+        "elevation_m": 3082.88,
+        "bearing_deg": 83,
+        "captured_at": "2025-03-30T13:35:52"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316100,
+        "name": "Egginerjoch",
+        "cat": "SL",
+        "dist": 49
+      },
+      "piste": {
+        "name": "Egginerjoch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 48
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63422&mode=view",
+      "description": "In der Hütte ist noch ein alter Dieselmotor.",
+      "geo": {
+        "latitude": 46.06715555555556,
+        "longitude": 7.925711111111111,
+        "elevation_m": 3076.05,
+        "bearing_deg": 100,
+        "captured_at": "2025-03-30T13:38:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316100,
+        "name": "Egginerjoch",
+        "cat": "SL",
+        "dist": 47
+      },
+      "piste": {
+        "name": "Egginerjoch",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 45
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63436&mode=view",
+      "description": "Die Skiroute Felsental von Felskinn ist super gut zu fahren mit griffigem Schnee!",
+      "geo": {
+        "latitude": 46.06850555555556,
+        "longitude": 7.915658333333334,
+        "elevation_m": 3048.94,
+        "bearing_deg": 76,
+        "captured_at": "2025-03-30T14:12:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50563219,
+        "name": "Alpin Express II",
+        "cat": "EUB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63437&mode=view",
+      "description": "PXL_20250330_121323358.jpg (587.83 KiB) 8173 mal betrachtet",
+      "geo": {
+        "latitude": 46.06850555555556,
+        "longitude": 7.915658333333334,
+        "elevation_m": 3048.94,
+        "bearing_deg": 50,
+        "captured_at": "2025-03-30T14:13:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 50563219,
+        "name": "Alpin Express II",
+        "cat": "EUB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63438&mode=view",
+      "description": "PXL_20250330_121437063.jpg (605.91 KiB) 8173 mal betrachtet",
+      "geo": {
+        "latitude": 46.06801388888889,
+        "longitude": 7.917202777777778,
+        "elevation_m": 2992.78,
+        "bearing_deg": 88,
+        "captured_at": "2025-03-30T14:14:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30724108,
+        "name": "Felskinn",
+        "cat": "PB",
+        "dist": 132
+      },
+      "piste": {
+        "name": "Felsental",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63439&mode=view",
+      "description": "PXL_20250330_121440108.jpg (608.64 KiB) 8173 mal betrachtet",
+      "geo": {
+        "latitude": 46.06801388888889,
+        "longitude": 7.917202777777778,
+        "elevation_m": 2992.78,
+        "bearing_deg": 16,
+        "captured_at": "2025-03-30T14:14:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30724108,
+        "name": "Felskinn",
+        "cat": "PB",
+        "dist": 132
+      },
+      "piste": {
+        "name": "Felsental",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63440&mode=view",
+      "description": "Neben der Route gibt es unten einige Eis Formationen zu sehen",
+      "geo": {
+        "latitude": 46.069544444444446,
+        "longitude": 7.919036111111112,
+        "elevation_m": 2905.32,
+        "bearing_deg": 53,
+        "captured_at": "2025-03-30T14:17:24"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Felsental",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 46
+      },
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63442&mode=view",
+      "description": "PXL_20250330_121608639.jpg (572.47 KiB) 8173 mal betrachtet",
+      "geo": {
+        "latitude": 46.06950277777778,
+        "longitude": 7.918966666666667,
+        "elevation_m": 2909.06,
+        "bearing_deg": 13,
+        "captured_at": "2025-03-30T14:16:08"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Felsental",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63443&mode=view",
+      "description": "Und es gibt noch eine Eis Höle mit Eingängen oben und unten",
+      "geo": {
+        "latitude": 46.07033333333334,
+        "longitude": 7.918958333333333,
+        "elevation_m": 2856.94,
+        "bearing_deg": 64,
+        "captured_at": "2025-03-30T14:31:19"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Felsental",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 38
+      },
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63463&mode=view",
+      "description": "Auch die Skiroute am Spielboden war gut zu fahren, hier war der Schnee aber schon etwas eisiger als am Felskinn",
+      "geo": {
+        "latitude": 46.090244444444444,
+        "longitude": 7.897316666666666,
+        "elevation_m": 2593.45,
+        "bearing_deg": 71,
+        "captured_at": "2025-03-30T15:25:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316092,
+        "name": "Längfluh",
+        "cat": "PB",
+        "dist": 88
+      },
+      "piste": {
+        "name": "Oberer Spielboden",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63464&mode=view",
+      "description": "PXL_20250330_132536157.jpg (591.91 KiB) 8167 mal betrachtet",
+      "geo": {
+        "latitude": 46.09032777777778,
+        "longitude": 7.898283333333333,
+        "elevation_m": 2608.31,
+        "bearing_deg": 158,
+        "captured_at": "2025-03-30T15:25:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 26316092,
+        "name": "Längfluh",
+        "cat": "PB",
+        "dist": 20
+      },
+      "piste": {
+        "name": "Weisse Perle",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63465&mode=view",
+      "description": "PXL_20250330_132758340.jpg (692.43 KiB) 8167 mal betrachtet",
+      "geo": {
+        "latitude": 46.09152777777778,
+        "longitude": 7.900422222222223,
+        "elevation_m": 2504.07,
+        "bearing_deg": 65,
+        "captured_at": "2025-03-30T15:27:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 438186992,
+        "name": "Spielbodenbahn",
+        "cat": "EUB",
+        "dist": 72
+      },
+      "piste": {
+        "name": "Weisse Perle",
+        "diff": "freeride",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63469&mode=view",
+      "description": "Die letzte Talabfahrt war dann unten heraus richtig sulzig. Dafür ist jetzt auch der Ort in der Sonne gelegen. Allen in allem ein sehr guter Skitag, einer der besten diese Saison!",
+      "geo": {
+        "latitude": 46.09438333333333,
+        "longitude": 7.909508333333334,
+        "elevation_m": 2146.21,
+        "bearing_deg": 71,
+        "captured_at": "2025-03-30T16:27:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 438186992,
+        "name": "Spielbodenbahn",
+        "cat": "EUB",
+        "dist": 143
+      },
+      "piste": {
+        "name": "Gletschergrotte",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 37
+    }
+  ],
+  "lifts": [
+    {
+      "id": 26316092,
+      "name": "Längfluh",
+      "cat": "PB",
+      "coords": [
+        [
+          46.0919918,
+          7.8993575
+        ],
+        [
+          46.0907842,
+          7.8987796
+        ],
+        [
+          46.0852533,
+          7.8961331
+        ],
+        [
+          46.0845339,
+          7.8957889
+        ]
+      ]
+    },
+    {
+      "id": 26316093,
+      "name": "Mittelallalin 3",
+      "cat": "SL",
+      "coords": [
+        [
+          46.0584682,
+          7.896965
+        ],
+        [
+          46.0568594,
+          7.8972224
+        ],
+        [
+          46.0543669,
+          7.8975986
+        ],
+        [
+          46.0532978,
+          7.89776
+        ],
+        [
+          46.0520429,
+          7.8979493
+        ],
+        [
+          46.0519007,
+          7.8979708
+        ],
+        [
+          46.051649,
+          7.8980088
+        ],
+        [
+          46.0513879,
+          7.8980482
+        ]
+      ]
+    },
+    {
+      "id": 26316094,
+      "name": "Mittelallalin 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.058454,
+          7.8972919
+        ],
+        [
+          46.0569086,
+          7.8974947
+        ],
+        [
+          46.0544025,
+          7.8977968
+        ],
+        [
+          46.0534232,
+          7.8979149
+        ],
+        [
+          46.0519079,
+          7.8980976
+        ],
+        [
+          46.0516663,
+          7.8981267
+        ],
+        [
+          46.05144,
+          7.898154
+        ]
+      ]
+    },
+    {
+      "id": 26316095,
+      "name": "Panoramalift",
+      "cat": "SL",
+      "coords": [
+        [
+          46.0828341,
+          7.8948081
+        ],
+        [
+          46.0819885,
+          7.8948855
+        ],
+        [
+          46.0808294,
+          7.8949916
+        ],
+        [
+          46.0789407,
+          7.8951645
+        ],
+        [
+          46.0765906,
+          7.8953795
+        ],
+        [
+          46.0744372,
+          7.8955766
+        ],
+        [
+          46.0725512,
+          7.8957492
+        ],
+        [
+          46.0709942,
+          7.8958917
+        ],
+        [
+          46.0692705,
+          7.8960494
+        ],
+        [
+          46.0677864,
+          7.8961852
+        ],
+        [
+          46.0662402,
+          7.8963267
+        ],
+        [
+          46.064603,
+          7.8964765
+        ],
+        [
+          46.0636443,
+          7.8965643
+        ],
+        [
+          46.0629118,
+          7.8966313
+        ],
+        [
+          46.0626591,
+          7.8966544
+        ]
+      ]
+    },
+    {
+      "id": 26316097,
+      "name": "Längfluh Sessel",
+      "cat": "SB",
+      "coords": [
+        [
+          46.0906108,
+          7.8944144
+        ],
+        [
+          46.0894455,
+          7.8944445
+        ],
+        [
+          46.0883252,
+          7.8944735
+        ],
+        [
+          46.0876577,
+          7.8944908
+        ],
+        [
+          46.0863136,
+          7.8945255
+        ],
+        [
+          46.0852676,
+          7.8945526
+        ],
+        [
+          46.0845644,
+          7.8945708
+        ],
+        [
+          46.0836485,
+          7.8945945
+        ],
+        [
+          46.0822791,
+          7.8946299
+        ],
+        [
+          46.0812117,
+          7.8946575
+        ],
+        [
+          46.0804417,
+          7.8946774
+        ]
+      ]
+    },
+    {
+      "id": 26316098,
+      "name": "Morenia",
+      "cat": "SB",
+      "coords": [
+        [
+          46.0854018,
+          7.9134455
+        ],
+        [
+          46.084799,
+          7.9133725
+        ],
+        [
+          46.083645,
+          7.9132326
+        ],
+        [
+          46.0825656,
+          7.9131018
+        ],
+        [
+          46.08148,
+          7.9129703
+        ],
+        [
+          46.0803912,
+          7.9128384
+        ],
+        [
+          46.0791982,
+          7.9126938
+        ],
+        [
+          46.0784439,
+          7.9126024
+        ],
+        [
+          46.0773887,
+          7.9124746
+        ],
+        [
+          46.0763477,
+          7.9123485
+        ],
+        [
+          46.0749617,
+          7.9121806
+        ],
+        [
+          46.0737371,
+          7.9120322
+        ],
+        [
+          46.073077,
+          7.9119522
+        ],
+        [
+          46.0727465,
+          7.9119122
+        ]
+      ]
+    },
+    {
+      "id": 26316100,
+      "name": "Egginerjoch",
+      "cat": "SL",
+      "coords": [
+        [
+          46.0729587,
+          7.9194419
+        ],
+        [
+          46.0670107,
+          7.9251469
+        ]
+      ]
+    },
+    {
+      "id": 30724108,
+      "name": "Felskinn",
+      "cat": "PB",
+      "coords": [
+        [
+          46.0998064,
+          7.9199314
+        ],
+        [
+          46.0915669,
+          7.9189466
+        ],
+        [
+          46.0907289,
+          7.9188541
+        ],
+        [
+          46.0856412,
+          7.9182125
+        ],
+        [
+          46.0818204,
+          7.9177347
+        ],
+        [
+          46.077395,
+          7.9171834
+        ],
+        [
+          46.0689324,
+          7.9161206
+        ]
+      ]
+    },
+    {
+      "id": 31353261,
+      "name": "Bifig/Kalbermatten 1",
+      "cat": "SL",
+      "coords": [
+        [
+          46.1031157,
+          7.9236367
+        ],
+        [
+          46.1025481,
+          7.9232149
+        ],
+        [
+          46.101649,
+          7.9225468
+        ],
+        [
+          46.0998423,
+          7.9212043
+        ],
+        [
+          46.0991109,
+          7.9206609
+        ]
+      ]
+    },
+    {
+      "id": 50563219,
+      "name": "Alpin Express II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.0816289,
+          7.917525
+        ],
+        [
+          46.0809004,
+          7.9174001
+        ],
+        [
+          46.0777238,
+          7.9168646
+        ],
+        [
+          46.0689896,
+          7.9154009
+        ],
+        [
+          46.0686047,
+          7.9153433
+        ]
+      ]
+    },
+    {
+      "id": 50855158,
+      "name": "Plattjen",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1025338,
+          7.9263821
+        ],
+        [
+          46.1010749,
+          7.9284213
+        ],
+        [
+          46.1001404,
+          7.9297275
+        ],
+        [
+          46.098317,
+          7.932276
+        ],
+        [
+          46.0974636,
+          7.9334688
+        ],
+        [
+          46.0967462,
+          7.9344714
+        ],
+        [
+          46.0960044,
+          7.9355081
+        ],
+        [
+          46.0953559,
+          7.9364145
+        ],
+        [
+          46.0941058,
+          7.9381617
+        ],
+        [
+          46.0931619,
+          7.9394808
+        ],
+        [
+          46.0921363,
+          7.9409142
+        ],
+        [
+          46.090917,
+          7.9426181
+        ],
+        [
+          46.0906179,
+          7.9430361
+        ]
+      ]
+    },
+    {
+      "id": 81032055,
+      "name": "Furggstalden",
+      "cat": "SB",
+      "coords": [
+        [
+          46.0922228,
+          7.9579601
+        ],
+        [
+          46.0918794,
+          7.9586816
+        ],
+        [
+          46.0913751,
+          7.9597414
+        ],
+        [
+          46.0908627,
+          7.960818
+        ],
+        [
+          46.0902797,
+          7.9620431
+        ],
+        [
+          46.0902389,
+          7.962129
+        ],
+        [
+          46.089748,
+          7.9631755
+        ],
+        [
+          46.0896383,
+          7.9634092
+        ]
+      ]
+    },
+    {
+      "id": 438186992,
+      "name": "Spielbodenbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.1000906,
+          7.9200253
+        ],
+        [
+          46.0992791,
+          7.9179949
+        ],
+        [
+          46.098407,
+          7.9158341
+        ],
+        [
+          46.0972208,
+          7.9128949
+        ],
+        [
+          46.0959386,
+          7.9096903
+        ],
+        [
+          46.0950043,
+          7.9073282
+        ],
+        [
+          46.0939257,
+          7.9046014
+        ],
+        [
+          46.0933755,
+          7.9032107
+        ],
+        [
+          46.0927925,
+          7.9017369
+        ],
+        [
+          46.0921328,
+          7.9000692
+        ],
+        [
+          46.091975,
+          7.8996703
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 90
+}

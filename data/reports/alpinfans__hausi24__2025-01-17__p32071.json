@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:07:49Z",
+  "generated_at": "2026-11-27T12:54:36Z",
   "report": {
     "post_id": 32071,
     "title": "Abwechslungsreicher Skitag in Les Arcs und La Plagne",
@@ -22,7 +22,7 @@
         "latitude": 45.59706388888889,
         "longitude": 6.795105555555556,
         "elevation_m": 1738.46,
-        "bearing_deg": 211.0,
+        "bearing_deg": 211,
         "captured_at": "2025-01-17T08:56:24"
       },
       "placed": true,
@@ -47,7 +47,7 @@
         "latitude": 45.59706388888889,
         "longitude": 6.795105555555556,
         "elevation_m": 1738.46,
-        "bearing_deg": 195.0,
+        "bearing_deg": 195,
         "captured_at": "2025-01-17T08:57:03"
       },
       "placed": true,
@@ -72,7 +72,7 @@
         "latitude": 45.59626111111111,
         "longitude": 6.7945416666666665,
         "elevation_m": 1679.69,
-        "bearing_deg": 84.0,
+        "bearing_deg": 84,
         "captured_at": "2025-01-17T08:58:35"
       },
       "placed": true,
@@ -97,7 +97,7 @@
         "latitude": 45.57392222222222,
         "longitude": 6.8011888888888885,
         "elevation_m": 2190.94,
-        "bearing_deg": 328.0,
+        "bearing_deg": 328,
         "captured_at": "2025-01-17T09:29:29"
       },
       "placed": true,
@@ -122,7 +122,7 @@
         "latitude": 45.580130555555556,
         "longitude": 6.8311,
         "elevation_m": 1933.19,
-        "bearing_deg": 347.0,
+        "bearing_deg": 347,
         "captured_at": "2025-01-17T09:37:15"
       },
       "placed": true,
@@ -147,7 +147,7 @@
         "latitude": 45.57396944444445,
         "longitude": 6.829275,
         "elevation_m": 2084.6,
-        "bearing_deg": 104.0,
+        "bearing_deg": 104,
         "captured_at": "2025-01-17T09:42:01"
       },
       "placed": true,
@@ -172,7 +172,7 @@
         "latitude": 45.57204444444445,
         "longitude": 6.828408333333333,
         "elevation_m": 2110.63,
-        "bearing_deg": 79.0,
+        "bearing_deg": 79,
         "captured_at": "2025-01-17T09:42:52"
       },
       "placed": true,
@@ -197,7 +197,7 @@
         "latitude": 45.56611944444444,
         "longitude": 6.827161111111111,
         "elevation_m": 2242.44,
-        "bearing_deg": 271.0,
+        "bearing_deg": 271,
         "captured_at": "2025-01-17T09:52:10"
       },
       "placed": true,
@@ -222,7 +222,7 @@
         "latitude": 45.55471111111111,
         "longitude": 6.835847222222222,
         "elevation_m": 2733.3,
-        "bearing_deg": 43.0,
+        "bearing_deg": 43,
         "captured_at": "2025-01-17T10:01:15"
       },
       "placed": true,
@@ -247,7 +247,7 @@
         "latitude": 45.55459166666667,
         "longitude": 6.836102777777778,
         "elevation_m": 2733.3,
-        "bearing_deg": 43.0,
+        "bearing_deg": 43,
         "captured_at": "2025-01-17T10:02:05"
       },
       "placed": true,
@@ -272,7 +272,7 @@
         "latitude": 45.554452777777776,
         "longitude": 6.836394444444444,
         "elevation_m": 2730.5,
-        "bearing_deg": 118.0,
+        "bearing_deg": 118,
         "captured_at": "2025-01-17T10:04:42"
       },
       "placed": true,
@@ -297,7 +297,7 @@
         "latitude": 45.55170555555555,
         "longitude": 6.847725,
         "elevation_m": 3268.09,
-        "bearing_deg": 111.0,
+        "bearing_deg": 111,
         "captured_at": "2025-01-17T10:11:25"
       },
       "placed": true,
@@ -322,7 +322,7 @@
         "latitude": 45.55171111111111,
         "longitude": 6.847411111111111,
         "elevation_m": 3266.93,
-        "bearing_deg": 129.0,
+        "bearing_deg": 129,
         "captured_at": "2025-01-17T10:09:37"
       },
       "placed": true,
@@ -347,7 +347,7 @@
         "latitude": 45.551830555555554,
         "longitude": 6.8478611111111105,
         "elevation_m": 3268.1,
-        "bearing_deg": 241.0,
+        "bearing_deg": 241,
         "captured_at": "2025-01-17T10:12:54"
       },
       "placed": true,
@@ -372,7 +372,7 @@
         "latitude": 45.552927777777775,
         "longitude": 6.838027777777778,
         "elevation_m": 2716.33,
-        "bearing_deg": 120.0,
+        "bearing_deg": 120,
         "captured_at": "2025-01-17T10:31:12"
       },
       "placed": true,
@@ -397,7 +397,7 @@
         "latitude": 45.55749722222222,
         "longitude": 6.8175638888888885,
         "elevation_m": 2363.82,
-        "bearing_deg": 118.0,
+        "bearing_deg": 118,
         "captured_at": "2025-01-17T10:37:57"
       },
       "placed": true,
@@ -422,7 +422,7 @@
         "latitude": 45.55104166666666,
         "longitude": 6.763072222222222,
         "elevation_m": 1673.17,
-        "bearing_deg": 82.0,
+        "bearing_deg": 82,
         "captured_at": "2025-01-17T10:51:13"
       },
       "placed": true,
@@ -447,7 +447,7 @@
         "latitude": 45.551402777777774,
         "longitude": 6.730422222222223,
         "elevation_m": 1543.36,
-        "bearing_deg": 140.0,
+        "bearing_deg": 140,
         "captured_at": "2025-01-17T11:02:06"
       },
       "placed": true,
@@ -472,7 +472,7 @@
         "latitude": 45.532608333333336,
         "longitude": 6.723916666666667,
         "elevation_m": 2257.11,
-        "bearing_deg": 26.0,
+        "bearing_deg": 26,
         "captured_at": "2025-01-17T11:17:22"
       },
       "placed": true,
@@ -497,7 +497,7 @@
         "latitude": 45.51821388888889,
         "longitude": 6.720497222222222,
         "elevation_m": 2362.11,
-        "bearing_deg": 165.0,
+        "bearing_deg": 165,
         "captured_at": "2025-01-17T11:26:54"
       },
       "placed": true,
@@ -522,7 +522,7 @@
         "latitude": 45.515775,
         "longitude": 6.722738888888889,
         "elevation_m": 2388.92,
-        "bearing_deg": 95.0,
+        "bearing_deg": 95,
         "captured_at": "2025-01-17T11:29:25"
       },
       "placed": true,
@@ -542,7 +542,7 @@
         "latitude": 45.494308333333336,
         "longitude": 6.734508333333333,
         "elevation_m": 2769.1,
-        "bearing_deg": 58.0,
+        "bearing_deg": 58,
         "captured_at": "2025-01-17T11:42:37"
       },
       "placed": true,
@@ -567,7 +567,7 @@
         "latitude": 45.49133333333334,
         "longitude": 6.746663888888889,
         "elevation_m": 2566.79,
-        "bearing_deg": 52.0,
+        "bearing_deg": 52,
         "captured_at": "2025-01-17T12:03:17"
       },
       "placed": true,
@@ -592,7 +592,7 @@
         "latitude": 45.49731666666667,
         "longitude": 6.772661111111111,
         "elevation_m": 3100.3,
-        "bearing_deg": 174.0,
+        "bearing_deg": 174,
         "captured_at": "2025-01-17T12:13:00"
       },
       "placed": true,
@@ -617,7 +617,7 @@
         "latitude": 45.49753055555556,
         "longitude": 6.772338888888889,
         "elevation_m": 3100.5,
-        "bearing_deg": 221.0,
+        "bearing_deg": 221,
         "captured_at": "2025-01-17T12:14:21"
       },
       "placed": true,
@@ -642,7 +642,7 @@
         "latitude": 45.49656388888889,
         "longitude": 6.771333333333334,
         "elevation_m": 3073.16,
-        "bearing_deg": 302.0,
+        "bearing_deg": 302,
         "captured_at": "2025-01-17T12:15:13"
       },
       "placed": true,
@@ -667,7 +667,7 @@
         "latitude": 45.497394444444446,
         "longitude": 6.772725,
         "elevation_m": 3100.5,
-        "bearing_deg": 57.0,
+        "bearing_deg": 57,
         "captured_at": "2025-01-17T12:13:30"
       },
       "placed": true,
@@ -692,7 +692,7 @@
         "latitude": 45.49456111111111,
         "longitude": 6.767672222222222,
         "elevation_m": 2912.7,
-        "bearing_deg": 258.0,
+        "bearing_deg": 258,
         "captured_at": "2025-01-17T12:17:38"
       },
       "placed": true,
@@ -717,7 +717,7 @@
         "latitude": 45.49174166666667,
         "longitude": 6.7554,
         "elevation_m": 2677.57,
-        "bearing_deg": 339.0,
+        "bearing_deg": 339,
         "captured_at": "2025-01-17T12:19:56"
       },
       "placed": true,
@@ -742,7 +742,7 @@
         "latitude": 45.49147777777778,
         "longitude": 6.752311111111111,
         "elevation_m": 2623.95,
-        "bearing_deg": 206.0,
+        "bearing_deg": 206,
         "captured_at": "2025-01-17T12:20:50"
       },
       "placed": true,
@@ -767,7 +767,7 @@
         "latitude": 45.50541666666667,
         "longitude": 6.738394444444444,
         "elevation_m": 2152.78,
-        "bearing_deg": 288.0,
+        "bearing_deg": 288,
         "captured_at": "2025-01-17T12:26:14"
       },
       "placed": true,
@@ -787,7 +787,7 @@
         "latitude": 45.506341666666664,
         "longitude": 6.736897222222222,
         "elevation_m": 2074.81,
-        "bearing_deg": 303.0,
+        "bearing_deg": 303,
         "captured_at": "2025-01-17T12:28:48"
       },
       "placed": true,
@@ -807,7 +807,7 @@
         "latitude": 45.515325,
         "longitude": 6.7367944444444445,
         "elevation_m": 1902.47,
-        "bearing_deg": 290.0,
+        "bearing_deg": 290,
         "captured_at": "2025-01-17T12:32:34"
       },
       "placed": true,
@@ -827,7 +827,7 @@
         "latitude": 45.522191666666664,
         "longitude": 6.738580555555556,
         "elevation_m": 1847.44,
-        "bearing_deg": 278.0,
+        "bearing_deg": 278,
         "captured_at": "2025-01-17T12:35:29"
       },
       "placed": true,
@@ -852,7 +852,7 @@
         "latitude": 45.51226666666667,
         "longitude": 6.701380555555556,
         "elevation_m": 2037.21,
-        "bearing_deg": 135.0,
+        "bearing_deg": 135,
         "captured_at": "2025-01-17T13:02:01"
       },
       "placed": true,
@@ -877,7 +877,7 @@
         "latitude": 45.497616666666666,
         "longitude": 6.706552777777778,
         "elevation_m": 2300.34,
-        "bearing_deg": 124.0,
+        "bearing_deg": 124,
         "captured_at": "2025-01-17T13:11:21"
       },
       "placed": true,
@@ -902,7 +902,7 @@
         "latitude": 45.493475000000004,
         "longitude": 6.7045972222222225,
         "elevation_m": 2366.96,
-        "bearing_deg": 249.0,
+        "bearing_deg": 249,
         "captured_at": "2025-01-17T13:14:53"
       },
       "placed": true,
@@ -927,7 +927,7 @@
         "latitude": 45.49453611111111,
         "longitude": 6.700097222222222,
         "elevation_m": 2327.67,
-        "bearing_deg": 88.0,
+        "bearing_deg": 88,
         "captured_at": "2025-01-17T13:15:51"
       },
       "placed": true,
@@ -952,7 +952,7 @@
         "latitude": 45.48334722222222,
         "longitude": 6.693975,
         "elevation_m": 2062.71,
-        "bearing_deg": 173.0,
+        "bearing_deg": 173,
         "captured_at": "2025-01-17T13:18:35"
       },
       "placed": true,
@@ -972,7 +972,7 @@
         "latitude": 45.48982222222222,
         "longitude": 6.677552777777778,
         "elevation_m": 2516.73,
-        "bearing_deg": 337.0,
+        "bearing_deg": 337,
         "captured_at": "2025-01-17T13:28:56"
       },
       "placed": true,
@@ -992,7 +992,7 @@
         "latitude": 45.492105555555554,
         "longitude": 6.673880555555556,
         "elevation_m": 2426.57,
-        "bearing_deg": 263.0,
+        "bearing_deg": 263,
         "captured_at": "2025-01-17T13:30:30"
       },
       "placed": true,
@@ -1017,7 +1017,7 @@
         "latitude": 45.504888888888885,
         "longitude": 6.673375,
         "elevation_m": 2377.9,
-        "bearing_deg": 101.0,
+        "bearing_deg": 101,
         "captured_at": "2025-01-17T13:40:29"
       },
       "placed": true,
@@ -1042,7 +1042,7 @@
         "latitude": 45.50213888888889,
         "longitude": 6.661136111111111,
         "elevation_m": 2391.47,
-        "bearing_deg": 213.0,
+        "bearing_deg": 213,
         "captured_at": "2025-01-17T13:38:30"
       },
       "placed": true,
@@ -1067,7 +1067,7 @@
         "latitude": 45.50203888888889,
         "longitude": 6.661236111111111,
         "elevation_m": 2391.69,
-        "bearing_deg": 122.0,
+        "bearing_deg": 122,
         "captured_at": "2025-01-17T13:38:18"
       },
       "placed": true,
@@ -1092,7 +1092,7 @@
         "latitude": 45.49643888888889,
         "longitude": 6.675102777777778,
         "elevation_m": 2275.72,
-        "bearing_deg": 73.0,
+        "bearing_deg": 73,
         "captured_at": "2025-01-17T13:46:24"
       },
       "placed": true,
@@ -1117,7 +1117,7 @@
         "latitude": 45.50389444444444,
         "longitude": 6.677855555555555,
         "elevation_m": 2112.38,
-        "bearing_deg": 126.0,
+        "bearing_deg": 126,
         "captured_at": "2025-01-17T13:53:46"
       },
       "placed": true,
@@ -1142,7 +1142,7 @@
         "latitude": 45.49166388888889,
         "longitude": 6.6847666666666665,
         "elevation_m": 2551.49,
-        "bearing_deg": 70.0,
+        "bearing_deg": 70,
         "captured_at": "2025-01-17T14:07:36"
       },
       "placed": true,
@@ -1166,8 +1166,8 @@
       "geo": {
         "latitude": 45.49246388888889,
         "longitude": 6.693627777777778,
-        "elevation_m": 2553.0,
-        "bearing_deg": 81.0,
+        "elevation_m": 2553,
+        "bearing_deg": 81,
         "captured_at": "2025-01-17T14:08:45"
       },
       "placed": true,
@@ -1187,7 +1187,7 @@
         "latitude": 45.50125833333333,
         "longitude": 6.698058333333334,
         "elevation_m": 2318.4,
-        "bearing_deg": 163.0,
+        "bearing_deg": 163,
         "captured_at": "2025-01-17T14:22:58"
       },
       "placed": true,
@@ -1212,7 +1212,7 @@
         "latitude": 45.530052777777776,
         "longitude": 6.724022222222223,
         "elevation_m": 2327.15,
-        "bearing_deg": 338.0,
+        "bearing_deg": 338,
         "captured_at": "2025-01-17T14:37:20"
       },
       "placed": true,
@@ -1237,7 +1237,7 @@
         "latitude": 45.54996388888889,
         "longitude": 6.747572222222222,
         "elevation_m": 1524.96,
-        "bearing_deg": 102.0,
+        "bearing_deg": 102,
         "captured_at": "2025-01-17T14:46:50"
       },
       "placed": true,
@@ -1257,7 +1257,7 @@
         "latitude": 45.555363888888884,
         "longitude": 6.769961111111111,
         "elevation_m": 1771.27,
-        "bearing_deg": 130.0,
+        "bearing_deg": 130,
         "captured_at": "2025-01-17T15:04:29"
       },
       "placed": true,
@@ -1282,7 +1282,7 @@
         "latitude": 45.56484722222222,
         "longitude": 6.7823472222222225,
         "elevation_m": 1889.51,
-        "bearing_deg": 253.0,
+        "bearing_deg": 253,
         "captured_at": "2025-01-17T15:27:45"
       },
       "placed": true,
@@ -1307,7 +1307,7 @@
         "latitude": 45.57106944444445,
         "longitude": 6.786375,
         "elevation_m": 1871.8,
-        "bearing_deg": 135.0,
+        "bearing_deg": 135,
         "captured_at": "2025-01-17T15:54:05"
       },
       "placed": true,
@@ -1332,7 +1332,7 @@
         "latitude": 45.57180277777778,
         "longitude": 6.786177777777778,
         "elevation_m": 1871.8,
-        "bearing_deg": 145.0,
+        "bearing_deg": 145,
         "captured_at": "2025-01-17T15:54:25"
       },
       "placed": true,
@@ -1357,7 +1357,7 @@
         "latitude": 45.59178055555556,
         "longitude": 6.799527777777778,
         "elevation_m": 1936.23,
-        "bearing_deg": 208.0,
+        "bearing_deg": 208,
         "captured_at": "2025-01-17T16:49:38"
       },
       "placed": true,
@@ -1382,7 +1382,7 @@
         "latitude": 45.597236111111116,
         "longitude": 6.794769444444444,
         "elevation_m": 1673.41,
-        "bearing_deg": 191.0,
+        "bearing_deg": 191,
         "captured_at": "2025-01-17T16:51:34"
       },
       "placed": true,
@@ -1407,7 +1407,7 @@
         "latitude": 45.60362222222222,
         "longitude": 6.785811111111111,
         "elevation_m": 1319.97,
-        "bearing_deg": 154.0,
+        "bearing_deg": 154,
         "captured_at": "2025-01-17T16:57:19"
       },
       "placed": true,
@@ -1432,7 +1432,7 @@
         "latitude": 45.600655555555555,
         "longitude": 6.7927,
         "elevation_m": 1520.19,
-        "bearing_deg": 107.0,
+        "bearing_deg": 107,
         "captured_at": "2025-01-17T16:55:00"
       },
       "placed": true,
@@ -1452,7 +1452,7 @@
         "latitude": 45.603833333333334,
         "longitude": 6.783411111111111,
         "elevation_m": 1277.48,
-        "bearing_deg": 102.0,
+        "bearing_deg": 102,
         "captured_at": "2025-01-17T16:59:35"
       },
       "placed": true,
@@ -1477,7 +1477,7 @@
         "latitude": 45.603833333333334,
         "longitude": 6.783411111111111,
         "elevation_m": 1277.48,
-        "bearing_deg": 145.0,
+        "bearing_deg": 145,
         "captured_at": "2025-01-17T16:59:44"
       },
       "placed": true,

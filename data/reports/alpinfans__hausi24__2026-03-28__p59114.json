@@ -1,0 +1,1442 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 59114,
+    "title": "Portes du Soleil: Winterliches Pulverschnee Vergnuegen in Super Chatel",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=59114",
+    "date": "2026-03-28",
+    "post_date": "2026-03-28",
+    "text": "Portes du Soleil, 28. März 2026 Nachdem es frisch geschneit hat und gefühlt wieder Winter ist gut es für dieses Wochenende nochmal in die Portes du Soleil. Start heute Super Chatel, was ich vor 2 Wochen auslassen musste.\n[Image Descriptions: Super Chatel Gondelbahn mit neuen Kabinen; Wow, toller neuer Schnee und gefühlt wieder voll Winter!; Die Piste ist traumhaft, wow! Und noch nichts los, unglaublich!; Tolle Piste am Morclan Sessellift; Weiter geht es über die schwarze Piste, die hier eine Skiroute ist zum Petit Chatel Sessel; Frischer weicher Pulverschnee!; Die Piste nach Torgon ist auch geöffnet, auf dem Pistenplan war sie die letzten Tage vor den Schneefällen noch geschlossen, und sie ist super gut zu fahren!; Panorama ist top hier oben auf der Frankreich Schweiz Grenze; Blick ins Schweizer Rhone Tal; Zurück in Richtung Chalet Neuf. Bei dem Doppelschlepplift hinten ist es zum ersten Mal etwas voller, es ist aber auch nur einer von zwei geöffnet.; Die anderen kleinen Schlepplifte sind ja alle gemütlich, dieser lange Chalet Neuf Lift könnte aber gerne eine Sesselbahn sein; Dents du Midi; Nach Morgins geht's nur mit dem Sessellift nach unten; Glück gehabt, 2 Minuten nach Ankunft kommt der kostenlose Shuttle Bus zur Gondelbahn in Morgins!; Moderne für mich neue Gondelbahn, letztes Mal gab's noch den Gartenstuhl Dreier Sessel; Die Talabfahrt ist super gut!; Dents du Midi und einziger kuppelbarer Sessellift im Sektor Morgins; Col Portes du Soleil, inzwischen ziehen ein paar Wolken auf, die Sicht ist aber weiterhin super schön!; In Avoriaz wie immer etwas mehr los, leider inzwischen die Sicht nicht mehr schön; Schwarze Piste vom Chaux Florie nach Chatel; Challenging!; Wieder zurück auf Super Chatel. Und unglaublich, die Pisten sind fast immer noch perfekt wie heute morgen, es macht richtig Laune nochmal zum Schluss! Heute eine klare 9/10, Abzug nur durch nachmittags schlechte Sicht.]"
+  },
+  "center": [
+    46.254346111111104,
+    6.847312314814814
+  ],
+  "placed_count": 30,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111383&mode=view",
+      "description": "Super Chatel Gondelbahn mit neuen Kabinen",
+      "geo": {
+        "latitude": 46.26683888888889,
+        "longitude": 6.842005555555556,
+        "elevation_m": 1254.01,
+        "bearing_deg": 32,
+        "captured_at": "2026-03-28T08:25:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898714,
+        "name": "Super-Châtel",
+        "cat": "EUB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "La Combe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111384&mode=view",
+      "description": "PXL_20260328_073303659.jpg (945.77 KiB) 1850 mal betrachtet",
+      "geo": {
+        "latitude": 46.26681111111111,
+        "longitude": 6.8446444444444445,
+        "elevation_m": 1252.59,
+        "bearing_deg": 241,
+        "captured_at": "2026-03-28T08:33:03"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898714,
+        "name": "Super-Châtel",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "La Combe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 17
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111388&mode=view",
+      "description": "Wow, toller neuer Schnee und gefühlt wieder voll Winter!",
+      "geo": {
+        "latitude": 46.26679722222222,
+        "longitude": 6.844358333333333,
+        "elevation_m": 1252.59,
+        "bearing_deg": 137,
+        "captured_at": "2026-03-28T08:32:55"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898714,
+        "name": "Super-Châtel",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "La Combe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111389&mode=view",
+      "description": "Die Piste ist traumhaft, wow! Und noch nichts los, unglaublich!",
+      "geo": {
+        "latitude": 46.266927777777774,
+        "longitude": 6.853516666666667,
+        "elevation_m": 1589,
+        "bearing_deg": 251,
+        "captured_at": "2026-03-28T08:41:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898714,
+        "name": "Super-Châtel",
+        "cat": "EUB",
+        "dist": 49
+      },
+      "piste": {
+        "name": "La Combe",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 12
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111406&mode=view",
+      "description": "Tolle Piste am Morclan Sessellift",
+      "geo": {
+        "latitude": 46.27618888888889,
+        "longitude": 6.860080555555555,
+        "elevation_m": 2016,
+        "bearing_deg": 97,
+        "captured_at": "2026-03-28T09:23:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898711,
+        "name": "Morclan",
+        "cat": "SB",
+        "dist": 42
+      },
+      "piste": {
+        "name": "Folière",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111407&mode=view",
+      "description": "Weiter geht es über die schwarze Piste, die hier eine Skiroute ist zum Petit Chatel Sessel",
+      "geo": {
+        "latitude": 46.27863055555555,
+        "longitude": 6.862802777777778,
+        "elevation_m": 1964,
+        "bearing_deg": 225,
+        "captured_at": "2026-03-28T09:34:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Barbossine",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111408&mode=view",
+      "description": "PXL_20260328_083223938.jpg (686.54 KiB) 1838 mal betrachtet",
+      "geo": {
+        "latitude": 46.27625555555556,
+        "longitude": 6.859505555555555,
+        "elevation_m": 2014,
+        "bearing_deg": 272,
+        "captured_at": "2026-03-28T09:32:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898711,
+        "name": "Morclan",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "Folière",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111409&mode=view",
+      "description": "Frischer weicher Pulverschnee!",
+      "geo": {
+        "latitude": 46.27953611111111,
+        "longitude": 6.858983333333333,
+        "elevation_m": 1803,
+        "bearing_deg": 38,
+        "captured_at": "2026-03-28T09:36:54"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Barbossine",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 13
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111410&mode=view",
+      "description": "PXL_20260328_084007936.jpg (1.23 MiB) 1837 mal betrachtet",
+      "geo": {
+        "latitude": 46.2823,
+        "longitude": 6.854252777777777,
+        "elevation_m": 1665,
+        "bearing_deg": 172,
+        "captured_at": "2026-03-28T09:40:07"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Barbossine",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111411&mode=view",
+      "description": "Die Piste nach Torgon ist auch geöffnet, auf dem Pistenplan war sie die letzten Tage vor den Schneefällen noch geschlossen, und sie ist super gut zu fahren!",
+      "geo": {
+        "latitude": 46.301455555555556,
+        "longitude": 6.85133611111111,
+        "elevation_m": 1451,
+        "bearing_deg": 275,
+        "captured_at": "2026-03-28T09:54:37"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31770797,
+        "name": "Tronchey",
+        "cat": "SB",
+        "dist": 37
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111412&mode=view",
+      "description": "PXL_20260328_085322520.jpg (976.15 KiB) 1837 mal betrachtet",
+      "geo": {
+        "latitude": 46.291019444444444,
+        "longitude": 6.847161111111111,
+        "elevation_m": 1831,
+        "bearing_deg": 315,
+        "captured_at": "2026-03-28T09:53:22"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111413&mode=view",
+      "description": "Panorama ist top hier oben auf der Frankreich Schweiz Grenze",
+      "geo": {
+        "latitude": 46.288599999999995,
+        "longitude": 6.861963888888889,
+        "elevation_m": 2025,
+        "bearing_deg": 67,
+        "captured_at": "2026-03-28T10:10:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898731,
+        "name": "Tour de Don",
+        "cat": "SL",
+        "dist": 11
+      },
+      "piste": {
+        "name": "Chaux Longe",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111414&mode=view",
+      "description": "PXL_20260328_090427377.jpg (552.1 KiB) 1836 mal betrachtet",
+      "geo": {
+        "latitude": 46.29215555555555,
+        "longitude": 6.853502777777777,
+        "elevation_m": 1946,
+        "bearing_deg": 68,
+        "captured_at": "2026-03-28T10:04:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31770797,
+        "name": "Tronchey",
+        "cat": "SB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111415&mode=view",
+      "description": "Blick ins Schweizer Rhone Tal",
+      "geo": {
+        "latitude": 46.28324722222222,
+        "longitude": 6.866538888888889,
+        "elevation_m": 1926,
+        "bearing_deg": 327,
+        "captured_at": "2026-03-28T10:12:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31770799,
+        "name": "Onnaz",
+        "cat": "SL",
+        "dist": 21
+      },
+      "piste": {
+        "name": "Panoramique",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111416&mode=view",
+      "description": "Zurück in Richtung Chalet Neuf. Bei dem Doppelschlepplift hinten ist es zum ersten Mal etwas voller, es ist aber auch nur einer von zwei geöffnet.",
+      "geo": {
+        "latitude": 46.27576666666666,
+        "longitude": 6.8714361111111115,
+        "elevation_m": 1660,
+        "bearing_deg": 79,
+        "captured_at": "2026-03-28T10:19:25"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Onnaz-Chermeu",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111417&mode=view",
+      "description": "Die anderen kleinen Schlepplifte sind ja alle gemütlich, dieser lange Chalet Neuf Lift könnte aber gerne eine Sesselbahn sein",
+      "geo": {
+        "latitude": 46.26009444444445,
+        "longitude": 6.87006388888889,
+        "elevation_m": 1822,
+        "bearing_deg": 294,
+        "captured_at": "2026-03-28T10:31:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332980818,
+        "name": "Chalet Neuf 2",
+        "cat": "SL",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Bellevue",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 78
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111424&mode=view",
+      "description": "Dents du Midi",
+      "geo": {
+        "latitude": 46.25528888888889,
+        "longitude": 6.869013888888889,
+        "elevation_m": 1902,
+        "bearing_deg": 31,
+        "captured_at": "2026-03-28T10:34:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 332980818,
+        "name": "Chalet Neuf 2",
+        "cat": "SL",
+        "dist": 14
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111425&mode=view",
+      "description": "Nach Morgins geht's nur mit dem Sessellift nach unten",
+      "geo": {
+        "latitude": 46.24570277777778,
+        "longitude": 6.860575,
+        "elevation_m": 1690,
+        "bearing_deg": 116,
+        "captured_at": "2026-03-28T10:58:06"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898742,
+        "name": "Corbeau",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 66
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111426&mode=view",
+      "description": "Glück gehabt, 2 Minuten nach Ankunft kommt der kostenlose Shuttle Bus zur Gondelbahn in Morgins!",
+      "geo": {
+        "latitude": 46.24027777777778,
+        "longitude": 6.853786111111111,
+        "elevation_m": 1388,
+        "bearing_deg": 76,
+        "captured_at": "2026-03-28T11:06:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 24898742,
+        "name": "Corbeau",
+        "cat": "SB",
+        "dist": 102
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 93
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111427&mode=view",
+      "description": "Moderne für mich neue Gondelbahn, letztes Mal gab's noch den Gartenstuhl Dreier Sessel",
+      "geo": {
+        "latitude": 46.23672777777778,
+        "longitude": 6.8580805555555555,
+        "elevation_m": 1369,
+        "bearing_deg": 73,
+        "captured_at": "2026-03-28T11:16:35"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8215989,
+        "name": "Morgins-Foilleuse",
+        "cat": "EUB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Tovassière",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111428&mode=view",
+      "description": "PXL_20260328_101042135.jpg (703.02 KiB) 1819 mal betrachtet",
+      "geo": {
+        "latitude": 46.23682222222222,
+        "longitude": 6.857833333333333,
+        "elevation_m": 1365.19,
+        "bearing_deg": 25,
+        "captured_at": "2026-03-28T11:10:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8215989,
+        "name": "Morgins-Foilleuse",
+        "cat": "EUB",
+        "dist": 27
+      },
+      "piste": {
+        "name": "Tovassière",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 16
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111435&mode=view",
+      "description": "Die Talabfahrt ist super gut!",
+      "geo": {
+        "latitude": 46.22864722222222,
+        "longitude": 6.862136111111111,
+        "elevation_m": 1720,
+        "bearing_deg": 224,
+        "captured_at": "2026-03-28T11:25:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8215989,
+        "name": "Morgins-Foilleuse",
+        "cat": "EUB",
+        "dist": 140
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111436&mode=view",
+      "description": "Dents du Midi und einziger kuppelbarer Sessellift im Sektor Morgins",
+      "geo": {
+        "latitude": 46.22150277777778,
+        "longitude": 6.861647222222222,
+        "elevation_m": 1803,
+        "bearing_deg": 22,
+        "captured_at": "2026-03-28T11:50:10"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111445&mode=view",
+      "description": "PXL_20260328_114431975.jpg (1.06 MiB) 1806 mal betrachtet",
+      "geo": {
+        "latitude": 46.205530555555555,
+        "longitude": 6.853825,
+        "elevation_m": 1889,
+        "bearing_deg": 307,
+        "captured_at": "2026-03-28T12:44:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 8216151,
+        "name": "Aiguille des Champeys",
+        "cat": "SB",
+        "dist": 13
+      },
+      "piste": {
+        "name": "",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111446&mode=view",
+      "description": "Col Portes du Soleil, inzwischen ziehen ein paar Wolken auf, die Sicht ist aber weiterhin super schön!",
+      "geo": {
+        "latitude": 46.197688888888884,
+        "longitude": 6.8364111111111106,
+        "elevation_m": 2082,
+        "bearing_deg": 167,
+        "captured_at": "2026-03-28T13:18:00"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Dronaires",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111472&mode=view",
+      "description": "In Avoriaz wie immer etwas mehr los, leider inzwischen die Sicht nicht mehr schön",
+      "geo": {
+        "latitude": 46.186638888888886,
+        "longitude": 6.780313888888889,
+        "elevation_m": 1803,
+        "bearing_deg": 240,
+        "captured_at": "2026-03-28T14:32:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1183443459,
+        "name": "Lac-Intrêts",
+        "cat": "SB",
+        "dist": 59
+      },
+      "piste": {
+        "name": "Retour Chavanette",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111502&mode=view",
+      "description": "Schwarze Piste vom Chaux Florie nach Chatel",
+      "geo": {
+        "latitude": 46.21488888888889,
+        "longitude": 6.785986111111111,
+        "elevation_m": 1941,
+        "bearing_deg": 284,
+        "captured_at": "2026-03-28T15:19:35"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Les Rhododendrons",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111503&mode=view",
+      "description": "Challenging!",
+      "geo": {
+        "latitude": 46.22244166666667,
+        "longitude": 6.7905194444444446,
+        "elevation_m": 1562,
+        "bearing_deg": 109,
+        "captured_at": "2026-03-28T15:27:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1009693206,
+        "name": "Pierre Longue",
+        "cat": "SB",
+        "dist": 53
+      },
+      "piste": {
+        "name": "Les Rhododendrons",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111504&mode=view",
+      "description": "PXL_20260328_142545559.jpg (757.63 KiB) 1776 mal betrachtet",
+      "geo": {
+        "latitude": 46.22195833333333,
+        "longitude": 6.788794444444444,
+        "elevation_m": 1641.9,
+        "bearing_deg": 41,
+        "captured_at": "2026-03-28T15:25:45"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Les Rhododendrons",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=111505&mode=view",
+      "description": "Wieder zurück auf Super Chatel. Und unglaublich, die Pisten sind fast immer noch perfekt wie heute morgen, es macht richtig Laune nochmal zum Schluss! Heute eine klare 9/10, Abzug nur durch nachmittags schlechte Sicht.",
+      "geo": {
+        "latitude": 46.263641666666665,
+        "longitude": 6.858294444444444,
+        "elevation_m": 1688,
+        "bearing_deg": 233,
+        "captured_at": "2026-03-28T16:17:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 149425684,
+        "name": "Coqs 2",
+        "cat": "SL",
+        "dist": 41
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 10
+      },
+      "n": 29
+    }
+  ],
+  "lifts": [
+    {
+      "id": 8215989,
+      "name": "Morgins-Foilleuse",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.2366924,
+          6.858124
+        ],
+        [
+          46.2363495,
+          6.8582127
+        ],
+        [
+          46.2359426,
+          6.8583182
+        ],
+        [
+          46.2336677,
+          6.8589333
+        ],
+        [
+          46.2321248,
+          6.8593523
+        ],
+        [
+          46.23028,
+          6.8598458
+        ],
+        [
+          46.2283424,
+          6.8603686
+        ],
+        [
+          46.2274355,
+          6.8606162
+        ],
+        [
+          46.227131,
+          6.8606986
+        ],
+        [
+          46.2264081,
+          6.8608887
+        ],
+        [
+          46.2258968,
+          6.861027
+        ],
+        [
+          46.2254921,
+          6.8611468
+        ],
+        [
+          46.2254174,
+          6.861169
+        ],
+        [
+          46.2250285,
+          6.8612753
+        ]
+      ]
+    },
+    {
+      "id": 8216151,
+      "name": "Aiguille des Champeys",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2066755,
+          6.8599748
+        ],
+        [
+          46.2064339,
+          6.8585299
+        ],
+        [
+          46.2063907,
+          6.8582715
+        ],
+        [
+          46.2061552,
+          6.8568625
+        ],
+        [
+          46.2060394,
+          6.85617
+        ],
+        [
+          46.2058261,
+          6.8548937
+        ],
+        [
+          46.2058076,
+          6.8547833
+        ],
+        [
+          46.2057863,
+          6.8546557
+        ],
+        [
+          46.2055927,
+          6.853498
+        ],
+        [
+          46.2055554,
+          6.853275
+        ],
+        [
+          46.2051596,
+          6.850907
+        ],
+        [
+          46.2051384,
+          6.8507803
+        ],
+        [
+          46.2051197,
+          6.8506686
+        ],
+        [
+          46.2048701,
+          6.8491756
+        ],
+        [
+          46.2048507,
+          6.8490593
+        ],
+        [
+          46.2047085,
+          6.8482091
+        ],
+        [
+          46.2046742,
+          6.8480037
+        ]
+      ]
+    },
+    {
+      "id": 24898711,
+      "name": "Morclan",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2680415,
+          6.8566538
+        ],
+        [
+          46.2681888,
+          6.8567058
+        ],
+        [
+          46.2685967,
+          6.8568706
+        ],
+        [
+          46.2710163,
+          6.8577066
+        ],
+        [
+          46.272212,
+          6.8581265
+        ],
+        [
+          46.2740926,
+          6.8587906
+        ],
+        [
+          46.2750187,
+          6.8591176
+        ],
+        [
+          46.2760117,
+          6.8594683
+        ],
+        [
+          46.2761846,
+          6.8595294
+        ]
+      ]
+    },
+    {
+      "id": 24898714,
+      "name": "Super-Châtel",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.2666962,
+          6.8423985
+        ],
+        [
+          46.2667258,
+          6.8428563
+        ],
+        [
+          46.2667554,
+          6.843314
+        ],
+        [
+          46.26691,
+          6.8457064
+        ],
+        [
+          46.2670175,
+          6.8475705
+        ],
+        [
+          46.2670475,
+          6.8480901
+        ],
+        [
+          46.2670658,
+          6.8483959
+        ],
+        [
+          46.2670822,
+          6.8487517
+        ],
+        [
+          46.26717,
+          6.8501751
+        ],
+        [
+          46.2672314,
+          6.8512589
+        ],
+        [
+          46.2674128,
+          6.854212
+        ],
+        [
+          46.2674671,
+          6.8553882
+        ],
+        [
+          46.2675503,
+          6.8567853
+        ],
+        [
+          46.2675721,
+          6.8572178
+        ]
+      ]
+    },
+    {
+      "id": 24898731,
+      "name": "Tour de Don",
+      "cat": "SL",
+      "coords": [
+        [
+          46.2882226,
+          6.8547792
+        ],
+        [
+          46.2887305,
+          6.86245
+        ]
+      ]
+    },
+    {
+      "id": 24898742,
+      "name": "Corbeau",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2411369,
+          6.8542416
+        ],
+        [
+          46.2412485,
+          6.8543927
+        ],
+        [
+          46.2413111,
+          6.8544813
+        ],
+        [
+          46.2413769,
+          6.8545782
+        ],
+        [
+          46.241589,
+          6.8548553
+        ],
+        [
+          46.24195,
+          6.8553709
+        ],
+        [
+          46.242518,
+          6.8561576
+        ],
+        [
+          46.243105,
+          6.85698
+        ],
+        [
+          46.2438363,
+          6.8580088
+        ],
+        [
+          46.2443511,
+          6.8587351
+        ],
+        [
+          46.2448802,
+          6.8594726
+        ],
+        [
+          46.2453477,
+          6.8601252
+        ],
+        [
+          46.245916,
+          6.8609249
+        ],
+        [
+          46.2463736,
+          6.8615678
+        ],
+        [
+          46.2469983,
+          6.862439
+        ],
+        [
+          46.2474906,
+          6.8631294
+        ],
+        [
+          46.2481431,
+          6.8640442
+        ],
+        [
+          46.2482534,
+          6.8641937
+        ],
+        [
+          46.248533,
+          6.8645903
+        ]
+      ]
+    },
+    {
+      "id": 31770797,
+      "name": "Tronchey",
+      "cat": "SB",
+      "coords": [
+        [
+          46.3053502,
+          6.85111
+        ],
+        [
+          46.3052499,
+          6.8511278
+        ],
+        [
+          46.3051974,
+          6.8511371
+        ],
+        [
+          46.3047625,
+          6.851215
+        ],
+        [
+          46.3040144,
+          6.8513555
+        ],
+        [
+          46.302804,
+          6.8515776
+        ],
+        [
+          46.3018062,
+          6.8517584
+        ],
+        [
+          46.3005548,
+          6.8519793
+        ],
+        [
+          46.2987293,
+          6.8523193
+        ],
+        [
+          46.2976957,
+          6.8525099
+        ],
+        [
+          46.2970374,
+          6.8526311
+        ],
+        [
+          46.2967573,
+          6.8526822
+        ],
+        [
+          46.2954708,
+          6.8529178
+        ],
+        [
+          46.2946055,
+          6.853079
+        ],
+        [
+          46.2935967,
+          6.8532619
+        ],
+        [
+          46.2928963,
+          6.8533941
+        ],
+        [
+          46.2925086,
+          6.8534625
+        ],
+        [
+          46.2924547,
+          6.8534726
+        ],
+        [
+          46.2923026,
+          6.853502
+        ]
+      ]
+    },
+    {
+      "id": 31770799,
+      "name": "Onnaz",
+      "cat": "SL",
+      "coords": [
+        [
+          46.2810084,
+          6.8718915
+        ],
+        [
+          46.2837517,
+          6.8646188
+        ]
+      ]
+    },
+    {
+      "id": 149425684,
+      "name": "Coqs 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.2663514,
+          6.8530656
+        ],
+        [
+          46.2660185,
+          6.8538318
+        ],
+        [
+          46.2656631,
+          6.8546495
+        ],
+        [
+          46.2650877,
+          6.8559734
+        ],
+        [
+          46.2645906,
+          6.8571172
+        ],
+        [
+          46.2639846,
+          6.8585114
+        ],
+        [
+          46.2634741,
+          6.8596859
+        ],
+        [
+          46.2632436,
+          6.8602163
+        ]
+      ]
+    },
+    {
+      "id": 332980818,
+      "name": "Chalet Neuf 2",
+      "cat": "SL",
+      "coords": [
+        [
+          46.2677714,
+          6.8708261
+        ],
+        [
+          46.2668698,
+          6.8707922
+        ],
+        [
+          46.2659784,
+          6.8707587
+        ],
+        [
+          46.2644149,
+          6.8706999
+        ],
+        [
+          46.2636786,
+          6.8706723
+        ],
+        [
+          46.2622482,
+          6.8706185
+        ],
+        [
+          46.2615645,
+          6.8704432
+        ],
+        [
+          46.2612386,
+          6.8703596
+        ],
+        [
+          46.2605818,
+          6.8701912
+        ],
+        [
+          46.2601154,
+          6.8700716
+        ],
+        [
+          46.258809,
+          6.8697366
+        ],
+        [
+          46.2573397,
+          6.8693599
+        ],
+        [
+          46.2569822,
+          6.8692682
+        ],
+        [
+          46.2553394,
+          6.868847
+        ],
+        [
+          46.2549463,
+          6.8687462
+        ]
+      ]
+    },
+    {
+      "id": 1009693206,
+      "name": "Pierre Longue",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2318407,
+          6.7881809
+        ],
+        [
+          46.23162,
+          6.7882553
+        ],
+        [
+          46.2315651,
+          6.7882732
+        ],
+        [
+          46.2312212,
+          6.7883817
+        ],
+        [
+          46.2297157,
+          6.7888691
+        ],
+        [
+          46.2292989,
+          6.7890039
+        ],
+        [
+          46.228424,
+          6.7892869
+        ],
+        [
+          46.227278,
+          6.7896577
+        ],
+        [
+          46.2264053,
+          6.7899362
+        ],
+        [
+          46.2249937,
+          6.7903961
+        ],
+        [
+          46.2239126,
+          6.7907443
+        ],
+        [
+          46.2223721,
+          6.7912431
+        ],
+        [
+          46.2211733,
+          6.7916301
+        ],
+        [
+          46.2205201,
+          6.7918422
+        ],
+        [
+          46.219272,
+          6.7922373
+        ],
+        [
+          46.2191812,
+          6.7922681
+        ],
+        [
+          46.2188843,
+          6.7923637
+        ],
+        [
+          46.2184935,
+          6.7924917
+        ]
+      ]
+    },
+    {
+      "id": 1183443459,
+      "name": "Lac-Intrêts",
+      "cat": "SB",
+      "coords": [
+        [
+          46.1872381,
+          6.7794511
+        ],
+        [
+          46.186319,
+          6.7796038
+        ],
+        [
+          46.185024,
+          6.7798135
+        ],
+        [
+          46.1836739,
+          6.7800351
+        ],
+        [
+          46.1831369,
+          6.7800829
+        ],
+        [
+          46.1822813,
+          6.7802722
+        ],
+        [
+          46.1808984,
+          6.7804749
+        ],
+        [
+          46.179481,
+          6.7807019
+        ],
+        [
+          46.1787414,
+          6.7808362
+        ],
+        [
+          46.1776583,
+          6.7810074
+        ],
+        [
+          46.1758373,
+          6.7812953
+        ],
+        [
+          46.1748884,
+          6.7814453
+        ],
+        [
+          46.1731265,
+          6.7817468
+        ],
+        [
+          46.1720686,
+          6.7819242
+        ],
+        [
+          46.1712628,
+          6.782052
+        ],
+        [
+          46.1708982,
+          6.7821348
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}

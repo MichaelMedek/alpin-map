@@ -1,0 +1,772 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 37065,
+    "title": "San Domenico: Sonniger Skitag mit Baustellenflair",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=37065",
+    "date": "2025-03-29",
+    "post_date": "2025-03-29",
+    "text": "Heute bin ich vom Wallis aus Richtung Süden über den Simplon Pass nach San Domenico gefahren. Die Hoffnung ist dass hier im Süden vielleicht doch etwas Sonne raus kommt, aktuell aber bedeckt. Die neue Gondelbahn im Tal sieht nicht aus wie eine Baustelle und auch die geschlossene Talabfahrt wird noch umgegraben. War die überhaupt geöffnet diese Saison? Schlussendlich kam dann doch die Sonne heraus und es stellte sich als ein gelungener Skitag heraus, in einem wirklich schnuckelig kleinen, aber gemütlichen Skigebiet!\n[Image Descriptions: Talstation als Baustelle; Mittelstation noch ohne Bahnsteige, auch noch Baustelle; Bergstation Gondelbahn und Talstation 4er Sesselbahn mit Mittelstation; Mittelstation Sesselbahn, noch muss man hier aussteigen; Unteres Skigebiet; Inzwischen kommt man ganz hoch zur Bergstation; Leider ist es so windig, dass oben die 6er Sesselbahn geschlossen ist; Schwarze Piste oben an der 4er Sesselbahn; Und tatsächlich, gegen Mittag kommt die Sonne raus!; Blauer Himmel!; Schöner Blick auf die hohen Schweizer Berge im Norden; Mittelstation 4er Sesselbahn auf 2200 Metern. Generell die Pisten fast komplett über 2000 Metern, und das bei den warmen Temperaturen auch spürbar gut tuend. Die Höhenlage und die mangelnden italische Konkurrenz an Skigebieten ist wohl der Grund für die massiven Investitionen, inklusive einem grossen neuen Luxus Hotel; Talfahrt mit der Gondel, auch die Mittelstation noch eine Baustelle; Das große neue Hotel.Wir hören früher auf gegen 15 Uhr um noch kurz zum Lago Maggiore zu fahren! Gelungener Skitag;]"
+  },
+  "center": [
+    46.26167194444445,
+    8.205462638888887
+  ],
+  "placed_count": 20,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63267&mode=view",
+      "description": "Talstation als Baustelle",
+      "geo": {
+        "latitude": 46.249427777777775,
+        "longitude": 8.188616666666666,
+        "elevation_m": 1427.4,
+        "bearing_deg": 125,
+        "captured_at": "2025-03-29T07:54:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978772,
+        "name": "Funivia San Domenico - Ciamporino",
+        "cat": "EUB",
+        "dist": 33
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 60
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63268&mode=view",
+      "description": "Mittelstation noch ohne Bahnsteige, auch noch Baustelle",
+      "geo": {
+        "latitude": 46.25587222222222,
+        "longitude": 8.190233333333333,
+        "elevation_m": 1769.75,
+        "bearing_deg": 141,
+        "captured_at": "2025-03-29T08:24:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978772,
+        "name": "Funivia San Domenico - Ciamporino",
+        "cat": "EUB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Casa Rossa",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 40
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63269&mode=view",
+      "description": "Bergstation Gondelbahn und Talstation 4er Sesselbahn mit Mittelstation",
+      "geo": {
+        "latitude": 46.26047222222222,
+        "longitude": 8.194280555555556,
+        "elevation_m": 1975.38,
+        "bearing_deg": 94,
+        "captured_at": "2025-03-29T08:28:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978772,
+        "name": "Funivia San Domenico - Ciamporino",
+        "cat": "EUB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63270&mode=view",
+      "description": "Mittelstation Sesselbahn, noch muss man hier aussteigen",
+      "geo": {
+        "latitude": 46.264586111111115,
+        "longitude": 8.210249999999998,
+        "elevation_m": 2295.46,
+        "bearing_deg": 84,
+        "captured_at": "2025-03-29T08:37:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 8
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63271&mode=view",
+      "description": "Unteres Skigebiet",
+      "geo": {
+        "latitude": 46.26479444444445,
+        "longitude": 8.19888888888889,
+        "elevation_m": 2075.57,
+        "bearing_deg": 90,
+        "captured_at": "2025-03-29T08:40:20"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978768,
+        "name": "CF4 Ciamporino",
+        "cat": "SB",
+        "dist": 143
+      },
+      "piste": {
+        "name": "Salarioli",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63273&mode=view",
+      "description": "PXL_20250329_074431252.jpg (207.82 KiB) 2065 mal betrachtet",
+      "geo": {
+        "latitude": 46.26195833333333,
+        "longitude": 8.195425,
+        "elevation_m": 2014.11,
+        "bearing_deg": 90,
+        "captured_at": "2025-03-29T08:44:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978768,
+        "name": "CF4 Ciamporino",
+        "cat": "SB",
+        "dist": 5
+      },
+      "piste": {
+        "name": "Campo Scuola",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 29
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63274&mode=view",
+      "description": "Inzwischen kommt man ganz hoch zur Bergstation",
+      "geo": {
+        "latitude": 46.26287222222222,
+        "longitude": 8.218083333333334,
+        "elevation_m": 2522.62,
+        "bearing_deg": 143,
+        "captured_at": "2025-03-29T09:04:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Diei Bis",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63275&mode=view",
+      "description": "PXL_20250329_080855143.jpg (79.01 KiB) 2064 mal betrachtet",
+      "geo": {
+        "latitude": 46.267088888888885,
+        "longitude": 8.2135,
+        "elevation_m": 2339.08,
+        "bearing_deg": 96,
+        "captured_at": "2025-03-29T09:08:55"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Variante Bondolero",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63276&mode=view",
+      "description": "Leider ist es so windig, dass oben die 6er Sesselbahn geschlossen ist",
+      "geo": {
+        "latitude": 46.26445555555556,
+        "longitude": 8.219544444444445,
+        "elevation_m": 1958.69,
+        "bearing_deg": 87,
+        "captured_at": "2025-03-29T09:06:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978771,
+        "name": "SBK6 Bondolero",
+        "cat": "SB",
+        "dist": 96
+      },
+      "piste": {
+        "name": "Sella",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 22
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63277&mode=view",
+      "description": "Schwarze Piste oben an der 4er Sesselbahn",
+      "geo": {
+        "latitude": 46.26297777777778,
+        "longitude": 8.217002777777777,
+        "elevation_m": 2518.02,
+        "bearing_deg": 168,
+        "captured_at": "2025-03-29T09:24:07"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 16
+      },
+      "piste": {
+        "name": "Diei Bis",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63293&mode=view",
+      "description": "Und tatsächlich, gegen Mittag kommt die Sonne raus!",
+      "geo": {
+        "latitude": 46.26300555555556,
+        "longitude": 8.217808333333334,
+        "elevation_m": 2532.3,
+        "bearing_deg": 40,
+        "captured_at": "2025-03-29T12:27:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 40
+      },
+      "piste": {
+        "name": "Diei Bis",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63294&mode=view",
+      "description": "PXL_20250329_122613335.jpg (284.56 KiB) 2006 mal betrachtet",
+      "geo": {
+        "latitude": 46.26479444444445,
+        "longitude": 8.20379722222222,
+        "elevation_m": 2162.63,
+        "bearing_deg": 72,
+        "captured_at": "2025-03-29T13:26:13"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978768,
+        "name": "CF4 Ciamporino",
+        "cat": "SB",
+        "dist": 48
+      },
+      "piste": {
+        "name": "La Rossa",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 26
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63295&mode=view",
+      "description": "PXL_20250329_131518172.jpg (401.78 KiB) 2006 mal betrachtet",
+      "geo": {
+        "latitude": 46.26425277777778,
+        "longitude": 8.216249999999999,
+        "elevation_m": 2457.34,
+        "bearing_deg": 107,
+        "captured_at": "2025-03-29T14:15:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 130
+      },
+      "piste": {
+        "name": "Diei",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63296&mode=view",
+      "description": "Blauer Himmel!",
+      "geo": {
+        "latitude": 46.26383055555556,
+        "longitude": 8.200088888888889,
+        "elevation_m": 2076.09,
+        "bearing_deg": 83,
+        "captured_at": "2025-03-29T13:56:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978768,
+        "name": "CF4 Ciamporino",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Campo Scuola",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 51
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63297&mode=view",
+      "description": "Schöner Blick auf die hohen Schweizer Berge im Norden",
+      "geo": {
+        "latitude": 46.262794444444445,
+        "longitude": 8.217402777777778,
+        "elevation_m": 2517.28,
+        "bearing_deg": 114,
+        "captured_at": "2025-03-29T14:57:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 24
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63298&mode=view",
+      "description": "PXL_20250329_140042534.jpg (333.59 KiB) 2006 mal betrachtet",
+      "geo": {
+        "latitude": 46.262819444444446,
+        "longitude": 8.19995,
+        "elevation_m": 2048.09,
+        "bearing_deg": 121,
+        "captured_at": "2025-03-29T15:00:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 87
+      },
+      "piste": {
+        "name": "Valletta",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63299&mode=view",
+      "description": "PXL_20250329_121027478.jpg (568.94 KiB) 2006 mal betrachtet",
+      "geo": {
+        "latitude": 46.263286111111114,
+        "longitude": 8.215858333333333,
+        "elevation_m": 2502.58,
+        "bearing_deg": 146,
+        "captured_at": "2025-03-29T13:10:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Diei Bis",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63300&mode=view",
+      "description": "Mittelstation 4er Sesselbahn auf 2200 Metern. Generell die Pisten fast komplett über 2000 Metern, und das bei den warmen Temperaturen auch spürbar gut tuend. Die Höhenlage und die mangelnden italische Konkurrenz an Skigebieten ist wohl der Grund für die massiven Investitionen, inklusive einem grossen neuen Luxus Hotel",
+      "geo": {
+        "latitude": 46.264975,
+        "longitude": 8.211983333333333,
+        "elevation_m": 2394,
+        "bearing_deg": 143,
+        "captured_at": "2025-03-29T13:11:30"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978770,
+        "name": "CD4 Ciamporino - Dosso",
+        "cat": "SB",
+        "dist": 94
+      },
+      "piste": {
+        "name": "Diei",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63301&mode=view",
+      "description": "Talfahrt mit der Gondel, auch die Mittelstation noch eine Baustelle",
+      "geo": {
+        "latitude": 46.25833333333333,
+        "longitude": 8.191636111111112,
+        "elevation_m": 1843.71,
+        "bearing_deg": 235,
+        "captured_at": "2025-03-29T15:04:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978772,
+        "name": "Funivia San Domenico - Ciamporino",
+        "cat": "EUB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Intermedia",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 93
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=63302&mode=view",
+      "description": "Das große neue Hotel.Wir hören früher auf gegen 15 Uhr um noch kurz zum Lago Maggiore zu fahren! Gelungener Skitag;",
+      "geo": {
+        "latitude": 46.250841666666666,
+        "longitude": 8.188652777777778,
+        "elevation_m": 1479.99,
+        "bearing_deg": 100,
+        "captured_at": "2025-03-29T15:11:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 299978772,
+        "name": "Funivia San Domenico - Ciamporino",
+        "cat": "EUB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 19
+    }
+  ],
+  "lifts": [
+    {
+      "id": 299978768,
+      "name": "CF4 Ciamporino",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2607922,
+          8.1926607
+        ],
+        [
+          46.2609112,
+          8.1929553
+        ],
+        [
+          46.2612398,
+          8.1937686
+        ],
+        [
+          46.2618081,
+          8.1951753
+        ],
+        [
+          46.2624135,
+          8.1966736
+        ],
+        [
+          46.2631274,
+          8.1984406
+        ],
+        [
+          46.2637606,
+          8.200008
+        ],
+        [
+          46.2641375,
+          8.200941
+        ],
+        [
+          46.2647449,
+          8.2024444
+        ],
+        [
+          46.265138,
+          8.2034174
+        ],
+        [
+          46.2657186,
+          8.2048546
+        ],
+        [
+          46.2658857,
+          8.2052681
+        ],
+        [
+          46.2662037,
+          8.2060554
+        ],
+        [
+          46.2663261,
+          8.2063583
+        ]
+      ]
+    },
+    {
+      "id": 299978770,
+      "name": "CD4 Ciamporino - Dosso",
+      "cat": "SB",
+      "coords": [
+        [
+          46.2606904,
+          8.1947011
+        ],
+        [
+          46.2607515,
+          8.1949449
+        ],
+        [
+          46.2609304,
+          8.1956598
+        ],
+        [
+          46.261348,
+          8.1973478
+        ],
+        [
+          46.2616292,
+          8.1984848
+        ],
+        [
+          46.2619795,
+          8.1999011
+        ],
+        [
+          46.2623118,
+          8.2012446
+        ],
+        [
+          46.2627214,
+          8.2029002
+        ],
+        [
+          46.263187,
+          8.2047828
+        ],
+        [
+          46.2637016,
+          8.2068631
+        ],
+        [
+          46.264075,
+          8.208373
+        ],
+        [
+          46.2642498,
+          8.2090798
+        ],
+        [
+          46.2644481,
+          8.2098814
+        ],
+        [
+          46.2645261,
+          8.2101967
+        ],
+        [
+          46.2644152,
+          8.2106404
+        ],
+        [
+          46.2642989,
+          8.2111058
+        ],
+        [
+          46.2639538,
+          8.2124869
+        ],
+        [
+          46.2636416,
+          8.2137364
+        ],
+        [
+          46.2632316,
+          8.215377
+        ],
+        [
+          46.2628676,
+          8.2168334
+        ],
+        [
+          46.2627048,
+          8.2174849
+        ],
+        [
+          46.2626183,
+          8.2178312
+        ]
+      ]
+    },
+    {
+      "id": 299978771,
+      "name": "SBK6 Bondolero",
+      "cat": "SB",
+      "coords": [
+        [
+          46.272059,
+          8.2169068
+        ],
+        [
+          46.2718221,
+          8.2170385
+        ],
+        [
+          46.2712033,
+          8.2173826
+        ],
+        [
+          46.270213,
+          8.2179332
+        ],
+        [
+          46.2690376,
+          8.2185638
+        ],
+        [
+          46.2680671,
+          8.2190643
+        ],
+        [
+          46.266978,
+          8.2196049
+        ],
+        [
+          46.2661626,
+          8.2200096
+        ],
+        [
+          46.2649292,
+          8.2206218
+        ],
+        [
+          46.2647914,
+          8.2206902
+        ],
+        [
+          46.2637292,
+          8.2211997
+        ],
+        [
+          46.2632499,
+          8.2214296
+        ]
+      ]
+    },
+    {
+      "id": 299978772,
+      "name": "Funivia San Domenico - Ciamporino",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.2494585,
+          8.1881913
+        ],
+        [
+          46.250146,
+          8.188443
+        ],
+        [
+          46.2575002,
+          8.1907261
+        ],
+        [
+          46.2604669,
+          8.1941995
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}

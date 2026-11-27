@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-11-27T07:47:46Z",
+  "generated_at": "2026-11-27T12:55:32Z",
   "reports": [
+    {
+      "id": "alpinfans__hausi24__2023-12-09__p3302",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2023-12-09",
+      "title": "Traumhaftes Panorama am Thuner See",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=3302",
+      "centroid": [
+        46.584900000000005,
+        7.962074074074075
+      ],
+      "photo_count": 9
+    },
+    {
+      "id": "alpinfans__hausi24__2023-12-10__p3513",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2023-12-10",
+      "title": "Gemischter Skitag mit Schilthorn Aussicht und Freeride Abfahrt",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=3513",
+      "centroid": [
+        46.5712324074074,
+        7.88497824074074
+      ],
+      "photo_count": 12
+    },
+    {
+      "id": "alpinfans__hausi24__2024-01-20__p9552",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-01-20",
+      "title": "Genialer Skitag im sonnigen Alpe d Huez",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=9552",
+      "centroid": [
+        45.109622053872066,
+        6.100913215488215
+      ],
+      "photo_count": 33
+    },
+    {
+      "id": "alpinfans__hausi24__2024-01-21__p9558",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-01-21",
+      "title": "Les 2 Alpes Genialer Gletschertag mit super Carving Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=9558",
+      "centroid": [
+        45.00204151234568,
+        6.181397839506173
+      ],
+      "photo_count": 18
+    },
+    {
+      "id": "alpinfans__hausi24__2024-02-06__p11678",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-02-06",
+      "title": "Les Menuires mit eisigen Pisten und tollem Pulverschnee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=11678",
+      "centroid": [
+        45.33633588588589,
+        6.576680030030029
+      ],
+      "photo_count": 37
+    },
+    {
+      "id": "alpinfans__hausi24__2024-02-25__p13053",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-02-25",
+      "title": "Herrlicher Skitag am Schatzberg und Wilden Kaiser",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=13053",
+      "centroid": [
+        47.375829861111114,
+        11.954250694444445
+      ],
+      "photo_count": 16
+    },
+    {
+      "id": "alpinfans__hausi24__2024-03-07__p14270",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-03-07",
+      "title": "Passo Tonale mit Sonne Nebel und schönen Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=14270",
+      "centroid": [
+        46.24903222222222,
+        10.559844444444442
+      ],
+      "photo_count": 40
+    },
+    {
+      "id": "alpinfans__hausi24__2024-04-07__p16620",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-04-07",
+      "title": "Grimnetz Skigebiet: Sulziger Schnee und tolles Water Slide Event",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=16620",
+      "centroid": [
+        46.17161047008547,
+        7.557898076923076
+      ],
+      "photo_count": 13
+    },
+    {
+      "id": "alpinfans__hausi24__2024-12-28__p29934",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-12-28",
+      "title": "Voll im Brandnertal bei Sonne und eisigen Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=29934",
+      "centroid": [
+        47.11544252136752,
+        9.722121581196582
+      ],
+      "photo_count": 13
+    },
+    {
+      "id": "alpinfans__hausi24__2024-12-29__p30072",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2024-12-29",
+      "title": "Chäserrugg Toggenburg: Einmaliges Panorama und neue Ostabfahrt",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=30072",
+      "centroid": [
+        47.16858688271605,
+        9.3161399691358
+      ],
+      "photo_count": 18
+    },
     {
       "id": "alpinfans__hausi24__2025-01-15__p31878",
       "forum": "alpinfans",
@@ -80,6 +210,227 @@
       "photo_count": 71
     },
     {
+      "id": "alpinfans__hausi24__2025-02-01__p33260",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-02-01",
+      "title": "Adelboden Lenk und Engstligen Alp im Sonnenschein",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=33260",
+      "centroid": [
+        46.448946002710024,
+        7.513982249322493
+      ],
+      "photo_count": 41
+    },
+    {
+      "id": "alpinfans__hausi24__2025-02-02__p33353",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-02-02",
+      "title": "Glacier 3000 und Les Diablerets: Traumhafter Schnee am Morgen",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=33353",
+      "centroid": [
+        46.326285201149446,
+        7.1484054597701165
+      ],
+      "photo_count": 58
+    },
+    {
+      "id": "alpinfans__hausi24__2025-02-16__p34442",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-02-16",
+      "title": "Sonniger Skitag mit Skisafari am Hoch Ybrig",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=34442",
+      "centroid": [
+        47.01654031531532,
+        8.752636036036035
+      ],
+      "photo_count": 37
+    },
+    {
+      "id": "alpinfans__hausi24__2025-02-17__p34511",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-02-17",
+      "title": "Volle Pisten und Gipfelpremiere am Titlis",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=34511",
+      "centroid": [
+        46.80074629629628,
+        8.40741631054131
+      ],
+      "photo_count": 39
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-08__p35772",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-08",
+      "title": "Sonniger Auftakt in Bad Gastein und Gasteinertal",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=35772",
+      "centroid": [
+        47.142145498084275,
+        13.096921934865897
+      ],
+      "photo_count": 29
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-09__p35850",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-09",
+      "title": "Snow Space Salzburg von Alpendorf nach Zauchensee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=35850",
+      "centroid": [
+        47.30344750566892,
+        13.342762074829933
+      ],
+      "photo_count": 49
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-10__p35944",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-10",
+      "title": "Reiteralm und Dachstein Gletscher im Sulz",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=35944",
+      "centroid": [
+        47.41716153198653,
+        13.65969377104377
+      ],
+      "photo_count": 33
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-11__p35993",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-11",
+      "title": "Sonnige Pisten und harter Schnee in Obertauern und Grosseck Speiereck",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=35993",
+      "centroid": [
+        47.21771153846154,
+        13.58266420940171
+      ],
+      "photo_count": 26
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-29__p37065",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-29",
+      "title": "San Domenico: Sonniger Skitag mit Baustellenflair",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=37065",
+      "centroid": [
+        46.26167194444445,
+        8.205462638888887
+      ],
+      "photo_count": 20
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-30__p37123",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-30",
+      "title": "Saas Fee: Traumhafter Skitag mit ultra griffigen Gletschereisen",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=37123",
+      "centroid": [
+        46.074809941520456,
+        7.914547733918128
+      ],
+      "photo_count": 38
+    },
+    {
+      "id": "alpinfans__hausi24__2025-03-31__p37161",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-03-31",
+      "title": "Leeres Skigebiet Anzere mit hartem Schnee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=37161",
+      "centroid": [
+        46.31359742063493,
+        7.3968033730158735
+      ],
+      "photo_count": 14
+    },
+    {
+      "id": "alpinfans__hausi24__2025-04-12__p38012",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-04-12",
+      "title": "Heidelberger Hütte und Pardatschgrat mit harten Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=38012",
+      "centroid": [
+        46.94700777777778,
+        10.303552962962959
+      ],
+      "photo_count": 30
+    },
+    {
+      "id": "alpinfans__hausi24__2025-10-25__p45264",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-10-25",
+      "title": "Hintertuxer Gletscher mit guten Bedingungen und eisigen Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=45264",
+      "centroid": [
+        47.0619141025641,
+        11.662659829059832
+      ],
+      "photo_count": 13
+    },
+    {
+      "id": "alpinfans__hausi24__2025-10-26__p45322",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-10-26",
+      "title": "Sonniger Vormittag und schönes Skiwochenende am Stubaier Gletscher",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=45322",
+      "centroid": [
+        46.985557638888885,
+        11.111037499999997
+      ],
+      "photo_count": 12
+    },
+    {
+      "id": "alpinfans__hausi24__2025-11-29__p47967",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-11-29",
+      "title": "Ochsenalmbahn und Weißseejochbahn mit tollen Pisten bei wechselhaftem Wetter",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=47967",
+      "centroid": [
+        46.86554574074073,
+        10.708222500000002
+      ],
+      "photo_count": 30
+    },
+    {
+      "id": "alpinfans__hausi24__2025-12-26__p50746",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-12-26",
+      "title": "Kalter und sonniger Skitag am Arlberg",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=50746",
+      "centroid": [
+        47.15664246031745,
+        10.193957407407412
+      ],
+      "photo_count": 63
+    },
+    {
+      "id": "alpinfans__hausi24__2025-12-27__p50829",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-12-27",
+      "title": "Ischgl und Samnaun mit griffigem Schnee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=50829",
+      "centroid": [
+        46.97963180555555,
+        10.323475416666668
+      ],
+      "photo_count": 20
+    },
+    {
       "id": "alpinfans__hausi24__2026-01-11__p52567",
       "forum": "alpinfans",
       "author": "hausi24",
@@ -143,6 +494,214 @@
         6.239308909214091
       ],
       "photo_count": 82
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-30__p54556",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-30",
+      "title": "Traumhafter Skitag in Saalbach Leogang mit Neuschnee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=54556",
+      "centroid": [
+        47.40743491161617,
+        12.638225189393937
+      ],
+      "photo_count": 44
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-31__p54655",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-31",
+      "title": "Hochkönig: Kaiserwetter bei der Erstbefahrung",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=54655",
+      "centroid": [
+        47.37934551971326,
+        12.996827419354839
+      ],
+      "photo_count": 31
+    },
+    {
+      "id": "alpinfans__hausi24__2026-02-01__p54734",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-02-01",
+      "title": "Skitag im Snow Space Flachauwinkel mit Traumhaften Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=54734",
+      "centroid": [
+        47.30650813492062,
+        13.367833134920632
+      ],
+      "photo_count": 42
+    },
+    {
+      "id": "alpinfans__hausi24__2026-02-02__p54848",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-02-02",
+      "title": "Kaiserwetter und tolle Pisten an der Resterhöhe Kitzbühel",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=54848",
+      "centroid": [
+        47.35424847883597,
+        12.366245039682543
+      ],
+      "photo_count": 42
+    },
+    {
+      "id": "alpinfans__hausi24__2026-02-28__p56938",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-02-28",
+      "title": "Gitschberg Jochtal Sonnenschein und harter Frühlingsschnee",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=56938",
+      "centroid": [
+        46.8425654040404,
+        11.658716035353537
+      ],
+      "photo_count": 22
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-01__p57024",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-01",
+      "title": "Drei Zinnen: Griffige Pisten und tolles Panorama",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57024",
+      "centroid": [
+        46.68601064814814,
+        12.383672592592593
+      ],
+      "photo_count": 30
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-02__p57110",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-02",
+      "title": "Marmolada und Gebirgsjäger Tour in Alta Badia",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57110",
+      "centroid": [
+        46.47188938492061,
+        11.981493700396827
+      ],
+      "photo_count": 56
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-03__p57179",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-03",
+      "title": "Sella Ronda und Seceda: Sonnige Schlepplift-Abenteuer",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57179",
+      "centroid": [
+        46.53814840686274,
+        11.816370302287584
+      ],
+      "photo_count": 68
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-04__p57282",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-04",
+      "title": "Kronplatz und Olang: Harter Schnee und rasche Abfahrten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57282",
+      "centroid": [
+        46.69557394636013,
+        11.947009003831418
+      ],
+      "photo_count": 29
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-07__p57462",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-07",
+      "title": "Monts Jura in Lélex und Mijoux",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57462",
+      "centroid": [
+        46.321356899641586,
+        5.981247177419355
+      ],
+      "photo_count": 62
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-08__p57544",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-08",
+      "title": "Portes du Soleil mit Schweizer Wand",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57544",
+      "centroid": [
+        46.17408557838661,
+        6.75473291476408
+      ],
+      "photo_count": 73
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-09__p57616",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-09",
+      "title": "Thollon-les-Mémises: Genialer Erstbesuch mit Genfersee-Blick",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=57616",
+      "centroid": [
+        46.37820114942529,
+        6.73003908045977
+      ],
+      "photo_count": 29
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-18__p58358",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-18",
+      "title": "Sonniger Skitag in Damüls Mellau und Faschina",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=58358",
+      "centroid": [
+        47.29790186631944,
+        9.883768142361113
+      ],
+      "photo_count": 64
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-20__p58577",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-20",
+      "title": "Flims Laax mit neuen Bahnen und tollen Pisten",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=58577",
+      "centroid": [
+        46.861163791423,
+        9.228033479532167
+      ],
+      "photo_count": 57
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-28__p59114",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-28",
+      "title": "Portes du Soleil: Winterliches Pulverschnee Vergnuegen in Super Chatel",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=59114",
+      "centroid": [
+        46.254346111111104,
+        6.847312314814814
+      ],
+      "photo_count": 30
+    },
+    {
+      "id": "alpinfans__hausi24__2026-03-29__p59169",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-03-29",
+      "title": "Portes du Soleil: Skitag in Morzine und Les Gets",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=59169",
+      "centroid": [
+        46.17871903292181,
+        6.714756378600823
+      ],
+      "photo_count": 27
     }
   ]
 }

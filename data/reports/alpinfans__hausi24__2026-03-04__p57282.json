@@ -1,0 +1,1528 @@
+{
+  "generated_at": "2026-11-27T12:54:36Z",
+  "report": {
+    "post_id": 57282,
+    "title": "Kronplatz und Olang: Harter Schnee und rasche Abfahrten",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=57282",
+    "date": "2026-03-04",
+    "post_date": "2026-03-04",
+    "text": "Kronplatz und Abtei, 4. März 2026 Heute Abschluss meiner Tour am Kronplatz. Einstieg in Olang, da dort der Parkplatz kostenlos ist.\n[Image Descriptions: Um 7 Uhr geht's los am Campingplatz mit letztem Dolomiten Blick; Parkplatz in Olang an der ehemaligen Lorenzi Bahn, die aber immer noch hier rumsteht.; So muss ich noch kurz die Ski abschnallen und zur neuen Olang Bahn runter. Schee sehr hart, in wenigen Stunden wohl sehr weich!; Schnell und komfortabel geht's hoch. Die Bahn macht schon um 8:15 aus, da habe ich dann wohl die ersten 20 Minuten verpasst heute.; Gipfel; Oben sind die Pisten super gut zu fahren! Also gleich zur modernen 8er Sesselbahn; Tolle rote Abfahrt zur Ried Mittelstation; Und dann will ich mal die im Forum berühmte Piste 1 testen; Oben sehr gut zu fahren!; Die untere Hälfte aber knollig und hart, lohnt heute nicht wirklich; Messmer Museum; Unten sind die Pisten bereits kurz nach 10 Uhr zerpflügt; Die Ried Talabfahrt geht ganz gut und ist schon lang trassiert; Auch hier unten sehr weich bzw eisig; Es geht weiter nach St. Vigil; Rückblick Kronplatz; Schneebänder auf grün, ich kenne es hier nur so; Abfahrt nach Picolein; Da ich noch Zeit habe und am Kronplatz selbst schon alles erledigt habe entscheide ich mich spontan den kostenlosen Skibus nach Alta Badia zu nehmen, um dort auch im Sektor Abtei die neuen Bahnen zu fahren; Alle 40 Minuten fährt der Bus, die Reise dauert 20 Minuten; Skigebiet Abtei vor Alta Badia; Der Bus kommt etwas oberhalb der Sponata Sesselbahn Talstation an; Das heißt erst geht es wieder per Sesselbahn zurück nach Abtei; Moderne und schnell fahrende Gondelbahn La Crusc in Abtei. Das letzte Mal gab es hier noch einen alten wenn auch schnellen Sessellift. Nur die obere Sektion war nervig durch einen langsamen Lift.; Für die zweite Sektion muss man ein bisschen durch den Schnee laufen, man hätte ja Matten auslegen können.; Aber das Panorama ist wunderschön!; Weitblick Richtung Sella Massiv und Marmolada; Und auf dem Rückweg geht's noch an die Pisten nach Alta Badia. Dort unten gibt's auch einen Supermarkt wo ich mir ein Kaltgetränk gönne.; Pünktlich geht's wieder mit dem Bus zurück; Wieder zurück am Kronplatz, es wird noch die für mich neue Gondelbahn Rara mitgenommen; Finale Talabfahrt um 16:10 Uhr, die letzte halbe Stunde schenke ich mir heute da noch über sechs Stunden heimfahrt anstehen.]"
+  },
+  "center": [
+    46.69557394636013,
+    11.947009003831418
+  ],
+  "placed_count": 29,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105463&mode=view",
+      "description": "Parkplatz in Olang an der ehemaligen Lorenzi Bahn, die aber immer noch hier rumsteht.",
+      "geo": {
+        "latitude": 46.74481388888889,
+        "longitude": 12.009716666666666,
+        "elevation_m": 1235.73,
+        "bearing_deg": 240,
+        "captured_at": "2026-03-04T08:26:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25931352,
+        "name": "Lorenzi",
+        "cat": "EUB",
+        "dist": 20
+      },
+      "piste": {
+        "name": "Gassl",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 87
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105464&mode=view",
+      "description": "So muss ich noch kurz die Ski abschnallen und zur neuen Olang Bahn runter. Schee sehr hart, in wenigen Stunden wohl sehr weich!",
+      "geo": {
+        "latitude": 46.74576666666667,
+        "longitude": 12.009827777777778,
+        "elevation_m": 1212.19,
+        "bearing_deg": 286,
+        "captured_at": "2026-03-04T08:33:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25931352,
+        "name": "Lorenzi",
+        "cat": "EUB",
+        "dist": 86
+      },
+      "piste": {
+        "name": "Gassl",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105465&mode=view",
+      "description": "Schnell und komfortabel geht's hoch. Die Bahn macht schon um 8:15 aus, da habe ich dann wohl die ersten 20 Minuten verpasst heute.",
+      "geo": {
+        "latitude": 46.74410833333334,
+        "longitude": 11.978647222222222,
+        "elevation_m": 2016,
+        "bearing_deg": 178,
+        "captured_at": "2026-03-04T08:42:34"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25992183,
+        "name": "Olang I",
+        "cat": "EUB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "Arndt",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105466&mode=view",
+      "description": "Gipfel",
+      "geo": {
+        "latitude": 46.739336111111115,
+        "longitude": 11.959575,
+        "elevation_m": 2327,
+        "bearing_deg": 137,
+        "captured_at": "2026-03-04T08:49:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25992185,
+        "name": "Olang II",
+        "cat": "EUB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 2
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105467&mode=view",
+      "description": "Oben sind die Pisten super gut zu fahren! Also gleich zur modernen 8er Sesselbahn",
+      "geo": {
+        "latitude": 46.73928055555556,
+        "longitude": 11.961183333333333,
+        "elevation_m": 2307,
+        "bearing_deg": 306,
+        "captured_at": "2026-03-04T08:50:43"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29550188,
+        "name": "Plateau",
+        "cat": "SB",
+        "dist": 22
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105468&mode=view",
+      "description": "Tolle rote Abfahrt zur Ried Mittelstation",
+      "geo": {
+        "latitude": 46.73983055555556,
+        "longitude": 11.95896111111111,
+        "elevation_m": 2319.5,
+        "bearing_deg": 253,
+        "captured_at": "2026-03-04T08:59:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 30924289,
+        "name": "Gipfelbahn",
+        "cat": "EUB",
+        "dist": 72
+      },
+      "piste": {
+        "name": "Herrnegg",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 19
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105469&mode=view",
+      "description": "Und dann will ich mal die im Forum berühmte Piste 1 testen",
+      "geo": {
+        "latitude": 46.73907222222223,
+        "longitude": 11.957522222222222,
+        "elevation_m": 2321,
+        "bearing_deg": 259,
+        "captured_at": "2026-03-04T09:09:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 103583675,
+        "name": "Kronplatz II",
+        "cat": "EUB",
+        "dist": 32
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "connection",
+        "dist": 5
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105470&mode=view",
+      "description": "Oben sehr gut zu fahren!",
+      "geo": {
+        "latitude": 46.74585277777778,
+        "longitude": 11.95031111111111,
+        "elevation_m": 2031,
+        "bearing_deg": 267,
+        "captured_at": "2026-03-04T09:10:15"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sylvester",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105471&mode=view",
+      "description": "Die untere Hälfte aber knollig und hart, lohnt heute nicht wirklich",
+      "geo": {
+        "latitude": 46.77066111111111,
+        "longitude": 11.941147222222222,
+        "elevation_m": 913.94,
+        "bearing_deg": 261,
+        "captured_at": "2026-03-04T09:14:29"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29188094,
+        "name": "Korer",
+        "cat": "EUB",
+        "dist": 36
+      },
+      "piste": {
+        "name": "Korer",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105477&mode=view",
+      "description": "Messmer Museum",
+      "geo": {
+        "latitude": 46.73755555555556,
+        "longitude": 11.955338888888889,
+        "elevation_m": 2312,
+        "bearing_deg": 147,
+        "captured_at": "2026-03-04T09:42:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 29550636,
+        "name": "Ruis",
+        "cat": "EUB",
+        "dist": 149
+      },
+      "piste": {
+        "name": "Furcia 12",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 34
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105478&mode=view",
+      "description": "Unten sind die Pisten bereits kurz nach 10 Uhr zerpflügt",
+      "geo": {
+        "latitude": 46.74218888888889,
+        "longitude": 11.984324999999998,
+        "elevation_m": 1865,
+        "bearing_deg": 315,
+        "captured_at": "2026-03-04T10:04:38"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Lorenzi",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 18
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105479&mode=view",
+      "description": "Die Ried Talabfahrt geht ganz gut und ist schon lang trassiert",
+      "geo": {
+        "latitude": 46.75204166666666,
+        "longitude": 11.977766666666668,
+        "elevation_m": 1965,
+        "bearing_deg": 287,
+        "captured_at": "2026-03-04T10:34:16"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Ried",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105480&mode=view",
+      "description": "Auch hier unten sehr weich bzw eisig",
+      "geo": {
+        "latitude": 46.78543888888888,
+        "longitude": 11.980502777777778,
+        "elevation_m": 1114,
+        "bearing_deg": 269,
+        "captured_at": "2026-03-04T10:40:42"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Ried",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105481&mode=view",
+      "description": "Es geht weiter nach St. Vigil",
+      "geo": {
+        "latitude": 46.728319444444445,
+        "longitude": 11.959352777777777,
+        "elevation_m": 1989,
+        "bearing_deg": 55,
+        "captured_at": "2026-03-04T11:17:13"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Furcia 12",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105486&mode=view",
+      "description": "Rückblick Kronplatz",
+      "geo": {
+        "latitude": 46.71610833333334,
+        "longitude": 11.970394444444445,
+        "elevation_m": 2065,
+        "bearing_deg": 236,
+        "captured_at": "2026-03-04T11:33:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31723050,
+        "name": "Pré da Peres",
+        "cat": "EUB",
+        "dist": 31
+      },
+      "piste": {
+        "name": "Pré da Peres 32 V",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105487&mode=view",
+      "description": "Schneebänder auf grün, ich kenne es hier nur so",
+      "geo": {
+        "latitude": 46.700025000000004,
+        "longitude": 11.919738888888888,
+        "elevation_m": 1471,
+        "bearing_deg": 333,
+        "captured_at": "2026-03-04T11:51:16"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sorega",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105494&mode=view",
+      "description": "Abfahrt nach Picolein",
+      "geo": {
+        "latitude": 46.69792222222222,
+        "longitude": 11.910375,
+        "elevation_m": 1659,
+        "bearing_deg": 120,
+        "captured_at": "2026-03-04T12:01:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31723232,
+        "name": "Piculin",
+        "cat": "EUB",
+        "dist": 25
+      },
+      "piste": {
+        "name": "Piculin",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105495&mode=view",
+      "description": "Da ich noch Zeit habe und am Kronplatz selbst schon alles erledigt habe entscheide ich mich spontan den kostenlosen Skibus nach Alta Badia zu nehmen, um dort auch im Sektor Abtei die neuen Bahnen zu fahren",
+      "geo": {
+        "latitude": 46.69123888888888,
+        "longitude": 11.897297222222221,
+        "elevation_m": 1228,
+        "bearing_deg": 228,
+        "captured_at": "2026-03-04T12:04:27"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Piculin",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 8
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105498&mode=view",
+      "description": "Der Bus kommt etwas oberhalb der Sponata Sesselbahn Talstation an",
+      "geo": {
+        "latitude": 46.597322222222225,
+        "longitude": 11.899294444444443,
+        "elevation_m": 1430,
+        "bearing_deg": 307,
+        "captured_at": "2026-03-04T12:40:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 20922149,
+        "name": "Sponata",
+        "cat": "SB",
+        "dist": 49
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105499&mode=view",
+      "description": "Das heißt erst geht es wieder per Sesselbahn zurück nach Abtei",
+      "geo": {
+        "latitude": 46.59908333333333,
+        "longitude": 11.900458333333333,
+        "elevation_m": 1403,
+        "bearing_deg": 253,
+        "captured_at": "2026-03-04T12:41:58"
+      },
+      "placed": true,
+      "lift": {
+        "id": 20853825,
+        "name": "Pradüc",
+        "cat": "SB",
+        "dist": 19
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105502&mode=view",
+      "description": "Moderne und schnell fahrende Gondelbahn La Crusc in Abtei. Das letzte Mal gab es hier noch einen alten wenn auch schnellen Sessellift. Nur die obere Sektion war nervig durch einen langsamen Lift.",
+      "geo": {
+        "latitude": 46.60975833333333,
+        "longitude": 11.901452777777779,
+        "elevation_m": 1457,
+        "bearing_deg": 309,
+        "captured_at": "2026-03-04T12:48:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1342952100,
+        "name": "La Crusc 1",
+        "cat": "EUB",
+        "dist": 10
+      },
+      "piste": {
+        "name": "La Crusc",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 123
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105503&mode=view",
+      "description": "Für die zweite Sektion muss man ein bisschen durch den Schnee laufen, man hätte ja Matten auslegen können.",
+      "geo": {
+        "latitude": 46.61264166666667,
+        "longitude": 11.923886111111111,
+        "elevation_m": 1887.9,
+        "bearing_deg": 316,
+        "captured_at": "2026-03-04T12:54:32"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1342952100,
+        "name": "La Crusc 1",
+        "cat": "EUB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "La Crusc 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105504&mode=view",
+      "description": "Aber das Panorama ist wunderschön!",
+      "geo": {
+        "latitude": 46.61358055555556,
+        "longitude": 11.929552777777777,
+        "elevation_m": 1984,
+        "bearing_deg": 306,
+        "captured_at": "2026-03-04T12:57:00"
+      },
+      "placed": true,
+      "lift": {
+        "id": 771056886,
+        "name": "La Crusc 2",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "La Crusc 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 95
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105524&mode=view",
+      "description": "PXL_20260304_115911302.jpg (1.16 MiB) 1581 mal betrachtet",
+      "geo": {
+        "latitude": 46.61462222222222,
+        "longitude": 11.936683333333333,
+        "elevation_m": 2083.2,
+        "bearing_deg": 246,
+        "captured_at": "2026-03-04T12:59:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 771056886,
+        "name": "La Crusc 2",
+        "cat": "EUB",
+        "dist": 9
+      },
+      "piste": {
+        "name": "La Crusc 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105525&mode=view",
+      "description": "Weitblick Richtung Sella Massiv und Marmolada",
+      "geo": {
+        "latitude": 46.61388888888889,
+        "longitude": 11.936655555555555,
+        "elevation_m": 2068,
+        "bearing_deg": 143,
+        "captured_at": "2026-03-04T13:05:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 771056886,
+        "name": "La Crusc 2",
+        "cat": "EUB",
+        "dist": 78
+      },
+      "piste": {
+        "name": "La Crusc 2",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105526&mode=view",
+      "description": "Und auf dem Rückweg geht's noch an die Pisten nach Alta Badia. Dort unten gibt's auch einen Supermarkt wo ich mir ein Kaltgetränk gönne.",
+      "geo": {
+        "latitude": 46.589058333333334,
+        "longitude": 11.890930555555554,
+        "elevation_m": 1763,
+        "bearing_deg": 1,
+        "captured_at": "2026-03-04T13:21:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 20922149,
+        "name": "Sponata",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 33
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105528&mode=view",
+      "description": "Pünktlich geht's wieder mit dem Bus zurück",
+      "geo": {
+        "latitude": 46.59796388888889,
+        "longitude": 11.89998611111111,
+        "elevation_m": 1418,
+        "bearing_deg": 320,
+        "captured_at": "2026-03-04T13:51:39"
+      },
+      "placed": true,
+      "lift": {
+        "id": 20922149,
+        "name": "Sponata",
+        "cat": "SB",
+        "dist": 56
+      },
+      "piste": {
+        "name": "",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 46
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105532&mode=view",
+      "description": "Wieder zurück am Kronplatz, es wird noch die für mich neue Gondelbahn Rara mitgenommen",
+      "geo": {
+        "latitude": 46.71937777777778,
+        "longitude": 11.963408333333332,
+        "elevation_m": 1848,
+        "bearing_deg": 330,
+        "captured_at": "2026-03-04T14:47:17"
+      },
+      "placed": true,
+      "lift": {
+        "id": 31723332,
+        "name": "Col Toron",
+        "cat": "EUB",
+        "dist": 15
+      },
+      "piste": {
+        "name": "Rara 31",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=105535&mode=view",
+      "description": "Finale Talabfahrt um 16:10 Uhr, die letzte halbe Stunde schenke ich mir heute da noch über sechs Stunden heimfahrt anstehen.",
+      "geo": {
+        "latitude": 46.74478611111111,
+        "longitude": 11.998969444444443,
+        "elevation_m": 1526,
+        "bearing_deg": 319,
+        "captured_at": "2026-03-04T16:13:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 25931352,
+        "name": "Lorenzi",
+        "cat": "EUB",
+        "dist": 76
+      },
+      "piste": {
+        "name": "Gassl",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 28
+    }
+  ],
+  "lifts": [
+    {
+      "id": 20853825,
+      "name": "Pradüc",
+      "cat": "SB",
+      "coords": [
+        [
+          46.6076178,
+          11.8973958
+        ],
+        [
+          46.6073919,
+          11.8974771
+        ],
+        [
+          46.6066493,
+          11.8977443
+        ],
+        [
+          46.6056439,
+          11.8981061
+        ],
+        [
+          46.6050113,
+          11.8983338
+        ],
+        [
+          46.6038077,
+          11.8987669
+        ],
+        [
+          46.6029036,
+          11.8990923
+        ],
+        [
+          46.6018668,
+          11.8994653
+        ],
+        [
+          46.6004939,
+          11.8999594
+        ],
+        [
+          46.5992543,
+          11.9004054
+        ]
+      ]
+    },
+    {
+      "id": 20922149,
+      "name": "Sponata",
+      "cat": "SB",
+      "coords": [
+        [
+          46.5990692,
+          11.9001305
+        ],
+        [
+          46.5986086,
+          11.8997091
+        ],
+        [
+          46.5974085,
+          11.898611
+        ],
+        [
+          46.5967357,
+          11.8979953
+        ],
+        [
+          46.5964893,
+          11.8977699
+        ],
+        [
+          46.5958258,
+          11.8971629
+        ],
+        [
+          46.595643,
+          11.8969957
+        ],
+        [
+          46.594875,
+          11.8962929
+        ],
+        [
+          46.5942239,
+          11.8956973
+        ],
+        [
+          46.5934247,
+          11.8949661
+        ],
+        [
+          46.5929812,
+          11.8945603
+        ],
+        [
+          46.5923184,
+          11.8939539
+        ],
+        [
+          46.5917149,
+          11.8934017
+        ],
+        [
+          46.591289,
+          11.8930121
+        ],
+        [
+          46.5907437,
+          11.8925132
+        ],
+        [
+          46.58974,
+          11.891595
+        ],
+        [
+          46.5890148,
+          11.8909315
+        ],
+        [
+          46.5887959,
+          11.8907313
+        ]
+      ]
+    },
+    {
+      "id": 25931352,
+      "name": "Lorenzi",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7449983,
+          12.0097118
+        ],
+        [
+          46.7449027,
+          12.0085672
+        ],
+        [
+          46.7447692,
+          12.0069681
+        ],
+        [
+          46.7446396,
+          12.0054156
+        ],
+        [
+          46.7444748,
+          12.0034412
+        ],
+        [
+          46.7443472,
+          12.0019131
+        ],
+        [
+          46.7442292,
+          12.0004999
+        ],
+        [
+          46.7440991,
+          11.9989421
+        ],
+        [
+          46.7439154,
+          11.9967412
+        ],
+        [
+          46.7437721,
+          11.9950246
+        ],
+        [
+          46.743544,
+          11.9922937
+        ],
+        [
+          46.7434436,
+          11.9910904
+        ],
+        [
+          46.7434217,
+          11.9908278
+        ],
+        [
+          46.7433615,
+          11.9901073
+        ]
+      ]
+    },
+    {
+      "id": 25992183,
+      "name": "Olang I",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7466929,
+          12.0106459
+        ],
+        [
+          46.7465942,
+          12.0094029
+        ],
+        [
+          46.7464489,
+          12.0076454
+        ],
+        [
+          46.7463103,
+          12.0059671
+        ],
+        [
+          46.7461333,
+          12.0038258
+        ],
+        [
+          46.7459474,
+          12.0015466
+        ],
+        [
+          46.745764,
+          11.9993569
+        ],
+        [
+          46.7455967,
+          11.9974079
+        ],
+        [
+          46.7454439,
+          11.9954835
+        ],
+        [
+          46.7452623,
+          11.9932854
+        ],
+        [
+          46.7450734,
+          11.9910001
+        ],
+        [
+          46.7449299,
+          11.9892985
+        ],
+        [
+          46.744746,
+          11.9870382
+        ],
+        [
+          46.7445752,
+          11.985027
+        ],
+        [
+          46.7444197,
+          11.9830659
+        ],
+        [
+          46.744262,
+          11.9811818
+        ],
+        [
+          46.7441431,
+          11.9797428
+        ],
+        [
+          46.7440242,
+          11.9783039
+        ],
+        [
+          46.7438305,
+          11.9759596
+        ],
+        [
+          46.7437012,
+          11.9743957
+        ],
+        [
+          46.7436083,
+          11.9732705
+        ],
+        [
+          46.743553,
+          11.9726018
+        ]
+      ]
+    },
+    {
+      "id": 25992185,
+      "name": "Olang II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.743553,
+          11.9726018
+        ],
+        [
+          46.7430644,
+          11.9710916
+        ],
+        [
+          46.7425327,
+          11.9694479
+        ],
+        [
+          46.741922,
+          11.9675605
+        ],
+        [
+          46.7413738,
+          11.9658661
+        ],
+        [
+          46.7406332,
+          11.9635767
+        ],
+        [
+          46.7400041,
+          11.9616323
+        ],
+        [
+          46.7394211,
+          11.9598305
+        ]
+      ]
+    },
+    {
+      "id": 29188094,
+      "name": "Korer",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7726959,
+          11.9398903
+        ],
+        [
+          46.7716823,
+          11.940298
+        ],
+        [
+          46.7698614,
+          11.9409528
+        ],
+        [
+          46.7686815,
+          11.9413666
+        ],
+        [
+          46.7669198,
+          11.9420184
+        ],
+        [
+          46.7655313,
+          11.9425189
+        ],
+        [
+          46.7641279,
+          11.9430437
+        ],
+        [
+          46.7637607,
+          11.9431692
+        ]
+      ]
+    },
+    {
+      "id": 29550188,
+      "name": "Plateau",
+      "cat": "SB",
+      "coords": [
+        [
+          46.7418226,
+          11.974913
+        ],
+        [
+          46.7416983,
+          11.9741831
+        ],
+        [
+          46.7414613,
+          11.9727917
+        ],
+        [
+          46.741228,
+          11.9714217
+        ],
+        [
+          46.7409697,
+          11.9699052
+        ],
+        [
+          46.7406686,
+          11.9681376
+        ],
+        [
+          46.7403568,
+          11.9663067
+        ],
+        [
+          46.7401411,
+          11.9650402
+        ],
+        [
+          46.7398478,
+          11.963318
+        ],
+        [
+          46.7395734,
+          11.9617069
+        ],
+        [
+          46.7393281,
+          11.9602671
+        ],
+        [
+          46.7392555,
+          11.9598406
+        ]
+      ]
+    },
+    {
+      "id": 29550636,
+      "name": "Ruis",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7247924,
+          11.9640979
+        ],
+        [
+          46.725955,
+          11.9634777
+        ],
+        [
+          46.7273517,
+          11.9627325
+        ],
+        [
+          46.7287101,
+          11.9620078
+        ],
+        [
+          46.7299898,
+          11.9613251
+        ],
+        [
+          46.7312219,
+          11.9606677
+        ],
+        [
+          46.7317757,
+          11.9603722
+        ],
+        [
+          46.733485,
+          11.9594602
+        ],
+        [
+          46.7343908,
+          11.9589769
+        ],
+        [
+          46.7354621,
+          11.9584053
+        ],
+        [
+          46.737218,
+          11.9574684
+        ],
+        [
+          46.7375557,
+          11.9572882
+        ]
+      ]
+    },
+    {
+      "id": 30924289,
+      "name": "Gipfelbahn",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7542589,
+          11.9587753
+        ],
+        [
+          46.7538736,
+          11.9587526
+        ],
+        [
+          46.7532213,
+          11.9587141
+        ],
+        [
+          46.7516778,
+          11.9586231
+        ],
+        [
+          46.7496707,
+          11.9585048
+        ],
+        [
+          46.7480222,
+          11.9584076
+        ],
+        [
+          46.7460653,
+          11.9582922
+        ],
+        [
+          46.7440731,
+          11.9581748
+        ],
+        [
+          46.7434022,
+          11.9581352
+        ],
+        [
+          46.7425603,
+          11.9581093
+        ],
+        [
+          46.7411872,
+          11.958067
+        ],
+        [
+          46.7396433,
+          11.9580195
+        ],
+        [
+          46.7393873,
+          11.9580116
+        ]
+      ]
+    },
+    {
+      "id": 31723050,
+      "name": "Pré da Peres",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7228182,
+          11.9651741
+        ],
+        [
+          46.7220901,
+          11.9658078
+        ],
+        [
+          46.7208126,
+          11.9668646
+        ],
+        [
+          46.7189775,
+          11.968431
+        ],
+        [
+          46.7179771,
+          11.9692517
+        ],
+        [
+          46.7175949,
+          11.9696009
+        ],
+        [
+          46.7165521,
+          11.9704896
+        ],
+        [
+          46.7161724,
+          11.9708035
+        ]
+      ]
+    },
+    {
+      "id": 31723232,
+      "name": "Piculin",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.6923554,
+          11.8928248
+        ],
+        [
+          46.6929036,
+          11.8946314
+        ],
+        [
+          46.6934349,
+          11.8963821
+        ],
+        [
+          46.6936793,
+          11.8971878
+        ],
+        [
+          46.6938036,
+          11.8975974
+        ],
+        [
+          46.6940106,
+          11.8982797
+        ],
+        [
+          46.6949427,
+          11.9013515
+        ],
+        [
+          46.6951398,
+          11.9020009
+        ],
+        [
+          46.6955464,
+          11.903341
+        ],
+        [
+          46.6962122,
+          11.9055353
+        ],
+        [
+          46.6967175,
+          11.9072007
+        ],
+        [
+          46.6974471,
+          11.9096051
+        ],
+        [
+          46.6977959,
+          11.9107547
+        ],
+        [
+          46.697813,
+          11.9108111
+        ],
+        [
+          46.6979826,
+          11.91137
+        ]
+      ]
+    },
+    {
+      "id": 31723332,
+      "name": "Col Toron",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7111024,
+          11.9505889
+        ],
+        [
+          46.7113051,
+          11.9509101
+        ],
+        [
+          46.7119538,
+          11.951938
+        ],
+        [
+          46.7130185,
+          11.9536253
+        ],
+        [
+          46.7135641,
+          11.9544898
+        ],
+        [
+          46.7143362,
+          11.9557134
+        ],
+        [
+          46.7157181,
+          11.9579033
+        ],
+        [
+          46.716864,
+          11.9597192
+        ],
+        [
+          46.7182684,
+          11.961945
+        ],
+        [
+          46.7188845,
+          11.9629214
+        ],
+        [
+          46.7194142,
+          11.9637609
+        ]
+      ]
+    },
+    {
+      "id": 103583675,
+      "name": "Kronplatz II",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.7487968,
+          11.9525024
+        ],
+        [
+          46.7479267,
+          11.952959
+        ],
+        [
+          46.7477434,
+          11.9530552
+        ],
+        [
+          46.7466848,
+          11.9536107
+        ],
+        [
+          46.7449952,
+          11.9544972
+        ],
+        [
+          46.744252,
+          11.9548872
+        ],
+        [
+          46.7431211,
+          11.9554806
+        ],
+        [
+          46.742152,
+          11.9559891
+        ],
+        [
+          46.7411616,
+          11.9565087
+        ],
+        [
+          46.7405991,
+          11.9568039
+        ],
+        [
+          46.7396926,
+          11.9572795
+        ],
+        [
+          46.739359,
+          11.9574545
+        ]
+      ]
+    },
+    {
+      "id": 771056886,
+      "name": "La Crusc 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.6128642,
+          11.92426
+        ],
+        [
+          46.6129002,
+          11.9245162
+        ],
+        [
+          46.6131933,
+          11.9265991
+        ],
+        [
+          46.6135565,
+          11.9291806
+        ],
+        [
+          46.6137526,
+          11.9305743
+        ],
+        [
+          46.61412,
+          11.933186
+        ],
+        [
+          46.6145393,
+          11.9361657
+        ],
+        [
+          46.6145966,
+          11.9365732
+        ]
+      ]
+    },
+    {
+      "id": 1342952100,
+      "name": "La Crusc 1",
+      "cat": "EUB",
+      "coords": [
+        [
+          46.609201,
+          11.8965462
+        ],
+        [
+          46.6127735,
+          11.923541
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 0
+}
