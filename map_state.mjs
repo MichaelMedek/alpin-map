@@ -13,6 +13,25 @@ function requireText({ value, context }) {
   if (typeof value !== "string" || value.trim() === "") {
     throw new TypeError(context + " must be non-empty text.");
   }
+  // Clean-text guard: the UI renders human text only, never machine data. Refuse control characters (NUL, the
+  // JS-illegal U+2028/U+2029 line separators, other C0/DEL) outright.
+  if (/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F\u2028\u2029]/.test(value)) {
+    throw new TypeError(context + " must be clean text (contains control characters).");
+  }
+  // Refuse an embedded JSON object/array (e.g. a forum lightbox phrase blob that leaked into a caption): a value
+  // that parses as a JSON object/array is machine config, not an authored line, so it is never rendered.
+  const trimmed = value.trim();
+  if (trimmed[0] === "{" || trimmed[0] === "[") {
+    let parsed;
+    try {
+      parsed = JSON.parse(trimmed);
+    } catch {
+      parsed = undefined; // not valid JSON -> ordinary prose that merely starts with a bracket, allowed
+    }
+    if (parsed !== null && typeof parsed === "object") {
+      throw new TypeError(context + " must be clean text, not embedded JSON/machine data.");
+    }
+  }
   return value;
 }
 
