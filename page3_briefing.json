@@ -1,39 +1,73 @@
 {
-  "generated_at": "2026-11-26T01:03:00Z",
+  "generated_at": "2026-11-27T01:03:00Z",
   "reports": [
     {
-      "headline": "Entdeckungsreise ins tschechische Erzgebirge: Skivergnügen im modernisierten Novako Jáchymov",
-      "summary": "Ein echter Geheimtipp abseits der großen Touristenströme ist das kleine, aber feine Skigebiet Novako Jáchymov im Erzgebirge. Nach der Übernahme durch die Familie Novak wird hier mit viel Herzblut modernisiert. Ein potenter Speicherteich, frisch präparierte Pisten, ein moderner Ankerschlepper und ein attraktives Nachtskianbot auf zwei Hängen machen das Areal zu einer echten Empfehlung für Genießer und Technik-Fans. Umrahmt von der 500-jährigen Historie der Bergstadt und historischem Charme bietet sich hier ein abwechslungsreicher Skitag mit hervorragendem Preis-Leistungs-Verhältnis.",
-      "source_url": "https://www.alpinforum.com/threads/72806/",
+      "headline": "Sauerland-Saisonstart auf Tourenski: Schwünge über den weißen Bändern von Willingen",
+      "summary": "Während die Lifte im Sauerland noch stillstehen, nutzte Community-Mitglied Hibbe die eisigen Inversionsnächte für eine spektakuläre Tourenski-Eröffnung am Ettelsberg und Köhlerhagen in Willingen. Zwischen noch grünen Bergwiesen ziehen sich bereits mächtige, weiße Schneebänder den Hang hinab, die von den emsig feuernden Schneeerzeugern aufgeschüttet wurden. Trotz inhomogener Schneeauflage und einzelnen apren Kuppen bot der Aufstieg mit Fellen und die anschließende Abfahrt über kompakte Maschinenschneehaufen ein faszinierendes Frühwinter-Erlebnis mitten im deutschen Mittelgebirge. Es ist bereits der dritte November in Folge, an dem engagierte Tourengeher im Sauerland die Skisaison noch vor dem offiziellen Liftstart auf frisch produziertem Kunstschnee einläuten können.",
+      "source_url": "https://www.alpinforum.com/threads/72824/",
       "image_urls": [
-        "https://www.alpinforum.com/attachments/grafik-webp.339863/",
-        "https://www.alpinforum.com/attachments/grafik-webp.339867/",
-        "https://www.alpinforum.com/attachments/grafik-webp.339874/",
-        "https://www.alpinforum.com/attachments/grafik-webp.339877/",
-        "https://www.alpinforum.com/attachments/grafik-webp.339887/",
-        "https://www.alpinforum.com/attachments/grafik-webp.339888/"
+        "https://www.alpinforum.com/attachments/img_2625-webp.339950/",
+        "https://www.alpinforum.com/attachments/img_2626-webp.339951/",
+        "https://www.alpinforum.com/attachments/img_2632-webp.339952/",
+        "https://www.alpinforum.com/attachments/img_2636-webp.339955/",
+        "https://www.alpinforum.com/attachments/img_2640-webp.339957/",
+        "https://www.alpinforum.com/attachments/img_2660-webp.339970/"
       ]
     }
   ],
   "tips": [
     {
-      "headline": "Frühbucher- und Vorsaisonangebote in kleineren Skigebieten nutzen",
-      "summary": "Viele kleinere Skigebiete bieten zu Saisonbeginn spezielle Vorsaisonpreise oder vergünstigte Wochenend-Tarife an, bevor die Hauptsaison startet.",
-      "source_url": "https://www.alpinforum.com/threads/72813/"
+      "headline": "Alpinfans-Feature: Skigebiete als Favoriten auf der interaktiven Karte filtern",
+      "summary": "Über die neue Lesezeichen-Funktion bei Alpinfans lassen sich Hausberge und Reisedestinationen im eigenen Profil speichern. Auf der Skigebietskarte genügt ein Klick auf das Lesezeichen-Symbol in der Werkzeugleiste, um ausschließlich die eigenen Favoriten und deren aktuellen Öffnungsstatus anzeigen zu lassen.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=119&start=175"
+    },
+    {
+      "headline": "Davos-Saisonstart: Jakobshorn als staufreie Alternative zur Parsennbahn wählen",
+      "summary": "Wer zum Saisonauftakt am Wochenende nach Davos Klosters reist, sollte für den Einstieg das Jakobshorn anstelle der Parsennbahn in Erwägung ziehen. Während sich an der Parsennbahn am Morgen oft lange Schlangen bilden, geht es an den Zubringern zum Jakobshorn meist deutlich entspannter zu.",
+      "source_url": "https://alpinfans.com/viewtopic.php?t=3881&start=25"
+    },
+    {
+      "headline": "Frühstarter-Tarife: Günstige Voröffnungs-Wochenenden in den französischen Westalpen",
+      "summary": "Kleinere Skigebiete in Frankreich bieten an ihren ersten Voröffnungs-Wochenenden oft stark reduzierte Tageskarten an: In Les 7 Laux (Pipay) kostet der Tagesskipass am Wochenende nur 24,50 Euro, in Le Collet d'Allevard sind Wintersportler bereits für 19,50 Euro auf den ersten Pisten unterwegs.",
+      "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=18626&st=80"
     }
   ],
   "controversial": [
     {
-      "headline": "Preiserhöhungen und Monopolstrukturen in großen Skigebieten",
+      "headline": "Internationale Großinvestoren vs. Bürgermodelle: Wem gehören unsere Skiberge?",
       "pro": [
-        "Große Investitionen in modernste Lifte und Beschneiungsanlagen",
-        "Hoher Komfort und rasche Verbindungen zwischen Skigebieten"
+        "Finanzstarke Konzerne bringen dringend benötigtes Investitionskapital für moderne Beschneiung, Infrastruktur und Vier-Jahreszeiten-Konzepte mit.",
+        "Professionelles globales Marketing sichert die Wettbewerbsfähigkeit alpiner Resorts im internationalen Tourismusmarkt."
       ],
       "contra": [
-        "Enorme Ticketpreise für Skifahrer außerhalb von Jahreskassen",
-        "Gefahr von Monopolbildung und Verlust regionaler Identität durch Großkonzerne"
+        "Expansiver Luxustourismus treibt Miet- und Immobilienpreise massiv in die Höhe und verdrängt Einheimische sowie Saisonkräfte.",
+        "Lokale Mitsprache geht verloren; genossenschaftliche Modelle wie in Flims-Laax beweisen, dass Skigebiete auch in Bürgerhand erfolgreich wirtschaften können."
       ],
-      "source_url": "https://www.alpinforum.com/threads/66860/page-3"
+      "source_url": "https://alpinfans.com/viewtopic.php?t=4338"
+    },
+    {
+      "headline": "Design-Lifthütte von Stararchitekten vs. Skigebietszusammenschluss im Toggenburg",
+      "pro": [
+        "Die stilvolle Neugestaltung des Chäserrugg-Schlepplifts durch Herzog & de Meuron setzt ein architektonisches Ausrufezeichen und bewahrt historische Liftkultur.",
+        "Hochwertige Baukultur wertet das Gesamterlebnis am Berg auf und unterstreicht ein klares Bekenntnis zum alpinen Wintersport."
+      ],
+      "contra": [
+        "Hohe Investitionen in reine Optik und Schuppendesign bieten den Skifahrern keinerlei echten Komfortgewinn gegenüber einer modernen Sesselbahn.",
+        "Das Geld wäre bei den anhaltenden Spannungen mit Wildhaus weitaus besser in einen gemeinsamen Skipass oder einen Liftzusammenschluss investiert gewesen."
+      ],
+      "source_url": "https://alpinfans.com/viewtopic.php?t=1247"
+    },
+    {
+      "headline": "Vollpreis-Tagestickets bei Minimalangebot am Eröffnungswochenende",
+      "pro": [
+        "Die technische Schneeerzeugung und Grundpräparierung bei tiefen Minustemperaturen verursacht enorme Energie- und Vorlaufkosten für die Betreiber.",
+        "Die Öffnung einzelner Pisten ist ein zusätzlicher Service für besonders motivierte Skifahrer vor dem regulären Saisonstart."
+      ],
+      "contra": [
+        "Zwei bis drei geöffnete Pisten bieten in keinem Verhältnis einen adäquaten Gegenwert für den vollen Skipasspreis.",
+        "Stark reduzierter Pistenraum führt bei sonnigem Wetter zu extremer Überfüllung und Sicherheitsrisiken am Hang."
+      ],
+      "source_url": "https://www.alpinforum.com/threads/72477/page-8"
     }
   ]
 }

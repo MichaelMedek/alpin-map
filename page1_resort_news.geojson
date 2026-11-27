@@ -11,12 +11,12 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Aprica",
-        "headline": "Aprica: Fortschritte beim Bau der neuen Sesselbahn Stella Alpina",
-        "summary": "Der Bau der kuppelbaren 4er-Sesselbahn Stella Alpina – Lago Palabione in Aprica schreitet voran und biegt in die finale Phase vor der Wintersaison ein.",
-        "source_url": "https://www.funiforum.org/funiforum/node/330982/page9"
+        "headline": "Aprica: Neue 4er-Sesselbahn Stella Alpina am Palabione angekündigt",
+        "summary": "Im italienischen Skigebiet Aprica wird die Modernisierung der Liftanlagen fortgesetzt: Am Palabione entsteht als jüngste Investition die neue kuppelbare Vierersesselbahn Stella Alpina zur Entlastung und Qualitätssteigerung im zentralen Skiraum.",
+        "source_url": "https://www.alpinforum.com/threads/5773/page-22"
       }
     },
     {
@@ -128,7 +128,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Flumserberg",
         "headline": "Flumserberg bereitet sich auf den Saisonstart vor",
@@ -165,12 +165,12 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Gröden / Val Gardena and Seiser Alm / Alpe di Siusi",
-        "headline": "Gröden: Planungsunterlagen für den Ersatz der Sesselbahn Catores eingereicht",
-        "summary": "Für den geplanten Ersatz der 2er-Sesselbahn Catores auf der Seceda liegen neue Planungsunterlagen vor, die eine Trassenverschwenkung und -verlängerung vorsehen.",
-        "source_url": "https://www.alpinforum.com/threads/8337/page-105"
+        "headline": "Seiser Alm: Neue 8er-Sesselbahn Steger-Dellai im finalen Abnahmetest",
+        "summary": "Auf der Seiser Alm biegen die Arbeiten an der neuen kuppelbaren 8er-Sesselbahn Steger-Dellai von Doppelmayr auf die Zielgerade ein. Die behördlichen Abnahme- und Belastungstests an der Trasse und der Bergstation laufen aktuell, sodass die Anlage pünktlich zum Beginn der Wintersaison ihren Betrieb aufnehmen kann.",
+        "source_url": "https://www.funiforum.org/funiforum/node/318985/page4"
       }
     },
     {
@@ -210,7 +210,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "Kronplatz / Plan de Corones",
         "headline": "Kronplatz startet in die Wintersaison mit drei neuen Aufstiegsanlagen",
@@ -223,14 +223,6 @@
             "headline": "Kronplatz: Ladinische Bezeichnung 'Plan de Corones' kehrt ins Logo zurück",
             "summary": "Der Lenkungsausschuss von Kronplatz Brand hat entschieden, den ladinischen Namen 'Plan de Corones' wieder fest in das offizielle Markenlogo aufzunehmen. Eine begleitende Arbeitsgruppe aus Bevölkerung, Tourismus und Bergbahnen soll die sprachliche und kulturelle Identität künftig noch stärker hervorheben.",
             "source_url": "https://www.alpinforum.com/threads/1744/page-80"
-          },
-          {
-            "recency": "weekly",
-            "timestamp": "19.11.2026 02:03 Uhr",
-            "headline": "Kronplatz: Bergstation der neuen Kabinenbahn Kronplatz 1+2 nahezu fertiggestellt",
-            "summary": "Die Arbeiten an der Bergstation des Neubaus Kronplatz 1+2 stehen kurz vor dem Abschluss. Ein neuer Großbildschirm wurde an der Station bereits montiert.",
-            "source_url": "https://www.funiforum.org/funiforum/node/270198/page20",
-            "image_url": "https://www.funiforum.org/immagini_forum/26/20261118150112_20261118150112_Screenshot20261118150001.jpg"
           }
         ]
       }
@@ -276,6 +268,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.8270157,
+          46.2269942
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Madonna di Campiglio / Pinzolo / Folgàrida / Marilleva",
+        "headline": "Folgarida-Marilleva: Neue 6er-Sesselbahn Brenzi und Pistenverbreiterung",
+        "summary": "Im Skigebiet Folgarida schreiten die Arbeiten an der neuen kuppelbaren 6er-Sesselbahn Brenzi von Doppelmayr voran. Parallel dazu werden im Verbund Madonna di Campiglio die Piste Direttissima Spinale verbreitert und eine neue Plaza-Piste realisiert.",
+        "source_url": "https://www.funiforum.org/funiforum/node/293995/page6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.2569389,
           46.6787736
         ]
@@ -287,24 +297,6 @@
         "headline": "Meran 2000: Küchelbergtunnel nach 13 Jahren Bauzeit vor Verkehrsfreigabe",
         "summary": "Die Fertigstellung des zweiten Bauabschnitts der Nordwestumfahrung Meran entlastet die Zufahrtsachsen aus dem Vinschgau ins Passeiertal und zur Talstation Meran 2000. Der 3,2 Kilometer lange Tunneldurchstich entschärft ein langjähriges Nadelöhr im regionalen Ausflugsverkehr.",
         "source_url": "https://www.alpinforum.com/threads/72766/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756415,
-          44.246681
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Mondolè Ski – Artesina/Frabosa Soprana/Prato Nevoso",
-        "headline": "Mondolè Ski: Bauarbeiten für die neue 8er-Sesselbahn Blu in Prato Nevoso",
-        "summary": "In Prato Nevoso laufen die Bauarbeiten für die neue Hochleistungs-8er-Sesselbahn Blu auf Hochtouren, um die Kapazität im Skigebiet Mondolè Ski deutlich zu steigern.",
-        "source_url": "https://www.funiforum.org/funiforum/node/10432/page30"
       }
     },
     {
@@ -348,36 +340,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9407475,
-          46.3026091
+          9.8392428,
+          46.4978958
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Monts Jura",
-        "headline": "Monts Jura: Drohende Schließung am La Dôle und Rückbau mehrerer Skilifte",
-        "summary": "Ein Streit um Pachtzahlungen zwischen dem französischen Betreiber und Schweizer Eignern gefährdet den Winterbetrieb im Teilgebiet La Dôle. Zudem wurden Lifte wie Tabagnoz und Couvaloup aus dem Pistenplan gestrichen.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=4048",
-        "image_url": "https://alpinfans.com/download/file.php?id=126535&mode=view"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.3119292,
-          47.3708539
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Oberstdorf / Kleinwalsertal",
-        "headline": "Oberstdorf Kleinwalsertal: Belastungstests an der neuen Walmendingerhornbahn abgeschlossen",
-        "summary": "Die neue Walmendingerhornbahn hat ihre Fahr- und Bremsproben mit wassergefüllten Gewichten erfolgreich absolviert. Der Innenausbau und der Bau des Zugangs-Stegs zur Piste stehen kurz vor dem Abschluss.",
-        "source_url": "https://www.alpinforum.com/threads/1062/page-187"
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Oberengadin / St. Moritz",
+        "headline": "Maloja: Skilift Aela stellt den Betrieb für bis zu fünf Jahre ein",
+        "summary": "Der traditionsreiche Skilift Aela in Maloja bleibt im kommenden Winter und voraussichtlich für bis zu fünf Jahre außer Betrieb. Technische Nachrüstungen für eine Betriebsbewilligung würden rund eine Million Franken erfordern, weshalb Gemeinde und Stiftung das Betriebsrecht vorerst ruhen lassen, um Finanzierungs- und Zukunftskonzepte zu prüfen.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=812&start=125"
       }
     },
     {
@@ -390,12 +363,21 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "21.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Paznauntal / Ischgl–Samnaun",
-        "headline": "Ischgl: Neue Höllkarbahn startet vorerst ohne Wetterschutzhauben",
-        "summary": "Die neue 8er-Sesselbahn Höllkarbahn C2 nimmt pünktlich zum Saisonstart den Betrieb auf, muss im ersten Winter jedoch ohne Wetterschutzhauben auskommen. Bei Wind im Höllkar zeigten sich im Probebetrieb unerwartete Schaukelbewegungen durch aerodynamische Selbsterregung der großen Sessel. Die Sitzheizung und die volle Förderleistung stehen den Gästen uneingeschränkt zur Verfügung, während Doppelmayr an einer Modifikation für die Saison 2027/28 arbeitet.",
-        "source_url": "https://www.alpinforum.com/threads/285/page-336"
+        "headline": "Samnaun: Garaventa modernisiert doppelstöckigen Twinliner mit neuen Kabinen",
+        "summary": "Über 30 Jahre nach der Inbetriebnahme der ersten doppelstöckigen Garaventa-Pendelbahn der Welt erhält der Twinliner in Samnaun zwei komplett neue Kabinen im modernisierten Schwarz-Silber-Design. Neben neuer Seilbahnsteuerung und Anpassungen an der Stationsinfrastruktur wurde die Bahn auch technisch für einen künftigen unbegleiteten Betrieb aufgerüstet.",
+        "source_url": "https://www.alpinforum.com/threads/285/page-336",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "21.11.2026 02:03 Uhr",
+            "headline": "Ischgl: Neue Höllkarbahn startet vorerst ohne Wetterschutzhauben",
+            "summary": "Die neue 8er-Sesselbahn Höllkarbahn C2 nimmt pünktlich zum Saisonstart den Betrieb auf, muss im ersten Winter jedoch ohne Wetterschutzhauben auskommen. Bei Wind im Höllkar zeigten sich im Probebetrieb unerwartete Schaukelbewegungen durch aerodynamische Selbsterregung der großen Sessel. Die Sitzheizung und die volle Förderleistung stehen den Gästen uneingeschränkt zur Verfügung, während Doppelmayr an einer Modifikation für die Saison 2027/28 arbeitet.",
+            "source_url": "https://www.alpinforum.com/threads/285/page-336"
+          }
+        ]
       }
     },
     {
@@ -458,12 +440,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.5729763,
+          47.0495139
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
+        "name": "Serfaus-Fiss-Ladis",
+        "headline": "Serfaus-Fiss-Ladis: Großprojekt Möseralmbahn und Modernisierung der Zentralstation Fiss angekündigt",
+        "summary": "Die Fisser Bergbahnen haben ihr bislang größtes Bauprojekt vorgestellt: Ab Frühjahr 2027 wird in zwei Bauphasen die Möseralmbahn komplett neu trassiert. Die neue 10er-Gondelbahn erhält ihre Bergstation direkt am Fisser Joch neben der Almbahn sowie eine neue Mittelstation mit Gastronomie auf der Möseralm. 2028 folgt der Neubau der Zentralstation Fiss, in der künftig auch die Sonnenbahn integriert wird, bevor die neue Bahn zum Winter 2028/29 in Betrieb geht.",
+        "source_url": "https://www.alpinforum.com/threads/3483/page-372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.2490297,
           47.4578352
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "26.11.2026 02:03 Uhr",
         "name": "SkiWelt Wilder Kaiser-Brixental",
         "headline": "Neue 10er Gondelbahn Hochbrixen für die SkiWelt angekündigt",
@@ -541,25 +541,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.5666055,
-          45.399064
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "19.11.2026 02:03 Uhr",
-        "name": "Les Trois Vallées",
-        "headline": "Les Trois Vallées: Prüfung eines Spätbetriebs der Gondelbahn Olympe",
-        "summary": "In Méribel und Brides-les-Bains prüfen die Gemeinde und die Bergbahngesellschaft Alpina Möglichkeiten für einen verlängerten Betrieb der Gondelbahn Olympe in den Abendstunden.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=28416&st=1280",
-        "image_url": "https://i.ibb.co/kgr3kJPm/IMG-3986.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.8764531,
           46.9131659
         ]
@@ -583,13 +564,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "24.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Val Cenis",
-        "headline": "Val Cenis: Baufortschritte am TSD6 Grand Coin und der neuen Fußgängerbrücke",
-        "summary": "Im Sektor Termignon schreiten die Arbeiten an der neuen 6er-Sesselbahn Grand Coin voran. Im Bereich Replat des Canons nimmt zudem die spektakuläre neue Fußgängerbrücke Form an.",
-        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43073&st=100",
-        "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7e8e9a7e-a755-441c-97e5-552aa486cb6c/1_1200.jpg"
+        "headline": "Val Cenis: Neuer Skilift Essarts mit optimierter Linienführung und Pistenkorrektur",
+        "summary": "Für den Bau des neuen Schlepplifts TKE des Essarts in Val Cenis wurden konkrete Planungsdetails bekannt. Die Talstation rückt hinter den Gebirgsbach, während der Ausstiegsbereich verlegt wird, um einen besseren Zugang zur roten Piste und zum Ziehweg L'Escargot zu ermöglichen. Der steile Zielhang wird dabei geländeseitig abgeflacht.",
+        "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=16882&st=540",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "24.11.2026 02:03 Uhr",
+            "headline": "Val Cenis: Baufortschritte am TSD6 Grand Coin und der neuen Fußgängerbrücke",
+            "summary": "Im Sektor Termignon schreiten die Arbeiten an der neuen 6er-Sesselbahn Grand Coin voran. Im Bereich Replat des Canons nimmt zudem die spektakuläre neue Fußgängerbrücke Form an.",
+            "source_url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=43073&st=100",
+            "image_url": "https://www.remontees-mecaniques.net/galerie/pictures/7e8e9a7e-a755-441c-97e5-552aa486cb6c/1_1200.jpg"
+          }
+        ]
       }
     },
     {
