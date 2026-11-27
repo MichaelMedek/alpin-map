@@ -6,6 +6,7 @@ import { readFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { extname, resolve } from "node:path";
 import { spawn } from "node:child_process";
+import { reindex } from "./reindex.mjs";
 
 const ROOT = resolve(fileURLToPath(new URL(".", import.meta.url)));
 const PORT = 8000;
@@ -45,6 +46,14 @@ server.on("error", (error) => {
   else console.error(error.message);
   process.exit(1);
 });
+
+// Always rebuild the highlight-reports manifest before serving, so dropping a report JSON into data/reports/ is
+// enough — starting the server reindexes it. A failure here is non-fatal: log it and serve the existing index.
+try {
+  console.log("Reindexed highlight reports: " + (await reindex()) + " in data/reports/index.json");
+} catch (error) {
+  console.error("Reindex skipped (" + error.message + "); serving the existing index.json.");
+}
 
 server.listen(PORT, () => {
   const url = "http://localhost:" + PORT + "/";

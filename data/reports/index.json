@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-11-27T07:47:46Z",
+  "reports": [
+    {
+      "id": "alpinfans__hausi24__2025-01-15__p31878",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-15",
+      "title": "Grand Massif: Traumhaftes Wetter und tolle Pisten zum Start",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=31878",
+      "centroid": [
+        46.01885246212122,
+        6.6992142676767665
+      ],
+      "photo_count": 44
+    },
+    {
+      "id": "alpinfans__hausi24__2025-01-16__p31986",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-16",
+      "title": "Praz sur Arly im Espace Diamant bei traumhaftem Skitag",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=31986",
+      "centroid": [
+        45.78775387931034,
+        6.565681513409963
+      ],
+      "photo_count": 58
+    },
+    {
+      "id": "alpinfans__hausi24__2025-01-17__p32071",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-17",
+      "title": "Abwechslungsreicher Skitag in Les Arcs und La Plagne",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=32071",
+      "centroid": [
+        45.535386293260466,
+        6.7587709471766875
+      ],
+      "photo_count": 61
+    },
+    {
+      "id": "alpinfans__hausi24__2025-01-18__p32150",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-18",
+      "title": "Windiger Skitag in Tignes und Val d Isère",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=32150",
+      "centroid": [
+        45.44759434697856,
+        6.941506968810917
+      ],
+      "photo_count": 57
+    },
+    {
+      "id": "alpinfans__hausi24__2025-01-19__p32256",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-19",
+      "title": "Windiger Skitag in La Rosière und La Thuile",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=32256",
+      "centroid": [
+        45.657761202185796,
+        6.878987249544627
+      ],
+      "photo_count": 61
+    },
+    {
+      "id": "alpinfans__hausi24__2025-01-20__p32336",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2025-01-20",
+      "title": "Le Grand Domaine: Letzter Skitag in Valmorel und St François Longchamp",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=32336",
+      "centroid": [
+        45.440266158059465,
+        6.402858411580596
+      ],
+      "photo_count": 71
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-11__p52567",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-11",
+      "title": "Strahlender Sonnenschein und griffiger Schnee in Vars Risoul",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=52567",
+      "centroid": [
+        44.595872727272734,
+        6.642923169191918
+      ],
+      "photo_count": 44
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-12__p52702",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-12",
+      "title": "Serre Chevalier und Briançon mit griffigen Sonnenhängen",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=52702",
+      "centroid": [
+        44.9259285639413,
+        6.543875733752621
+      ],
+      "photo_count": 53
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-13__p52842",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-13",
+      "title": "Schneearmer Skitag in der Via Lattea",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=52842",
+      "centroid": [
+        44.95408119212963,
+        6.819749797453699
+      ],
+      "photo_count": 96
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-14__p52984",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-14",
+      "title": "Sonniger Skitag in Valmeinier und Valloire",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=52984",
+      "centroid": [
+        45.163553298611106,
+        6.475869907407406
+      ],
+      "photo_count": 48
+    },
+    {
+      "id": "alpinfans__hausi24__2026-01-15__p53113",
+      "forum": "alpinfans",
+      "author": "hausi24",
+      "date": "2026-01-15",
+      "title": "Les Sybelles: Traumhafter Skitag bei bestem Wetter",
+      "source_url": "https://alpinfans.com/viewtopic.php?p=53113",
+      "centroid": [
+        45.242708163956635,
+        6.239308909214091
+      ],
+      "photo_count": 82
+    }
+  ]
+}

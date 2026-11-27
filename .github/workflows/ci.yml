@@ -25,8 +25,13 @@ jobs:
         run: |
           node --check map.js
           node --check map_state.mjs
+          node --check reindex.mjs
           node --check tests/map_state.test.mjs
           node --check tests/viewer.test.mjs
+          node --check tests/reports_index.test.mjs
 
       - name: Test static map behavior, viewer rendering, and committed data
         run: node --test tests/map_state.test.mjs tests/viewer.test.mjs
+
+      - name: Check the highlight-reports index is up to date with its report files
+        run: node --test tests/reports_index.test.mjs

@@ -1,0 +1,2619 @@
+{
+  "generated_at": "2026-11-27T07:07:49Z",
+  "report": {
+    "post_id": 52702,
+    "title": "Serre Chevalier und Briançon mit griffigen Sonnenhängen",
+    "author": "hausi24",
+    "forum": "alpinfans",
+    "source_url": "https://alpinfans.com/viewtopic.php?p=52702",
+    "date": "2026-01-12",
+    "text": "Montag 12. Januar 2026 - Serre Chevalier Es geht heute weiter nach Briançon, aber weil man dort nicht direkt neben der Gondelbahn parken konnte (nicht kostenlos), ging es weiter bis nach Le Villard-Latte.Auch dort sind die Parkplätze direkt neben der Station kostenpflichtig, aber mit 500 m laufen bekommt man sogar ein kostenfreies Parkhaus. Mit dem Pass Montagne gibt's den Tagespass für 57,60€, was 9 Euro Rabatt sind. Da lohnt sich der 10 Euro Pass schon nach 2 Tagen, obwohl er die ganze Saison gültig ist! Pistenplan: https://serre-chevalier.digisnow.app/ma ... creen=true\n[Image Descriptions: Talstation; Kostenloses Parkhaus etwa 500 m von der Talstation; Weiter geht es mit der ikonischen Pendelbahn auf dem Serre Chevalier Gipfel; Blick zum schönen Gipfel mit dem Schlepplift Eychauda, der leider geschlossen ist, wahrscheinlich fehlt der Schnee? Schade dass man an diesem Gipfel auf über 2600 Metern nicht investiert in Beschneiung und einen modernen Lift; Toller Sonnenhang super griffiger Schnee!; Auf dem Weg nach Briancon auf einen schönen Sonnenhang; Die direkte Anfahrt hat grenzwertig wenig Schnee; Mittelstation Briancon Gondelbahn; Die Piste von der Bergstation herab ist richtig gut zu fahren und macht Spaß!; Talabfahrt mit Blick auf Briancon, ein bisschen wie das französische Chur hier; Zurück ins Haupt Skigebiet über den Col Porel; Und jetzt hänge ich schon sicher über 10 Minuten im Sessellift Combes fest, der offenbar technische Schwierigkeiten hat und immer mal anhält für längere Zeit...; Geschlossener Gipfellift vom Clot Gauthier Sessellift; Neue lange Gondelbahn Pontillas, leider war die Talabfahrt eisig; Schöner Bereich oben mit vielen schleppliften toll für Anfänger sicher; Auf dem Weg auf die andere Seite des Skigebietes, ganz rechts im Pistenplan; Hier ganz rechts geht der Lift auf den höchsten Punkt auf 2800 m nach oben, unverständlicherweise ein langer, langsamer Alter Lift. Das wäre doch der perfekte Ort, um einen neuen Lift zu bauen, wo es auch neben den Freeride-Routen, eine normale rote Abfahrt hier gibt!; Toller Freeride Bereich hier!; Und auf ins Freeride Abenteuer! Meine neuen Ski sind dafür auch gemacht :D; Einige sind heute auch schon runter; Das erste Stück nach dem Grat war etwas eisig, oben der Anfang war aber super; Der unmittelbare Einstieg ist etwas schwieriger, da sind viele Steine die man umfahren muss; Unten heraus dann richtig schöner frischer Schnee, man merkt aber trotzdem dass er schon einen Tag alt ist an manchen Stellen ist er bisschen härter an manchen noch ganz weich; Hier sieht man mal wie steil es hier wirklich ist. Da nur wenige Meter darunter eine quere blaue Piste verläuft, kann eigentlich ja keine Lawinengefahr an diesem Hang bestehen, sonst hätte die Piste darunter nicht geöffnet sein können.; Erfolgreich unten angekommen, nun geht's noch mal mit dem Lift der ganz rechts ist hoch und der nur ungefähr so halb hoch geht; Von hier aus sieht man auch noch mal den Freeride Hagen von vorher; Der Lift selbst hat eine entspannte blaue bzw rote Abfahrt; Unten im Ort, nach links geht es weiter zum Col Lautaret, der inzwischen wieder normal befahrbar ist und nach Grenoble führen würde. Im Sommer geht von da aus der Col du Galibier ins nächste Tal, ich muss dann morgen Abend den Tunnel für 50 € nehmen; Es geht wieder zurück ins Haupt Skigebiet; Und jetzt ist auch noch der Oldtimer von 1975 dran!; Es rumpelt und klappert, aber man ist schneller oben als mit einer modernen Bahn die auf Sparbetrieb fährt!; Einfach toll diese französischen Stangenschlepplifte, die schlängeln sich einfach an den schönsten Stellen ein Grat entlang, wo ein normales Schlepplift mit den Kurven nicht zurechtkommt!; Zum Abschluss eine gesperrte rennpiste um 16:30 Uhr, mit perfekten Rillen!; Feierabend um 16:30 Uhr auf der doch recht eisigen Talabfahrt. Auf die letzte Bergfahrt vom Tal um 16:40 Uhr verzichte ich dieses mal ausnahmsweise.]"
+  },
+  "center": [
+    44.9259285639413,
+    6.54387573375262
+  ],
+  "placed_count": 53,
+  "photos": [
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93489&mode=view",
+      "description": "Talstation",
+      "geo": {
+        "latitude": 44.93327222222222,
+        "longitude": 6.587425,
+        "elevation_m": 1417.9,
+        "bearing_deg": 122.0,
+        "captured_at": "2026-01-12T08:47:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 220111918,
+        "name": "TCD10 Ratier",
+        "cat": "EUB",
+        "dist": 38
+      },
+      "piste": {
+        "name": "Briance",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 15
+      },
+      "n": 0
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93490&mode=view",
+      "description": "Kostenloses Parkhaus etwa 500 m von der Talstation",
+      "geo": {
+        "latitude": 44.93473888888889,
+        "longitude": 6.585491666666666,
+        "elevation_m": 1415.19,
+        "bearing_deg": 115.0,
+        "captured_at": "2026-01-12T08:44:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 256278424,
+        "name": "Patou",
+        "cat": "SL",
+        "dist": 117
+      },
+      "piste": {
+        "name": "",
+        "diff": "",
+        "ptype": "ice_skate",
+        "dist": 51
+      },
+      "n": 1
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93491&mode=view",
+      "description": "Weiter geht es mit der ikonischen Pendelbahn auf dem Serre Chevalier Gipfel",
+      "geo": {
+        "latitude": 44.924436111111106,
+        "longitude": 6.5706444444444445,
+        "elevation_m": 2018.85,
+        "bearing_deg": 194.0,
+        "captured_at": "2026-01-12T09:15:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 23
+      },
+      "piste": {
+        "name": "",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 2
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93492&mode=view",
+      "description": "PXL_20260112_081925240.jpg (661.41 KiB) 4879 mal betrachtet",
+      "geo": {
+        "latitude": 44.915524999999995,
+        "longitude": 6.557127777777778,
+        "elevation_m": 2358.0,
+        "bearing_deg": 166.0,
+        "captured_at": "2026-01-12T09:19:25"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "3 croix",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 3
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93493&mode=view",
+      "description": "PXL_20260112_082224076.jpg (904.08 KiB) 4877 mal betrachtet",
+      "geo": {
+        "latitude": 44.91083611111111,
+        "longitude": 6.550377777777777,
+        "elevation_m": 2522.0,
+        "bearing_deg": 301.0,
+        "captured_at": "2026-01-12T09:22:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 11
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 4
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93494&mode=view",
+      "description": "PXL_20260112_082342207.jpg (1.01 MiB) 4860 mal betrachtet",
+      "geo": {
+        "latitude": 44.91052777777777,
+        "longitude": 6.550319444444444,
+        "elevation_m": 2533.0,
+        "bearing_deg": 79.0,
+        "captured_at": "2026-01-12T09:23:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 44
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 5
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93495&mode=view",
+      "description": "PXL_20260112_082309699.jpg (775.58 KiB) 4860 mal betrachtet",
+      "geo": {
+        "latitude": 44.91076666666667,
+        "longitude": 6.550275,
+        "elevation_m": 2534.0,
+        "bearing_deg": 263.0,
+        "captured_at": "2026-01-12T09:23:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 4
+      },
+      "n": 6
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93496&mode=view",
+      "description": "Blick zum schönen Gipfel mit dem Schlepplift Eychauda, der leider geschlossen ist, wahrscheinlich fehlt der Schnee? Schade dass man an diesem Gipfel auf über 2600 Metern nicht investiert in Beschneiung und einen modernen Lift",
+      "geo": {
+        "latitude": 44.91010833333333,
+        "longitude": 6.550458333333333,
+        "elevation_m": 2528.0,
+        "bearing_deg": 191.0,
+        "captured_at": "2026-01-12T09:24:46"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 92
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 7
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93497&mode=view",
+      "description": "Toller Sonnenhang super griffiger Schnee!",
+      "geo": {
+        "latitude": 44.910355555555554,
+        "longitude": 6.550486111111111,
+        "elevation_m": 2530.0,
+        "bearing_deg": 293.0,
+        "captured_at": "2026-01-12T09:23:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 53028298,
+        "name": "Serre Chevalier",
+        "cat": "PB",
+        "dist": 65
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 8
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93498&mode=view",
+      "description": "Auf dem Weg nach Briancon auf einen schönen Sonnenhang",
+      "geo": {
+        "latitude": 44.90391944444444,
+        "longitude": 6.573955555555555,
+        "elevation_m": 2461.0,
+        "bearing_deg": 11.0,
+        "captured_at": "2026-01-12T09:34:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797804,
+        "name": "Prorel",
+        "cat": "SB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Bergers",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 9
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93499&mode=view",
+      "description": "Die direkte Anfahrt hat grenzwertig wenig Schnee",
+      "geo": {
+        "latitude": 44.89846111111111,
+        "longitude": 6.581922222222222,
+        "elevation_m": 2324.0,
+        "bearing_deg": 4.0,
+        "captured_at": "2026-01-12T09:36:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 320330585,
+        "name": "Croix Nore",
+        "cat": "SB",
+        "dist": 36
+      },
+      "piste": {
+        "name": "Pelvoux",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 10
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93500&mode=view",
+      "description": "Mittelstation Briancon Gondelbahn",
+      "geo": {
+        "latitude": 44.89806388888889,
+        "longitude": 6.615116666666666,
+        "elevation_m": 1630.91,
+        "bearing_deg": 253.0,
+        "captured_at": "2026-01-12T09:44:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797806,
+        "name": "Prorel 2",
+        "cat": "EUB",
+        "dist": 28
+      },
+      "piste": {
+        "name": "Pitchoune",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 6
+      },
+      "n": 11
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93501&mode=view",
+      "description": "Die Piste von der Bergstation herab ist richtig gut zu fahren und macht Spaß!",
+      "geo": {
+        "latitude": 44.90038888888889,
+        "longitude": 6.594044444444444,
+        "elevation_m": 2231.0,
+        "bearing_deg": 292.0,
+        "captured_at": "2026-01-12T09:56:19"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797806,
+        "name": "Prorel 2",
+        "cat": "EUB",
+        "dist": 48
+      },
+      "piste": {
+        "name": "Grande Gargouille",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 12
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93502&mode=view",
+      "description": "PXL_20260112_085424698.jpg (841.85 KiB) 4854 mal betrachtet",
+      "geo": {
+        "latitude": 44.90067222222222,
+        "longitude": 6.586347222222222,
+        "elevation_m": 2405.0,
+        "bearing_deg": 339.0,
+        "captured_at": "2026-01-12T09:54:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797806,
+        "name": "Prorel 2",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Grande Gargouille",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 13
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93503&mode=view",
+      "description": "Talabfahrt mit Blick auf Briancon, ein bisschen wie das französische Chur hier",
+      "geo": {
+        "latitude": 44.898580555555554,
+        "longitude": 6.619605555555556,
+        "elevation_m": 1520.0,
+        "bearing_deg": 323.0,
+        "captured_at": "2026-01-12T10:01:26"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1033578499,
+        "name": "Prorel 1",
+        "cat": "EUB",
+        "dist": 80
+      },
+      "piste": {
+        "name": "Vauban",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 14
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93504&mode=view",
+      "description": "PXL_20260112_090323366.jpg (948.06 KiB) 4851 mal betrachtet",
+      "geo": {
+        "latitude": 44.89751666666667,
+        "longitude": 6.626883333333334,
+        "elevation_m": 1328.0,
+        "bearing_deg": 354.0,
+        "captured_at": "2026-01-12T10:03:23"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1033578499,
+        "name": "Prorel 1",
+        "cat": "EUB",
+        "dist": 46
+      },
+      "piste": {
+        "name": "Vauban",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 15
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93505&mode=view",
+      "description": "PXL_20260112_090427820.jpg (1.35 MiB) 4851 mal betrachtet",
+      "geo": {
+        "latitude": 44.89622222222222,
+        "longitude": 6.629180555555556,
+        "elevation_m": 1281.0,
+        "bearing_deg": 291.0,
+        "captured_at": "2026-01-12T10:04:27"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1033578499,
+        "name": "Prorel 1",
+        "cat": "EUB",
+        "dist": 70
+      },
+      "piste": {
+        "name": "Vauban",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 16
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93513&mode=view",
+      "description": "Zurück ins Haupt Skigebiet über den Col Porel",
+      "geo": {
+        "latitude": 44.899388888888886,
+        "longitude": 6.585655555555555,
+        "elevation_m": 2380.0,
+        "bearing_deg": 219.0,
+        "captured_at": "2026-01-12T10:22:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797806,
+        "name": "Prorel 2",
+        "cat": "EUB",
+        "dist": 142
+      },
+      "piste": {
+        "name": "Pelvoux",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 0
+      },
+      "n": 17
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93514&mode=view",
+      "description": "Und jetzt hänge ich schon sicher über 10 Minuten im Sessellift Combes fest, der offenbar technische Schwierigkeiten hat und immer mal anhält für längere Zeit...",
+      "geo": {
+        "latitude": 44.922025,
+        "longitude": 6.569797222222222,
+        "elevation_m": 1994.0,
+        "bearing_deg": 223.0,
+        "captured_at": "2026-01-12T10:43:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797814,
+        "name": "Combes",
+        "cat": "SB",
+        "dist": 2
+      },
+      "piste": {
+        "name": "Vallons",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 39
+      },
+      "n": 18
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93518&mode=view",
+      "description": "PXL_20260112_100945705.jpg (1020.79 KiB) 4799 mal betrachtet",
+      "geo": {
+        "latitude": 44.91515555555556,
+        "longitude": 6.525511111111111,
+        "elevation_m": 2520.0,
+        "bearing_deg": 229.0,
+        "captured_at": "2026-01-12T11:09:45"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Sellettes",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 9
+      },
+      "n": 19
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93519&mode=view",
+      "description": "Geschlossener Gipfellift vom Clot Gauthier Sessellift",
+      "geo": {
+        "latitude": 44.91498055555555,
+        "longitude": 6.527266666666667,
+        "elevation_m": 2538.0,
+        "bearing_deg": 96.0,
+        "captured_at": "2026-01-12T11:09:10"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797797,
+        "name": "Clot Gauthier",
+        "cat": "SB",
+        "dist": 30
+      },
+      "piste": {
+        "name": "Sellettes",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 20
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93520&mode=view",
+      "description": "Neue lange Gondelbahn Pontillas, leider war die Talabfahrt eisig",
+      "geo": {
+        "latitude": 44.94468055555555,
+        "longitude": 6.549194444444445,
+        "elevation_m": 1518.0,
+        "bearing_deg": 302.0,
+        "captured_at": "2026-01-12T11:18:36"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1134105407,
+        "name": "TCD10 Pontillas",
+        "cat": "EUB",
+        "dist": 142
+      },
+      "piste": {
+        "name": "Verte",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 21
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93554&mode=view",
+      "description": "Schöner Bereich oben mit vielen schleppliften toll für Anfänger sicher",
+      "geo": {
+        "latitude": 44.9218,
+        "longitude": 6.528827777777778,
+        "elevation_m": 2299.0,
+        "bearing_deg": 184.0,
+        "captured_at": "2026-01-12T11:33:41"
+      },
+      "placed": true,
+      "lift": {
+        "id": 1452950525,
+        "name": "Pré Jeanne",
+        "cat": "SL",
+        "dist": 28
+      },
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 22
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93555&mode=view",
+      "description": "PXL_20260112_104124051.jpg (879.34 KiB) 4761 mal betrachtet",
+      "geo": {
+        "latitude": 44.91674722222222,
+        "longitude": 6.517772222222222,
+        "elevation_m": 2516.0,
+        "bearing_deg": 177.0,
+        "captured_at": "2026-01-12T11:41:24"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797815,
+        "name": "TKD1 Méa",
+        "cat": "SL",
+        "dist": 90
+      },
+      "piste": {
+        "name": "Chaméant",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 23
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93556&mode=view",
+      "description": "Auf dem Weg auf die andere Seite des Skigebietes, ganz rechts im Pistenplan",
+      "geo": {
+        "latitude": 44.93333333333333,
+        "longitude": 6.508644444444444,
+        "elevation_m": 2532.0,
+        "bearing_deg": 216.0,
+        "captured_at": "2026-01-12T11:57:05"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Eychauda",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 24
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93557&mode=view",
+      "description": "Hier ganz rechts geht der Lift auf den höchsten Punkt auf 2800 m nach oben, unverständlicherweise ein langer, langsamer Alter Lift. Das wäre doch der perfekte Ort, um einen neuen Lift zu bauen, wo es auch neben den Freeride-Routen, eine normale rote Abfahrt hier gibt!",
+      "geo": {
+        "latitude": 44.94700555555555,
+        "longitude": 6.501722222222222,
+        "elevation_m": 2266.0,
+        "bearing_deg": 135.0,
+        "captured_at": "2026-01-12T12:00:05"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797790,
+        "name": "Eychauda",
+        "cat": "SB",
+        "dist": 104
+      },
+      "piste": {
+        "name": "Eychauda",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 7
+      },
+      "n": 25
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93558&mode=view",
+      "description": "Toller Freeride Bereich hier!",
+      "geo": {
+        "latitude": 44.945141666666665,
+        "longitude": 6.497419444444445,
+        "elevation_m": 2312.0,
+        "bearing_deg": 217.0,
+        "captured_at": "2026-01-12T12:03:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Cibouit",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 55
+      },
+      "n": 26
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93562&mode=view",
+      "description": "Und auf ins Freeride Abenteuer! Meine neuen Ski sind dafür auch gemacht :D",
+      "geo": {
+        "latitude": 44.93729166666667,
+        "longitude": 6.493080555555555,
+        "elevation_m": 2748.0,
+        "bearing_deg": 287.0,
+        "captured_at": "2026-01-12T12:48:57"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 15
+      },
+      "piste": {
+        "name": "Col du vent",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 44
+      },
+      "n": 27
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93563&mode=view",
+      "description": "Einige sind heute auch schon runter",
+      "geo": {
+        "latitude": 44.937063888888886,
+        "longitude": 6.492405555555556,
+        "elevation_m": 2769.0,
+        "bearing_deg": 311.0,
+        "captured_at": "2026-01-12T12:47:49"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 24
+      },
+      "piste": {
+        "name": "Col du vent",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 32
+      },
+      "n": 28
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93564&mode=view",
+      "description": "Das erste Stück nach dem Grat war etwas eisig, oben der Anfang war aber super",
+      "geo": {
+        "latitude": 44.937324999999994,
+        "longitude": 6.492986111111112,
+        "elevation_m": 2751.0,
+        "bearing_deg": 287.0,
+        "captured_at": "2026-01-12T12:48:16"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 7
+      },
+      "piste": {
+        "name": "Col du vent",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 49
+      },
+      "n": 29
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93565&mode=view",
+      "description": "Der unmittelbare Einstieg ist etwas schwieriger, da sind viele Steine die man umfahren muss",
+      "geo": {
+        "latitude": 44.938741666666665,
+        "longitude": 6.494841666666667,
+        "elevation_m": 2662.0,
+        "bearing_deg": 262.0,
+        "captured_at": "2026-01-12T12:51:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 83
+      },
+      "piste": null,
+      "n": 30
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93566&mode=view",
+      "description": "PXL_20260112_115159601.jpg (574.06 KiB) 4741 mal betrachtet",
+      "geo": {
+        "latitude": 44.939055555555555,
+        "longitude": 6.495175,
+        "elevation_m": 2636.0,
+        "bearing_deg": 178.0,
+        "captured_at": "2026-01-12T12:51:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 94
+      },
+      "piste": null,
+      "n": 31
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93567&mode=view",
+      "description": "Unten heraus dann richtig schöner frischer Schnee, man merkt aber trotzdem dass er schon einen Tag alt ist an manchen Stellen ist er bisschen härter an manchen noch ganz weich",
+      "geo": {
+        "latitude": 44.940236111111105,
+        "longitude": 6.4958833333333335,
+        "elevation_m": 2542.0,
+        "bearing_deg": 258.0,
+        "captured_at": "2026-01-12T12:54:31"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 96
+      },
+      "piste": null,
+      "n": 32
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93568&mode=view",
+      "description": "PXL_20260112_115201706.jpg (760.33 KiB) 4741 mal betrachtet",
+      "geo": {
+        "latitude": 44.93906944444444,
+        "longitude": 6.495166666666667,
+        "elevation_m": 2638.0,
+        "bearing_deg": 261.0,
+        "captured_at": "2026-01-12T12:52:01"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 92
+      },
+      "piste": null,
+      "n": 33
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93569&mode=view",
+      "description": "PXL_20260112_115544209.jpg (500.39 KiB) 4741 mal betrachtet",
+      "geo": {
+        "latitude": 44.94081944444444,
+        "longitude": 6.496322222222222,
+        "elevation_m": 2503.0,
+        "bearing_deg": 170.0,
+        "captured_at": "2026-01-12T12:55:44"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 103
+      },
+      "piste": null,
+      "n": 34
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93570&mode=view",
+      "description": "Hier sieht man mal wie steil es hier wirklich ist. Da nur wenige Meter darunter eine quere blaue Piste verläuft, kann eigentlich ja keine Lawinengefahr an diesem Hang bestehen, sonst hätte die Piste darunter nicht geöffnet sein können.",
+      "geo": {
+        "latitude": 44.94081944444444,
+        "longitude": 6.496322222222222,
+        "elevation_m": 2503.0,
+        "bearing_deg": 209.0,
+        "captured_at": "2026-01-12T12:55:50"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652498,
+        "name": "Yret",
+        "cat": "SB",
+        "dist": 103
+      },
+      "piste": null,
+      "n": 35
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93571&mode=view",
+      "description": "Erfolgreich unten angekommen, nun geht's noch mal mit dem Lift der ganz rechts ist hoch und der nur ungefähr so halb hoch geht",
+      "geo": {
+        "latitude": 44.94617777777778,
+        "longitude": 6.494541666666667,
+        "elevation_m": 2331.0,
+        "bearing_deg": 182.0,
+        "captured_at": "2026-01-12T12:23:28"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797787,
+        "name": "Cibouït",
+        "cat": "SB",
+        "dist": 0
+      },
+      "piste": {
+        "name": "Cibouit",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 41
+      },
+      "n": 36
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93572&mode=view",
+      "description": "Von hier aus sieht man auch noch mal den Freeride Hagen von vorher",
+      "geo": {
+        "latitude": 44.94328888888889,
+        "longitude": 6.492516666666667,
+        "elevation_m": 2458.0,
+        "bearing_deg": 39.0,
+        "captured_at": "2026-01-12T12:27:47"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "Cibouït",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 37
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93573&mode=view",
+      "description": "Der Lift selbst hat eine entspannte blaue bzw rote Abfahrt",
+      "geo": {
+        "latitude": 44.94415833333333,
+        "longitude": 6.4903055555555556,
+        "elevation_m": 2523.75,
+        "bearing_deg": 164.0,
+        "captured_at": "2026-01-12T12:26:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797787,
+        "name": "Cibouït",
+        "cat": "SB",
+        "dist": 1
+      },
+      "piste": {
+        "name": "Pas de l'Âne",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 38
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93574&mode=view",
+      "description": "Unten im Ort, nach links geht es weiter zum Col Lautaret, der inzwischen wieder normal befahrbar ist und nach Grenoble führen würde. Im Sommer geht von da aus der Col du Galibier ins nächste Tal, ich muss dann morgen Abend den Tunnel für 50 € nehmen",
+      "geo": {
+        "latitude": 44.96808333333333,
+        "longitude": 6.509130555555555,
+        "elevation_m": 1558.0,
+        "bearing_deg": 254.0,
+        "captured_at": "2026-01-12T13:11:51"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652503,
+        "name": "Aya",
+        "cat": "SB",
+        "dist": 18
+      },
+      "piste": {
+        "name": "Pré Chabert",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 3
+      },
+      "n": 39
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93575&mode=view",
+      "description": "Es geht wieder zurück ins Haupt Skigebiet",
+      "geo": {
+        "latitude": 44.93304722222222,
+        "longitude": 6.505558333333333,
+        "elevation_m": 2440.0,
+        "bearing_deg": 57.0,
+        "captured_at": "2026-01-12T13:32:44"
+      },
+      "placed": true,
+      "lift": null,
+      "piste": {
+        "name": "",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 40
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93576&mode=view",
+      "description": "PXL_20260112_123738153.jpg (857.22 KiB) 4728 mal betrachtet",
+      "geo": {
+        "latitude": 44.93210833333333,
+        "longitude": 6.5093805555555555,
+        "elevation_m": 2536.0,
+        "bearing_deg": 348.0,
+        "captured_at": "2026-01-12T13:37:38"
+      },
+      "placed": true,
+      "lift": {
+        "id": 19652500,
+        "name": "Cucumelle",
+        "cat": "SB",
+        "dist": 4
+      },
+      "piste": {
+        "name": "Eychauda",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 41
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93577&mode=view",
+      "description": "Und jetzt ist auch noch der Oldtimer von 1975 dran!",
+      "geo": {
+        "latitude": 44.94181388888889,
+        "longitude": 6.562791666666667,
+        "elevation_m": 1470.0,
+        "bearing_deg": 24.0,
+        "captured_at": "2026-01-12T14:25:53"
+      },
+      "placed": true,
+      "lift": {
+        "id": 236250560,
+        "name": "TKE Mickey",
+        "cat": "SL",
+        "dist": 19
+      },
+      "piste": {
+        "name": "Mickey",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 42
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93578&mode=view",
+      "description": "PXL_20260112_125311638.jpg (978.12 KiB) 4705 mal betrachtet",
+      "geo": {
+        "latitude": 44.924077777777775,
+        "longitude": 6.560875,
+        "elevation_m": 2036.0,
+        "bearing_deg": 235.0,
+        "captured_at": "2026-01-12T13:53:11"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797788,
+        "name": "Forêt",
+        "cat": "SB",
+        "dist": 56
+      },
+      "piste": {
+        "name": "Marteau",
+        "diff": "easy",
+        "ptype": "downhill",
+        "dist": 11
+      },
+      "n": 43
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93579&mode=view",
+      "description": "Es rumpelt und klappert, aber man ist schneller oben als mit einer modernen Bahn die auf Sparbetrieb fährt!",
+      "geo": {
+        "latitude": 44.94004444444444,
+        "longitude": 6.563680555555555,
+        "elevation_m": 1504.0,
+        "bearing_deg": 130.0,
+        "captured_at": "2026-01-12T14:30:08"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "Deval’ Bob",
+        "diff": "easy",
+        "ptype": "sled",
+        "dist": 27
+      },
+      "n": 44
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93580&mode=view",
+      "description": "PXL_20260112_132809577.jpg (657.05 KiB) 4705 mal betrachtet",
+      "geo": {
+        "latitude": 44.942969444444444,
+        "longitude": 6.564438888888889,
+        "elevation_m": 1444.08,
+        "bearing_deg": 337.0,
+        "captured_at": "2026-01-12T14:28:09"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 17
+      },
+      "piste": {
+        "name": "Deval’ Bob",
+        "diff": "easy",
+        "ptype": "sled",
+        "dist": 17
+      },
+      "n": 45
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93581&mode=view",
+      "description": "PXL_20260112_132740195.jpg (934.93 KiB) 4705 mal betrachtet",
+      "geo": {
+        "latitude": 44.943130555555555,
+        "longitude": 6.564305555555555,
+        "elevation_m": 1448.5,
+        "bearing_deg": 123.0,
+        "captured_at": "2026-01-12T14:27:40"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 14
+      },
+      "piste": {
+        "name": "Mickey",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 14
+      },
+      "n": 46
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93582&mode=view",
+      "description": "PXL_20260112_133459238.jpg (763.76 KiB) 4702 mal betrachtet",
+      "geo": {
+        "latitude": 44.93008888888889,
+        "longitude": 6.561686111111111,
+        "elevation_m": 1860.0,
+        "bearing_deg": 102.0,
+        "captured_at": "2026-01-12T14:34:59"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 2
+      },
+      "piste": null,
+      "n": 47
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93583&mode=view",
+      "description": "PXL_20260112_133742793.jpg (1004.36 KiB) 4697 mal betrachtet",
+      "geo": {
+        "latitude": 44.925425,
+        "longitude": 6.560813888888888,
+        "elevation_m": 2035.0,
+        "bearing_deg": 229.0,
+        "captured_at": "2026-01-12T14:37:42"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 3
+      },
+      "piste": {
+        "name": "",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 5
+      },
+      "n": 48
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93584&mode=view",
+      "description": "PXL_20260112_133756517.jpg (1.04 MiB) 4697 mal betrachtet",
+      "geo": {
+        "latitude": 44.925355555555555,
+        "longitude": 6.560722222222222,
+        "elevation_m": 2032.0,
+        "bearing_deg": 241.0,
+        "captured_at": "2026-01-12T14:37:56"
+      },
+      "placed": true,
+      "lift": {
+        "id": 33130933,
+        "name": "TCD4 Aravet",
+        "cat": "EUB",
+        "dist": 6
+      },
+      "piste": {
+        "name": "",
+        "diff": "novice",
+        "ptype": "downhill",
+        "dist": 1
+      },
+      "n": 49
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93614&mode=view",
+      "description": "Einfach toll diese französischen Stangenschlepplifte, die schlängeln sich einfach an den schönsten Stellen ein Grat entlang, wo ein normales Schlepplift mit den Kurven nicht zurechtkommt!",
+      "geo": {
+        "latitude": 44.92044444444444,
+        "longitude": 6.534347222222222,
+        "elevation_m": 2327.0,
+        "bearing_deg": 162.0,
+        "captured_at": "2026-01-12T15:53:18"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797809,
+        "name": "TKD Crêtes",
+        "cat": "SL",
+        "dist": 2
+      },
+      "piste": null,
+      "n": 50
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93616&mode=view",
+      "description": "Zum Abschluss eine gesperrte rennpiste um 16:30 Uhr, mit perfekten Rillen!",
+      "geo": {
+        "latitude": 44.91823055555555,
+        "longitude": 6.564955555555556,
+        "elevation_m": 2195.0,
+        "bearing_deg": 198.0,
+        "captured_at": "2026-01-12T16:25:21"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797814,
+        "name": "Combes",
+        "cat": "SB",
+        "dist": 112
+      },
+      "piste": {
+        "name": "Stade",
+        "diff": "intermediate",
+        "ptype": "downhill",
+        "dist": 2
+      },
+      "n": 51
+    },
+    {
+      "url": "https://alpinfans.com/download/file.php?id=93617&mode=view",
+      "description": "Feierabend um 16:30 Uhr auf der doch recht eisigen Talabfahrt. Auf die letzte Bergfahrt vom Tal um 16:40 Uhr verzichte ich dieses mal ausnahmsweise.",
+      "geo": {
+        "latitude": 44.93069722222222,
+        "longitude": 6.581708333333333,
+        "elevation_m": 1571.0,
+        "bearing_deg": 296.0,
+        "captured_at": "2026-01-12T16:33:02"
+      },
+      "placed": true,
+      "lift": {
+        "id": 22797811,
+        "name": "TSD6 Blétonet",
+        "cat": "SB",
+        "dist": 34
+      },
+      "piste": {
+        "name": "Luc Alphand",
+        "diff": "advanced",
+        "ptype": "downhill",
+        "dist": 27
+      },
+      "n": 52
+    }
+  ],
+  "lifts": [
+    {
+      "id": 19652498,
+      "name": "Yret",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9481891,
+          6.49914
+        ],
+        [
+          44.9481277,
+          6.4991017
+        ],
+        [
+          44.9480501,
+          6.4990564
+        ],
+        [
+          44.9476329,
+          6.498804
+        ],
+        [
+          44.9472361,
+          6.4985774
+        ],
+        [
+          44.9466908,
+          6.4982629
+        ],
+        [
+          44.9456201,
+          6.497648
+        ],
+        [
+          44.9448859,
+          6.4972316
+        ],
+        [
+          44.9446059,
+          6.4970659
+        ],
+        [
+          44.9428859,
+          6.496089
+        ],
+        [
+          44.9418773,
+          6.4955136
+        ],
+        [
+          44.9409133,
+          6.4949651
+        ],
+        [
+          44.9399203,
+          6.4943911
+        ],
+        [
+          44.9383369,
+          6.4934785
+        ],
+        [
+          44.9381176,
+          6.4933585
+        ],
+        [
+          44.9376092,
+          6.4930674
+        ],
+        [
+          44.9372323,
+          6.4928388
+        ],
+        [
+          44.9358467,
+          6.4920348
+        ],
+        [
+          44.9352781,
+          6.4917049
+        ],
+        [
+          44.9348745,
+          6.4914795
+        ]
+      ]
+    },
+    {
+      "id": 19652500,
+      "name": "Cucumelle",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9308357,
+          6.5062224
+        ],
+        [
+          44.9308996,
+          6.5063866
+        ],
+        [
+          44.9311076,
+          6.5069214
+        ],
+        [
+          44.9314076,
+          6.5076928
+        ],
+        [
+          44.9317439,
+          6.5085574
+        ],
+        [
+          44.9320414,
+          6.5093222
+        ],
+        [
+          44.9321502,
+          6.5096018
+        ],
+        [
+          44.9322317,
+          6.5098114
+        ]
+      ]
+    },
+    {
+      "id": 19652503,
+      "name": "Aya",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9711032,
+          6.5093475
+        ],
+        [
+          44.9709303,
+          6.5093486
+        ],
+        [
+          44.9705583,
+          6.5093495
+        ],
+        [
+          44.9696019,
+          6.5093518
+        ],
+        [
+          44.9682584,
+          6.5093551
+        ],
+        [
+          44.9673656,
+          6.5093572
+        ],
+        [
+          44.9670629,
+          6.509358
+        ],
+        [
+          44.9661027,
+          6.5093603
+        ],
+        [
+          44.9657193,
+          6.5093612
+        ],
+        [
+          44.9653084,
+          6.5093622
+        ],
+        [
+          44.9644051,
+          6.5093644
+        ],
+        [
+          44.9634666,
+          6.5093666
+        ],
+        [
+          44.9618633,
+          6.5093705
+        ],
+        [
+          44.9609852,
+          6.5093726
+        ],
+        [
+          44.9604699,
+          6.5093739
+        ],
+        [
+          44.9602602,
+          6.5093744
+        ],
+        [
+          44.9590721,
+          6.5093773
+        ],
+        [
+          44.9589145,
+          6.5093776
+        ],
+        [
+          44.9588718,
+          6.5093777
+        ],
+        [
+          44.9587855,
+          6.509378
+        ]
+      ]
+    },
+    {
+      "id": 22797787,
+      "name": "Cibouït",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9482982,
+          6.4989922
+        ],
+        [
+          44.9482523,
+          6.4988912
+        ],
+        [
+          44.9478424,
+          6.4980045
+        ],
+        [
+          44.947557,
+          6.4974045
+        ],
+        [
+          44.9468201,
+          6.4958977
+        ],
+        [
+          44.9461729,
+          6.4945383
+        ],
+        [
+          44.9456978,
+          6.4935413
+        ],
+        [
+          44.94502,
+          6.4921203
+        ],
+        [
+          44.9444458,
+          6.4909095
+        ],
+        [
+          44.9443091,
+          6.490588
+        ],
+        [
+          44.9442768,
+          6.4905197
+        ],
+        [
+          44.9441495,
+          6.4902732
+        ]
+      ]
+    },
+    {
+      "id": 22797788,
+      "name": "Forêt",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9241186,
+          6.5618174
+        ],
+        [
+          44.9239673,
+          6.5616508
+        ],
+        [
+          44.9236806,
+          6.5613354
+        ],
+        [
+          44.923092,
+          6.5606878
+        ],
+        [
+          44.9222129,
+          6.5597205
+        ],
+        [
+          44.9214037,
+          6.5588301
+        ],
+        [
+          44.920427,
+          6.5577556
+        ],
+        [
+          44.9188603,
+          6.5560319
+        ],
+        [
+          44.917711,
+          6.5547673
+        ],
+        [
+          44.9165118,
+          6.553448
+        ],
+        [
+          44.9153572,
+          6.5521778
+        ],
+        [
+          44.9142077,
+          6.5509132
+        ],
+        [
+          44.9140833,
+          6.5507763
+        ],
+        [
+          44.9138573,
+          6.5505381
+        ]
+      ]
+    },
+    {
+      "id": 22797790,
+      "name": "Eychauda",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9481691,
+          6.4999375
+        ],
+        [
+          44.9480199,
+          6.4999923
+        ],
+        [
+          44.947303,
+          6.5002628
+        ],
+        [
+          44.9467719,
+          6.5004525
+        ],
+        [
+          44.94544,
+          6.5009395
+        ],
+        [
+          44.9450791,
+          6.5010656
+        ],
+        [
+          44.9435653,
+          6.5016181
+        ],
+        [
+          44.9421025,
+          6.5021624
+        ],
+        [
+          44.94059,
+          6.5027086
+        ],
+        [
+          44.9394378,
+          6.5031277
+        ],
+        [
+          44.9379086,
+          6.5036906
+        ],
+        [
+          44.9359438,
+          6.5044172
+        ],
+        [
+          44.9356902,
+          6.5044989
+        ]
+      ]
+    },
+    {
+      "id": 22797797,
+      "name": "Clot Gauthier",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9198382,
+          6.5406601
+        ],
+        [
+          44.9197473,
+          6.5404103
+        ],
+        [
+          44.9196622,
+          6.5401781
+        ],
+        [
+          44.9193257,
+          6.5392596
+        ],
+        [
+          44.9188658,
+          6.5380044
+        ],
+        [
+          44.918416,
+          6.536777
+        ],
+        [
+          44.9178613,
+          6.535263
+        ],
+        [
+          44.9172788,
+          6.5336734
+        ],
+        [
+          44.9169758,
+          6.5328466
+        ],
+        [
+          44.9164543,
+          6.5314232
+        ],
+        [
+          44.9157785,
+          6.5295789
+        ],
+        [
+          44.9151788,
+          6.5279425
+        ],
+        [
+          44.9151398,
+          6.5278359
+        ],
+        [
+          44.9150641,
+          6.5276259
+        ]
+      ]
+    },
+    {
+      "id": 22797804,
+      "name": "Prorel",
+      "cat": "SB",
+      "coords": [
+        [
+          44.9146866,
+          6.5702139
+        ],
+        [
+          44.9145244,
+          6.5702697
+        ],
+        [
+          44.9135369,
+          6.5706093
+        ],
+        [
+          44.912434,
+          6.5709885
+        ],
+        [
+          44.9117652,
+          6.5712185
+        ],
+        [
+          44.9101906,
+          6.5717599
+        ],
+        [
+          44.9092837,
+          6.5720718
+        ],
+        [
+          44.9083989,
+          6.572376
+        ],
+        [
+          44.9075253,
+          6.5726764
+        ],
+        [
+          44.9063817,
+          6.5730696
+        ],
+        [
+          44.9053867,
+          6.5734118
+        ],
+        [
+          44.9046723,
+          6.5736574
+        ],
+        [
+          44.904176,
+          6.5738281
+        ],
+        [
+          44.9040331,
+          6.5738772
+        ]
+      ]
+    },
+    {
+      "id": 22797806,
+      "name": "Prorel 2",
+      "cat": "EUB",
+      "coords": [
+        [
+          44.8983054,
+          6.6152176
+        ],
+        [
+          44.8983402,
+          6.6147709
+        ],
+        [
+          44.8984096,
+          6.6138819
+        ],
+        [
+          44.8984617,
+          6.6132138
+        ],
+        [
+          44.8985768,
+          6.6117376
+        ],
+        [
+          44.8985932,
+          6.6115273
+        ],
+        [
+          44.8986621,
+          6.6106446
+        ],
+        [
+          44.8988908,
+          6.6077123
+        ],
+        [
+          44.8991024,
+          6.6050002
+        ],
+        [
+          44.8991426,
+          6.6044842
+        ],
+        [
+          44.899236,
+          6.6032867
+        ],
+        [
+          44.8994868,
+          6.6000711
+        ],
+        [
+          44.8997562,
+          6.5966171
+        ],
+        [
+          44.8998338,
+          6.5956227
+        ],
+        [
+          44.8999677,
+          6.593906
+        ],
+        [
+          44.9000944,
+          6.5922815
+        ],
+        [
+          44.9001698,
+          6.5913153
+        ],
+        [
+          44.9002527,
+          6.5902521
+        ],
+        [
+          44.900375,
+          6.5886843
+        ],
+        [
+          44.9003976,
+          6.5883944
+        ],
+        [
+          44.9004502,
+          6.5877194
+        ],
+        [
+          44.9005028,
+          6.5870453
+        ],
+        [
+          44.9005287,
+          6.5867142
+        ],
+        [
+          44.900552,
+          6.5864148
+        ]
+      ]
+    },
+    {
+      "id": 22797809,
+      "name": "TKD Crêtes",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9268458,
+          6.5390178
+        ],
+        [
+          44.9264454,
+          6.5387911
+        ],
+        [
+          44.9255547,
+          6.5383042
+        ],
+        [
+          44.9244979,
+          6.537753
+        ],
+        [
+          44.9238694,
+          6.5374359
+        ],
+        [
+          44.9228428,
+          6.5368143
+        ],
+        [
+          44.9225123,
+          6.5366279
+        ],
+        [
+          44.9218618,
+          6.5358943
+        ],
+        [
+          44.9209445,
+          6.5348697
+        ],
+        [
+          44.9202447,
+          6.5340985
+        ],
+        [
+          44.9198642,
+          6.5326502
+        ],
+        [
+          44.9196095,
+          6.5316808
+        ],
+        [
+          44.9194622,
+          6.5311199
+        ],
+        [
+          44.9192851,
+          6.5304459
+        ],
+        [
+          44.9192495,
+          6.5303104
+        ]
+      ]
+    },
+    {
+      "id": 22797811,
+      "name": "TSD6 Blétonet",
+      "cat": "SB",
+      "coords": [
+        [
+          44.932694,
+          6.5865907
+        ],
+        [
+          44.9322852,
+          6.5857215
+        ],
+        [
+          44.9315272,
+          6.5841723
+        ],
+        [
+          44.9311965,
+          6.5834963
+        ],
+        [
+          44.930644,
+          6.582367
+        ],
+        [
+          44.9298594,
+          6.5807634
+        ],
+        [
+          44.9295426,
+          6.5801159
+        ],
+        [
+          44.9292015,
+          6.5794188
+        ],
+        [
+          44.928371,
+          6.5777213
+        ],
+        [
+          44.9278496,
+          6.5766557
+        ],
+        [
+          44.9270786,
+          6.57508
+        ],
+        [
+          44.9263834,
+          6.573659
+        ],
+        [
+          44.9255065,
+          6.5718669
+        ],
+        [
+          44.9251699,
+          6.5711791
+        ],
+        [
+          44.9251021,
+          6.5710406
+        ],
+        [
+          44.924947,
+          6.5707188
+        ]
+      ]
+    },
+    {
+      "id": 22797814,
+      "name": "Combes",
+      "cat": "SB",
+      "coords": [
+        [
+          44.923582,
+          6.572817
+        ],
+        [
+          44.9234882,
+          6.572641
+        ],
+        [
+          44.9231965,
+          6.5720817
+        ],
+        [
+          44.9223589,
+          6.5704757
+        ],
+        [
+          44.9214978,
+          6.5688246
+        ],
+        [
+          44.9204206,
+          6.5667593
+        ],
+        [
+          44.9198136,
+          6.5655955
+        ],
+        [
+          44.9191382,
+          6.5643006
+        ],
+        [
+          44.9181415,
+          6.5623897
+        ],
+        [
+          44.9173989,
+          6.5609658
+        ],
+        [
+          44.9167486,
+          6.5597192
+        ],
+        [
+          44.9159817,
+          6.5582488
+        ],
+        [
+          44.9152845,
+          6.5569122
+        ],
+        [
+          44.9148507,
+          6.5560805
+        ],
+        [
+          44.9139359,
+          6.5543267
+        ],
+        [
+          44.9131082,
+          6.5527399
+        ],
+        [
+          44.9130521,
+          6.5526323
+        ],
+        [
+          44.9129488,
+          6.5524395
+        ]
+      ]
+    },
+    {
+      "id": 22797815,
+      "name": "TKD1 Méa",
+      "cat": "SL",
+      "coords": [
+        [
+          44.921959,
+          6.5282669
+        ],
+        [
+          44.9210206,
+          6.526312
+        ],
+        [
+          44.9206195,
+          6.525488
+        ],
+        [
+          44.9204278,
+          6.5250771
+        ],
+        [
+          44.9201728,
+          6.524554
+        ],
+        [
+          44.91963,
+          6.5234152
+        ],
+        [
+          44.9190327,
+          6.522171
+        ],
+        [
+          44.9182324,
+          6.5205038
+        ],
+        [
+          44.9180543,
+          6.520326
+        ],
+        [
+          44.9175602,
+          6.5198326
+        ],
+        [
+          44.9170476,
+          6.5193208
+        ],
+        [
+          44.9166303,
+          6.5189042
+        ]
+      ]
+    },
+    {
+      "id": 33130933,
+      "name": "TCD4 Aravet",
+      "cat": "EUB",
+      "coords": [
+        [
+          44.9430123,
+          6.5642305
+        ],
+        [
+          44.9427723,
+          6.5641881
+        ],
+        [
+          44.9427009,
+          6.5641738
+        ],
+        [
+          44.9424983,
+          6.5641335
+        ],
+        [
+          44.9414229,
+          6.5639195
+        ],
+        [
+          44.9405119,
+          6.5637381
+        ],
+        [
+          44.939752,
+          6.5635869
+        ],
+        [
+          44.9381166,
+          6.5632614
+        ],
+        [
+          44.9371914,
+          6.5630773
+        ],
+        [
+          44.9369125,
+          6.5630217
+        ],
+        [
+          44.935388,
+          6.5627183
+        ],
+        [
+          44.9347214,
+          6.5625857
+        ],
+        [
+          44.9331334,
+          6.5622696
+        ],
+        [
+          44.9322325,
+          6.5620903
+        ],
+        [
+          44.930441,
+          6.5617338
+        ],
+        [
+          44.9290332,
+          6.5614537
+        ],
+        [
+          44.9277459,
+          6.5611975
+        ],
+        [
+          44.9258069,
+          6.5608367
+        ],
+        [
+          44.9256714,
+          6.5607987
+        ],
+        [
+          44.9253936,
+          6.560774
+        ]
+      ]
+    },
+    {
+      "id": 53028298,
+      "name": "Serre Chevalier",
+      "cat": "PB",
+      "coords": [
+        [
+          44.9248943,
+          6.5708919
+        ],
+        [
+          44.9211989,
+          6.5654448
+        ],
+        [
+          44.9194309,
+          6.562839
+        ],
+        [
+          44.9178455,
+          6.5605022
+        ],
+        [
+          44.9165737,
+          6.5586278
+        ],
+        [
+          44.9152721,
+          6.5567094
+        ],
+        [
+          44.9109243,
+          6.5503018
+        ]
+      ]
+    },
+    {
+      "id": 220111918,
+      "name": "TCD10 Ratier",
+      "cat": "EUB",
+      "coords": [
+        [
+          44.9329325,
+          6.5873966
+        ],
+        [
+          44.93279,
+          6.5871037
+        ],
+        [
+          44.9314451,
+          6.5843383
+        ],
+        [
+          44.930652,
+          6.5827075
+        ],
+        [
+          44.9296345,
+          6.5806155
+        ],
+        [
+          44.9294506,
+          6.5802376
+        ],
+        [
+          44.9284553,
+          6.5781912
+        ],
+        [
+          44.9271121,
+          6.5754296
+        ],
+        [
+          44.9261678,
+          6.5734881
+        ],
+        [
+          44.9251562,
+          6.5714084
+        ],
+        [
+          44.9251169,
+          6.5713275
+        ],
+        [
+          44.9250135,
+          6.571115
+        ]
+      ]
+    },
+    {
+      "id": 236250560,
+      "name": "TKE Mickey",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9430196,
+          6.5634419
+        ],
+        [
+          44.9427205,
+          6.5632139
+        ],
+        [
+          44.9418185,
+          6.5625266
+        ],
+        [
+          44.9407274,
+          6.5616951
+        ],
+        [
+          44.9405022,
+          6.5615235
+        ]
+      ]
+    },
+    {
+      "id": 256278424,
+      "name": "Patou",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9334878,
+          6.5857559
+        ],
+        [
+          44.9336894,
+          6.5855139
+        ]
+      ]
+    },
+    {
+      "id": 320330585,
+      "name": "Croix Nore",
+      "cat": "SB",
+      "coords": [
+        [
+          44.8985331,
+          6.5814275
+        ],
+        [
+          44.8986135,
+          6.581515
+        ],
+        [
+          44.8989637,
+          6.5818964
+        ],
+        [
+          44.8997823,
+          6.5827882
+        ],
+        [
+          44.9006775,
+          6.5837633
+        ],
+        [
+          44.9010643,
+          6.5841846
+        ],
+        [
+          44.9011655,
+          6.5842948
+        ]
+      ]
+    },
+    {
+      "id": 1033578499,
+      "name": "Prorel 1",
+      "cat": "EUB",
+      "coords": [
+        [
+          44.8967742,
+          6.6300055
+        ],
+        [
+          44.8968071,
+          6.6297016
+        ],
+        [
+          44.89686,
+          6.6291901
+        ],
+        [
+          44.8969178,
+          6.6286311
+        ],
+        [
+          44.8969675,
+          6.6281513
+        ],
+        [
+          44.8971327,
+          6.6265544
+        ],
+        [
+          44.8973841,
+          6.6241243
+        ],
+        [
+          44.8974421,
+          6.6235635
+        ],
+        [
+          44.8974674,
+          6.6233183
+        ],
+        [
+          44.89764,
+          6.6216504
+        ],
+        [
+          44.8977242,
+          6.6208358
+        ],
+        [
+          44.8977955,
+          6.6201471
+        ],
+        [
+          44.8980636,
+          6.6175551
+        ],
+        [
+          44.8981466,
+          6.6167526
+        ],
+        [
+          44.8982245,
+          6.6159999
+        ],
+        [
+          44.8982612,
+          6.6156445
+        ],
+        [
+          44.8983054,
+          6.6152176
+        ]
+      ]
+    },
+    {
+      "id": 1134105407,
+      "name": "TCD10 Pontillas",
+      "cat": "EUB",
+      "coords": [
+        [
+          44.9476166,
+          6.554162
+        ],
+        [
+          44.9474553,
+          6.5540086
+        ],
+        [
+          44.9471255,
+          6.553695
+        ],
+        [
+          44.9446928,
+          6.5513822
+        ],
+        [
+          44.9431544,
+          6.5499196
+        ],
+        [
+          44.9395477,
+          6.5464909
+        ],
+        [
+          44.9365619,
+          6.5436526
+        ],
+        [
+          44.9364161,
+          6.5435139
+        ],
+        [
+          44.9340147,
+          6.5412313
+        ],
+        [
+          44.9332676,
+          6.5405211
+        ],
+        [
+          44.9316422,
+          6.5389762
+        ],
+        [
+          44.9292436,
+          6.5366963
+        ],
+        [
+          44.926319,
+          6.5339167
+        ],
+        [
+          44.925878,
+          6.5334976
+        ],
+        [
+          44.925524,
+          6.5331611
+        ],
+        [
+          44.9237295,
+          6.5314556
+        ],
+        [
+          44.9217745,
+          6.5295977
+        ],
+        [
+          44.9214311,
+          6.5292714
+        ]
+      ]
+    },
+    {
+      "id": 1452950525,
+      "name": "Pré Jeanne",
+      "cat": "SL",
+      "coords": [
+        [
+          44.9216622,
+          6.5285261
+        ],
+        [
+          44.9178672,
+          6.5265983
+        ]
+      ]
+    }
+  ],
+  "lift_cats": {
+    "PB": {
+      "label": "Großkabinenbahn",
+      "color": "#3d0a66"
+    },
+    "EUB": {
+      "label": "Kabinenbahn",
+      "color": "#6a1b9a"
+    },
+    "SB": {
+      "label": "Sesselbahn",
+      "color": "#9c27b0"
+    },
+    "SL": {
+      "label": "Schlepplift",
+      "color": "#e0a8ef"
+    }
+  },
+  "bearing_offset_deg": 270
+}
