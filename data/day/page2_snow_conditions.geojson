@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Adelboden-Lenk",
         "headline": "Adelboden-Lenk: Eingeschränkter Wochenendbetrieb am Hahnenmoos",
@@ -53,6 +53,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.5948148,
+          46.6340499
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
+        "name": "Andermatt–Sedrun–Disentis",
+        "headline": "Skiauftakt am Gemsstock bei klirrenden Minustemperaturen",
+        "summary": "Bei minus 15 Grad startete der Skibetrieb am Gemsstock. Während sich die Sonnenpiste im Tagesverlauf weicher präsentierte, bot der Pistenbereich Gurschen sehr gute Verhältnisse.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3953&start=50",
+        "image_url": "https://media.alpinfans.com/live/59/20261127-094901-cc052042_l.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.7529301,
           47.1166893
         ]
@@ -83,6 +102,24 @@
         "summary": "Mit rund zehn Zentimetern Neuschnee auf dem Berg startete das Parsenngebiet in das Wochenende. Nach Auflösung des anfänglichen Morgennebels boten die Sesselbahnen Rapid und Totalp gute Bedingungen, während in den unteren Lagen die Grundbeschneiung der Talabfahrt intensiviert wird.",
         "source_url": "https://alpinfans.com/viewtopic.php?t=3881&start=25",
         "image_url": "https://alpinfans.com/download/file.php?id=126576&mode=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4043996,
+          46.8223497
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
+        "name": "Engelberg / Titlis–Brunni",
+        "headline": "Sektoren Stand und Laubersgrat öffnen am Titlis",
+        "summary": "Am Engelberg Titlis werden zum Wochenende die Anlagen an Stand und Laubersgrat in Betrieb genommen, um das Pistenangebot für die Besucher zu erweitern.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3951&start=25"
       }
     },
     {
@@ -150,12 +187,22 @@
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "24.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
         "name": "Flumserberg",
-        "headline": "Flumserberg: Pistenfahrzeuge bereiten Saisonstart am Freitag vor",
-        "summary": "Nach ergiebigem Schneefall in den Höhenlagen haben die Pistenraupen am Flumserberg die Arbeit aufgenommen. Der Saisonauftakt ist für Freitag fixiert.",
-        "source_url": "https://www.alpinforum.com/threads/72787/"
+        "headline": "Ausgezeichnete Schneelage zum Saisonauftakt am Flumserberg",
+        "summary": "Der Flumserberg startet mit beachtlichen Naturschneemengen in die neue Wintersaison, wobei die Pisten am ersten Tag noch leicht wellig zu befahren waren.",
+        "source_url": "https://alpinfans.com/viewtopic.php?t=3961",
+        "image_url": "https://alpinfans.com/download/file.php?id=126785&mode=view",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "24.11.2026 02:03 Uhr",
+            "headline": "Flumserberg: Pistenfahrzeuge bereiten Saisonstart am Freitag vor",
+            "summary": "Nach ergiebigem Schneefall in den Höhenlagen haben die Pistenraupen am Flumserberg die Arbeit aufgenommen. Der Saisonauftakt ist für Freitag fixiert.",
+            "source_url": "https://www.alpinforum.com/threads/72787/"
+          }
+        ]
       }
     },
     {
@@ -208,17 +255,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0282497,
-          46.8711626
+          13.9143318,
+          46.69476
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "20.11.2026 02:03 Uhr",
-        "name": "Gurgl",
-        "headline": "Gurgl: Gelungener Saisonauftakt mit 71 Pistenkilometern",
-        "summary": "Obergurgl-Hochgurgl ist mit einem umfangreichen Pistenangebot in den Winter gestartet: Rund 71 Pistenkilometer inklusive der Talabfahrten sind geöffnet. Lediglich die Bahnen Kirchenkar 2 und Top-Express blieben wegen starker Windböen am Festkogel vorübergehend außer Betrieb.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3986"
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
+        "name": "Gerlitzen",
+        "headline": "Gerlitzen geht mit den Hauptanlagen in den Tägliche-Betrieb",
+        "summary": "Auf der Gerlitzen nehmen die Kanzelbahn, die Klösterlebahn sowie der Neugartenjet und der Wörthersee Jet den täglichen durchgehenden Wintersportbetrieb auf.",
+        "source_url": "https://www.alpinforum.com/threads/72757/"
       }
     },
     {
@@ -281,31 +328,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.958311,
-          46.7387791
-        ]
-      },
-      "properties": {
-        "recency": "weekly",
-        "timestamp": "20.11.2026 02:03 Uhr",
-        "name": "Kronplatz / Plan de Corones",
-        "headline": "Kronplatz: Intensive Grundbeschneiung vor dem Saisonstart am 28. November",
-        "summary": "Am Kronplatz laufen die Vorbereitungen für das anstehende Eröffnungswochenende auf Hochtouren. Die frostigen Temperaturen werden für eine flächendeckende Schneeerzeugung auf den Hauptabfahrten rund um das Gipfelplateau genutzt.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3906",
-        "image_url": "https://alpinfans.com/download/file.php?id=126547&mode=view"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.0234047,
           47.2136222
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Kühtai",
         "headline": "Kühtai: Vier Hauptanlagen eröffnen am Freitag die Wintersaison",
@@ -323,7 +351,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Les 7 Laux – Prapoutel/Le Pleynet/Pipay",
         "headline": "Les 7 Laux: Vorzeitiger Saisonstart am Wochenende im Sektor Pipay",
@@ -341,7 +369,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Livigno",
         "headline": "Livigno startet am Samstag mit der Hälfte aller Lifte und Pisten in die Saison",
@@ -397,7 +425,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Alagna Valsesia/Gressoney-La-Trinité/Champoluc/Frachey (Monterosa Ski)",
         "headline": "Monterosa Ski: Wochenend-Auftakt zwischen Alagna und Gressoney",
@@ -637,7 +665,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Sörenberg",
         "headline": "Sörenberg: Skibetrieb am Brienzer Rothorn auf den Bereich Eisee beschränkt",
@@ -655,7 +683,7 @@
         ]
       },
       "properties": {
-        "recency": "breaking",
+        "recency": "weekly",
         "timestamp": "27.11.2026 02:03 Uhr",
         "name": "Sudelfeld / Bayrischzell",
         "headline": "Sudelfeld verschiebt den geplanten Saisonstart auf den 5. Dezember",
@@ -705,18 +733,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.8764531,
+          46.9131659
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
+        "name": "Turracher Höhe",
+        "headline": "Ergiebiger Neuschnee erweitert Angebot auf der Turracher Höhe",
+        "summary": "Nach bis zu 40 Zentimetern Neuschnee öffnen auf der Turracher Höhe zusätzlich die Kornockbahn, die Schafalmbahn und der Engländerlift.",
+        "source_url": "https://www.alpinforum.com/threads/72746/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.7163465,
           45.9609858
         ]
       },
       "properties": {
-        "recency": "weekly",
-        "timestamp": "25.11.2026 02:03 Uhr",
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
         "name": "Matterhorn: Zermatt / Breuil-Cervinia / Valtournenche",
-        "headline": "Cervinia öffnet die Ventina-Talabfahrt",
-        "summary": "Dank kräftiger Schneefälle öffnet Breuil-Cervinia die legendäre Ventina-Talabfahrt sowie den Sektor Valtournenche mit den Anlagen Motta, Bec Carré und Du Col für den Skibetrieb.",
-        "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=150",
-        "image_url": "https://alpinfans.com/download/file.php?id=126708&mode=view"
+        "headline": "Weitere Talabfahrt in Breuil-Cervinia freigegeben",
+        "summary": "In Cervinia wurde das Pistenangebot erweitert: Die rote Talabfahrt unterhalb der 6er-Sesselbahn Cretaz ist nun offiziell befahrbar.",
+        "source_url": "https://www.alpinforum.com/threads/72469/page-3",
+        "older_news": [
+          {
+            "recency": "weekly",
+            "timestamp": "25.11.2026 02:03 Uhr",
+            "headline": "Cervinia öffnet die Ventina-Talabfahrt",
+            "summary": "Dank kräftiger Schneefälle öffnet Breuil-Cervinia die legendäre Ventina-Talabfahrt sowie den Sektor Valtournenche mit den Anlagen Motta, Bec Carré und Du Col für den Skibetrieb.",
+            "source_url": "https://alpinfans.com/viewtopic.php?t=3908&start=150",
+            "image_url": "https://alpinfans.com/download/file.php?id=126708&mode=view"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8641909,
+          47.1671149
+        ]
+      },
+      "properties": {
+        "recency": "breaking",
+        "timestamp": "28.11.2026 02:03 Uhr",
+        "name": "Zillertal 3000",
+        "headline": "Vorbereitungen für den Saisonstart im Sektor Eggalm",
+        "summary": "Im Skigebiet Zillertal 3000 laufen die Vorbereitungen für den Saisonstart am 4. Dezember. Das Verbindungsstück Lattenalm Richtung Vorderlanersbach wird erfahrungsgemäß zuletzt präpariert.",
+        "source_url": "https://www.alpinforum.com/threads/72826/"
       }
     }
   ]
